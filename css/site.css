@@ -466,6 +466,7 @@ code, .path {
 }
 @media (min-width: 56rem) {
   .flow { grid-template-columns: 1fr 1fr 1fr; }
+  .cards.two.cta-cards { grid-template-columns: 1fr 1fr 1fr; }
 }
 
 .flow article p:last-child { margin-bottom: 0; }

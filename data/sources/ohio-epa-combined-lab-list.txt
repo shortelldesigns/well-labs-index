@@ -1,0 +1,376 @@
+                                                              Laboratories Certified/Accepted to Perform
+                                                                  Analyses on Public Drinking Water
+                                                                              Ohio Environmental Protection Agency
+                                                                              Division of Drinking and Ground Waters
+                                                                                     August 2026, rev. 8/13/2026
+
+Cyanotoxin and Cyanobacteria Screening:                       Cyanotoxin Analysis (Total Microcystins by ELISA), Cyanobacteria Screening (Determination of Cyanobacteria and
+                                                              Cyanotoxin Producing Genes by qPCR)
+
+Microbiological:                                              Escherichia coli (E. coli) and Total Coliform: MMO-MUG, Quanti-Tray, Membrane Filtration
+Pesticide - SOC:                                              Aldicarb, Aldicarb Sulfone, Aldicarb Sulfoxide, Carbaryl, Carbofuran, 3-Hydroxycarbofuran, Methomyl, Oxamyl (Vydate),
+                                                              Dalapon, Dicamba, 2,4-D, Dinoseb, Pentachlorophenol, Picloram, 2,4,5-TP (Silvex), Alachlor, Atrazine, Butachlor,
+                                                              Metolachlor, Metribuzin, Propachlor, Simazine, Aldrin, Chlordane (Total), Dieldrin, Endrin, Heptachlor, Heptachlor Epoxide,
+                                                              Hexachlorobenzene, Hexachlorocyclopentadiene, Lindane, Methoxychlor, Toxaphene, Di(2-Ethylhexyl)Phthalate, Di(2-
+                                                              Ethylhexyl) Adipate, Glyphosate, Endothall, Diquat, 2,3,7,8-TCDD (Dioxin), Benzo[a]Pyrene, EDB, DBCP, 1,2,3-TCP, PCBs as
+                                                              Arachlors, PCBs as Decachlorbiphenyl, Perchlorate
+Radiochemistry:                                               Gross Alpha, Gross Beta, Radium-226, Radium-228, Uranium, Tritium, Iodine-131, Radioactive Cesium, Radioactive Iodine,
+                                                              Radioactive Strontium 89 and 90, Gamma Emitters
+Standard Chemistry:                                           Alkalinity, Bromide, Chloride, Chlorine, Chlorite, Chlorine Dioxide, Cyanide, Fluoride, Hardness, Nitrate, Nitrite, Ortho
+                                                              Phosphate, pH, Phosphorous, Stability, Sulfate, TDS, TOC/DOC, Turbidity, UV 254
+Trace Metals:                                                 Primary: Antimony, Arsenic, Barium, Beryllium, Cadmium, Chromium, Copper, Lead, Mercury, Nickel, Selenium, Thallium
+                                                              Secondary: Aluminum, Calcium Iron, Magnesium, Manganese, Silicon, Silver, Sodium, Zinc
+Volatile Organic Compounds:                                   HAAs, Regulated VOCs, TTHM, Vinyl Chloride
+Other:                                                        Asbestos, Cryptosporidium, Per/Polyfluorinated Alkyl Substances Regulated Compounds (PFAS)
+                                               *Please contact individual lab(s) for detailed information about the analyses offered.
+
+                                                                                                    Disclaimer:
+This information is provided for informational purposes only and should not be construed as an endorsement of a particular laboratory. Other laboratories may hold acceptance for these parameters and may
+not appear here for various reasons, such as not offering commercial services or pending applications. If you have questions about the acceptance status of a particular laboratory, please contact the Ohio EPA
+                                                    Laboratory Certification staff either by email at dwlabcert@epa.ohio.gov or by phone at (614) 644-2752.
+                                                   Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water
+                            Laboratory                                    HABs           Microbiological                Chemistry                     Other
+Akron WTP Laboratory                                               qPCR
+1570 Ravenna Road, Akron, OH 44240
+(330) 678-0077
+
+Alliance Technical Group, LLC-Akron (formerly Summit Env. Tech.)                                             Standard Chemistry           PFAS
+3310 Win Street, Cuyahoga Falls, OH 44223                                                                    Trace Metals
+(330) 253-8211                                                                                               Volatile Organic Compounds
+                                                                                                             Pesticide – SOC
+                                                                                                             Radiochemistry
+
+ALS Environmental - Cincinnati                                                                               Trace Metals                 Asbestos
+4388 Glendale-Milford Road, Cincinnati, OH 45242
+(513) 733-5336
+
+ALS Environmental – Holland                                                                                                               PFAS
+3352 128th Avenue, Holland, MI 49424
+(616) 399-6070
+
+ALS Environmental - Kelso                                                                                                                 PFAS
+1317 South 13th Avenue, Kelso, WA 98626
+(800) 695-7222
+
+American Analytical Laboratories, Inc.                                              MMO-MUG                  Standard Chemistry
+840 South Main Street, Akron, OH 44311                                                                       Trace Metals
+(330) 535-1300
+
+Analytical Services, Inc.                                                                                                                 Cryptosporidium
+130 Allen Brook Lane, Williston, VT 05495
+(800) 723-4432
+
+Aqua Pennsylvania, Inc. – Bryn Mawr                                                                          Standard Chemistry           PFAS
+762 W. Lancaster Avenue                                                                                      Trace Metals
+Bryn Mawr, PA 19010                                                                                          Volatile Organic Compounds
+
+Battelle Analytical Chemistry Services                                                                                                    PFAS
+141 Longwater Drive, Suite 202, Norwell, MA 02061
+(781) 681-5535
+
+Benchmark Environmental Labs, Inc.                                                  MMO-MUG
+4319 Indianola Avenue, Columbus, OH 43214
+(614) 267-4588
+
+Biosolutions, LLC                                                                   MMO-MUG                  Standard Chemistry
+10180 Queens Way, Suite 6, Chagrin Falls, OH 44023                                  Quanti-Tray              Trace Metals
+(440) 708-2999
+
+BoJhun Environmental Services                                                       MMO-MUG
+222 S. Main Street, Fostoria, OH 44830                                              Quanti-Tray
+(419) 436-7066
+
+
+                                                                                                                                                              Page 2 of 8
+                                                Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water
+                            Laboratory                                  HABs          Microbiological                Chemistry         Other
+Bryan Water Plant Laboratory                                                     MMO-MUG
+841 East Edgerton Street, Bryan, OH 43506                                        Quanti-Tray
+(419) 633-6160
+
+Canton City Health Department                                                    MMO-MUG
+420 North Market Avenue, Canton, OH 44702                                        Quanti-Tray
+(330) 489-3231
+
+Canton Water Laboratory                                                          MMO-MUG                  Standard Chemistry
+2664 Harrisburg Road NE, Canton, OH 44705
+(330) 489-3035
+
+Cardinal Environmental Lab, LLC                                                  MMO-MUG                  Standard Chemistry
+2870 Salt Springs Road, Youngstown, OH 44509                                     Quanti-Tray              Trace Metals
+(330) 797-8844 or (800) 523-0347                                                                          Volatile Organic Compounds
+
+Celina Water Department Laboratory                              ELISA            MMO-MUG
+714 South Sugar Street, Celina, OH 45822                                         Quanti-Tray
+(419) 586-2270
+
+CETEC Cleveland Environmental Technology, Inc.                                   Quanti-Tray
+19250 Bagley Road, #103, Middleburg Heights, OH 44130
+(216) 856-2898
+
+Cincinnati Miller WTP Laboratory                                                 MMO-MUG
+5651 Kellogg Avenue, Cincinnati, OH 45230                                        Quanti-Tray
+(513) 624-5600
+
+Circleville WTP Laboratory                                                       MMO-MUG                  Limited Chemistry
+663 Island Road, Circleville, OH 43113
+(740) 477-8242 x 1
+
+Cleveland Water Compliance Laboratory                           ELISA            MMO-MUG
+1245 West 45th Street, Cleveland, OH 44102
+(216) 664-3171
+
+Coshocton Environmental Testing, LLC                                             MMO-MUG                  Standard Chemistry
+709 Main Street, Coshocton, OH 43812                                             Quanti-Tray              Trace Metals
+(740) 622-3328 or (800) 870-6570                                                                          Volatile Organic Compounds
+
+Dayton Central Water Quality Laboratory                                          MMO-MUG                  Standard Chemistry
+3210 Chuck Wagner Lane, Dayton, OH 45414                                         Quanti-Tray              Trace Metals
+(937) 333-6093                                                                   Membrane Filtration      Volatile Organic Compounds
+
+Eastern Lab Services, Ltd.                                                       MMO-MUG
+1035 Medina Road, Suite 500, Medina, OH 44254                                    Quanti-Tray
+(330) 670-7920 or (877) 357-5227
+
+
+
+
+                                                                                                                                               Page 3 of 8
+                                                    Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water
+                           Laboratory                                       HABs          Microbiological               Chemistry                      Other
+Eberline Analytical Corporation                                                                               Radiochemistry
+601A Scarboro Road, Oak Ridge, TN 37830
+(865) 481-0683
+
+Edenridge Laboratory, Ltd. (formerly Holmes Laboratory, Inc.)                        MMO-MUG
+3559 U.S. Highway 62, Millersburg, OH 44654                                          Quanti-Tray
+(330) 893-2933
+
+Elyria Water Works Laboratory                                       ELISA
+3628 West Erie Avenue, Lorain, OH 44053
+(440) 244-4310
+
+EMSL Analytical, Inc.                                                                                                                      Cryptosporidium
+200 Route 130 North, Cinnaminson, NJ 08077
+(800) 220-3675
+
+EnviroScience                                                       ELISA
+5070 Stow Road, Stow, OH 44224
+(330) 688-0111
+
+Erie County Health Department Laboratory                            ELISA            MMO-MUG
+420 Superior Street, Sandusky, OH 44870                                              Quanti-Tray
+(419) 626-5623
+
+Eurofins Built Environment Testing East – Cary NC                                                                                          Asbestos
+(formerly Eurofins CEI)
+730 SE Maynard Road, Cary, NC 27511
+(919) 481-1413
+
+Eurofins Built Environment Testing East - NJ                                                                                               Asbestos
+(formerly International Asbestos Testing Lab)
+1006 Astoria Blvd., Cherry Hill, NJ 08003
+(856) 231-9449
+
+Eurofins Cleveland                                                                   MMO-MUG                  Standard Chemistry
+180 S. Van Buren Street, Barberton, OH 44203                                         Quanti-Tray              Trace Metals
+(330) 497-9396
+
+Eurofins DW and WW Central - Lima (formerly Alloway Lima)                            MMO-MUG
+1101 North Cole Street, Lima, OH 45805                                               Quanti-Tray
+(419) 223-1362 or (800) 436-1243
+
+Eurofins DW and WW Central - Marion (formerly Alloway Marion)       ELISA            MMO-MUG                  Standard Chemistry
+1776 Marion-Waldo Road, Marion, OH 43302                            qPCR             Quanti-Tray              Trace Metals
+(740) 389-5991 or (800) 873-2835                                                                              Volatile Organic Compounds
+                                                                                                              Pesticide - SOC
+
+
+
+
+                                                                                                                                                               Page 4 of 8
+                                                 Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water
+                            Laboratory                                HABs             Microbiological               Chemistry                      Other
+Eurofins Environment Testing North Central (formerly Metiri                       MMO-MUG                  Standard Chemistry
+Analytical Group, Inc.)                                                                                    Trace Metals
+4450 Johnston Parkway, Suite B, Cleveland, OH 44128                                                        Volatile Organic Compounds
+(216) 663-0808
+
+Eurofins Lancaster                                                                                         2,3,7,8-TCDD (Dioxin)        PFAS
+2425 New Holland Pike, Lancaster, PA 17601
+(717) 656-2300
+
+Eurofins Pomona                                                                                                                         PFAS
+941 Corporate Center Drive, Pomona, CA 91768
+(626) 386-1100
+
+Eurofins Sacramento                                                                                                                     PFAS
+880 Riverside Parkway, Sacramento, CA 95605
+(916) 374-4308
+
+Eurofins South Bend                                                               Quanti-Tray              Radiochemistry               Cryptosporidium
+110 South Hill Street, South Bend, IN 46617                                                                                             PFAS
+(800) 332-4345 or (574) 472-5523
+
+Geauga County Department of Water Resources                                       MMO-MUG                  Standard Chemistry
+470 Center Street, Building 3, Chardon, OH 44024                                  Quanti-Tray
+(440) 285-2603
+
+Greene County Sanitary Engineering Laboratory                                     MMO-MUG                  Standard Chemistry
+422 Factory Road, Beavercreek, OH 45434-6214                                      Quanti-Tray
+(937) 562-7450
+
+Jackson County Water Company Laboratory                                           MMO-MUG
+124 West Huron Street, Jackson, OH 45640
+(740) 288-4815
+
+Jones & Henry Laboratories                                                                                 Standard Chemistry
+2567 Tracy Road, Northwood, OH 43619                                                                       Trace Metals
+(419) 666-0411                                                                                             Volatile Organic Compounds
+
+Kleinfelder Water Technologies Laboratory                                         MMO-MUG
+(formerly Industrial Fluid Management, Inc.)
+2926 U.S. Highway 6, McClure, OH 43534
+(419) 748-7438
+
+Leetonia WTP Laboratory                                                           MMO-MUG
+1 Saint Peter’s Street, Leetonia, OH 44431                                        Quanti-Tray
+(330) 427-8087
+
+Logan County Health District Laboratory                                           MMO-MUG
+310 South Main Street, Bellefontaine, OH 43311                                    Quanti-Tray
+(937) 592-9040
+
+
+                                                                                                                                                            Page 5 of 8
+                                                  Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water
+                            Laboratory                                    HABs          Microbiological               Chemistry                 Other
+Mahoning County Board of Health                                                    MMO-MUG
+50 Westchester Drive, Youngstown, OH 44515                                         Quanti-Tray
+(330) 270-2855
+
+Maine Laboratories LLC (dba PFAS Laboratories)                                                                                           PFAS
+25 Main Street, Norridgewock, ME 04957
+(207) 518-8030
+
+MASI Laboratory                                                   ELISA            MMO-MUG                  Standard Chemistry
+8235 Estates Parkway, Plain City, OH 43064                        qPCR             Quanti-Tray              Trace Metals
+(614) 873-4654                                                                     Membrane Filtration      Volatile Organic Compounds
+                                                                                                            Pesticide - SOC
+
+Metiri – Holt                                                                                                                            PFAS
+1914 Holloway Drive, Holt, MI 48842
+(517) 699-0345
+
+Microbac Laboratories, Inc. – Marietta Division                                                             Standard Chemistry           PFAS
+158 Starlight Drive, Marietta, OH 45750                                                                     Trace Metals
+(740) 373-4071
+
+NEORSD Analytical Services                                        ELISA            MMO-MUG                  Standard Chemistry
+4747 East 49th Street, Cuyahoga Heights, OH 44125                                  Quanti-Tray              Trace Metals
+(216) 641-6000
+
+Ohio Department of Agriculture Consumer Protection Laboratory                      MMO-MUG
+8995 East Main Street, Reynoldsburg, OH 43068
+(614) 728-6230
+
+Onterris Laboratories LLC - El Dorado Hills (formerly Enthalpy)                                                                          PFAS
+1104 Windfield Way, El Dorado Hills, CA 95762
+(916) 673-1520
+
+Onterris Laboratories LLC – Wilmington (formerly Enthalpy)                                                                               PFAS
+2714 Exchange Drive, Wilmington, NC 28405
+(910) 212-5856
+
+Pace Analytical Services, LLC - Dayton                                             MMO-MUG                  Standard Chemistry
+25 Holiday Drive, Englewood, OH 45322
+(800) 723-5227
+
+Pace Analytical Services, LLC – East Longmeadow                                                                                          PFAS
+39 Spruce Street, East Longmeadow, MA 01028
+(413) 525-2332
+
+Pace Analytical Services, LLC – Greensburg                                                                  Radiochemistry
+1638 Roseytown Road, Suites 2,3 and 4, Greensburg, PA 15601
+(724) 850-5600
+
+
+
+                                                                                                                                                        Page 6 of 8
+                                                    Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water
+                             Laboratory                                  HABs             Microbiological                 Chemistry                    Other
+Pace Analytical Services, LLC - Madisonville                                                                                               Cryptosporidium
+825 Industrial Road, Madisonville, KY 42431
+(270) 821-7375
+
+Pace Analytical Services, LLC – Mansfield (formerly Alpha Analytical)                                                                      PFAS
+320 Forbes Boulevard, Mansfield, MA 02048
+(508) 898-9220
+
+Pace Analytical Services, LLC – Minneapolis                                                                   2,3,7,8-TCDD (Dioxin)
+1700 Elm Street SE, Suite 200, Minneapolis, MN 55414
+(612) 607-6352
+
+Pace Analytical Services, LLC – Ormond Beach                                                                                               PFAS
+8 East Tower Circle, Ormond Beach, FL 32174
+(386) 672-5668
+
+Portage County Water Resources                                                       MMO-MUG                  Standard Chemistry
+8116 Infirmary Road, Ravenna, OH 44266                                               Quanti-Tray
+(330) 297-3685
+
+Q Laboratories                                                                       MMO-MUG                  Nitrate, Nitrite
+1911 Radcliff Drive, Cincinnati, OH 45204
+(513) 471-1300
+
+Ream & Haager Laboratories, Inc.                                                     MMO-MUG                  Standard Chemistry
+179 West Broadway Street, Dover, OH 44622                                            Quanti-Tray              Trace Metals
+(330) 343-3711                                                                                                Volatile Organic Compounds
+
+SafeSource Water Analytics LLC                                                       MMO-MUG                  Nitrate
+31 S. Kennebec Avenue, McConnelsville, OH 43756
+(740) 292-2002
+
+Sebring Water Department Laboratory                                                  MMO-MUG                  Standard Chemistry
+1191 Knox School Road, Beloit, OH 44609
+(330) 821-7020 or (330) 938-9340
+
+SGS North America Inc. - Orlando                                                                                                           PFAS
+4405 Vineland Road, Suite C-15, Orlando, FL 32811
+(407) 425-6700
+
+SGS North America Inc. – Wilmington                                                                                                        PFAS
+5500 Business Drive, Wilmington, NC 28405
+(910) 350-1903
+
+Superior Laboratories                                                                MMO-MUG
+1075 Amity Road, Galloway, OH 43119                                                  Quanti-Tray
+(614) 870-6826
+
+
+
+
+                                                                                                                                                               Page 7 of 8
+                                                Laboratories Certified/Accepted to Perform Analyses on Public Drinking Water
+                           Laboratory                                   HABs          Microbiological              Chemistry   Other
+The Ohio State University Stone Laboratory                      ELISA
+878 Bayview Drive, Put-in-Bay, OH 43456
+(419) 285-1845
+
+Troy Water Plant Laboratory                                                      MMO-MUG
+300 E Staunton Rd., Troy, OH 45373
+(937) 339-4826
+
+Twin City Water Plant Laboratory                                                 MMO-MUG
+4194 Indian Hill Road, Uhrichsville, OH 44683
+(740) 922-2082
+
+Willard Water Plant Laboratory                                  ELISA
+540 Central Ave., Willard, OH 44890
+(419) 933-4001
+
+
+
+
+                                                                                                                                       Page 8 of 8
+
