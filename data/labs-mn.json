@@ -1,0 +1,933 @@
+{
+  "state": "Minnesota",
+  "state_code": "MN",
+  "last_updated": "2026-08-29",
+  "source": {
+    "title": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+    "url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+    "document_date": "July 2026",
+    "retrieved": "2026-08-29",
+    "notes": [
+      "The PDF is MDH's compiled list of accredited laboratories that accept samples from private well owners and are certified to test for arsenic, coliform bacteria, lead, manganese, and/or nitrate.",
+      "An asterisk on a test means the sample is subcontracted to a laboratory accredited for that analyte.",
+      "MDH: laboratories held valid accreditation at the time the map was created. This is not an endorsement. Other labs may hold accreditation.",
+      "MDH contact: MNELAP 651-201-5324 or health.mnelap@state.mn.us. Well Policy Center 651-201-5594 or health.privatewells@state.mn.us.",
+      "Search for additional analytes: https://www.health.state.mn.us/labsearch"
+    ]
+  },
+  "lab_count": 24,
+  "labs": [
+    {
+      "id": "mn-01",
+      "name": "Fillmore SWCD Water Quality Laboratory",
+      "city": "Preston",
+      "county": "Fillmore",
+      "state": "MN",
+      "address": "900 Washington Street NW, Preston, MN 55965",
+      "phone": "507-765-3878",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": false,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-02",
+      "name": "Southeastern Minnesota Water Analysis Laboratory",
+      "city": "Rochester",
+      "county": "Olmsted",
+      "state": "MN",
+      "address": "2100 Campus Drive SE, Suite 100, Rochester, MN 55904",
+      "phone": "507-328-7495",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": true
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-03",
+      "name": "UC Laboratory",
+      "city": "Janesville",
+      "county": "Waseca",
+      "state": "MN",
+      "address": "129 North Main Street, Janesville, MN 56048",
+      "phone": "507-234-5835",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-04",
+      "name": "Worthington Public Utilities Laboratory",
+      "city": "Worthington",
+      "county": "Nobles",
+      "state": "MN",
+      "address": "1950 27th Street N, Worthington, MN 56187",
+      "phone": "507-372-8660",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": false,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-05",
+      "name": "Southwest Health and Human Services",
+      "city": "Marshall",
+      "county": "Lyon",
+      "state": "MN",
+      "address": "607 West Main Street, Suite 200, Marshall, MN 56258",
+      "phone": "507-537-6713",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": false,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-06",
+      "name": "Minnesota Valley Testing Laboratories, Inc.",
+      "city": "New Ulm",
+      "county": "Brown",
+      "state": "MN",
+      "address": "1126 North Front Street, New Ulm, MN 56073",
+      "phone": "507-354-8517",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-07",
+      "name": "Red Wing City Laboratory",
+      "city": "Red Wing",
+      "county": "Goodhue",
+      "state": "MN",
+      "address": "1020 East Fifth Street, Red Wing, MN 55066",
+      "phone": "651-385-5143",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": false,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-08",
+      "name": "RMB Environmental Laboratories, Inc. - Burnsville",
+      "city": "Burnsville",
+      "county": "Hennepin",
+      "state": "MN",
+      "address": "501 Highway 13 E, Suite 104, Burnsville, MN 55337",
+      "phone": "952-456-8470",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": true
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-09",
+      "name": "Tri-City/William Lloyd Analytical Lab",
+      "city": "Bloomington",
+      "county": "Hennepin",
+      "state": "MN",
+      "address": "9300 Poplar Bridge Road, Bloomington, MN 55437",
+      "phone": "952-563-4904",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-10",
+      "name": "Twin City Water Clinic, Inc.",
+      "city": "Hopkins",
+      "county": "Hennepin",
+      "state": "MN",
+      "address": "617 13th Avenue S, Hopkins, MN 55343",
+      "phone": "952-935-3556",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": true
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-11",
+      "name": "Engel Water Testing, Inc.",
+      "city": "Minnetrista",
+      "county": "Hennepin",
+      "state": "MN",
+      "address": "9300 County Road 15, Minnetrista, MN 55359",
+      "phone": "952-955-1800",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "manganese": {
+          "accredited": false,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-12",
+      "name": "Pace Analytical Services, LLC - Minneapolis",
+      "city": "Minneapolis",
+      "county": "Hennepin",
+      "state": "MN",
+      "address": "1700 Elm Street SE, Suite 200, Minneapolis, MN 55414",
+      "phone": "612-607-1700",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-13",
+      "name": "EMSL Analytical, Inc.",
+      "city": "New Hope",
+      "county": "Hennepin",
+      "state": "MN",
+      "address": "3410 Winnetka Avenue N, New Hope, MN 55427",
+      "phone": "763-449-4922",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-14",
+      "name": "Instrumental Research, Inc.",
+      "city": "Fridley",
+      "county": "Anoka",
+      "state": "MN",
+      "address": "7800 Main Street NE, Fridley, MN 55432",
+      "phone": "763-571-3698",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "manganese": {
+          "accredited": false,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-15",
+      "name": "Water Laboratories, Inc.",
+      "city": "Elk River",
+      "county": "Sherburne",
+      "state": "MN",
+      "address": "333 Main Street NW, Elk River, MN 55330",
+      "phone": "763-441-7509",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": false,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-16",
+      "name": "Traut Water Analysis Lab",
+      "city": "St. Joseph",
+      "county": "Stearns",
+      "state": "MN",
+      "address": "32640 County Road 133, St. Joseph, MN 56374",
+      "phone": "320-251-5090",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "manganese": {
+          "accredited": false,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-17",
+      "name": "Steven M. Traut Wells, Inc.",
+      "city": "Alexandria",
+      "county": "Douglas",
+      "state": "MN",
+      "address": "754 Cross Country Lane SW, Alexandria, MN 56308",
+      "phone": "320-762-1528",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "manganese": {
+          "accredited": false,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-18",
+      "name": "A.W. Research Laboratories, Inc.",
+      "city": "Brainerd",
+      "county": "Crow Wing",
+      "state": "MN",
+      "address": "314 Charles Street, Brainerd, MN 56401",
+      "phone": "218-829-7974",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-19",
+      "name": "RMB Environmental Laboratories, Inc. – Detroit Lakes",
+      "city": "Detroit Lakes",
+      "county": "Becker",
+      "state": "MN",
+      "address": "22796 County Highway 6, Detroit Lakes, MN 56501",
+      "phone": "218-846-1465",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-20",
+      "name": "Pace Analytical Services, LLC - Duluth",
+      "city": "Duluth",
+      "county": "St. Louis",
+      "state": "MN",
+      "address": "4730 Oneota Street, Duluth, MN 55807",
+      "phone": "218-727-6380",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": true
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-21",
+      "name": "RMB Environmental Laboratories, Inc. - Virginia",
+      "city": "Virginia",
+      "county": "St. Louis",
+      "state": "MN",
+      "address": "110 ½ South 15th Avenue W, Virginia, MN 55792",
+      "phone": "218-440-2043",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": true
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-22",
+      "name": "Pace Analytical Services, LLC - Virginia",
+      "city": "Virginia",
+      "county": "St. Louis",
+      "state": "MN",
+      "address": "315 Chestnut Street, Virginia, MN 55792",
+      "phone": "218-727-6380",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "manganese": {
+          "accredited": true,
+          "subcontracted": true
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-23",
+      "name": "AC Analytical & Consulting, LLC",
+      "city": "Puposky",
+      "county": "Beltrami",
+      "state": "MN",
+      "address": "21518 Basset Drive NW, Puposky, MN 56667",
+      "phone": "218-243-3328",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "lead": {
+          "accredited": true,
+          "subcontracted": true
+        },
+        "manganese": {
+          "accredited": false,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    },
+    {
+      "id": "mn-24",
+      "name": "Koochiching Health Department Water Testing",
+      "city": "International Falls",
+      "county": "Koochiching",
+      "state": "MN",
+      "address": "1000 Fifth Street, International Falls, MN 56649",
+      "phone": "218-283-7070",
+      "accepts_private_well_samples": true,
+      "sample_dropoff_or_mail": "unknown",
+      "sample_dropoff_notes": "MDH notes that a star icon on the official map marks labs that offer a courier network or other drop-off locations. That icon did not extract from the PDF text layer. Contact the lab.",
+      "tests": {
+        "total_coliform_bacteria": {
+          "accredited": true,
+          "subcontracted": false
+        },
+        "nitrate_as_n": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "arsenic": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "lead": {
+          "accredited": false,
+          "subcontracted": false
+        },
+        "manganese": {
+          "accredited": false,
+          "subcontracted": false
+        }
+      },
+      "source_url": "https://www.health.state.mn.us/communities/environment/water/docs/wells/waterquality/labmap.pdf",
+      "source_document": "Accredited Labs in Minnesota Accepting Drinking Water Samples from Private Well Users, Minnesota Department of Health, July 2026",
+      "source_retrieved": "2026-08-29",
+      "source_document_date": "2026-07"
+    }
+  ]
+}
