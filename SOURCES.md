@@ -50,3 +50,31 @@ Retrieve date: **29 August 2026** (US/Pacific; fetch ran 30 August 2026 UTC).
 - Third-party directories (TapWaterData and similar).
 - Truncated search-engine snippets of old PA lab PDFs (incomplete phones/addresses).
 - Filter-review or affiliate sites.
+
+## Wisconsin (1 September 2026)
+
+Retrieve date: **1 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| WI DNR certified lab lists | https://dnr.wisconsin.gov/topic/labCert/certified-lab-lists | Retrieved 1 September 2026 | Lists “Accredited Laboratories - January 2026” / drinking water certified labs — chemistry (NR 809 and NR 812); also “Drinking Water Laboratories for Homeowners”. |
+| WI DNR DW chemistry Excel | https://dnr.wisconsin.gov/sites/default/files/topic/LabCert/DWLabs012126.xlsx | January 2026 (filename DWLabs012126.xlsx → 21 Jan 2026) | Archived at `data/sources/wi-dw-labs-jan-2026.xlsx`. Columns: FID, Lab Name, Lab Type, Parameter, State, County, City, Phone. WI-only rows kept; out-of-state (often PFAS) omitted. Municipal / PWS / industrial Lab Types omitted. |
+| DATCP/DNR BactiLab portal | https://apps.dnr.wi.gov/dwsportalpub/BactiLab | Live table retrieved 1 September 2026 | curl archive: `data/sources/wi-bactilab-2026-09-01.html`. DATCP-certified coliform (enzyme substrate). Municipal utilities / WWTP / sanitary districts omitted from directory. |
+| WI DNR private well testing | https://dnr.wisconsin.gov/topic/Wells/privateWellTest.html | Retrieved 1 September 2026 | Annual bacteria + nitrate; arsenic every 5 years (yearly Outagamie, Winnebago, Brown). |
+| WSLH public health tests for citizens | https://www.slh.wisc.edu/environmental/water/public-health-tests-available-to-wisconsin-citizens/ | Retrieved / verified 1 September 2026 | Homeowner Package / public health tests for Wisconsin citizens. Used to verify private-well acceptance only. |
+| WSLH kit ordering / prices page | https://www.slh.wisc.edu/environmental/water/public-environmental-and-water-testing-prices/ | Retrieved / verified 1 September 2026 | Kit phones (800) 442-4618 / (608) 224-6202; address 2601 Agriculture Drive; drop-off Mon–Fri 7:45 AM–4:30 PM. **Prices not copied to the site.** |
+| WEAL / UWSP well water testing | https://www.uwsp.edu/center-for-watershed-science-and-education/well-water-testing/ | Retrieved / verified 1 September 2026 | Serves private well owners; kits via county Extension; weal@uwsp.edu; (715) 346-3209. |
+
+### Failed or incomplete (Wisconsin)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| (none blocking) | — | Excel and BactiLab HTML both retrieved successfully for this build | — |
+
+### Not used as WI lab sources
+
+- Third-party directories.
+- Invented phone numbers or private-well acceptance claims beyond WSLH and WEAL public pages.
+

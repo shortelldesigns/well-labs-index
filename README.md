@@ -45,7 +45,7 @@ Optional later: a small script can turn `data/labs-xx.json` into the HTML table.
 
 ```
 index.html                 homepage
-states.html                MN + PA + OH live; others coming soon
+states.html                MN + PA + OH + WI live; others coming soon
 test-private-well.html     CDC / EPA annual panel
 iron-stains.html           what to test before buying treatment
 rotten-egg.html            MDH hydrogen sulfide (anode vs well vs aquifer)
@@ -53,10 +53,12 @@ about.html                 methodology + commission disclosure
 labs/minnesota.html
 labs/pennsylvania.html
 labs/ohio.html
+labs/wisconsin.html
 css/site.css
 data/labs-mn.json
 data/labs-pa.json
 data/labs-oh.json
+data/labs-wi.json
 data/sources/              archived official files
 SOURCES.md
 RESULT.md
