@@ -1,0 +1,579 @@
+                            Public Water System Lab Map Table
+                                                             Updated 03/26/2026
+
+
+
+Instructions
+   •   Map ID number matches to the number icon on the TX Drinking Water Labs map, found:
+       https://www.tceq.texas.gov/drinkingwater/pwss.html
+   •   Always call labs to find and confirm sample drop off hours and prices.
+
+
+
+Weekend Acceptability for Microbial Laboratories
+Information on weekend acceptability is only for microbial labs. Always call labs to confirm acceptability and extra fees.
+Legend:
+       Y - Yes, accepts all microbial samples
+       E - Emergency Only, accepts emergency only microbial samples (BWN lift Specials or Repeats following E. coli positive Routine samples)
+       N - No, do not accept microbial samples
+       N/A – Laboratory does not analyze microbial samples
+
+
+
+Lab Table
+                                                                                                                         Accepts                  Accepts
+                                                                                                                                      Accepts
+                                                                                                                          Micro                    Micro
+ Map                                                                                                                                   Micro
+            Lab Name      Phone Number   Micro   LCR   WQP     County           Address        City      State    Zip    Samples                 Samples
+  ID                                                                                                                                Samples on
+                                                                                                                            on                      on
+                                                                                                                                    Saturdays?
+                                                                                                                         Fridays?                Sundays?
+       A&B                                                                  10100 East
+                           (713) 453-
+  1    Environmental                      Y      Y      Y      Harris       Freeway, Suite   Houston      TX     77029       Y          Y           Y
+                              6060
+       Services, Inc.                                                       100
+       Abilene–Taylor
+                           (325) 692-                                       850 North 6th
+  2    County Public                      Y      N     N       Taylor                        Abilene      TX     79601       Y          N           N
+                              5600                                          Street
+       Health District
+                                                                        Page 1 of 11
+                                                                                                                            Accepts                  Accepts
+                                                                                                                                         Accepts
+                                                                                                                             Micro                    Micro
+Map                                                                                                                                       Micro
+          Lab Name         Phone Number   Micro   LCR   WQP    County           Address           City      State    Zip    Samples                 Samples
+ ID                                                                                                                                    Samples on
+                                                                                                                               on                      on
+                                                                                                                                       Saturdays?
+                                                                                                                            Fridays?                Sundays?
+
+      Alamo Analytical      (210) 340-                                      10526 Gulfdale
+ 3                                         N      Y      Y     Bexar                          San Antonio    TX     78216
+      Laboratories, Ltd.       8121                                         Street
+      ALS Laboratory
+      Group,
+                            (281) 530-                                      10450 Stancliff
+ 4    Environmental                        N      Y     N      Harris                          Houston       TX     77099
+                               5656                                         Road, Suite 210
+      Services Division
+      – Houston, Texas
+      Analytical                                                            8310 South
+                            (903) 509-
+ 5    Environmental                        Y      N     N      Smith        Broadway             Tyler       TX     75703      Y           Y           Y
+                               8700
+      Labs                                                                  Avenue
+      Angelina and
+                            (936) 633-                                      2901 N John
+ 6    Neches River                         Y      N     N     Angelina                          Lufkin       TX     75904      Y           E           E
+                               7550                                         Redditt Drive
+      Authority
+      Aqua Water
+                            (512) 581-                                      293 Industrial
+ 7    Supply                               Y      Y      Y     Bastrop                         Bastrop       TX     78602      E           E           E
+                               0705                                         Boulevard
+      Corporation
+                                                                            3512
+      Aqua-Tech             (512) 301-
+ 8                                         Y      Y      Y     Travis       Montopolis          Austin       TX     78744      Y           Y           Y
+      Laboratories, Inc.       9559
+                                                                            Drive
+                                                                            635 Phil
+      Aqua-Tech             (979) 778-
+ 9                                         Y      Y      Y     Brazos       Gramm               Bryan        TX     77807      Y           Y           Y
+      Laboratories, Inc.       3707
+                                                                            Boulevard
+      Bio-Chem Lab,         (254) 829-                                      4751 Tokio
+10                                         Y      Y      Y    McLennan                           West        TX     76691      Y           Y           Y
+      Inc.                     8001                                         Road
+      Brazoria County
+      Health                                                                434 East
+                            (979) 864-
+11    Department                           Y      N     N     Brazoria      Mulberry           Angleton      TX     77515      Y           N           N
+                               1628
+      Water                                                                 Street
+      Laboratory
+                                                                            861 State
+      Chaparral             (936) 291-
+12                                         Y      Y      Y     Walker       Highway 19        Huntsville     TX     77320      Y           Y           Y
+      Laboratories, Inc.       1881
+                                                                            South
+
+                                                                        Page 2 of 11
+                                                                                                                          Accepts                  Accepts
+                                                                                                                                       Accepts
+                                                                                                                           Micro                    Micro
+Map                                                                                                                                     Micro
+          Lab Name        Phone Number   Micro   LCR   WQP     County           Address         City      State    Zip    Samples                 Samples
+ ID                                                                                                                                  Samples on
+                                                                                                                             on                      on
+                                                                                                                                     Saturdays?
+                                                                                                                          Fridays?                Sundays?
+      City of Abilene,
+                           (325) 676-                                       4209 East Lake
+13    Environmental                       Y      Y      Y      Taylor                         Abilene      TX     79601      Y           N           N
+                              6041                                          Road
+      Lab
+      City of Amarillo
+                           (806) 342-                                       4001 South
+14    Environmental                       Y      N     N      Randall                         Amarillo     TX     79118      E           E           E
+                              1549                                          Osage Street
+      Lab
+      City of Arlington
+                                                                            1901
+      Water Utility        (817) 575-
+15                                        Y      Y      Y     Tarrant       Lakewood         Arlington     TX     76013      E           E           E
+      Laboratory              8966
+                                                                            Drive
+      Services
+      City of Borger       (806) 273-                                       1800 South
+16                                        Y      N     N     Hutchinson                       Borger       TX     79007      Y           Y           Y
+      Water Plant Lab         0966                                          Florida Street
+      City of Corpus
+      Christi Water        (361) 826-                                       13101 Leopard     Corpus
+17                                        Y      N      Y     Nueces                                       TX     78410      Y           Y           Y
+      Utilities               1200                                          Street            Christi
+      Laboratory
+      City of Denison      (903) 464-                                       4631 Randell
+18                                        Y      N     N      Grayson                         Denison      TX     75020      E           E           N
+      Laboratory              4482                                          Lake Road
+      City of Denton
+                           (940) 349-                                       1100 South
+19    Municipal                           Y      N     N      Denton                          Denton       TX     76208      E           E           E
+                              8607                                          Mayhill Road
+      Laboratory
+      City of El Paso
+                           (915) 212-                                       9566 Railroad
+20    Department of                       Y      N     N      El Paso                         El Paso      TX     79924      N           N           N
+                              2765                                          Dr.
+      Public Health
+      City of Fort
+      Worth Water
+      Department           (817) 392-                                       2600 SE Loop
+21                                        Y      Y      Y     Tarrant                        Fort Worth    TX     76140      E           E           E
+      Centralized             5900                                          820
+      Water &
+      Wastewater Lab
+
+
+
+                                                                        Page 3 of 11
+                                                                                                                         Accepts                  Accepts
+                                                                                                                                      Accepts
+                                                                                                                          Micro                    Micro
+Map                                                                                                                                    Micro
+           Lab Name        Phone Number   Micro   LCR   WQP    County           Address        City      State    Zip    Samples                 Samples
+ ID                                                                                                                                 Samples on
+                                                                                                                            on                      on
+                                                                                                                                    Saturdays?
+                                                                                                                         Fridays?                Sundays?
+      City of Garland                                                       2500 E.
+                            (972) 205-
+22    Water Utilities                      Y      N     N      Dallas       Centerville     Garland       TX     75040      Y           Y           Y
+                               4012
+      Lab                                                                   Road
+      City of Houston
+      Health
+      Department,           (832) 393-                                      2250 Holcomb
+23                                         Y      N     N      Harris                       Houston       TX     77030      Y           N           N
+      Bureau of                3939                                         Boulevard
+      Laboratory
+      Services
+                                                                            1000
+      City of Kerrville     (830) 257-
+24                                         Y      N     N      Kerr         Thompson        Kerrville     TX     78028      N           N           N
+      Laboratory               4230
+                                                                            Drive
+      City of Laredo
+                            (956) 795-                                      2600 Cedar
+25    Health                               Y      N     N      Webb                          Laredo       TX     78040      E           E           E
+                               4908                                         Avenue
+      Department Lab
+      City of Lewisville
+      Environmental         (972) 219-                                      897 Treatment
+26                                         Y      N     N     Denton                        Lewisville    TX     75057      E           E           E
+      Control Services         3548                                         Plant Road
+      Laboratory
+      City of Lubbock
+                            (806) 775-                                      6001 North
+27    Water Treatment                      Y      N     N     Lubbock                       Lubbock       TX     79403      E           E           E
+                               2614                                         Guava Avenue
+      Plant Laboratory
+      City of McAllen
+                            956- 681-                                       2501 West
+28    Central                              Y      N     N     Hidalgo                       McAllen       Tx     78503      E           E           E
+                              1720                                          Expressway 83
+      Laboratory
+      City of Midland
+                            (432) 681-                                      305 N
+29    Utilities                            Y      N     N     Midland                       Midland       TX     79703      E           E           E
+                               7618                                         Edgewood Dr.
+      Laboratory
+      City of Odessa
+                            (432) 368-                                      817 West 42nd
+30    Laboratory                           Y      N     N      Ector                         Odessa       TX     79764      N           N           N
+                               3536                                         Street
+      Services
+
+
+                                                                        Page 4 of 11
+                                                                                                                           Accepts                  Accepts
+                                                                                                                                        Accepts
+                                                                                                                            Micro                    Micro
+Map                                                                                                                                      Micro
+          Lab Name        Phone Number   Micro   LCR   WQP     County           Address          City      State    Zip    Samples                 Samples
+ ID                                                                                                                                   Samples on
+                                                                                                                              on                      on
+                                                                                                                                      Saturdays?
+                                                                                                                           Fridays?                Sundays?
+      City of Round
+      Rock
+                           (512) 218-                                       5200 North IH
+31    Environmental                       Y      N     N     Williamson                      Round Rock     TX     78681      Y           E           E
+                              5559                                          35
+      Sciences
+      Laboratory
+      City of Sherman
+                           (903) 892-                                       288 Post Oak
+32    Utilities                           Y      N     N      Grayson                         Sherman       TX     75090      E           N           N
+                              7287                                          Road
+      Laboratory
+      City of Texarkana
+                           (903) 798-                                       2700 New
+33    Water Utilities                     Y      N     N       Bowie                          Texarkana     TX     75501      E           N           N
+                              3850                                          Boston Road
+      Lab
+      City of Waco
+                                                                            5701
+      Regional Water       (254) 750-
+34                                        Y      N      Y    McLennan       Lakeshore           Waco        TX     76710      Y           N           N
+      Quality                 1664
+                                                                            Drive
+      Laboratory
+      Corpus Christi -
+      Nueces County
+                           (361) 826-                                       1702 Horne         Corpus
+35    Public Health                       Y      N     N      Nueces                                        TX     78416      E           E           E
+                              7213                                          Road               Christi
+      District
+      Laboratory
+      Eastex
+      Environmental        (936) 653-
+36                                        Y      Y      Y    San Jacinto    35 Eastex Lane    Coldspring    TX     77331      Y           Y           Y
+      Lab, Inc. -             3249
+      Coldspring
+      Eastex
+                                                                            1119 South
+      Environmental        (936) 569-                        Nacogdoch
+37                                        Y      N      Y                   University       Nacogdoches    TX     75961      E           E           E
+      Lab, Inc.-              8879                               es
+                                                                            Drive
+      Nacogdoches
+      Edwards Aquifer
+      Research & Data      (512) 245-                                       220 East
+38                                        Y      N      Y       Hays                         San Marcos     TX     78666      N           N           N
+      Center, Texas           2329                                          Sessoms Drive
+      State University
+
+                                                                        Page 5 of 11
+                                                                                                                           Accepts                  Accepts
+                                                                                                                                        Accepts
+                                                                                                                            Micro                    Micro
+Map                                                                                                                                      Micro
+          Lab Name         Phone Number   Micro   LCR   WQP     County           Address         City      State    Zip    Samples                 Samples
+ ID                                                                                                                                   Samples on
+                                                                                                                              on                      on
+                                                                                                                                      Saturdays?
+                                                                                                                           Fridays?                Sundays?
+                                                                             11011 Brooklet
+      Envirodyne            (281) 568-
+39                                         Y      Y      Y      Harris       Drive, Suite      Houston      TX     77099      Y           Y           Y
+      Laboratories, Inc.       7880
+                                                                             230
+      Environmental         (806) 335-                                       13260 South
+40                                         Y      N     N      Randall                         Amarillo     TX     79118      Y           Y           Y
+      Monitoring Lab           9393                                          Highway 287
+      Environmental         (254) 582-                                       6145 South
+41                                         Y      N     N        Hill                          Hillsboro    TX     76645      Y           Y           Y
+      Monitoring Lab           2622                                          Highway 171
+      Environmental         (325) 247-                                       811 East Young
+42                                         Y      N     N       Llano                           Llano       TX     78643      Y           Y           Y
+      Monitoring Lab           3295                                          Street
+      Environmental         (903) 877-                                       14295 SH 155
+43                                         Y      N     N       Smith                          Winona       TX     75792      Y           Y           Y
+      Monitoring Lab           9222                                          North
+                                                                             10900
+      Eurofins EMLab        (281) 940-                                       Brittmoore
+44                                         Y      N     N       Harris                         Houston      TX     77041      Y           Y           Y
+      P&K – Houston            2580                                          Park Drive,
+                                                                             Suite G
+                                                                             9701 Harry
+      Eurofins Xenco,       (281) 240-
+45                                         Y      N     N       Dallas       Hines              Dallas      TX     75220      N           N           N
+      LLC -Dallas              4200
+                                                                             Boulevard
+                                                                             200 East
+      Eurofins Xenco,       (915) 794-
+46                                         Y      N     N      El Paso       Sunset Road,      El Paso      TX     79922      E           E           E
+      LLC -El Paso             1296
+                                                                             Suite E
+      Eurofins Xenco,       (281) 240-                                       4143
+47                                         N      Y      Y    Fort Bend                        Stafford     TX     77477
+      LLC -Houston             4200                                          Greenbriar
+      Eurofins Xenco,       (806) 794-                                       6701 Aberdeen
+48                                         Y      N     N      Lubbock                         Lubbock      TX     79424      E           E           E
+      LLC -Lubbock             1296                                          Avenue, Suite 9
+      Guadalupe -
+      Blanco River
+                            (830) 379-                                       933 East Court
+49    Authority                            Y      N      Y    Guadalupe                         Seguin      TX     78155      E           E           E
+                               5822                                          Street
+      Regional
+      Laboratory
+
+
+                                                                         Page 6 of 11
+                                                                                                                         Accepts                  Accepts
+                                                                                                                                      Accepts
+                                                                                                                          Micro                    Micro
+Map                                                                                                                                    Micro
+           Lab Name        Phone Number   Micro   LCR   WQP    County            Address        City     State    Zip    Samples                 Samples
+ ID                                                                                                                                 Samples on
+                                                                                                                            on                      on
+                                                                                                                                    Saturdays?
+                                                                                                                         Fridays?                Sundays?
+
+      Integrity Testing,    (512) 891-                                       8127 Mesa
+50                                         N      Y      Y     Travis                         Austin      Tx     78759      Y           N           N
+      Inc.                     7777                                          Dr., #C-305
+      International
+                            (915) 594-                                       4100-L Delta
+51    Water Quality                        Y      Y      Y     El Paso                        El Paso     TX     79905      E           E           E
+                               5725                                          Drive
+      Lab
+      Lower Colorado
+      River Authority                                                        3505
+                            (512) 356-
+52    Environmental                        Y      Y      Y     Travis        Montopolis       Austin      TX     78744      E           E           E
+                               6022
+      Laboratory                                                             Drive
+      Services
+      North Texas                                                            810 North
+      Municipal Water       (972) 442-                                       Highway 78,
+53                                         Y      Y      Y     Dallas                          Wylie      TX     75098      E           E           E
+      District                 5405                                          Operations
+      Laboratory                                                             Bldg C
+      North Water                                                            130 South
+                            (936) 321-                        Montgome
+54    District Lab                         Y      Y      Y                   Trade Center     Conroe      TX     77385      Y           Y           Y
+                               6060                              ry
+      Services                                                               Parkway
+      Northeast Texas
+                                                                             815 North
+      Public Health         (903) 535-
+55                                         Y      N     N       Smith        Broadway          Tyler      TX     75702      Y           N           N
+      District                 0090
+                                                                             Avenue
+      Laboratory
+                                                                             1775 North
+      Nova Biologicals,     (936) 756-                        Montgome
+56                                         Y      N     N                    Loop 336 East,   Conroe      TX     77301      Y           Y           Y
+      Inc.                     5333                              ry
+                                                                             Suite 4
+      Pace Analytical                                                        1606 East
+                            (361) 465-
+57    Services, LLC -                      Y      N     N      Victoria      Brazos Street,   Victoria    TX     77901      E           E           E
+                               7989
+      Dallas TX                                                              Suite D
+      Pace Analytical                                                        400 West
+                            (972) 727-
+58    Services, LLC -                      Y      N     N       Collin       Bethany Suite     Allen      TX     75013      N           N           N
+                               1123
+      Dallas TX                                                              190
+
+
+
+                                                                         Page 7 of 11
+                                                                                                                            Accepts                  Accepts
+                                                                                                                                         Accepts
+                                                                                                                             Micro                    Micro
+Map                                                                                                                                       Micro
+           Lab Name      Phone Number   Micro   LCR   WQP     County           Address          City        State    Zip    Samples                 Samples
+ ID                                                                                                                                    Samples on
+                                                                                                                               on                      on
+                                                                                                                                       Saturdays?
+                                                                                                                            Fridays?                Sundays?
+      Pace Analytical
+                          (817) 616-                                       2657 Gravel
+59    Services, LLC -                    Y      N     N      Tarrant                        Fort Worth       TX     76118      N           N           N
+                             5030                                          Drive
+      Dallas TX
+                                                                           19020 West
+                          (281) 858-
+60    R&C Joy, Inc.                      Y      N     N       Harris       Little York          Katy         TX     77449      Y           E           E
+                             5988
+                                                                           Road
+      Red River
+      Authority of
+      Texas               (940) 723-                                       3000 Hammon
+61                                       Y      N      Y     Wichita                        Wichita Falls    TX     76310      E           E           E
+      Environmental          1717                                          Road
+      Services
+      Laboratory
+      Sabine River        (409) 746-
+62                                       Y      Y      Y     Orange        1895 I-P Way       Orange         TX     77632      Y           E           E
+      Authority              3284
+      San Antonio
+                          (210) 207-                                       2303 SE
+63    Metropolitan                       Y      N     N       Bexar                         San Antonio      TX     78223      N           N           N
+                             8887                                          Military Drive
+      Health District
+      San Antonio
+                          (210) 229-                                       1610 South
+64    Testing                            Y      Y      Y      Bexar                         San Antonio      TX     78207      E           E           E
+                             9920                                          Laredo Street
+      Laboratory, LLC
+                                                                           1122 South
+      SKG Engineering,    (325) 655-                                       Bryant
+65                                       Y      N     N     Tom Green                       San Angelo       TX     76903      N           N           N
+      LLC                    1288                                          Boulevard,
+                                                                           Suite B
+      Southern
+      Petroleum
+      Laboratories        (903) 984-                                       2600 Dudley
+66                                       Y      Y      Y      Gregg                           Kilgore        TX     75662      E           E           E
+      (SPL), Inc. (FKA       0551                                          Road
+      Ana-Lab
+      Corporation)
+
+
+
+                                                                       Page 8 of 11
+                                                                                                                            Accepts                  Accepts
+                                                                                                                                         Accepts
+                                                                                                                             Micro                    Micro
+Map                                                                                                                                       Micro
+          Lab Name         Phone Number   Micro   LCR   WQP    County           Address          City       State    Zip    Samples                 Samples
+ ID                                                                                                                                    Samples on
+                                                                                                                               on                      on
+                                                                                                                                       Saturdays?
+                                                                                                                            Fridays?                Sundays?
+      Southern
+                                                                            1825 East
+      Petroleum             (972) 424-
+67                                         Y      Y      Y     Collin       Plano Parkway,      Plano        TX     75074      Y           Y           Y
+      Laboratories, Inc.       6422
+                                                                            Suite 160
+      - Plano
+      Sweetwater -
+      Nolan County          (325) 235-                                      301 East 12th
+68                                         Y      N     N      Nolan                         Sweetwater      TX     79556      E           E           N
+      Health                   5463                                         Street
+      Department
+      Tarrant County                                                        1101 South
+                            (817) 321-
+69    Public Health                        Y      N     N     Tarrant       Main Street,     Fort Worth      TX     76104      Y           N           N
+                               4758
+      Laboratory                                                            Suite 1700
+      Texas
+      Department of
+      State Health          (512) 458-                                      1100 West
+70                                         Y      Y      Y     Travis                          Austin        TX     78756      N           N           N
+      Services                 7318                                         49th Street
+      Laboratory
+      Services Section
+      Texas
+      Department of                                                         1301 South
+                            (956) 364-
+71    State Health                         Y      N     N     Cameron       Rangerville       Harlingen      TX     78552      N           N           N
+                               8746
+      Services South                                                        Road
+      Texas Laboratory
+      Texas Institute
+                                                                            201 North
+      for Applied           (254) 968-
+72                                         Y      N     N      Erath        Saint Felix      Stephenville    TX     76401      E           E           E
+      Environmental            9570
+                                                                            Street
+      Research (TIAER)
+      Trinity River
+                                                                            6500 West
+      Authority Central     (972) 263-
+73                                         Y      Y      Y     Dallas       Singleton           Dallas       TX     75212      E           N           N
+      Regional                 2251
+                                                                            Boulevard
+      Laboratory
+
+
+
+
+                                                                        Page 9 of 11
+                                                                                                                            Accepts                  Accepts
+                                                                                                                                         Accepts
+                                                                                                                             Micro                    Micro
+Map                                                                                                                                       Micro
+          Lab Name        Phone Number   Micro   LCR   WQP    County          Address           City        State    Zip    Samples                 Samples
+ ID                                                                                                                                    Samples on
+                                                                                                                               on                      on
+                                                                                                                                       Saturdays?
+                                                                                                                            Fridays?                Sundays?
+      Trinity River
+      Authority Lake
+                           (936) 365-                                     5170 South FM
+74    Livingston                          Y      N     N       Polk                          Livingston      TX     77351      Y           Y           Y
+                              2292                                        1988
+      Project
+      Laboratory
+                                                                          125 Lehmann
+      Upper Guadalupe      (830) 896-
+75                                        Y      N      Y      Kerr       Drive, Suite        Kerrville      TX     78028      Y           N           N
+      River Authority         5445
+                                                                          100
+      Upper Leon River
+                           (254) 879-                                     2250 Highway
+76    Municipal Water                     Y      N     N     Comanche                        Comanche        TX     76442      E           N           N
+                              2228                                        2861
+      District
+      Victoria County
+      Public Health
+                           (361) 578-                                     2805 North
+77    Department                          Y      N     N      Victoria                        Victoria       TX     77901      E           E           E
+                              6281                                        Navarro Street
+      Water
+      Laboratory
+      Wallgren
+      Environmental                                                       1532 Universal
+                           (210) 340-                                                        Universal
+78    Services dba                        Y      Y      Y      Bexar      City Boulevard,                    TX     78148      E           E           E
+                              0343                                                             City
+      Pollution Control                                                   Suite 100
+      Services
+      Water Utility        (281) 290-                                     21615 Rhodes
+79                                        Y      N     N      Harris                           Spring        TX     77388      Y           Y           Y
+      Services, Inc.          0704                                        Road
+      Wichita Falls
+      Wichita County
+                           (940) 761-                                     1700 Third
+80    Public Health                       Y      N     N      Wichita                       Wichita Falls    TX     76301      E           N           N
+                              7873                                        Street
+      District
+      Laboratory
+
+
+
+
+                                                                      Page 10 of 11
+Disclaimer
+This map was generated by the Water Supply Division of the Texas Commission on Environmental Quality. This product is for informational
+purposes and may not have been prepared for or be suitable for legal, engineering, or surveying purposes. It does not represent an on-the-ground
+survey and represents only the approximate relative location of property boundaries. For more information concerning this map, contact the Water
+Supply Division at TCRData@tceq.texas.gov or 512-239-4691.
+
+
+
+
+                                                                 Page 11 of 11
+
