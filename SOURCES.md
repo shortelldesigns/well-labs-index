@@ -78,3 +78,32 @@ Retrieve date: **1 September 2026** (US/Pacific).
 - Third-party directories.
 - Invented phone numbers or private-well acceptance claims beyond WSLH and WEAL public pages.
 
+
+
+## Texas (2 September 2026)
+
+Retrieve date: **2 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| TCEQ PWS Lab Map Table (PDF) | https://www.tceq.texas.gov/downloads/drinking-water/quality-assurance/pws-lab-map-table.pdf | Updated 03/26/2026 | Archived at `data/sources/tx-pws-lab-map-table-2026-03-26.pdf`. 80 labs; microbial / LCR / WQP flags. |
+| TCEQ PWS Lab Map Table (Excel) | https://www.tceq.texas.gov/downloads/drinking-water/quality-assurance/pws-lab-map-table.xlsx | Updated 03/26/2026 | Archived at `data/sources/tx-pws-lab-map-table-2026-03-26.xlsx`. Parsed sheet `Public Labs`. |
+| TCEQ PWSS program page | https://www.tceq.texas.gov/drinkingwater/pwss.html | Retrieved 2 September 2026 | Links map + table; NELAP drinking-water public labs. |
+| TCEQ steps to locate accredited lab | https://www.tceq.texas.gov/assistance/resources/steps-to-locate-an-accredited-laboratory | Retrieved 2 September 2026 | NELAP LAMS search instructions. |
+| TWDB Sampling a Private Water Well | https://www.twdb.texas.gov/groundwater/data/privwwsamp.asp | Retrieved 2 September 2026 | Points private-well owners to the same TCEQ map/table; mentions LCRA typical analyses. Archived `data/sources/tx-twdb-private-well-2026-09-02.html`. |
+| LCRA residential water supply testing | https://www.lcra.org/services/els/residential-water-testing/ | Retrieved 2 September 2026 | Verifies private/residential testing, kits, mail/drop-off. Archived `data/sources/tx-lcra-residential-2026-09-02.html`. Prices not copied. |
+
+### Failed or incomplete (Texas)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| TCEQ dwapprovedlabs.pdf | https://www.tceq.texas.gov/downloads/drinking-water/quality-assurance/dwapprovedlabs.pdf | Not required for this build once PWS Lab Map Table Excel parsed cleanly | Used PWS Lab Map Table as primary directory source. |
+| Interactive NELAP map scrape | TCEQ drinking-water labs map | Not a static extractable list | Linked official map/table and NELAP search steps. |
+
+### Not used as TX lab sources
+
+- Third-party directories.
+- Filter-review or affiliate sites.
+- Invented private-well acceptance claims beyond LCRA’s public residential page.

@@ -54,6 +54,7 @@ labs/minnesota.html
 labs/pennsylvania.html
 labs/ohio.html
 labs/wisconsin.html
+- [Texas labs](labs/texas.html) — TCEQ PWS Lab Map Table (03/26/2026); LCRA verified
 css/site.css
 data/labs-mn.json
 data/labs-pa.json
