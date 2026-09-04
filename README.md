@@ -45,7 +45,7 @@ Optional later: a small script can turn `data/labs-xx.json` into the HTML table.
 
 ```
 index.html                 homepage
-states.html                MN + PA + OH + WI live; others coming soon
+states.html                MN + PA + OH + WI + TX + MI live; others coming soon
 test-private-well.html     CDC / EPA annual panel
 iron-stains.html           what to test before buying treatment
 rotten-egg.html            MDH hydrogen sulfide (anode vs well vs aquifer)
@@ -55,6 +55,7 @@ labs/pennsylvania.html
 labs/ohio.html
 labs/wisconsin.html
 - [Texas labs](labs/texas.html) — TCEQ PWS Lab Map Table (03/26/2026); LCRA verified
+- [Michigan labs](labs/michigan.html) — EGLE SOM certified list (3/11/2026); EGLE Lab verified
 css/site.css
 data/labs-mn.json
 data/labs-pa.json
