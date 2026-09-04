@@ -107,3 +107,30 @@ Retrieve date: **2 September 2026** (US/Pacific).
 - Third-party directories.
 - Filter-review or affiliate sites.
 - Invented private-well acceptance claims beyond LCRA’s public residential page.
+
+
+## Michigan (3 September 2026)
+
+Retrieve date: **3 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| EGLE Microbiological Laboratory Certifications (PDF) | https://www.michigan.gov/egle/-/media/Project/Websites/egle/Documents/Programs/RRD/Lab/Microbiological-Laboratory-Certifications.pdf | Footer: SOM Certified Labs - Chemistry 3/11/2026 | Archived at `data/sources/mi-microbiological-lab-certifications.pdf`. 165 labs; Lab ID, address, contact, certified analytes (micro + chemistry). |
+| EGLE Laboratory Certification Program | https://www.michigan.gov/egle/about/organization/remediation-and-redevelopment/laboratory/certifications | Retrieved 3 September 2026 | Links certified-lab PDFs. |
+| EGLE drinking water testing (public / homeowner) | https://www.michigan.gov/egle/public/services/drinking-water-testing | Retrieved 3 September 2026 | Verifies EGLE Lab accepts homeowner kits; order by phone; ship or pickup. |
+| EGLE Drinking Water Lab | https://www.michigan.gov/egle/about/organization/remediation-and-redevelopment/laboratory/drinking-water | Retrieved 3 September 2026 | 3350 N MLK Blvd / Martin Luther King Jr. Blvd, Lansing, MI 48906; (517) 335-8184. |
+| Michigan.gov/EGLELab | https://www.michigan.gov/eglelab | Retrieved 3 September 2026 | Short URL cited on the certified-labs PDF. |
+
+### Failed or incomplete (Michigan)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Bare curl of EGLE PDF | same PDF URL | Akamai blocks bare curl | Re-download with Chrome User-Agent + Referer from certifications page (PDF already archived in repo). |
+
+### Not used as MI lab sources
+
+- Third-party directories.
+- Filter-review or affiliate sites.
+- Invented private-well acceptance claims beyond EGLE’s public drinking-water testing page.
