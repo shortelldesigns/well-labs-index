@@ -1,0 +1,54 @@
+                                 Maine In-State Commercial Drinking Water Labs
+                    NOTE: A complete list of all labs accredited by Maine is available at All Accredited Laboratories (xlsx file)
+
+ Lab Code    Name of Lab                                   Website                                                          City            State Telephone
+
+             Bigelow Laboratory for Ocean Sciences
+    BGL                                                    https://www.bigelow.org/                                         East Boothbay   ME   (207) 315-2567
+             (PFAS Only)
+
+             ClearWater Laboratory
+   CLWR                                                    https://www.acheronengineering.com/                              Newport         ME   (207) 368-5786
+             (A Division of Acheron Engineering)
+
+ LAB-EWA     Eurofins Auburn (Previously A&L)              http://www.allaboratory.com/                                     Auburn          ME   (207) 784-5354
+
+ LAB-EEP     Eurofins Portland ME (Bacteria only)          https://www.eurofinsus.com/                                      Portland        ME   (207) 846-6569
+
+   HETL                                                    https://www.maine.gov/dhhs/mecdc/services/maine-public-health-
+             Health and Environmental Testing Laboratory                                                                    Augusta         ME   (207) 287-2727
+                                                           laboratory/environmental-chemistry
+             Katahdin Analytical Services
+  KTHDN                                                    http://www.katahdinlab.com                                       Scarborough     ME   (207) 874-2400
+             (SGS Scarborough)
+             Maine Coast Laboratory (DBA Water Quality &
+   MEC                                                     www.waterqualityservicesme.com.                                  Wiscasset       ME   (207) 882-5476
+             Compliance Services Inc.)
+
+    MLN      Maine Laboratories, LLC (PFAS Only)           https://www.mainelaboratories.com/                               Norridgewock    ME   (207) 518-8030
+
+             Mi'Kmaq Environmental Laboratory
+    MNL                                                    https://watertestlab.com/laboratory/                             Presque Isle    ME   (207) 764-4001
+             (Bacteria only)
+
+  NLSON      Nelson Analytical Lab                         http://www.nelsonanalytical.com                                  Kennebunk       ME   (207) 467-3478
+
+             NELAnalytical
+  NELAB                                                    www.nelabservices.com                                            Winslow         ME   (207) 873-7711
+             (Previously Northeast Laboratory Services)
+             Nova Analytic Labs
+    NAP                                                    https://www.novaenvirolabs.com/                                  Portland        ME   (207) 804-7327
+             (DBA Nova EnviroLabs – PFAS Only)
+
+
+
+
+Please Note: If mailing samples to a laboratory, it is recommended that you check with the individual laboratory to see if they have made provisions to
+enable receipt of bacteria samples within the holding times for the postal service area from which you are sending the water sample. Many laboratories do
+offer statewide service. Laboratories are accredited by test so it is necessary to check with a laboratory to find out exactly what they are accredited for.
+The tests which laboratories are able to do can change regularly. You may confirm what tests are done by a laboratory or ask any other questions regarding
+laboratory quality by calling The State of Maine Drinking Water Program at 207-287-2070 and asking for the Laboratory Accreditation Officer.
+
+
+Last updated 5/16/2026
+
