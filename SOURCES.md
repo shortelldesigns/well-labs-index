@@ -134,3 +134,32 @@ Retrieve date: **3 September 2026** (US/Pacific).
 - Third-party directories.
 - Filter-review or affiliate sites.
 - Invented private-well acceptance claims beyond EGLE’s public drinking-water testing page.
+
+
+## Maine (4 September 2026)
+
+Retrieve date: **4 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| Maine In-State Commercial Drinking Water Labs (PDF) | https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/CommercialListMaineLabs.pdf | Last updated 5/16/2026 | Archived at `data/sources/me-commercial-drinking-water-labs.pdf`. 12 labs; lab code, name, website, city, telephone. Specialty notes (PFAS Only, Bacteria only) printed on list. Linked from Maine private-well and accreditation pages as the certified-lab list for well owners. |
+| Maine Laboratory Accreditation | https://www.maine.gov/dhhs/mecdc/services/business-services/laboratory-accreditation | Retrieved 4 September 2026 | Archived `data/sources/me-laboratory-accreditation.html`. Links commercial PDF, PFAS list, asbestos/radium list, All Accredited Laboratories Excel. Lab Accreditation contact Christine Blais (207) 287-3220. |
+| Maine CDC Private Well Water | https://www.maine.gov/dhhs/mecdc/healthy-living/health-and-safety/drinking-water-safety/private-well-water | Retrieved 4 September 2026 | Archived `data/sources/me-private-well-water.html`. Annual bacteria/nitrate; 3–5 year metals panel; points to commercial labs PDF; free technical assistance (866) 292-3474 / (207) 287-4311. |
+| HETL Environmental Chemistry | https://www.maine.gov/dhhs/mecdc/services/maine-public-health-laboratory/environmental-chemistry | Retrieved 4 September 2026 | Archived `data/sources/me-hetl-environmental-chemistry.html`. States HETL tests drinking water from public utilities and from private wells. Used to verify private-well acceptance for HETL only. |
+| HETL Testing Your Wellwater | https://www.maine.gov/dhhs/mecdc/services/maine-public-health-laboratory/environmental-chemistry/testing-wellwater | Retrieved 4 September 2026 | Archived `data/sources/me-hetl-testing-wellwater.html`. General well-testing guidance; points to accredited laboratory PDF. |
+
+### Failed or incomplete (Maine)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Street addresses on commercial PDF | same commercial PDF | Not printed in the PDF text layer | Address = unknown on every row; link lab website / call. |
+| All Accredited Laboratories Excel | Linked from commercial PDF / accreditation page | Not required for this build once the commercial in-state list transcribed cleanly | Linked the Excel from the accreditation page for readers who need the full accredited set. |
+
+### Not used as ME lab sources
+
+- Third-party directories.
+- Filter-review or affiliate sites.
+- Invented private-well acceptance claims beyond HETL’s Environmental Chemistry page.
+- Lab marketing sites for phones/addresses (websites used only as printed on the official PDF).
