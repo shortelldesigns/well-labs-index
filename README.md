@@ -4,7 +4,7 @@ Static first version of a U.S. directory for private well owners.
 
 **Homepage line:** Find a state-certified lab that will actually test your private well — then the treatment that matches the report.
 
-**Byline:** Stephen Shortell / Well Labs Index
+**Byline:** Shortell Designs / Well Labs Index (public byline updated from personal name)
 
 **Published:** 29 August 2026 (US/Pacific)
 
