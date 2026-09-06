@@ -163,3 +163,32 @@ Retrieve date: **4 September 2026** (US/Pacific).
 - Filter-review or affiliate sites.
 - Invented private-well acceptance claims beyond HETL’s Environmental Chemistry page.
 - Lab marketing sites for phones/addresses (websites used only as printed on the official PDF).
+
+## Indiana (5 September 2026)
+
+Retrieve date: **5 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| IDEM Indiana Certified Drinking Water Laboratories (PDF) | https://www.in.gov/idem/cleanwater/files/dw_cert_lab_in-state.pdf | Revised 11/7/2025 | Archived at `data/sources/in-certified-dw-labs-2025-11-07.pdf` (+ `.txt` via pdftotext -layout). Title: Indiana Certified Drinking Water Laboratories. Transcribed **only** the section “Labs that accept samples from the public” (49 labs). Separate “Labs that do not accept samples from the public” section not tabulated; linked from the Indiana page. Municipal utilities in the public-accepting section included. |
+| IDOH Laboratory — Well Water | https://www.in.gov/health/laboratories/testing/well-water/ | Retrieved 5 September 2026 | Archived `data/sources/in-idoh-well-water.html`. States IDOH offers testing for private citizens using well water for drinking; annual bacteria + nitrate; every 5 years fluoride/arsenic/lead/copper; order kits via Access Indiana; address IDOH Laboratory Suite B, 550 W 16th St, Indianapolis, IN 46202. **Dollar prices not copied to public HTML.** Used to verify private-well acceptance for IDOH Laboratories only (M-IN-00 / C-IN-00). |
+| IDOH EPH — Well Water Quality and Testing | https://www.in.gov/health/eph/well-water-quality-and-testing/ | Retrieved 5 September 2026 | Archived `data/sources/in-eph-well-water-quality.html`. Context for private well owners. |
+| Drinking Water Laboratory Certification (IDOH) | https://www.in.gov/health/laboratories/drinking-water-laboratory-certification/ | Retrieved 5 September 2026 | Archived `data/sources/in-drinking-water-lab-certification.html`. Certification program context. |
+| IDEM Laboratories page | https://www.in.gov/idem/cleanwater/drinking-water/drinking-water-compliance-section/water-systems/laboratories/ | Linked 5 September 2026 | Context link; PDF is the transcribed source. |
+
+### Failed or incomplete (Indiana)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Multi-column PDF text layer | same IDEM PDF | City of Goshen Water Lab and Elkhart Public Works & Utilities Laboratory both print lab ID M-20-01; Pace Analytical Services, LLC (Indianapolis) prints only C-49-06 (same C-id string as EMSL). Five labs have blank website fields. | Kept IDs/websites as printed; marked website unknown where blank; disclosed on page and in JSON notes. |
+| Non-public section of IDEM PDF | same PDF | Not transcribed into the directory table | Callout + PDF link only. |
+
+### Not used as IN lab sources
+
+- Third-party directories.
+- Filter-review or affiliate sites.
+- Invented private-well acceptance claims beyond the IDOH well-water page and the PDF’s “accept samples from the public” section label.
+- Dollar prices from the IDOH well-water page (intentionally omitted on public HTML).
+
