@@ -192,3 +192,36 @@ Retrieve date: **5 September 2026** (US/Pacific).
 - Invented private-well acceptance claims beyond the IDOH well-water page and the PDF’s “accept samples from the public” section label.
 - Dollar prices from the IDOH well-water page (intentionally omitted on public HTML).
 
+
+## North Carolina (6 September 2026)
+
+Retrieve date: **6 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| NCSLPH Certified Drinking Water Commercial Laboratories (search UI) | https://slphreporting.dph.ncdhhs.gov/Certification/CertifiedLaboratory.asp | Retrieved 6 September 2026 | Archived `data/sources/nc-slph-CertifiedLaboratory-2026-09-06.html`. Contaminant search form; “View a list of all laboratories” POSTs SubTopic=ShowDWLabs. |
+| NCSLPH ShowDWLabs commercial list | same ASP endpoint, POST SubTopic=ShowDWLabs&LabType=Commercial | Retrieved 6 September 2026 | Archived `data/sources/nc-slph-ShowDWLabs-commercial-2026-09-06.html`. 86 commercial labs all states; **47 with State=NC** transcribed. Columns: State, City, Lab Name, Lab No., Phone. |
+| NCSLPH DisplayDWLab detail pages | same ASP endpoint, POST SubTopic=DisplayDWLab&LabNumber=… | Retrieved 6 September 2026 | Archived per lab as `data/sources/nc-lab-<LabNo>-2026-09-06.html` (47 files). Street, mailing address, city/ZIP, phone, fax, certification sectionHeader analyte lists. |
+| NC DHHS Private Well Water Testing FAQs | https://epi.dph.ncdhhs.gov/oee/wellwater/faqs.html | Retrieved 6 September 2026 | Archived `data/sources/nc-private-well-faqs-2026-09-06.html`. New wells: State Lab (via local health department) or state-certified commercial lab. Existing wells: local health department or certified commercial lab. Links the NCSLPH certified-lab search. |
+| NC DHHS Private Wells program | https://epi.dph.ncdhhs.gov/oee/programs/wellwater.html | Retrieved 6 September 2026 | Archived `data/sources/nc-private-wells-oee-2026-09-06.html`. Program context for private well owners. |
+| NCSLPH Environmental Inorganic Chemistry | https://slph.dph.ncdhhs.gov/environmentalsciences/inorganic/default.asp | Retrieved 6 September 2026 | Archived `data/sources/nc-slph-inorganic-2026-09-06.html`. States homeowner chemical analyses only if submitted through the local health department. Used to verify the State Lab private-well path. |
+| NCSLPH Environmental Sciences Certifications hub | https://slph.dph.ncdhhs.gov/environmentalsciences/certification/default.asp | Retrieved 6 September 2026 | Archived `data/sources/nc-slph-certification-hub-2026-09-06.html`. Program context; links certified laboratories. |
+| DPH local health department directory | https://www.dph.ncdhhs.gov/contact/LHD | Linked 6 September 2026 | Official locator for the State Lab submission path; not scraped into a table. |
+
+### Failed or incomplete (North Carolina)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Direct GET ShowDWLabs.asp | https://slphreporting.dph.ncdhhs.gov/Certification/ShowDWLabs.asp | HTTP 404 | Used POST to CertifiedLaboratory.asp with SubTopic=ShowDWLabs (as the site’s own “View a list of all laboratories” control does). |
+| Per-lab private-well acceptance on commercial roster | ShowDWLabs / DisplayDWLab | Not stated | Marked accepts_private_well_samples unknown on every commercial row; verified card documents State Lab via local health department only. |
+| Websites / counties on roster | same | Not printed | website=null; county=null. |
+| NC DEQ WW/GW certified laboratory listings | https://www.deq.nc.gov/about/divisions/water-resources/water-sciences/chemistry-laboratory/certified-laboratory-listing | Wastewater/groundwater certification lists (commercial in-state updated 5/2026) | Not used as the drinking-water commercial source; NCSLPH drinking-water certification roster is the correct SDWA drinking-water list for this directory. Linked only if readers need DEQ WW/GW context — not transcribed here. |
+
+### Not used as NC lab sources
+
+- Stale `/workspace/lab-lists/nc_*.html` caches alone (re-fetched live; caches used only as URL hints).
+- Third-party directories.
+- Filter-review or affiliate sites.
+- Invented private-well acceptance claims for commercial labs beyond DHHS FAQ guidance that such labs are an option.
