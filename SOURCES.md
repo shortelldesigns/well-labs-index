@@ -225,3 +225,34 @@ Retrieve date: **6 September 2026** (US/Pacific).
 - Third-party directories.
 - Filter-review or affiliate sites.
 - Invented private-well acceptance claims for commercial labs beyond DHHS FAQ guidance that such labs are an option.
+
+## Iowa (7 September 2026)
+
+Retrieve date: **7 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| Iowa DNR LabCert — List of Certified Labs | https://programs.iowadnr.gov/labcert/Home/LabListing | Date Generated: 9/7/2026 | Archived `data/sources/ia-labcert-lablisting-2026-09-07.html`. Columns: Lab Type, Lab Name, Lab Number, Lab Address, Phone Number, Program. Filtered to Program including Drinking Water. |
+| Iowa DNR Private Well Testing | https://www.iowadnr.gov/environmental-protection/water-quality/private-well-program/well-testing | Retrieved 7 September 2026 | Archived `data/sources/ia-dnr-well-testing-2026-09-07.html`. County environmental health path; Private Well Grants (PWG) free testing for recommended analytes; points to SHL and DNR Certified Drinking Water Laboratories. |
+| Iowa DNR Private Well Program hub | https://www.iowadnr.gov/environmental-protection/water-quality/private-well-program | Retrieved 7 September 2026 | Archived `data/sources/ia-dnr-private-well-program-2026-09-07.html`. Program context. |
+| State Hygienic Laboratory — Request Private Well Testing | https://shl.uiowa.edu/request-private-well-testing | Retrieved 7 September 2026 | Archived `data/sources/ia-shl-request-private-well-testing-2026-09-07.html`. Homeowner kit for coliform bacteria and nitrate; notes PWG / county funding may be available. Used to verify SHL private-well path. |
+| SHL private well (env) | https://shl.uiowa.edu/env/privatewell | Linked 7 September 2026 | Follow redirects if the URL moves; not required for transcription. |
+
+### Directory choices (Iowa)
+
+| Choice | Detail |
+| --- | --- |
+| In-state Commercial DW | 11 labs tabulated (007, 051, 061, 084, 095, 113, 279, 311, 379, 396, 416). Private-well acceptance unknown — call first. |
+| SHL verified | 3 LabCert locations: Coralville (027), Lakeside (393), Ankeny (397). |
+| County / district health DW | 3 rows: Dubuque County (016), Siouxland District (024), Linn County (029). Acceptance unknown — call first; DNR says counties can arrange testing / PWG. |
+| Omitted | Municipal utility / WWTP / WRF / water works / regional water association; Industrial/Private (incl. Iowa Soybean Association); Nonpotable-only; out-of-state Commercial; DNR (Test - Not a Lab). |
+| Prices | Analysis prices omitted. PWG service grant dollar amounts appear on DNR well-testing page but were not copied onto public HTML. |
+
+### Failed or incomplete (Iowa)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Per-lab private-well acceptance on LabCert commercial rows | LabCert | Not stated | Marked accepts_private_well_samples unknown; verified card documents SHL + county/PWG path. |
+| Mail vs. drop-off for commercial labs | LabCert | Not stated | Marked unknown. |
