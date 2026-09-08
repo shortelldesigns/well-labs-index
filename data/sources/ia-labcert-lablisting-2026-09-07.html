@@ -1,0 +1,3286 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>LabCert - List of Certified Labs</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="/labcert/ruxitagentjs_ICA7NVfqrux_10343260715123811.js" data-dtconfig="rid=RID_-627517049|rpid=-1389768019|domain=iowadnr.gov|reportUrl=/labcert/rb_bf09015chq|app=477976c90c865d9b|cuc=fpblpfo6|owasp=1|mel=100000|featureHash=ICA7NVfqrux|dpvc=1|lastModification=1786995893825|tp=500,50,0|rdnt=1|uxrgce=1|srbbv=2|agentUri=/labcert/ruxitagentjs_ICA7NVfqrux_10343260715123811.js"></script><link rel="icon" href="/labcert/Content/img/favicon.ico" type="image/x-icon">
+    <link href="/labcert/Scripts/bootstrap-select/css/bootstrap-select.css" rel="stylesheet" />
+    <link href="/labcert/Content/bootstrap.css" rel="stylesheet"/>
+<link href="/labcert/Content/bootstrap-datepicker.css" rel="stylesheet"/>
+<link href="/labcert/Content/jquery.gritter.css" rel="stylesheet"/>
+<link href="/labcert/Content/Site.css" rel="stylesheet"/>
+<link href="/labcert/Content/bootstrap.modified.css" rel="stylesheet"/>
+
+    <script src="/labcert/Scripts/modernizr-2.8.3.js"></script>
+
+    <script src="/labcert/Scripts/jquery-3.5.1.js"></script>
+<script src="/labcert/Scripts/jquery.maskedinput.js"></script>
+<script src="/labcert/Scripts/general.js"></script>
+
+    <script src="/labcert/Scripts/jquery.validate.js"></script>
+<script src="/labcert/Scripts/jquery.validate.unobtrusive.js"></script>
+<script src="/labcert/Scripts/jquery.gritter.js"></script>
+<script src="/labcert/Client%20Scripts/mvcfoolproof.unobtrusive.js"></script>
+
+    <script src="/labcert/Scripts/umd/popper.js"></script>
+<script src="/labcert/Scripts/bootstrap.js"></script>
+<script src="/labcert/Scripts/bootstrap-datepicker.js"></script>
+<script src="/labcert/Scripts/respond.js"></script>
+
+    <script src="/labcert/Scripts/bootstrap-select/js/bootstrap-select.js"></script>
+    
+</head>
+
+<body>
+    <script>
+        // remove cross frame scripting
+        if (top != self) { top.location.replace(self.location.href); }
+    </script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+    $(function () {
+        if ($("#gritterSticky").attr("value") != null) {
+            $.gritter.add({
+                title: '<br>Notice',
+                text: $("#gritterSticky").attr("value"),
+                sticky: true
+            });
+        }
+        if ($("#gritter1").attr("value") != null) {
+            $.gritter.add({
+                title: '<br>Notice',
+                text: $("#gritter1").attr("value"),
+                sticky: false
+            });
+        }
+        if ($("#gritter2").attr("value") != null) {
+            $.gritter.add({
+                title: '<br>Notice',
+                text: $("#gritter2").attr("value"),
+                sticky: false
+            });
+        }
+        if ($("#gritterError").attr("value") != null) {
+            $.gritter.add({
+                title: '<br>Error',
+                text: $("#gritterError").attr("value"),
+                sticky: true
+            });
+        }
+    });
+
+    function GritterMessage(message) {
+        $.gritter.add({
+            title: '<br>Notice',
+            text: message,
+            sticky: false
+        });
+    }
+
+    function GritterErrorMessage(message) {
+        $.gritter.add({
+            title: '<br>Error',
+            text: message,
+            sticky: true
+        });
+    }
+</script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id='G-000EMG9R1H>'" type="text/javascript"></script>
+    <script type="text/javascript">
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-000EMG9R1H');
+    </script>
+    <div class="container-fluid navbar-fixed-top">
+        <div class="row">
+            <div class="col-12">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <div class="navbar-header">
+                        <div class="header"><img alt="DNR Header" height="40" src="/labcert/Content/img/CustomAppLogoPadded.jpg" /></div>
+                    </div>
+
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-SupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbar-SupportedContent">
+                        
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item"><a class="nav-link" href="/labcert/">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/labcert/Home/Contact">Contact</a></li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Public</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="/labcert/Home/LabListing">Certified Labs</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="/labcert/Home/PublicSearch">Find a Lab</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="/labcert/Home/TestDrinkingWater">Test Drinking Water</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="/labcert/Home/ViewAnalytesMethods">Analytes and Methods</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="/labcert/Excel/SearchAnalytesMethodsReport">Search Analytes Methods Report</a>
+                                </div>
+                            </li>
+
+
+
+                                    <li class="nav-item dropdown">
+                                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                            Reports
+                                        </a>
+                                        <ul class="dropdown-menu dropdownScroll" style="padding-left: 5px; width: 300px; max-height: 400px; overflow-y: auto;">
+                                            <a class="dropdown-item" href="/labcert/Excel/GetReportMasterAnalyteMethod">Master Analyte/Method List</a>
+                                        </ul>
+                                    </li>
+                                                        </ul>
+                           
+                            <ul class="form-inline my-2 my-lg-0 navbar-nav">
+                                <li class="nav-item">
+                                </li>
+                            </ul>
+                            
+                            <ul class="form-inline my-2 my-lg-0 navbar-nav">
+                                <li class="nav-item"><a id='lnkLogin' class='nav-link' href='/labcert/Account/ENTAALogin'><img src='/labcert/Content/img/AA-logo-in.png' alt='Log In' style='border:0px;position:relative;bottom:2px;' /> Log In</a></li>
+                            </ul>
+                        </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="navbar-spacer"></div>
+
+    <div class="container-fluid">
+        <div class="row appname">
+            <div class="col-12">
+                <span id="spanAppName">Laboratory Certification - </span>List of Certified Labs
+                <hr style="margin-top: 0; margin-bottom: 5px;" />
+
+            </div>
+        </div>
+        <div class="row body-content">
+            <div class="col-12">
+                
+
+
+<div class="card">
+    <div class="card-body">
+            <div class="row">
+                <div class="col-12 col-sm">
+                    <h5>Date Generated: 9/7/2026</h5>
+                </div>
+                <div class="col-12 col-sm-auto">
+                    <a class="btn btn-primary" href="/labcert/Excel/ExportToExcelCertifiedLabs">Export to Excel</a>
+                </div>
+                <div class="col-12 col-sm-auto">
+                    <a class="btn btn-primary" href="/labcert/PDF/PDFCertifiedLabListing">Export to PDF</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12" style="overflow-x: auto;">
+                    <table class="table table-sm table-light table-hover">
+                        <thead class="thead-light">
+                            <tr>
+                                <th>Lab Type</th>
+                                <th>Lab Name</th>
+                                <th>Lab Number</th>
+                                <th>Lab Address</th>
+                                <th>Phone Number </th>
+                                <th>Program</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Ames City Lab
+                                    </td>
+                                    <td>
+                                        001
+                                    </td>
+                                    <td>
+                                        300 East 5th Street    Ames   IA   50010
+                                    </td>
+                                    <td>
+                                        515-239-5151
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Burlington Municipal Waterworks
+                                    </td>
+                                    <td>
+                                        004
+                                    </td>
+                                    <td>
+                                        3000 Des Moines Ave.    Burlington   IA   52601
+                                    </td>
+                                    <td>
+                                        319-754-6501
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Iowa Army Ammunition Plant Chemistry Lab
+                                    </td>
+                                    <td>
+                                        005
+                                    </td>
+                                    <td>
+                                        17575 DMC Hwy 79    Middletown   IA   52638-9701
+                                    </td>
+                                    <td>
+                                        319-753-7884
+                                    </td>
+                                    <td>
+                                        Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Eurofins - Cedar Falls
+                                    </td>
+                                    <td>
+                                        007
+                                    </td>
+                                    <td>
+                                        3019 Venture Way    Cedar Falls   IA   50613
+                                    </td>
+                                    <td>
+                                        319-277-2401
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) ,UST (Soil &amp;amp; Sludge) ,UST (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Council Bluffs Water Works
+                                    </td>
+                                    <td>
+                                        011
+                                    </td>
+                                    <td>
+                                        2000 North 25th Street    Council Bluffs   IA   51501
+                                    </td>
+                                    <td>
+                                        712-328-1006
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Iowa American Water Company - Davenport
+                                    </td>
+                                    <td>
+                                        012
+                                    </td>
+                                    <td>
+                                        1719 East River Drive    Davenport   IA   52803
+                                    </td>
+                                    <td>
+                                        563-322-8814
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Des Moines Water Works Lab
+                                    </td>
+                                    <td>
+                                        013
+                                    </td>
+                                    <td>
+                                        408 Fleur Drive    Des Moines   IA   50321
+                                    </td>
+                                    <td>
+                                        515-283-8761
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Dubuque - City Environmental Monitoring Lab
+                                    </td>
+                                    <td>
+                                        014
+                                    </td>
+                                    <td>
+                                        795 Julien Dubuque Drive    Dubuque   IA   52003-7996
+                                    </td>
+                                    <td>
+                                        563-589-4334
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Fort Dodge Wastewater &amp; Water Plant Laboratory
+                                    </td>
+                                    <td>
+                                        015
+                                    </td>
+                                    <td>
+                                        1801 Ave O    Fort Dodge   IA   50501
+                                    </td>
+                                    <td>
+                                        515-573-2212
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Dubuque County Health Department
+                                    </td>
+                                    <td>
+                                        016
+                                    </td>
+                                    <td>
+                                        1225 Seippel Road    Dubuque   IA   52002
+                                    </td>
+                                    <td>
+                                        563-557-7396
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Keokuk Municipal Water Works
+                                    </td>
+                                    <td>
+                                        018
+                                    </td>
+                                    <td>
+                                        8 North Water Street    Keokuk   IA   52632
+                                    </td>
+                                    <td>
+                                        319-524-2011
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Marshalltown Water Works Lab
+                                    </td>
+                                    <td>
+                                        020
+                                    </td>
+                                    <td>
+                                        1957 N Center Street Rd    Marshalltown   IA   50158
+                                    </td>
+                                    <td>
+                                        641-753-3997
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Siouxland District Health Department
+                                    </td>
+                                    <td>
+                                        024
+                                    </td>
+                                    <td>
+                                        1014 Nebraska Street    Sioux City   IA   51105
+                                    </td>
+                                    <td>
+                                        712-234-3908
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        State Hygienic Laboratory - Coralville
+                                    </td>
+                                    <td>
+                                        027
+                                    </td>
+                                    <td>
+                                        2490 Crosspark Ave    Coralville   IA   52241-4721
+                                    </td>
+                                    <td>
+                                        319-335-4500
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) ,UST (Soil &amp;amp; Sludge) ,UST (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Linn County Public Health Department
+                                    </td>
+                                    <td>
+                                        029
+                                    </td>
+                                    <td>
+                                        1020 6th St SE    Cedar Rapids   IA   52401
+                                    </td>
+                                    <td>
+                                        319-892-6000
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Rathbun Regional Water Association
+                                    </td>
+                                    <td>
+                                        034
+                                    </td>
+                                    <td>
+                                        16166 Highway J29    Centerville   IA   52544
+                                    </td>
+                                    <td>
+                                        641-647-2416
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Muscatine Power And Water
+                                    </td>
+                                    <td>
+                                        035
+                                    </td>
+                                    <td>
+                                        3205 Cedar Street    Muscatine   IA   52761
+                                    </td>
+                                    <td>
+                                        563-262-2631
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        American Water - Belleville
+                                    </td>
+                                    <td>
+                                        045
+                                    </td>
+                                    <td>
+                                        1115 South Illinois Street    Belleville   IL   62220-3102
+                                    </td>
+                                    <td>
+                                        618-235-3600
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Microbac Laboratories - Waterloo
+                                    </td>
+                                    <td>
+                                        051
+                                    </td>
+                                    <td>
+                                        3012 Ansborough Ave    Waterloo   IA   50701
+                                    </td>
+                                    <td>
+                                        319-235-4440
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Waterloo Waste Management Services
+                                    </td>
+                                    <td>
+                                        053
+                                    </td>
+                                    <td>
+                                        3505 Easton Avenue    Waterloo   IA   50702
+                                    </td>
+                                    <td>
+                                        319-291-4553
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        AgSource
+                                    </td>
+                                    <td>
+                                        061
+                                    </td>
+                                    <td>
+                                        1701 Detroit St.    Ellsworth   IA   50075
+                                    </td>
+                                    <td>
+                                        515-297-8103
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Midwest Laboratories
+                                    </td>
+                                    <td>
+                                        064
+                                    </td>
+                                    <td>
+                                        13611 B Street    Omaha   NE   68144-3693
+                                    </td>
+                                    <td>
+                                        402-334-7770
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) ,UST (Soil &amp;amp; Sludge) ,UST (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Eurofins  - Chicago
+                                    </td>
+                                    <td>
+                                        082
+                                    </td>
+                                    <td>
+                                        18410 Crossing Drive Suite E    Tinley Park   IL   60487
+                                    </td>
+                                    <td>
+                                        708-534-5200
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) ,UST (Soil &amp;amp; Sludge) ,UST (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Quad Cities Metallurgical Laboratory
+                                    </td>
+                                    <td>
+                                        084
+                                    </td>
+                                    <td>
+                                        17048 215th Street    Davenport   IA   52806
+                                    </td>
+                                    <td>
+                                        563-386-7827
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Microbac Laboratories  - Newton
+                                    </td>
+                                    <td>
+                                        095
+                                    </td>
+                                    <td>
+                                        600 East 17th Street South    Newton   IA   50208
+                                    </td>
+                                    <td>
+                                        641-792-8451
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) ,UST (Soil &amp;amp; Sludge) ,UST (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Cedar Rapids Utilities Laboratory
+                                    </td>
+                                    <td>
+                                        096
+                                    </td>
+                                    <td>
+                                        Water Pollution Control    Cedar Rapids   IA   52403
+                                    </td>
+                                    <td>
+                                        319-286-5286
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Eurofins - South Bend
+                                    </td>
+                                    <td>
+                                        098
+                                    </td>
+                                    <td>
+                                        110 South Hill Street    South Bend   IN   46617
+                                    </td>
+                                    <td>
+                                        574-233-4777
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        West Des Moines Water Works
+                                    </td>
+                                    <td>
+                                        107
+                                    </td>
+                                    <td>
+                                        1505 Railroad Avenue    West Des Moines   IA   50265
+                                    </td>
+                                    <td>
+                                        515-222-3465
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        QC Analytical Services
+                                    </td>
+                                    <td>
+                                        113
+                                    </td>
+                                    <td>
+                                        1798 Iowa Drive    Le Claire   IA   52753
+                                    </td>
+                                    <td>
+                                        563-289-3373
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Pace Analytical Services - Lenexa
+                                    </td>
+                                    <td>
+                                        118
+                                    </td>
+                                    <td>
+                                        9608 Loiret Blvd    Lenexa   KS   66219
+                                    </td>
+                                    <td>
+                                        913-563-1426
+                                    </td>
+                                    <td>
+                                        Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) ,UST (Soil &amp;amp; Sludge) ,UST (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Marshalltown WPCP
+                                    </td>
+                                    <td>
+                                        141
+                                    </td>
+                                    <td>
+                                        1001 Woodland St    Marshalltown   IA   50158-1810
+                                    </td>
+                                    <td>
+                                        641-754-5709
+                                    </td>
+                                    <td>
+                                        Municipal Sludge (503b) ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Koch Fertilizer-Fort Dodge
+                                    </td>
+                                    <td>
+                                        143
+                                    </td>
+                                    <td>
+                                        3162 200th Street    Duncombe   IA   50532
+                                    </td>
+                                    <td>
+                                        515-269-3079
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Greenfield WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        144
+                                    </td>
+                                    <td>
+                                        625 SE 6th Street    Greenfield   IA   50849
+                                    </td>
+                                    <td>
+                                        641-743-2334
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Oelwein WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        145
+                                    </td>
+                                    <td>
+                                        500 9th Ave SW    Oelwein   IA   50662
+                                    </td>
+                                    <td>
+                                        319-348-4046
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Forest City WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        151
+                                    </td>
+                                    <td>
+                                        1890 River Road    Forest City   IA   50436
+                                    </td>
+                                    <td>
+                                        641-581-2341
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Boone Water Environment Plant Laboratory
+                                    </td>
+                                    <td>
+                                        156
+                                    </td>
+                                    <td>
+                                        1721 McHose Drive    Boone   IA   50036-0550
+                                    </td>
+                                    <td>
+                                        515-423-4433
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Conagra Brands
+                                    </td>
+                                    <td>
+                                        157
+                                    </td>
+                                    <td>
+                                        2467 Henry Ladyn Drive    Fort Madison   IA   62627
+                                    </td>
+                                    <td>
+                                        319-463-6201
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Cresco WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        159
+                                    </td>
+                                    <td>
+                                        24321 90th Street    Cresco   IA   52136
+                                    </td>
+                                    <td>
+                                        563-547-3600
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Denison WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        160
+                                    </td>
+                                    <td>
+                                        2360 Arrowhead Road    Denison   IA   51442
+                                    </td>
+                                    <td>
+                                        712-263-1420
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Decorah WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        164
+                                    </td>
+                                    <td>
+                                        1766 Old Stage Road    Decorah   IA   52101
+                                    </td>
+                                    <td>
+                                        563-382-3410
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Keokuk Water Pollution Control
+                                    </td>
+                                    <td>
+                                        165
+                                    </td>
+                                    <td>
+                                        1000 Mississippi Dr    Keokuk   IA   52632
+                                    </td>
+                                    <td>
+                                        319-524-3412
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Prairie Farms Dairy
+                                    </td>
+                                    <td>
+                                        166
+                                    </td>
+                                    <td>
+                                        11744 Edgewood Ave.    Monona   IA   52159
+                                    </td>
+                                    <td>
+                                        563-207-4926
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Coralville WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        167
+                                    </td>
+                                    <td>
+                                        750 Camp Cardinal Bldv.    Coralville   IA   52241
+                                    </td>
+                                    <td>
+                                        319-248-1745
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        New Hampton WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        168
+                                    </td>
+                                    <td>
+                                        800 South Locust Avenue    New Hampton   IA   50659
+                                    </td>
+                                    <td>
+                                        641-394-4894
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Monticello WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        170
+                                    </td>
+                                    <td>
+                                        1105 East 1st Street    Monticello   IA   52310
+                                    </td>
+                                    <td>
+                                        319-465-3731
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Council Bluffs Water Pollution Control Facility
+                                    </td>
+                                    <td>
+                                        171
+                                    </td>
+                                    <td>
+                                        18452 Applewood Road    Council Bluffs   IA   51503
+                                    </td>
+                                    <td>
+                                        712-328-4642
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Red Oak WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        172
+                                    </td>
+                                    <td>
+                                        213 A Street    Red Oak   IA   51566
+                                    </td>
+                                    <td>
+                                        712-623-6508
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Mount Pleasant WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        173
+                                    </td>
+                                    <td>
+                                        2699 Hoover Ave    Mount Pleasant   IA   52641
+                                    </td>
+                                    <td>
+                                        319-931-5509
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Charles City WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        174
+                                    </td>
+                                    <td>
+                                        307 Shaw Avenue    Charles City   IA   50616
+                                    </td>
+                                    <td>
+                                        641-257-6318
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Audubon WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        175
+                                    </td>
+                                    <td>
+                                        1101 3rd Ave    Audubon   IA   50025
+                                    </td>
+                                    <td>
+                                        712-304-0290
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Utility Consultants Laboratory
+                                    </td>
+                                    <td>
+                                        180
+                                    </td>
+                                    <td>
+                                        129 North Main St    Janesville   MN   56048
+                                    </td>
+                                    <td>
+                                        507-234-5835
+                                    </td>
+                                    <td>
+                                        Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Climax Molybdenum Company
+                                    </td>
+                                    <td>
+                                        184
+                                    </td>
+                                    <td>
+                                        2598 Highway 61    Fort Madison   IA   52627
+                                    </td>
+                                    <td>
+                                        319-463-7151
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Clarinda WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        185
+                                    </td>
+                                    <td>
+                                        1422 E LaPerla Street    Clarinda   IA   51632
+                                    </td>
+                                    <td>
+                                        712-242-5216
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Carroll WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        187
+                                    </td>
+                                    <td>
+                                        1400 East Anthony Street    Carroll   IA   51401
+                                    </td>
+                                    <td>
+                                        712-792-2560
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Anamosa WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        188
+                                    </td>
+                                    <td>
+                                        1205 Walworth Avenue    Anamosa   IA   52205
+                                    </td>
+                                    <td>
+                                        319-558-8335
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Muscatine Water Pollution Control Plant
+                                    </td>
+                                    <td>
+                                        189
+                                    </td>
+                                    <td>
+                                        1202 Musser Street    Muscatine   IA   52761
+                                    </td>
+                                    <td>
+                                        563-263-2752
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Sac City WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        190
+                                    </td>
+                                    <td>
+                                        811 Highland Avenue    Sac City   IA   50583
+                                    </td>
+                                    <td>
+                                        712-662-4915
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Pella WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        199
+                                    </td>
+                                    <td>
+                                        2269 Illinois Drive    Pella   IA   50219-1975
+                                    </td>
+                                    <td>
+                                        641-628-3800
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Fort Madison WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        200
+                                    </td>
+                                    <td>
+                                        1621 20th Street    Fort Madison   IA   52627
+                                    </td>
+                                    <td>
+                                        319-372-5421
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Orange City WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        205
+                                    </td>
+                                    <td>
+                                        125 Central Ave SE    Orange City   IA   51041
+                                    </td>
+                                    <td>
+                                        712-707-4885
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Waukon WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        206
+                                    </td>
+                                    <td>
+                                        101 Allamakee Street    Waukon   IA   52172
+                                    </td>
+                                    <td>
+                                        563-419-4213
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Eldridge - South Slope Laboratory
+                                    </td>
+                                    <td>
+                                        207
+                                    </td>
+                                    <td>
+                                        601 East Trails Road    Eldridge   IA   52748
+                                    </td>
+                                    <td>
+                                        563-210-5236
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Iowa City WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        211
+                                    </td>
+                                    <td>
+                                        4366 Napoleon Street S.E.    Iowa City   IA   52240
+                                    </td>
+                                    <td>
+                                        319-356-5170
+                                    </td>
+                                    <td>
+                                        Nonpotable Water ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Clear Lake Sanitary District
+                                    </td>
+                                    <td>
+                                        212
+                                    </td>
+                                    <td>
+                                        5631 235th St    Clear Lake   IA   50428
+                                    </td>
+                                    <td>
+                                        641-357-2019
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Veolia Wastewater Laboratory - Spencer
+                                    </td>
+                                    <td>
+                                        213
+                                    </td>
+                                    <td>
+                                        400 10th Avenue S. E.    Spencer   IA   51301
+                                    </td>
+                                    <td>
+                                        712-262-5584
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Independence WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        215
+                                    </td>
+                                    <td>
+                                        2018 3 Elms Park Road    Independence   IA   50644-9865
+                                    </td>
+                                    <td>
+                                        319-334-3750
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Mason City WRF
+                                    </td>
+                                    <td>
+                                        218
+                                    </td>
+                                    <td>
+                                        2950 South Birch Drive    Mason City   IA   50401
+                                    </td>
+                                    <td>
+                                        641-421-3682
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Perry WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        220
+                                    </td>
+                                    <td>
+                                        14323 Ivy Place    Perry   IA   50220
+                                    </td>
+                                    <td>
+                                        515-443-0015
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Davenport Water Pollution Control Plant
+                                    </td>
+                                    <td>
+                                        221
+                                    </td>
+                                    <td>
+                                        2606 S Concord St    Davenport   IA   52802
+                                    </td>
+                                    <td>
+                                        563-326-7877
+                                    </td>
+                                    <td>
+                                        Municipal Sludge (503b) ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Ruveon LLC
+                                    </td>
+                                    <td>
+                                        222
+                                    </td>
+                                    <td>
+                                        2500 Wiggins Road    Muscatine   IA   52761
+                                    </td>
+                                    <td>
+                                        563-262-7233
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Cedar Falls Water Reclamation Facility
+                                    </td>
+                                    <td>
+                                        229
+                                    </td>
+                                    <td>
+                                        501 East Fourth Street    Cedar Falls   IA   50613
+                                    </td>
+                                    <td>
+                                        319-273-8668
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Tiffin WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        230
+                                    </td>
+                                    <td>
+                                        109 S Brown Street    Tiffin   IA   52340
+                                    </td>
+                                    <td>
+                                        319-631-1698
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Clinton Regional Water Reclamation Facility
+                                    </td>
+                                    <td>
+                                        231
+                                    </td>
+                                    <td>
+                                        4025 S. 30th St.    Clinton   IA   52733-2958
+                                    </td>
+                                    <td>
+                                        563-363-2092
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Atlantic WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        232
+                                    </td>
+                                    <td>
+                                        309 Sunnyside Lane    Atlantic   IA   50022
+                                    </td>
+                                    <td>
+                                        712-243-5281
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Tyson Fresh Meats - Columbus Junction
+                                    </td>
+                                    <td>
+                                        233
+                                    </td>
+                                    <td>
+                                        16198 Highway 70 North    Columbus Junction   IA   52738
+                                    </td>
+                                    <td>
+                                        319-728-5242
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Tyson Fresh Meats - Storm Lake
+                                    </td>
+                                    <td>
+                                        234
+                                    </td>
+                                    <td>
+                                        1009 Richland Drive    Storm Lake   IA   50588
+                                    </td>
+                                    <td>
+                                        712-749-5231
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Ameren Missouri Laboratory Services
+                                    </td>
+                                    <td>
+                                        238
+                                    </td>
+                                    <td>
+                                        1530 Singleton Street    St. Louis   MO   63103-2085
+                                    </td>
+                                    <td>
+                                        636-557-3560
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Pace Analytical Services - Peoria
+                                    </td>
+                                    <td>
+                                        240
+                                    </td>
+                                    <td>
+                                        2231 W. Altorfer Drive    Peoria   IL   61615
+                                    </td>
+                                    <td>
+                                        800-752-6651
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Grain Processing Corporation
+                                    </td>
+                                    <td>
+                                        244
+                                    </td>
+                                    <td>
+                                        1600 Oregon Street    Muscatine   IA   52761
+                                    </td>
+                                    <td>
+                                        563-264-4211
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Corning WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        246
+                                    </td>
+                                    <td>
+                                        101 Loomis Ave    Corning   IA   50841
+                                    </td>
+                                    <td>
+                                        641-322-4230
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Le Claire WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        253
+                                    </td>
+                                    <td>
+                                        1800 Iowa Drive    Le Claire   IA   52753
+                                    </td>
+                                    <td>
+                                        563-289-4242
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Ottumwa Water Pollution Control Plant 
+                                    </td>
+                                    <td>
+                                        257
+                                    </td>
+                                    <td>
+                                        2222 South Emma St.    Ottumwa   IA   52501
+                                    </td>
+                                    <td>
+                                        641-683-0641
+                                    </td>
+                                    <td>
+                                        Municipal Sludge (503b) ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        North Liberty Water Pollution Control Plant
+                                    </td>
+                                    <td>
+                                        262
+                                    </td>
+                                    <td>
+                                        405 Abigail Ave    North Liberty   IA   52317
+                                    </td>
+                                    <td>
+                                        319-626-5738
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Osceola WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        268
+                                    </td>
+                                    <td>
+                                        1986 Country Club Road    Osceola   IA   50213
+                                    </td>
+                                    <td>
+                                        641-342-4363
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Waverly Water &amp; Wastewater Laboratory
+                                    </td>
+                                    <td>
+                                        276
+                                    </td>
+                                    <td>
+                                        1401 8th Street S. E.    Waverly   IA   50677
+                                    </td>
+                                    <td>
+                                        319-352-6248
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        ADM Corn Processing - Clinton
+                                    </td>
+                                    <td>
+                                        277
+                                    </td>
+                                    <td>
+                                        1251 Beaver Channel Parkway    Clinton   IA   52732
+                                    </td>
+                                    <td>
+                                        563-242-1121
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Cargill Production Laboratory
+                                    </td>
+                                    <td>
+                                        278
+                                    </td>
+                                    <td>
+                                        17540 Monroe Wapello Road    Eddyville   IA   52553
+                                    </td>
+                                    <td>
+                                        641-969-3588
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Analytical &amp; Consulting Services
+                                    </td>
+                                    <td>
+                                        279
+                                    </td>
+                                    <td>
+                                        205 Sergeant Square Dr    Sergeant Bluff   IA   51054
+                                    </td>
+                                    <td>
+                                        712-943-4888
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Vinton WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        281
+                                    </td>
+                                    <td>
+                                        6026 25th Ave. Dr.    Vinton   IA   52349
+                                    </td>
+                                    <td>
+                                        319-472-3353
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Durant WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        285
+                                    </td>
+                                    <td>
+                                        100 8th Ave    Durant   IA   52747
+                                    </td>
+                                    <td>
+                                        563-299-0770
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        West Union WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        287
+                                    </td>
+                                    <td>
+                                        9875 Echo Valley Rd    West Union   IA   52175
+                                    </td>
+                                    <td>
+                                        563-380-6595
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Sioux Center WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        289
+                                    </td>
+                                    <td>
+                                        3220 410th Street    Sioux Center   IA   51250
+                                    </td>
+                                    <td>
+                                        712-441-5025
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        West Liberty WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        291
+                                    </td>
+                                    <td>
+                                        615 East A Street    West Liberty   IA   52776
+                                    </td>
+                                    <td>
+                                        319-627-2173
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Hawarden WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        295
+                                    </td>
+                                    <td>
+                                        125 10th Street    Hawarden   IA   51023
+                                    </td>
+                                    <td>
+                                        712-551-4427
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Remsen WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        298
+                                    </td>
+                                    <td>
+                                        16267 L 12    Remsen   IA   51050
+                                    </td>
+                                    <td>
+                                        712-541-4171
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Manchester WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        299
+                                    </td>
+                                    <td>
+                                        541 S. Brewer St.    Manchester   IA   52057
+                                    </td>
+                                    <td>
+                                        563-920-0628
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        CF Industries Nitrogen-Port Neal
+                                    </td>
+                                    <td>
+                                        302
+                                    </td>
+                                    <td>
+                                        1182 260th St    Sergeant Bluff   IA   51054-____
+                                    </td>
+                                    <td>
+                                        712-233-6253
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Davy Laboratories
+                                    </td>
+                                    <td>
+                                        304
+                                    </td>
+                                    <td>
+                                        115 6th Street South    La Crosse   WI   54601
+                                    </td>
+                                    <td>
+                                        608-782-3130
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Iowa Great Lakes Sanitary District
+                                    </td>
+                                    <td>
+                                        305
+                                    </td>
+                                    <td>
+                                        303 28th Street    Milford   IA   51351
+                                    </td>
+                                    <td>
+                                        712-338-2626
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Pocahontas WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        306
+                                    </td>
+                                    <td>
+                                        400 SE Railroad Street    Pocahontas   IA   50574
+                                    </td>
+                                    <td>
+                                        515-890-0030
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Creston WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        308
+                                    </td>
+                                    <td>
+                                        710 S. Lakeshore Drive    Creston   IA   50801
+                                    </td>
+                                    <td>
+                                        641-782-2273
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Microbac Laboratories - Centerville
+                                    </td>
+                                    <td>
+                                        311
+                                    </td>
+                                    <td>
+                                        205 E Van Buren St    Centerville   IA   52544
+                                    </td>
+                                    <td>
+                                        641-437-7023
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Burlington WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        315
+                                    </td>
+                                    <td>
+                                        101 South Street    Burlington   IA   52601
+                                    </td>
+                                    <td>
+                                        319-753-8157
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Huxley WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        317
+                                    </td>
+                                    <td>
+                                        1701 E 1st St    Huxley   IA   50124
+                                    </td>
+                                    <td>
+                                        515-220-4805
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Sanborn WWTP
+                                    </td>
+                                    <td>
+                                        322
+                                    </td>
+                                    <td>
+                                        201 S Western     Sanborn   IA   51248
+                                    </td>
+                                    <td>
+                                        712-260-2107
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Sioux City WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        323
+                                    </td>
+                                    <td>
+                                        3100 S. Lewis Blvd    Sioux City   IA   51106
+                                    </td>
+                                    <td>
+                                        712-279-6168
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Roquette America
+                                    </td>
+                                    <td>
+                                        328
+                                    </td>
+                                    <td>
+                                        1003 South 5th Street    Keokuk   IA   52632
+                                    </td>
+                                    <td>
+                                        319-524-5757
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Buffalo WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        330
+                                    </td>
+                                    <td>
+                                        201 East Front Street    Buffalo   IA   52728
+                                    </td>
+                                    <td>
+                                        563-370-1092
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Alta WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        337
+                                    </td>
+                                    <td>
+                                        914 West Highway    Alta   IA   51002
+                                    </td>
+                                    <td>
+                                        712-200-2105
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        LeMars WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        343
+                                    </td>
+                                    <td>
+                                        705 5th Ave. NW    Le Mars   IA   51031
+                                    </td>
+                                    <td>
+                                        712-546-5003
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Estherville WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        344
+                                    </td>
+                                    <td>
+                                        1878 Hwy 4 South    Estherville   IA   51334
+                                    </td>
+                                    <td>
+                                        712-362-4162
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Lenox Industrial WW Laboratory
+                                    </td>
+                                    <td>
+                                        359
+                                    </td>
+                                    <td>
+                                        600 S. Brooks Street    Lenox   IA   50851
+                                    </td>
+                                    <td>
+                                        641-333-2845
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Eurofins - Lancaster 
+                                    </td>
+                                    <td>
+                                        361
+                                    </td>
+                                    <td>
+                                        2425 New Holland Pike    Lancaster   PA   17601-5994
+                                    </td>
+                                    <td>
+                                        717-656-2300
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) ,UST (Soil &amp;amp; Sludge) ,UST (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Pella Water Treatment Laboratory
+                                    </td>
+                                    <td>
+                                        362
+                                    </td>
+                                    <td>
+                                        1301 University Street    Pella   IA   50219-1975
+                                    </td>
+                                    <td>
+                                        641-628-2464
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Pace Analytical - Mt. Juliet
+                                    </td>
+                                    <td>
+                                        364
+                                    </td>
+                                    <td>
+                                        12065 Lebanon Road    Mt. Juliet   TN   37122
+                                    </td>
+                                    <td>
+                                        615-773-9653
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) ,UST (Soil &amp;amp; Sludge) ,UST (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        SGS Accutest - Orlando
+                                    </td>
+                                    <td>
+                                        366
+                                    </td>
+                                    <td>
+                                        4405 Vineland Road Ste C-15    Orlando   FL   32811
+                                    </td>
+                                    <td>
+                                        407-425-6700
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Pace Analytical Services - Minneapolis
+                                    </td>
+                                    <td>
+                                        368
+                                    </td>
+                                    <td>
+                                        1700 Elm Street S.E.    Minneapolis   MN   55414
+                                    </td>
+                                    <td>
+                                        612-607-6352
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Culligan Analytical Laboratory
+                                    </td>
+                                    <td>
+                                        369
+                                    </td>
+                                    <td>
+                                        9399 West Higgins Road    Rosemont   IL   60018
+                                    </td>
+                                    <td>
+                                        847-430-1219
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Eurofins - Denver
+                                    </td>
+                                    <td>
+                                        370
+                                    </td>
+                                    <td>
+                                        4955 Yarrow Street    Arvada   CO   80002
+                                    </td>
+                                    <td>
+                                        303-736-0100
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Eurofins TestAmerica - St. Louis
+                                    </td>
+                                    <td>
+                                        373
+                                    </td>
+                                    <td>
+                                        13715 Rider Trail North    Earth City   MO   63045
+                                    </td>
+                                    <td>
+                                        314-298-8566
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Environmental Consulting and Testing
+                                    </td>
+                                    <td>
+                                        377
+                                    </td>
+                                    <td>
+                                        1423 N. 8th Street #122    Superior   WI   54880
+                                    </td>
+                                    <td>
+                                        715-392-6635
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        JBS - Swift Pork Solutions
+                                    </td>
+                                    <td>
+                                        378
+                                    </td>
+                                    <td>
+                                        600 S Iowa Avenue    Ottumwa   IA   52501
+                                    </td>
+                                    <td>
+                                        641-683-6962
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        ChemRight Laboratories
+                                    </td>
+                                    <td>
+                                        379
+                                    </td>
+                                    <td>
+                                        117 N. Main St.    Maquoketa   IA   52060
+                                    </td>
+                                    <td>
+                                        563-652-4226
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Van Horne WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        380
+                                    </td>
+                                    <td>
+                                        301 11th Street    Van Horne   IA   52346
+                                    </td>
+                                    <td>
+                                        319-560-8320
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Pace Analytical Services - Greensburg
+                                    </td>
+                                    <td>
+                                        391
+                                    </td>
+                                    <td>
+                                        1638 Roseytown Road Suites 2-4    Greensburg   PA   15601
+                                    </td>
+                                    <td>
+                                        724-850-5600
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        State Hygienic Laboratory - Lakeside
+                                    </td>
+                                    <td>
+                                        393
+                                    </td>
+                                    <td>
+                                        Iowa Lakeside Laboratory    Milford   IA   51351
+                                    </td>
+                                    <td>
+                                        712-337-3669
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Iowa State University Limnology Laboratory
+                                    </td>
+                                    <td>
+                                        394
+                                    </td>
+                                    <td>
+                                        123 Bessey Hall    Ames   IA   50011
+                                    </td>
+                                    <td>
+                                        515-291-3787
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Foundation Analytical Laboratory
+                                    </td>
+                                    <td>
+                                        396
+                                    </td>
+                                    <td>
+                                        723 Sleezer Road    Cherokee   IA   51012
+                                    </td>
+                                    <td>
+                                        712-225-6989
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        State Hygienic Laboratory - Ankeny
+                                    </td>
+                                    <td>
+                                        397
+                                    </td>
+                                    <td>
+                                        2220 South Ankeny Blvd.    Ankeny   IA   50023
+                                    </td>
+                                    <td>
+                                        515-725-1600
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Iowa Regional Utilities Association
+                                    </td>
+                                    <td>
+                                        398
+                                    </td>
+                                    <td>
+                                        1224 230th Street    Waverly   IA   50677
+                                    </td>
+                                    <td>
+                                        641-792-7011
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Iowa Soybean Association Water Lab
+                                    </td>
+                                    <td>
+                                        402
+                                    </td>
+                                    <td>
+                                        1255 SW Prairie Trail Pkwy    Ankeny   IA   50023
+                                    </td>
+                                    <td>
+                                        515-334-1090
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        ALS - Holland
+                                    </td>
+                                    <td>
+                                        403
+                                    </td>
+                                    <td>
+                                        3352 128th Avenue    Holland   MI   49424
+                                    </td>
+                                    <td>
+                                        616-399-6070
+                                    </td>
+                                    <td>
+                                        Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Sunbelt Solomon Corporation
+                                    </td>
+                                    <td>
+                                        407
+                                    </td>
+                                    <td>
+                                        302 W 7th St    Solomon   KS   67480
+                                    </td>
+                                    <td>
+                                        785-655-2893
+                                    </td>
+                                    <td>
+                                        Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Government
+                                    </td>
+                                    <td>
+                                        Walcott WWTP Laboratory
+                                    </td>
+                                    <td>
+                                        409
+                                    </td>
+                                    <td>
+                                        600 W Cedar Lane Dr    Walcott   IA   52773
+                                    </td>
+                                    <td>
+                                        563-272-9026
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        EMSL Analytical - Minneapolis
+                                    </td>
+                                    <td>
+                                        411
+                                    </td>
+                                    <td>
+                                        3410 Winnetka Avenue North    New Hope   MN   55427
+                                    </td>
+                                    <td>
+                                        763-449-4922
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Cove Environmental
+                                    </td>
+                                    <td>
+                                        414
+                                    </td>
+                                    <td>
+                                        3400 West Lakeview Rd.    Stillwater   OK   74075
+                                    </td>
+                                    <td>
+                                        405-406-8021
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Ion Environmental Solutions
+                                    </td>
+                                    <td>
+                                        416
+                                    </td>
+                                    <td>
+                                        4500 25th ST South    Muscatine   IA   52761
+                                    </td>
+                                    <td>
+                                        563-299-2214
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Hach Ames Wastewater Lab
+                                    </td>
+                                    <td>
+                                        417
+                                    </td>
+                                    <td>
+                                        100 Dayton Ave    Ames   IA   50010
+                                    </td>
+                                    <td>
+                                        515-232-2533
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        EMSL Analytical -Cinnaminson
+                                    </td>
+                                    <td>
+                                        419
+                                    </td>
+                                    <td>
+                                        200 Route 130 North    Cinnaminson   NJ   80779
+                                    </td>
+                                    <td>
+                                        856-858-4800
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        Eagle Grove Water Reclamation Facility
+                                    </td>
+                                    <td>
+                                        420
+                                    </td>
+                                    <td>
+                                        2712 Davis Ave    Eagle Grove   IA   50533
+                                    </td>
+                                    <td>
+                                        515-851-9352
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Eurofins  Cleveland
+                                    </td>
+                                    <td>
+                                        421
+                                    </td>
+                                    <td>
+                                        180 S. VanBuren Avenue    Barberton   OH   44203
+                                    </td>
+                                    <td>
+                                        330-497-9396
+                                    </td>
+                                    <td>
+                                        Municipal Sludge (503b) ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Eurofins CEI - Cary
+                                    </td>
+                                    <td>
+                                        422
+                                    </td>
+                                    <td>
+                                        730 SE Maynard Road    Cary   NC   27511
+                                    </td>
+                                    <td>
+                                        919-481-1413
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Microbac Laboratories - Ohio
+                                    </td>
+                                    <td>
+                                        426
+                                    </td>
+                                    <td>
+                                        158 Starlite Drive    Marietta   OH   45750
+                                    </td>
+                                    <td>
+                                        740-373-4071
+                                    </td>
+                                    <td>
+                                        Drinking Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        TekLab
+                                    </td>
+                                    <td>
+                                        430
+                                    </td>
+                                    <td>
+                                        120 United Drive    Collinsville   IL   62234
+                                    </td>
+                                    <td>
+                                        618-344-1004
+                                    </td>
+                                    <td>
+                                        Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) ,UST (Soil &amp;amp; Sludge) ,UST (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Pace Analytical Services - Frontenac
+                                    </td>
+                                    <td>
+                                        431
+                                    </td>
+                                    <td>
+                                        808 West McKay    Frontenac   KS   66763
+                                    </td>
+                                    <td>
+                                        620-235-0003
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Pace Analytical Services - Pikeville
+                                    </td>
+                                    <td>
+                                        434
+                                    </td>
+                                    <td>
+                                        173 Island Creek Road    Pikeville   KY   41501
+                                    </td>
+                                    <td>
+                                        606-727-9023
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Pace Laboratories- Hazelwood
+                                    </td>
+                                    <td>
+                                        435
+                                    </td>
+                                    <td>
+                                        944 Anglum Road    Hazelwood   MO   63042-2329
+                                    </td>
+                                    <td>
+                                        314-432-0550
+                                    </td>
+                                    <td>
+                                        Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Microbac Laboratories - Northbrook
+                                    </td>
+                                    <td>
+                                        437
+                                    </td>
+                                    <td>
+                                        700 Landwehr Road    Northbrook   IL   60062
+                                    </td>
+                                    <td>
+                                        847-564-0700
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Alliance Technical Group - Akron
+                                    </td>
+                                    <td>
+                                        438
+                                    </td>
+                                    <td>
+                                        3310 Win Street    Cuyahoga Falls   OH   44223
+                                    </td>
+                                    <td>
+                                        330-253-8211
+                                    </td>
+                                    <td>
+                                        Drinking Water ,Nonpotable Water ,Solid Waste/Contaminated Sites (Soil &amp;amp; Sludge) ,Solid Waste/Contaminated Sites (Water) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Industrial/Private
+                                    </td>
+                                    <td>
+                                        Ajinomoto North America
+                                    </td>
+                                    <td>
+                                        439
+                                    </td>
+                                    <td>
+                                        1116 Hwy 137    Eddyville   IA   52553
+                                    </td>
+                                    <td>
+                                        641-969-3115
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Commercial
+                                    </td>
+                                    <td>
+                                        Eurofins - Ashland
+                                    </td>
+                                    <td>
+                                        440
+                                    </td>
+                                    <td>
+                                        10329 Stony Run Lane    Ashlund   VA   23005
+                                    </td>
+                                    <td>
+                                        804-365-3002
+                                    </td>
+                                    <td>
+                                        UST (Soil &amp;amp; Sludge) 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Public
+                                    </td>
+                                    <td>
+                                        DNR (Test - Not a Lab)
+                                    </td>
+                                    <td>
+                                        T013
+                                    </td>
+                                    <td>
+                                        502 E 9th Street    Des Moines   IA   50319-____
+                                    </td>
+                                    <td>
+                                        151-572-5034
+                                    </td>
+                                    <td>
+                                        Nonpotable Water 
+                                    </td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+    </div>
+</div>
+
+            </div>
+            <div id="modalSpinny" class="modal" tabindex="-1" role="dialog" data-backdrop="static">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title">Loading ...please wait</h5>
+                        </div>
+                        <div class="modal-body text-center">
+                            <div id="spinny" class="spinner-border text-primary" style="width: 4rem; height: 4rem;" role="status">
+                                <span class="sr-only">Loading...</span>
+                            </div>
+                            <div class="row">
+                                <div class="col">
+                                    Please do not navigate away or refresh your browser.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row footer">
+            <div class="col-8">
+                <a style="padding-right: 10px" target="_blank" href="https://www.iowa.gov">State of Iowa</a>
+                <a style="padding-right: 10px" target="_blank" href="https://www.iowadnr.gov">DNR Home</a>
+                <a style="padding-right: 10px" target="_blank" href="https://www.iowa.gov/pages/policies">Site Policy</a>
+                <div style="display:inline-block">Leading Iowans in caring for our natural resources</div>
+            </div>
+            <div class="col-4 text-right">
+                Version: 1.0.15.21730
+            </div>
+        </div>
+    </div>
+</body>
+</html>
