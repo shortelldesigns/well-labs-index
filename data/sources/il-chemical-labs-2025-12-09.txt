@@ -1,0 +1,221 @@
+IEPA Accredited Laboratories
+ Primary Labs
+
+Lab Code        Lab Name                 Lab Address Lab City         LabState Lab Zip   Primary Contact Last   Primary Contact First   Primary Contact
+                                         1                                               Name                   Name                    Phone
+100310          AbbVie                   100 Abbot   Abbot Park       IL       60064     Witting                Jeffery                 (847) 937-0893
+                Environmental,           Park Rd                               -6217
+                Health and Safety
+                Laboratory
+100443          American Bottoms         1 American     Sauget        IL       62201     Blair                  Michael                 (618) 337-9790
+                Regional Wastewater      Bottoms                               -1075
+                Treatment Facility       Road
+100203          American Water           1115 South     Belleville    IL       62220     Macauley               Linda                   (618) 222-4077
+                Central Laboratory       Illinois St.                          -3153
+100308          ARDL, Inc.               400            Mt. Vernon    IL       62864     Dickerson              Dean                    (618) 244-3235
+                                         Aviation                              -
+                                         Drive, P.O.
+                                         Box 1566
+100228          City of Chicago,         1000 East      Chicago       IL       60611     Saleh                  Hassen                  (312) 744-8082
+                Water Purification       Ohio St.                              -
+                Laboratories
+100213          Culligan Analytical      9399 West      Rosemont      IL       60018     Mozdzen                Maria                   (847) 430-1219
+                Laboratory               Higgins                               -
+                                         Road, Suite
+                                         1100
+100201          Eurofins Chicago         18410          Tinley Park   IL       60487     Berg                   Nicole                  (708) 746-0044
+                                         Crossing
+                                         Drive Suite
+                                         E
+100292          First Environmental      1600 Shore     Naperville    IL       60563     Geraci                 Joy                     630/778-1200
+                Laboratories, Inc.       Road, Suite                           -
+                                         D
+100458          Four Rivers Sanitation   3333           Rockford      IL       61109     Peterson               Steve                   (815) 387-7523
+                Authority                Kishwaukee                            -
+                                         St
+100239          Gabriel Laboratories,    1421 North     Chicago       IL       60642     Zvonarits              Christina               773/486-2123
+                Ltd.                     Elston Ave.                           -
+100246   Grace Accusure Labs      5300-B         Berkeley       IL   60163   Dombai         Tim                 (708) 449-9449
+                                  McDermott                          -
+                                  Drive
+100267   Lake County              500 W          Libertyville   IL   60048   Rosado         Katie               (847) 377-8006
+         Environmental            Winchester                         -
+         Laboratory               Rd Unit 103
+100225   Metiri Group -           1950 South     Geneva         IL   60134   Zusman         Virginia            (540) 273-5859
+         Geneva fka Metiri        Batavia                            -
+         Group - Suburban         Ave., Suite
+         Laboratories             150
+100338   MWRDGC Calumet           400 East       Chicago        IL   60628   Zhu            Zhenwei             (773) 256-3526
+                                  130th                              -
+                                  Street
+100339   MWRDGC Egan              550 S.         Schaumburg IL       60193   Rabah          Anas                (847) 584-5670
+         Analytical Laboratory    Meacham                            -
+                                  Road
+100341   MWRDGC Industrial        6001 West      Cicero         IL   60804   Patel          Anjana              (708) 588-4076
+         Waste Laboratory         Pershing                           -
+                                  Road
+100337   MWRDGC Organic           550 S.         Schaumburg IL       60193   Stariskovkya   Natalya
+         Compounds                Meacham                            -4370
+         Laboratory               Rd
+100340   MWRDGC Stickney          6001 West      Cicero         IL   60804   Grunwald       Pawel               (708) 588-4064
+         Analytical Laboratory    Pershing                           -4112
+                                  Road
+100212   North Shore Water        14770 W.       Gurnee         IL   60031   Favero         Antoinette (Toni)   847/623-6060
+         Reclamation District     Wm.                                -0750
+                                  Koepsel
+                                  Drive, P.O.
+                                  Box 750
+100279   Pace Analytical          4314-A,        McHenry        IL   60050   Briney         John                815/344-4044
+         Services, LLC –          Crystal Lake                       -
+         McHenry, Illinois        Rd
+100230   Pace Analytical          2231 W.        Peoria         IL   61615   Briney         John                (309) 683-1775
+         Services, LLC.- Peoria   Altorfer                           -
+                                  Drive
+100464      Rock River             900E           Lyndon         IL   61261   Watson           Clark         (918) 581-0944
+            Fabrication            Commercial                         -
+                                   St.
+100462      Sangamon County        3000 North     Springfield    IL   62707   Treadway         Erica         (217) 993-7358
+            Water Reclamation      8th Street                         -
+            District
+100183      Scientific Control     3158 South     Chicago        IL   60623   Krishnamoorthy   Aishwarya     773/254-2406
+            Laboratory, Inc.       Kolin                              -4831
+                                   Avenue
+100463      SRN Testing Services   2258           Bartlett       IL   60103   Salutric         Christopher   (630) 503-5002
+                                   Southwind                          -
+                                   Blvd.
+100256      Sterling Labs (fka     509 N.3rd      Des Plaines    IL   60016   Stankevicius     Sabina        (847) 324-3341
+            Environmental          Avenue                             -
+            Monitoring and Tech)
+100465      Teklab, Inc-Bluff Rd   1355 Bluff     Collinsville   IL   62234   Bogner           Claire        (618) 344-1004
+                                   Rd                                 -
+100226      Teklab, Incorporated   5445           Collinsville   IL   62234   Bogner           Claire        (618) 344-1004
+                                   Horseshoe                          -
+                                   Lake Rd.
+100299      Test, Inc.             2323 4th       Peru           IL   61354   McCauley         Tobi          815/224-1650
+                                   Street                             -
+100322      Will County Health     501 Ella       Joliet         IL   60433   Kautz            Trisha        (815) 727-5060
+            Dept. - Environ.       Ave.                               -
+            Health Lab.
+Secondary
+  Labs
+200088      Continental Water      8631           Sacramento     CA   95828   Battin           Dr. Amitabh   (561) 648-2916
+            Laboratory             Younger                            -
+                                   Creek Dr.
+200033      Eurofins Eaton         941            Pomona         CA   91768   Dean             Robert        (626) 386-1221
+            Analytical, LLC -      Corporate                          -
+            Pomona                 Center Drive
+200060      Eurofins Sacramento    880            West           CA   95605   Hrabak           Robert        (916) 374-4433
+                                   Riverside      Sacramento          -
+                                   Parkway
+200017   Eurofins Denver          4955 Yarrow     Arvada         CO   80002                           (303) 736-0100
+                                  Street                              -
+200041   Eurofins Pensacola       3355            Pensacola      FL   32514   Nelson      Darlene     (850) 474-1001
+                                  McLemore                            -
+                                  Drive
+200068   Pace Analytical          8 East          Ormond         FL   32174   Baylor      Lynn        (386) 676-4803
+         Services, LLC-           Tower Circle    Beach               -
+         Ormond Beach FL
+200063   SGS North America,       4405            Orlando        FL   32811   Izosimova   Svetlana    (407) 425-6700
+         Inc. - Orlando           Vineland                            -
+                                  Rd. Suite C-
+                                  15
+200024   Eurofins Cedar Falls     3019            Cedar Falls    IA   50613   Tjaden      Thomas      (319) 595-2009
+                                  Venture                             -
+                                  Way
+200087   ALS Environmental-IN     2400            Valparaiso     IN   46383   Stoike      Chad        (616) 399-6070
+                                  Cumberlan                           -
+                                  d Dr.
+200001   Eurofins Eaton           110 South       South Bend     IN   46617   Reeves      Bill        (574) 233-4777
+         Analytical, LLC -South   Hill Street                         -
+         Bend, IN
+200064   Microbac                 250 West        Merrillville   IN   46410   Sheehy      Amy         (219) 769-8378
+         Laboratories, Inc.       84th Drive                          -
+200074   Pace Analytical          7726 Moller     Indianapolis   IN   46268   Troyer      Anne        (317) 228-3140
+         Services - IN            Road                                -4163
+200030   Pace Analytical          9608 Loiret     Lenexa         KS   66219   Larssen     Ashley
+         Services - KS            Blvd.                               -
+200086   Element Materials        2417 West       Lafayette      LA   70508   Davis       Tristan
+         Technology Lafayette     Pinhook                             -
+                                  Road
+200066   Pace Inc. - St. Rose     1000            St. Rose       LA   70087   Davis       Gabrielle   (504) 305-3612
+                                  Riverbend
+                                  Blvd. Suite F
+200082   SGS North America        500             Scott          LA   70583   Sampson     Jamie       (408)-472-4663
+         Inc. - Scott             Ambassado
+                                  r Caffery
+                                  Parkway
+200081   Pace Analytical          320 Forbes      Mansfield      MA   02048   Rice        Amy         (508) 898-9220
+         Services, LLC -          Blvd                                -
+         Mansfield fka Alpha
+         Analytical, LLC-
+         Mansfield MA
+200077   Pace Analytical           8 Walkup       Westboroug    MA   01581   Rice         amy            (508) 898-9220
+         Services, LLC -           Drive          h                  -
+         Westborough fka
+         Alpha Analytical, LLC -
+         Westborough
+200076   ALS-MI                    3352 128th     Holland       MI   49424   Stoike       Chad           (616) 399-6070
+                                   Avenue                            -9263
+200089   Metiri - Holt fka.        1914           Holt          MI   48842   Mueller      Kenneth        (517) 699-0345
+         Fibertec                  Holloway                          -
+         Environmental             Dr.
+         Services
+200084   National Testing          556 South      Ypsilanti     MI   48197   MacMillan    Christine      (734) 483-8333
+         Laboratories, Ltd.        Mansfield                         -
+200011   Pace Analytical           1700 Elm       Minneapolis   MN   55414   Stacks       Aileen (Liz)   (612) 607-6352
+         Services, LLC. -          Street SE                         -2485
+         Minneapolis MN
+200080   Pace Analytical           944 Anglum     Hazelwood     MO   63042   Kuessner     Melissa        (314) 432-0550
+         Services, LLC –           Road                              -
+         Hazelwood, Missouri
+200090   Eurofins Built            730 SE      Cary             NC   27511   Bai          Tianbao        (984) 239-4190
+         Environmental Testing     Maynard Rd.                       -
+         East LLC - Cary NC
+         fka. Eurofins CEI-NC
+200094   Eurofins-NJ               777 New        Edision       NJ   08817   Armbruster   Carl
+                                   Durham                            -2859
+                                   Road
+200045   SGS North America         2235 U.S.      Dayton        NJ   08810   Jagtap       Anita          (732) 355-4556
+         Inc. - Dayton             Route 130                         -
+200061   Alliance Technical        3310 Win       Cuyahoga      OH   44223   Duran        Sara           (330)253-8211
+         Group, LLC-Akron fka      Street         Falls
+         Summit
+         Environmental
+         Technologies
+200004   Eurofins Cleveland        180 S Van      Barberton     OH   44203   Leeson       Dorothy        (330) 966-9281
+                                   Buren Street                      -
+200019   Microbac                158 Starlite   Marietta     OH   45750   Ramnarine   Robert    (740) 373-4071
+         Laboratories, Inc. -    Drive                            -
+         Marietta Division
+200093   ALS-Global -            301 Fulling    Middletown   PA   17057   Magness     Susan     (717) 944-5541
+         Middletown              Mill Road
+200027   Eurofins Lancaster      2425 New       Lancaster    PA   17601   O'Donnell   Ann       (717) 556-7327
+         Laboratories            Holland                          -5994
+         Environment Testing,    Pike
+         LLC
+200005   Eurofins Pittsburgh     301 Alpha      Pittsburgh   PA   15238   Grilli      Amanda    (412) 963-7058
+                                 Drive, RIDC                      -
+                                 Park
+200091   Metiri Analytical       101            Kittanning   PA   16201   Clouse      Bethany   724-543-6768
+         Group, Inc. fka. CWM    Parkview
+         Environmental           Drive
+                                 Extension
+200029   GEL Laboratories, LLC   2040           Charleston   SC   29407   Luthman     Brielle   (843) 556-8171
+                                 Savage Rd                        -
+200008   Pace Analytical         12065          Mt. Juliet   TN   37122   Looper      Tim       (615) 773-9737
+         National Center for     Lebanon                          -
+         Testing & Innovation    Rd.
+         TN
+200078   Waypoint Analytical,    2790           Memphis      TN   38133   Medina      Richard   (901) 213-2447
+         LLC.                    Whitten                          -
+                                 Road
+200032   ALS Group USA Corp.     10450          Houston      TX   77099   Johnston    Mark B.   (281) 575-2112
+         dba ALS                 Stancliff                        -
+         Environmental - TX      Road, Suite
+                                 210
+200073   CT Laboratories, LLC    1230 Lange     Baraboo      WI   53913   Duranceau   Rebecca   (608) 356-2760
+                                 Ct.                              -
+200050   Pace Analytical         1241           Green Bay    WI   54302   Sieracki    Lisa      (920) 321-9426
+         Services, LLC-Green     Bellevue                         -
+         Bay -WI                 Street
+
