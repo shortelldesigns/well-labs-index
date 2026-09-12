@@ -256,3 +256,33 @@ Retrieve date: **7 September 2026** (US/Pacific).
 | --- | --- | --- | --- |
 | Per-lab private-well acceptance on LabCert commercial rows | LabCert | Not stated | Marked accepts_private_well_samples unknown; verified card documents SHL + county/PWG path. |
 | Mail vs. drop-off for commercial labs | LabCert | Not stated | Marked unknown. |
+
+
+## Virginia (11 September 2026)
+
+Retrieve date: **11 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| DCLS Find a Lab | https://dgs.virginia.gov/division-of-consolidated-laboratory-services/certification-accreditation/find-a-lab | Retrieved 11 September 2026 | Links DW PDF/Excel and Ch46/Ch45 directories. Archived `data/sources/va-find-a-lab-2026-09-11.html`. |
+| DCLS DW Certified Labs Excel | https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/DW_Certified_Labs_20260801.xlsx | Current as of 8/1/2026 | Archived `data/sources/va-dw-certified-labs-2026-08-01.xlsx`. |
+| DCLS DW Laboratories with certification detail PDF | https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Ch%2046%20Ch%2041%20DW%20Laboratories%20w%20detail%2020260804.pdf | Effective 08/04/2026 | Archived PDF + txt. |
+| DCLS VELAP Chapter 46 commercial directory | https://dgs.virginia.gov/content/dam/site-assets/dcls/Lab%20Certification/VELAP/Q3%202026%20VELAP/DIRECTORY%20COMMERCIAL%20LABS%20CH46.pdf | List dated 7/1/2026 on PDF footer | Archived PDF + txt. Used to identify commercial CERTIFIED labs. |
+| VAHWQP | https://www.wellwater.bse.vt.edu/vahwqp.php | Retrieved 11 September 2026 | Verified private-well clinic path. Archived HTML. |
+| VCE Extension offices | https://ext.vt.edu/offices.html | Retrieved 11 September 2026 | Clinic entry point. |
+| VDH Private Well Water Testing | https://www.vdh.virginia.gov/environmental-health/water-testing/ | Retrieved 11 September 2026 via WebFetch (curl HTTP 403) | Points to DCLS lists + VAHWQP. Archive note `.webfetch.md`. |
+| VDH Private Well Program | https://www.vdh.virginia.gov/environmental-health/private-well-program/ | Retrieved 11 September 2026 via WebFetch (curl HTTP 403) | States VDH does not test private wells. |
+| DCLS Environmental FAQ | https://dgs.virginia.gov/division-of-consolidated-laboratory-services/lab-testing/environmental | Retrieved 11 September 2026 | States DCLS does not test private wells for homeowners. |
+
+### Failed or incomplete (Virginia)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| VDH pages via curl | vdh.virginia.gov environmental-health URLs | HTTP 403 | Used WebFetch text + `.webfetch.md` archive notes. |
+
+### Not used as VA lab sources
+
+- Third-party directories (TapWaterData and similar).
+- Invented private-well acceptance claims for commercial rows.
