@@ -1,0 +1,229 @@
+{
+  "state": "Georgia",
+  "state_code": "GA",
+  "last_updated": "2026-09-12",
+  "source": {
+    "title": "Georgia EPD certified commercial laboratories for chemical and microbiological monitoring (revised January 9, 2025) + DPH/UGA Extension private-well guidance",
+    "epd_drinking_water": "https://epd.georgia.gov/watershed-protection-branch/drinking-water",
+    "chem_pdf_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiachemicalmonitoring2025/download",
+    "chem_pdf_document_date": "2025-01-09",
+    "micro_pdf_url": "https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download",
+    "micro_pdf_document_date": "2025-01-09",
+    "dph_well_water": "https://dph.georgia.gov/environmental-health/well-water",
+    "dph_well_testing_fact_sheet": "https://dph.georgia.gov/document/fact-sheets/envhealthchemhazwell-water-fact-sheet0723pdf/download",
+    "dph_county_eh": "https://dph.georgia.gov/contacts/environmental-health",
+    "uga_aesl_water": "http://aesl.ces.uga.edu/water.html",
+    "uga_extension_offices": "https://extension.uga.edu/county-offices.html",
+    "retrieved": "2026-09-12",
+    "in_state_commercial_table_count": 14,
+    "out_of_state_omitted": true,
+    "ga_epd_lab_omitted": true,
+    "limitations": [
+      "Table lists in-state laboratories that appear on Georgia EPD\u2019s Commercial Laboratories Certified for Microbiological Monitoring and/or Laboratories Certified for Chemical Monitoring PDFs (both revised January 9, 2025).",
+      "Georgia Environmental Protection Division Laboratory (Norcross) appears on both PDFs as EPA Certified but is omitted from the homeowner table \u2014 no private-well acceptance verified for EPD\u2019s own lab.",
+      "Out-of-state labs on either PDF are omitted; use the official EPD PDFs.",
+      "EPD chemical PDF footnote: not all labs are certified for all groups of chemicals \u2014 verify analytes when you call.",
+      "Neither EPD roster labels private-well acceptance for commercial labs. Only UGA AESL is independently verified for private-well chemical testing via county Extension (W33C). County Environmental Health may offer bacterial testing \u2014 confirm locally.",
+      "Mail vs drop-off and prices intentionally omitted except Extension drop-off noted for UGA AESL.",
+      "Eurofins Atlanta street number differs between the two PDFs; both printed addresses are shown."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "UGA AESL Private Well Chemical Test (W33C) via county Cooperative Extension",
+      "url": "http://aesl.ces.uga.edu/water.html",
+      "notes": "DPH recommends W33C chemical screening about every 3 years for private wells; available through UGA county Extension offices. AESL Feed and Environmental Water Laboratory phone on EPD micro list and AESL forms: (706) 542-5350."
+    },
+    {
+      "name": "County Environmental Health bacterial testing (when offered)",
+      "url": "https://dph.georgia.gov/contacts/environmental-health",
+      "notes": "DPH recommends annual total/fecal coliform testing and states this may be available through the local County Environmental Health office. Confirm current services with your county office."
+    }
+  ],
+  "labs": [
+    {
+      "name": "American Water Services",
+      "city": "Cleveland",
+      "address": "9482 Duncan Bridge Road Cleveland, GA 30528",
+      "phone": "(706) 348-6215",
+      "ga_lab_id": "M087",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Coastal H2O",
+      "city": "Savannah",
+      "address": "115 Oglethorpe Professional Court, Suite 8 Savannah, GA 31406",
+      "phone": "(912) 352-4311",
+      "ga_lab_id": "600",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Crystal River Water Services",
+      "city": "Norman Park",
+      "address": "218 Jordan Road Norman Park, GA 31771",
+      "phone": "(229) 985-2999",
+      "ga_lab_id": "353",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Eurofins Atlanta",
+      "city": "Atlanta",
+      "address": "3785 Presidential Pkwy Atlanta, GA 30340 (micro list); 3080 Presidential Pkwy Atlanta, GA 30340 (chemical list)",
+      "phone": "(770) 457-8177",
+      "ga_lab_id": "800",
+      "certifications": [
+        "microbiology",
+        "chemical"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Micro and chemical PDFs print different Presidential Pkwy street numbers; confirm address when you call."
+    },
+    {
+      "name": "Eurofins Savannah",
+      "city": "Savannah",
+      "address": "5102 LaRoche Avenue Savannah, GA 31404",
+      "phone": "(912) 354-7858",
+      "ga_lab_id": "803",
+      "certifications": [
+        "chemical"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Food and Dairy Research Associates",
+      "city": "Commerce",
+      "address": "11 Central Avenue Commerce, GA 30529",
+      "phone": "(706) 335-9703",
+      "ga_lab_id": "830",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Pace Analytical Services, Inc. - Atlanta",
+      "city": "Norcross",
+      "address": "110 Technology Pkwy Norcross, GA 30092",
+      "phone": "(770) 734-4200",
+      "ga_lab_id": "812",
+      "certifications": [
+        "chemical"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Piedmont Water Company",
+      "city": "Greensboro",
+      "address": "1030 Old Kings Highway Greensboro, GA 30642",
+      "phone": "(706) 473-8296",
+      "ga_lab_id": "M094",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Spectrum Laboratories-Savannah (Florida Spectrum Environmental Services \u2013 Savannah)",
+      "city": "Garden City",
+      "address": "1108 Airport Park Drive Garden City, GA 31408",
+      "phone": "(912) 238-5050",
+      "ga_lab_id": "833",
+      "certifications": [
+        "microbiology",
+        "chemical"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Listed as Spectrum Laboratories-Savannah on the microbiology PDF and Florida Spectrum Environmental Services \u2013 Savannah on the chemical PDF."
+    },
+    {
+      "name": "Tindal Enterprises/Altamaha Laboratories",
+      "city": "Blackshear",
+      "address": "829 SW Central Avenue Blackshear, GA 31516",
+      "phone": "(912) 449-0999",
+      "ga_lab_id": "834",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Tyson Foods",
+      "city": "Cumming",
+      "address": "4480 Keith Bridge Road Cumming, GA 30041",
+      "phone": "(770) 887-6011",
+      "ga_lab_id": "832",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Appears on EPD commercial microbiology list; private-well acceptance unknown."
+    },
+    {
+      "name": "UGA Feed and Environmental Water Laboratory (AESL)",
+      "city": "Athens",
+      "address": "2300 College Station Road Athens, GA 30602",
+      "phone": "(706) 542-5350",
+      "ga_lab_id": "unknown \u2014 not printed on microbiology PDF",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "yes \u2014 via UGA Cooperative Extension (W33C and other AESL water forms)",
+      "mail_or_dropoff": "drop-off via county Extension office (confirm current bottles/forms)",
+      "notes": "Verified private-well chemical path is DPH-recommended W33C through county Extension; AESL also lists other homeowner water forms including microbiological tests via Extension."
+    },
+    {
+      "name": "Waypoint Analytical",
+      "city": "Bremen",
+      "address": "202 Hamilton Avenue / 103 Carroll Circle Bremen, GA 30110",
+      "phone": "(770) 832-2171",
+      "ga_lab_id": "810",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Microbiology PDF prints address as \u201c202 Hamilton Avenue103 Carroll Circle\u201d (no separator). A separate Waypoint Analytical, Inc. (GA Lab # C044) in Memphis, TN appears only on the chemical PDF and is omitted from this in-state table."
+    },
+    {
+      "name": "Woodward Sapp",
+      "city": "Brunswick",
+      "address": "4774 New Jesup Highway Brunswick, GA 31520",
+      "phone": "(912) 265-2603",
+      "ga_lab_id": "M088",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    }
+  ]
+}

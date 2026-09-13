@@ -286,3 +286,17 @@ Retrieve date: **11 September 2026** (US/Pacific).
 
 - Third-party directories (TapWaterData and similar).
 - Invented private-well acceptance claims for commercial rows.
+
+## Georgia — 12 September 2026 (US/Pacific)
+
+- EPD Drinking Water hub: https://epd.georgia.gov/watershed-protection-branch/drinking-water
+- Chemical monitoring labs PDF (revised January 9, 2025): https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiachemicalmonitoring2025/download
+- Microbiological monitoring labs PDF (revised January 9, 2025): https://epd.georgia.gov/document/pdf/laboratoriescertifiedbygeorgiamicrobiologicalmonitoring2025/download
+- DPH Well Water: https://dph.georgia.gov/environmental-health/well-water
+- DPH well testing fact sheet: https://dph.georgia.gov/document/fact-sheets/envhealthchemhazwell-water-fact-sheet0723pdf/download
+- DPH County Environmental Health contacts: https://dph.georgia.gov/contacts/environmental-health
+- UGA AESL water analyses: http://aesl.ces.uga.edu/water.html
+- UGA Extension county offices: https://extension.uga.edu/county-offices.html
+- Archived copies: data/sources/ga-chem-labs-2025-01-09.pdf|.txt, data/sources/ga-micro-labs-2025-01-09.pdf|.txt
+- Page: labs/georgia.html · data: data/labs-ga.json
+- Notes: 14 in-state commercial rows; GA EPD lab omitted; out-of-state omitted; UGA AESL W33C via Extension verified; County EH bacteria path noted as may-be-available.
