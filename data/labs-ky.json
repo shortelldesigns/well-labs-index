@@ -1,0 +1,284 @@
+{
+  "state": "Kentucky",
+  "state_code": "KY",
+  "last_updated": "2026-09-13",
+  "source": {
+    "title": "2025 KY Certified Drinking Water Laboratory List, Revised 4/28/2025 (Greenup CHD mirror of DOW list) + DOW private well owner assist + UK Extension ENRI + HydroAnalytical / Marshall County verified paths",
+    "dow_lab_cert_program": "https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Pages/Drinking-Water-Lab-Certification-Program.aspx",
+    "dow_pdf_official_url": "https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Documents/KYCertifiedDWLaboratoryList.pdf",
+    "dow_pdf_official_status": "HTTP 404 / unavailable at retrieve time; used Greenup CHD mirror",
+    "greenup_mirror_pdf": "https://greenupchdky.gov/wp-content/uploads/2025/11/KY-Certified-DW-Laboratory-List.pdf",
+    "greenup_water_testing": "https://greenupchdky.gov/water-testing-laboratories/",
+    "pdf_document_date": "2025-04-28",
+    "dow_owner_assist": "https://eec.ky.gov/Environmental-Protection/Water/GW/Pages/GWOwnerAssist.aspx",
+    "uk_extension_well_treatment": "https://water.mgcafe.uky.edu/welltreatment",
+    "hydroanalytical_well_water": "https://www.hydroanalytical.com/well-water-information",
+    "hydroanalytical_contact": "https://www.hydroanalytical.com/contact",
+    "hydroanalytical_about": "https://www.hydroanalytical.com/about",
+    "marshall_county_water_testing": "https://www.marshallcohealthdepartment.com/2020/water-testing/",
+    "chfs_lhd_directory": "https://www.chfs.ky.gov/agencies/dph/dafm/pages/lhd.aspx",
+    "khda_lhd_finder": "https://khda-ky.org/find-your-local-health-department/",
+    "retrieved": "2026-09-13",
+    "in_state_commercial_table_count": 16,
+    "out_of_state_omitted": true,
+    "municipal_utility_labs_omitted": true,
+    "state_government_labs_omitted": true,
+    "limitations": [
+      "Official DOW Documents path for KYCertifiedDWLaboratoryList.pdf returned unavailable (HTTP 404/403) at retrieve time; transcription used Greenup County Health Department mirror PDF with the same title and Revised 4/28/2025 date.",
+      "Table lists 16 in-state commercial / independent / regional labs from the PDF. Municipal/utility plant labs and state government labs (KY Division of Laboratory Services KY00033; Environmental Services Branch / Centralized Laboratory Facility KY00041) omitted.",
+      "All out-of-state labs (KY9xxxx / KY98026) omitted; use the official DOW list or Greenup mirror.",
+      "Certification flags transcribed from PDF columns (Micro/Chem/Crypto/Rads/Asbestos/Dioxin/PFAS/Lead/Fluoride). A blank column means not marked on the PDF — not a claim the lab lacks that capability forever.",
+      "Private-well acceptance verified only for HydroAnalytical (well water package) and Western KY Regional Lab / Marshall County Health Department (bacterial testing). All other commercial rows: unknown — call first.",
+      "Mail vs drop-off unknown except HydroAnalytical notes sample collection/pickup on its about page. Prices intentionally omitted; Marshall County’s page lists a fee but fees vary by county — confirm locally.",
+      "HydroAnalytical PDF mailing address (1906 College Heights Blvd) differs from hydroanalytical.com contact street (2413 Nashville Road, Ste. 100); both shown."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "HydroAnalytical well water package",
+      "url": "https://www.hydroanalytical.com/well-water-information",
+      "notes": "Package includes metals suite, anions suite, pH, total coliform, and E. coli. Contact: (270) 745-5287. Lab street from hydroanalytical.com: 2413 Nashville Road, Ste. 100, Bowling Green, KY 42101. PDF mailing address: 1906 College Heights Blvd Bowling Green KY 42101."
+    },
+    {
+      "name": "Western KY Regional Lab / Marshall County Health Department private well bacterial testing",
+      "url": "https://www.marshallcohealthdepartment.com/2020/water-testing/",
+      "notes": "Bacterial analysis (total coliform and E. coli) for private wells/cisterns. Phone on PDF: (270) 252-2702. Address: 267 Slickback Rd Benton KY 42025. Marshall County’s page lists a fee; fees vary by county — confirm locally. No statewide price on this directory."
+    },
+    {
+      "name": "Local health department private-well / cistern bacterial sampling (when offered)",
+      "url": "https://www.chfs.ky.gov/agencies/dph/dafm/pages/lhd.aspx",
+      "notes": "Ask your local county/district health department whether they collect private-well bacterial samples. Example description: Greenup CHD water-testing page. Also see KHDA finder and DOW owner assist."
+    }
+  ],
+  "labs": [
+    {
+      "name": "Pace Analytical Services, LLC - Madisonville, KY",
+      "city": "Madisonville",
+      "address": "825 Industrial Road Madisonville, KY 42431",
+      "phone": "(270) 821-7375",
+      "ky_lab_id": "KY00030",
+      "certifications": [
+        "microbiology",
+        "chemistry",
+        "crypto",
+        "lead",
+        "fluoride"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "HydroAnalytical",
+      "city": "Bowling Green",
+      "address": "1906 College Heights Blvd Bowling Green, KY 42101 (PDF mailing address); lab street (from hydroanalytical.com): 2413 Nashville Road, Ste. 100, Bowling Green, KY 42101",
+      "phone": "(270) 745-5287",
+      "ky_lab_id": "KY00035",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "yes — well water package (hydroanalytical.com)",
+      "mail_or_dropoff": "sample drop-off / collection available — confirm with lab (hydroanalytical.com/about)",
+      "notes": "WKU HydroAnalytical. Well water package includes metals, anions, pH, total coliform, and E. coli per hydroanalytical.com/well-water-information. PDF prints mailing address on College Heights Blvd; contact page lists Nashville Road suite."
+    },
+    {
+      "name": "Beckmar Environmental Lab",
+      "city": "Louisville",
+      "address": "3251 Ruckriegel Pkwy. Louisville, KY 40299",
+      "phone": "(502) 266-6533",
+      "ky_lab_id": "KY00044",
+      "certifications": [
+        "microbiology",
+        "chemistry",
+        "lead",
+        "fluoride"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Hall Environmental Consultants, LLC",
+      "city": "Nicholasville",
+      "address": "1376 Danville Loop 1 Road Nicholasville, KY 40356",
+      "phone": "(859) 885-3331",
+      "ky_lab_id": "KY00047",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Pace Analytical Services, LLC - Pikeville, KY",
+      "city": "Pikeville",
+      "address": "173 Island Creek Road Pikeville, KY 41501",
+      "phone": "(606) 637-2726",
+      "ky_lab_id": "KY00050",
+      "certifications": [
+        "microbiology",
+        "chemistry"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Fouser Environmental Services- Adair County",
+      "city": "Versailles",
+      "address": "165 Camden Avenue Versailles, KY 40383",
+      "phone": "(859) 873-6211",
+      "ky_lab_id": "KY00060",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Same mailing address/phone as Fouser Environmental Services (KY00061); listed separately on the DOW PDF."
+    },
+    {
+      "name": "Fouser Environmental Services",
+      "city": "Versailles",
+      "address": "165 Camden Avenue Versailles, KY 40383",
+      "phone": "(859) 873-6211",
+      "ky_lab_id": "KY00061",
+      "certifications": [
+        "microbiology",
+        "chemistry",
+        "lead",
+        "fluoride"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Same mailing address/phone as Fouser Environmental Services- Adair County (KY00060); listed separately on the DOW PDF."
+    },
+    {
+      "name": "Pace Analytical Services, LLC - Lexington, KY",
+      "city": "Lexington",
+      "address": "2456 Fortune Drive; Suite 160 Lexington, KY 40509",
+      "phone": "(859) 299-7775",
+      "ky_lab_id": "KY00066",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "IEH - Scottsville",
+      "city": "Scottsville",
+      "address": "207 E. Locust St. Scottsville, KY 42164",
+      "phone": "(270) 239-1367",
+      "ky_lab_id": "KY00067",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Mineral Labs, Inc.",
+      "city": "Salyersville",
+      "address": "PO Box 549 Salyersville, KY 41465",
+      "phone": "(606) 349-6145",
+      "ky_lab_id": "KY00072",
+      "certifications": [
+        "microbiology",
+        "chemistry",
+        "lead",
+        "fluoride"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "PDF prints PO Box only; street address unknown."
+    },
+    {
+      "name": "Microbac Laboratories, Inc.",
+      "city": "Louisville",
+      "address": "3323 Gilmore Industrial Blvd Louisville, KY 40213",
+      "phone": "(502) 962-6400",
+      "ky_lab_id": "KY00074",
+      "certifications": [
+        "microbiology",
+        "chemistry",
+        "lead",
+        "fluoride"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Same street address as KY00089 Microbac; different phone as printed on the DOW PDF."
+    },
+    {
+      "name": "McCall & Spero Environmental, Inc.",
+      "city": "Louisville",
+      "address": "1831 Williamson Ct Louisville, KY 40223",
+      "phone": "(502) 244-7135",
+      "ky_lab_id": "KY00076",
+      "certifications": [
+        "chemistry",
+        "rads"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    },
+    {
+      "name": "Rosedale Services, Inc. dba RSI Laboratory",
+      "city": "Henderson",
+      "address": "PO Box 1130 Henderson, KY 42419",
+      "phone": "(270) 830-7075",
+      "ky_lab_id": "KY00078",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "PDF prints PO Box only; street address unknown."
+    },
+    {
+      "name": "Microbac Laboratories, Inc.",
+      "city": "Louisville",
+      "address": "3323 Gilmore Industrial Blvd Louisville, KY 40213",
+      "phone": "(270) 898-3637",
+      "ky_lab_id": "KY00089",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Same street as KY00074 Microbac; different phone as printed on the DOW PDF — kept as a separate row."
+    },
+    {
+      "name": "Western KY Regional Lab",
+      "city": "Benton",
+      "address": "267 Slickback Rd Benton, KY 42025",
+      "phone": "(270) 252-2702",
+      "ky_lab_id": "KY00090",
+      "certifications": [
+        "microbiology"
+      ],
+      "accepts_private_wells": "yes — private well bacterial testing via Marshall County Health Department",
+      "mail_or_dropoff": "unknown — visit Marshall County Health Department (confirm locally)",
+      "notes": "Marshall County Health Department operates Western KY Regional Lab. Private well/cistern bacterial testing confirmed on marshallcohealthdepartment.com/2020/water-testing/. Marshall County’s page lists a fee; fees vary by county — confirm locally. No statewide price published on this directory."
+    },
+    {
+      "name": "Aquatic Laboratories, LLC",
+      "city": "Lexington",
+      "address": "2554 Palumbo Drive Lexington, KY 40509",
+      "phone": "(859) 388-9595",
+      "ky_lab_id": "KY08031",
+      "certifications": [
+        "microbiology",
+        "chemistry",
+        "lead",
+        "fluoride"
+      ],
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": null
+    }
+  ]
+}
