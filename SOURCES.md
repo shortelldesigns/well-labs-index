@@ -300,3 +300,42 @@ Retrieve date: **11 September 2026** (US/Pacific).
 - Archived copies: data/sources/ga-chem-labs-2025-01-09.pdf|.txt, data/sources/ga-micro-labs-2025-01-09.pdf|.txt
 - Page: labs/georgia.html · data: data/labs-ga.json
 - Notes: 14 in-state commercial rows; GA EPD lab omitted; out-of-state omitted; UGA AESL W33C via Extension verified; County EH bacteria path noted as may-be-available.
+
+## Kentucky — 13 September 2026 (US/Pacific)
+
+Retrieve date: **13 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| DOW Drinking Water Lab Certification Program | https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Pages/Drinking-Water-Lab-Certification-Program.aspx | Retrieved 13 September 2026 | Official program hub. |
+| 2025 KY Certified Drinking Water Laboratory List (Greenup CHD mirror) | https://greenupchdky.gov/wp-content/uploads/2025/11/KY-Certified-DW-Laboratory-List.pdf | Revised 4/28/2025 | Same title/date as DOW list. Archived `data/sources/ky-certified-dw-labs-2025-04-28.pdf|.txt` (also kept greenup-named copies). |
+| Greenup CHD water-testing laboratories | https://greenupchdky.gov/water-testing-laboratories/ | Retrieved 13 September 2026 | Links the certified list; example LHD private-well/cistern coliform sampling description. |
+| DOW Water Well Information for Homeowners | https://eec.ky.gov/Environmental-Protection/Water/GW/Pages/GWOwnerAssist.aspx | Retrieved 13 September 2026 | Annual testing; contact certified lab; local health department after floods. |
+| UK Extension ENRI — Well Treatment | https://water.mgcafe.uky.edu/welltreatment | Retrieved 13 September 2026 | Annual bacteria, nitrates, pH, TDS; use state certified lab; points to DOW list. |
+| HydroAnalytical well water | https://www.hydroanalytical.com/well-water-information | Retrieved 13 September 2026 | Well water package (metals, anions, pH, total coliform, E. coli). |
+| HydroAnalytical contact / about | https://www.hydroanalytical.com/contact · https://www.hydroanalytical.com/about | Retrieved 13 September 2026 | Street 2413 Nashville Road Ste. 100; sample collection/pickup noted on about. |
+| Marshall County Health Department water testing | https://www.marshallcohealthdepartment.com/2020/water-testing/ | Page last updated 1-26-2026; retrieved 13 September 2026 | Western KY Regional Lab private well bacterial testing. Fee on county page — not copied as statewide price. |
+| CHFS Local Health Departments | https://www.chfs.ky.gov/agencies/dph/dafm/pages/lhd.aspx | Retrieved 13 September 2026 | LHD directory links. |
+| KHDA Find Your Local Health Department | https://khda-ky.org/find-your-local-health-department/ | Retrieved 13 September 2026 | County map finder. |
+
+### Failed or incomplete (Kentucky)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Official DOW Documents PDF | https://eec.ky.gov/Environmental-Protection/Water/PermitCert/LabCert/Documents/KYCertifiedDWLaboratoryList.pdf | HTTP 404 / unavailable at retrieve time | Used Greenup CHD mirror PDF (same title, Revised 4/28/2025). |
+| Statewide LHD fee | various | Fees vary by county | No statewide price on public HTML; Marshall County fee noted only as “confirm locally.” |
+
+### Directory choices (Kentucky)
+
+| Choice | Detail |
+| --- | --- |
+| In-state commercial/regional | 16 labs tabulated (KY00030, 35, 44, 47, 50, 60, 61, 66, 67, 72, 74, 76, 78, 89, 90, 08031). |
+| Verified paths | HydroAnalytical well package; Western KY Regional Lab / Marshall County bacterial testing; ask LHD about sampling. |
+| Omitted | Municipal/utility plant labs; KY Division of Laboratory Services (KY00033); ESB Centralized Lab (KY00041); all out-of-state KY9xxxx / KY98026. |
+| Prices | Intentionally omitted. |
+
+### Page / data
+
+- Page: labs/kentucky.html · data: data/labs-ky.json
