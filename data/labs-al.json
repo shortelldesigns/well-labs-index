@@ -1,0 +1,250 @@
+{
+  "state": "Alabama",
+  "state_code": "AL",
+  "last_updated": "2026-09-14",
+  "source": {
+    "title": "ADEM certified bacteriological (Revised October 30, 2023) and in-state chemical (Revised November 6, 2023) lab PDFs + ADPH private-well bacterial path + ACES well-testing guidance",
+    "adem_lab_cert_program": "https://adem.alabama.gov/water/drinking-water-branch/information-public-water-systems/adem-drinking-water-laboratory-certification-program",
+    "bact_pdf": "https://adem.alabama.gov/programs/water/waterforms/BacteriologicalLabs.pdf",
+    "bact_pdf_revised": "2023-10-30",
+    "instate_chem_pdf": "https://adem.alabama.gov/programs/water/waterforms/InStateChemicalLabs.pdf",
+    "instate_chem_pdf_revised": "2023-11-06",
+    "outofstate_chem_pdf": "https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf",
+    "outofstate_chem_pdf_revised": "2025-10-03",
+    "pfas_pdf": "https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf",
+    "pfas_pdf_updated": "2025-10-03",
+    "adph_well_water": "https://www.alabamapublichealth.gov/environmental/well-water.html",
+    "adph_private_water_instructions": "https://www.alabamapublichealth.gov/bcl/assets/privatewaterinstructionsandsampleform.pdf",
+    "adph_bcl": "https://www.alabamapublichealth.gov/bcl/",
+    "adph_health_departments_url_cited": "https://www.alabamapublichealth.gov/about/health-departments.html",
+    "adph_health_departments_status": "Soft HTTP 200 404 page at retrieve time; ADPH Well Water page links county health departments to /about/locations.html which also soft-404d. Use ACES county list + ADPH Well Water as working finders.",
+    "adph_locations_linked_from_well_water": "https://www.alabamapublichealth.gov/about/locations.html",
+    "aces_where_to_get_tested": "https://www.aces.edu/blog/topics/private-well-program/where-to-get-your-well-water-tested/",
+    "aces_step_by_step": "https://www.aces.edu/blog/topics/fish-water/step-by-step-guide-to-getting-your-well-water-tested/",
+    "retrieved": "2026-09-14",
+    "in_state_commercial_table_count": 10,
+    "out_of_state_omitted": true,
+    "municipal_utility_labs_omitted": true,
+    "adph_bcl_labs_omitted_from_commercial_table": true,
+    "limitations": [
+      "ADEM BacteriologicalLabs.pdf revised October 30, 2023; InStateChemicalLabs.pdf revised November 6, 2023 \u2014 older than the Oct 2025 out-of-state and PFAS PDFs. Transcription used the PDFs that returned HTTP 200 from ADEM waterforms and sites/default paths.",
+      "ADEM hub states lists contain both commercial laboratories and water-system laboratories. Municipal / utility / water-plant labs from the bacteriological and in-state chemical PDFs were omitted from the commercial table.",
+      "ADPH Bureau of Clinical Laboratories Prattville and Mobile Branch Laboratory appear on the bacteriological PDF but are documented in the verified private-well path \u2014 not as commercial rows.",
+      "Houston County Regional Water Lab (county.gov email) omitted from commercial table as a county regional water lab.",
+      "All out-of-state chemical labs (Oct 3, 2025 PDF) omitted from the main table \u2014 cite/link only. Certified PFAS Labs PDF (Oct 3, 2025) linked as optional note; all listed PFAS labs are out-of-state.",
+      "Commercial private-well acceptance unknown for every commercial row \u2014 call first. ADEM says consumers may use certified labs to test private wells.",
+      "ADPH BCL private-water instructions (Rev. 05-24) state BCL does not perform any chemical analysis of private well water; tests total coliform including E. coli; fee currently waived for each private water sample (confirm current policy).",
+      "ADPH /about/health-departments.html and /about/locations.html returned soft-404 pages at retrieve time despite HTTP 200; ACES county list used as working county finder.",
+      "Pace Analytical National Decatur address/phone differ between bacteriological and chemical PDFs \u2014 both shown. Southern Environmental Testing Florence street printed \u201cNorhtington\u201d on chemical PDF.",
+      "Prices intentionally omitted except noting BCL form says fee currently waived (confirm)."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "ADPH county health department / BCL private-well bacteriological testing",
+      "url": "https://www.alabamapublichealth.gov/environmental/well-water.html",
+      "notes": "ADPH Well Water: call your county health department and request that an environmentalist collect the sample (collection fee may apply), or collect yourself using bottles from county health department or Bureau of Clinical Laboratories. Results ~24 hours after receipt. BCL private-water instructions (Rev. 05-24): total coliform including E. coli only; BCL does NOT perform chemical analysis of private well water; samples Mon\u2013Thu 7:30 am\u20134:00 pm; must be received within 30 hours; fee currently waived (confirm). Prattville Laboratory: 204 Legends Court, Prattville, AL 36066 / P.O. Box 1000, Prattville, AL 36067; (334) 290-3201 (instructions) / (334) 290-6130 (form header). Mobile Division Laboratory: 757 Museum Drive, Mobile, AL 36608; (251) 344-6049. Guidance phone on instructions: Bureau of Environmental Services / RSA Tower (334) 206-5373."
+    },
+    {
+      "name": "ACES / ADEM certified labs for chemical and more comprehensive testing",
+      "url": "https://www.aces.edu/blog/topics/private-well-program/where-to-get-your-well-water-tested/",
+      "notes": "ACES advises county health department for bacterial contamination; for nitrates/alkalinity and more comprehensive tests, contact an ADEM-certified drinking water lab and ask what they offer private well owners. ADEM hub: consumers may also consider a certified laboratory to test private wells."
+    }
+  ],
+  "labs": [
+    {
+      "name": "Environmental Resource Analysts",
+      "city": "Auburn",
+      "address": "2975 Brown Court Auburn, AL 36830",
+      "phone": "(334) 502-3444",
+      "certifications": [
+        "bacteriological",
+        "chemical"
+      ],
+      "adem_lists": [
+        "Bacteriological",
+        "In-State Chemical"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Contact on PDFs: Erin Consuegra. Email as printed: econsuegra@eralab.com."
+    },
+    {
+      "name": "Guardian Systems",
+      "city": "Leeds",
+      "address": "1108 Ashville Road Leeds, AL 35094",
+      "phone": "(205) 699-6647",
+      "certifications": [
+        "bacteriological",
+        "chemical"
+      ],
+      "adem_lists": [
+        "Bacteriological",
+        "In-State Chemical"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Contact on PDFs: Sherrie Faulkner. Email as printed: sfaulkner@gsilab.com."
+    },
+    {
+      "name": "Living Water Services",
+      "city": "Alabaster",
+      "address": "150 Piper Lane Alabaster, AL 35007",
+      "phone": "(205) 985-2113",
+      "certifications": [
+        "bacteriological"
+      ],
+      "adem_lists": [
+        "Bacteriological"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Contact on PDF: Sandi Davis. Email as printed: sandi.davis@livingwater.services. Fax printed N/A."
+    },
+    {
+      "name": "Pace Analytical National Decatur",
+      "city": "Decatur",
+      "address": "Bacteriological PDF: 2220 Beltline Road SW Decatur, AL 35601; In-State Chemical PDF: 1313 Point Mallard Parkway Suite B Decatur, AL 35601",
+      "phone": "Bacteriological PDF: (256) 350-0846; In-State Chemical PDF: (615) 773-9657",
+      "certifications": [
+        "bacteriological",
+        "chemical"
+      ],
+      "adem_lists": [
+        "Bacteriological",
+        "In-State Chemical"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Addresses and phones differ between the two ADEM PDFs; both shown as printed. Bacteriological contact Lisa Terry / eterry@pacenational.com; chemical contact Timothy Looper / Timothy.Looper@pacelabs.com."
+    },
+    {
+      "name": "Pace Analytical Services",
+      "city": "Tuscaloosa",
+      "address": "3516 Greensboro Avenue Tuscaloosa, AL 35401",
+      "phone": "(205) 345-0816",
+      "certifications": [
+        "bacteriological"
+      ],
+      "adem_lists": [
+        "Bacteriological"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Contact on PDF: Steve Martin, Lab Manager. Email as printed: steve.martin@pacelabs.com."
+    },
+    {
+      "name": "Pace Analytical Services - Mobile",
+      "city": "Mobile",
+      "address": "4320 Midmost Drive Mobile, AL 36609",
+      "phone": "504-305-3611",
+      "certifications": [
+        "bacteriological"
+      ],
+      "adem_lists": [
+        "Bacteriological"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Phone and fax printed without parentheses on the Bacteriological PDF (504-305-3611 / 504-469-0555). Contact: Shelley Antoine / shelley.antoine@pacelabs.com."
+    },
+    {
+      "name": "Polyenvironmental Corporation",
+      "city": "Dothan",
+      "address": "1885 Headland Avenue Dothan, AL 36303",
+      "phone": "(334) 793-4700",
+      "certifications": [
+        "bacteriological"
+      ],
+      "adem_lists": [
+        "Bacteriological"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Contact on PDF: D. Lyn Buntin. Email as printed: lbuntin@poly-inc.com."
+    },
+    {
+      "name": "Southern Environmental Testing - Decatur",
+      "city": "Decatur",
+      "address": "2919 Fairground Road SW Decatur, AL 35603",
+      "phone": "(256) 280-2577",
+      "certifications": [
+        "chemical"
+      ],
+      "adem_lists": [
+        "In-State Chemical"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Contact on PDF: Jimmy Wilson. Email as printed: jwilson@setesting.com."
+    },
+    {
+      "name": "Southern Environmental Testing - Florence",
+      "city": "Florence",
+      "address": "3103 Northington Court Florence, AL 35630 (Bacteriological PDF spelling); In-State Chemical PDF prints \u201cNorhtington\u201d",
+      "phone": "(256) 740-5532",
+      "certifications": [
+        "bacteriological",
+        "chemical"
+      ],
+      "adem_lists": [
+        "Bacteriological",
+        "In-State Chemical"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Contact Allison Dixon. Bacteriological PDF email agdixon@setesting.com; chemical PDF email adixon@setesting.com. Street typo \u201cNorhtington\u201d kept noted from chemical PDF."
+    },
+    {
+      "name": "Sutherland Environmental Testing Laboratory",
+      "city": "Birmingham",
+      "address": "2515 Fifth Avenue South Birmingham, AL 35233",
+      "phone": "(205) 581-9500",
+      "certifications": [
+        "chemical"
+      ],
+      "adem_lists": [
+        "In-State Chemical"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Contact on PDF: Michael Heard. Email as printed: suthlab@bellsouth.net."
+    }
+  ],
+  "omitted": {
+    "municipal_utility_bacteriological_examples": [
+      "Albertville Bacteriological laboratory",
+      "Alexander City Sugar Creek Laboratory",
+      "Anniston Water Works Laboratory",
+      "Birmingham Water Works Board",
+      "Bridgeport Water Treatment Plant Laboratory",
+      "Chattahochee Valley Water Supply District",
+      "Five Star Filter Plant Bacteriological Laboratory",
+      "Gadsden Water Works Laboratory",
+      "Huntsville Utilities Laboratory",
+      "Limestone County Bacteriological Laboratory",
+      "Madison County Water Department Laboratory",
+      "Mobile Water Service Laboratory",
+      "Montgomery Industrial Waste Laboartory",
+      "Montgomery Water Works Laboratory",
+      "Opelika Water Treatment Plant Laboratroy",
+      "Phenix City Water Works Laboratory",
+      "Smiths Water Laboratory",
+      "Tuscaloosa Water Dept Laboratory",
+      "Bessemer Utilities Lab"
+    ],
+    "municipal_utility_chemical": [
+      "Birmingham Water Works Board",
+      "Gadsden Water Works & Sewer Board",
+      "Montgomery Environmental Services Laboratory"
+    ],
+    "adph_bcl_on_bact_pdf_verified_path_only": [
+      "Prattville Branch Laboratory",
+      "Mobile Branch Laboratory"
+    ],
+    "county_regional_omitted": [
+      "Houston County Regional Water Lab"
+    ],
+    "out_of_state": "All labs on OutofStateChemicalLabs_0.pdf (Revised October 03, 2025) and all Certified PFAS Labs (Updated October 03, 2025) \u2014 cite PDFs only."
+  }
+}

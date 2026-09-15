@@ -339,3 +339,42 @@ Retrieve date: **13 September 2026** (US/Pacific).
 ### Page / data
 
 - Page: labs/kentucky.html · data: data/labs-ky.json
+
+## Alabama — 14 September 2026 (US/Pacific)
+
+Retrieve date: **14 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| ADEM Drinking Water Laboratory Certification Program | https://adem.alabama.gov/water/drinking-water-branch/information-public-water-systems/adem-drinking-water-laboratory-certification-program | Retrieved 14 September 2026 | Consumers may use certified labs to test private wells; lists mix commercial and water-system labs. |
+| Certified Bacteriological Labs PDF | https://adem.alabama.gov/programs/water/waterforms/BacteriologicalLabs.pdf | Revised October 30, 2023 | Archived `data/sources/al-bact-labs-2026-09-14.pdf|.txt`. |
+| In-State Certified Chemical Labs PDF | https://adem.alabama.gov/programs/water/waterforms/InStateChemicalLabs.pdf | Revised November 6, 2023 | Archived `data/sources/al-instate-chem-labs-2026-09-14.pdf|.txt`. |
+| Out-of-State Certified Chemical Labs PDF | https://adem.alabama.gov/sites/default/files/2025-10/OutofStateChemicalLabs_0.pdf | Revised October 03, 2025 | Cite/link only; omitted from main table. Archived `data/sources/al-outofstate-chem-labs-2025-10.pdf|.txt`. |
+| Certified PFAS Labs PDF | https://adem.alabama.gov/sites/default/files/2025-10/CertifiedPFASLabs.pdf | Updated October 03, 2025 | Optional; all labs out-of-state. Archived `data/sources/al-pfas-labs-2025-10.pdf|.txt`. |
+| ADPH Well Water | https://www.alabamapublichealth.gov/environmental/well-water.html | Retrieved 14 September 2026 | County health dept / BCL bacterial path. |
+| ADPH private water collection instructions | https://www.alabamapublichealth.gov/bcl/assets/privatewaterinstructionsandsampleform.pdf | ADPH CL-27 / Rev. 05-24 | Total coliform incl. E. coli; BCL does not do chemical analysis of private wells; fee currently waived (confirm). Archived `data/sources/al-adph-privatewater-instructions-2026-09-14.pdf|.txt`. |
+| ADPH Bureau of Clinical Laboratories | https://www.alabamapublichealth.gov/bcl/ | Retrieved 14 September 2026 | Hub for BCL. |
+| ACES — Where to Get Your Well Water Tested | https://www.aces.edu/blog/topics/private-well-program/where-to-get-your-well-water-tested/ | Posted February 17, 2021; retrieved 14 September 2026 | County HD bacterial path + ADEM certified labs for chemical; includes county contacts. |
+
+### Failed or incomplete (Alabama)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| ADPH health departments finder | https://www.alabamapublichealth.gov/about/health-departments.html | Soft HTTP 200 with 404 page body | Noted on page; used ACES county list + ADPH Well Water. |
+| ADPH locations (linked from Well Water) | https://www.alabamapublichealth.gov/about/locations.html | Soft HTTP 200 with 404 page body | Same — ACES county list. |
+| ADPH wellwater.pdf asset | https://www.alabamapublichealth.gov/environmental/assets/wellwater.pdf | Soft 404 HTML | ACES step-by-step guide linked from ADPH Well Water instead. |
+
+### Directory choices (Alabama)
+
+| Choice | Detail |
+| --- | --- |
+| In-state commercial | 10 labs tabulated (ERA, Guardian, Living Water, Pace Decatur/Tuscaloosa/Mobile, Polyenvironmental, SET Decatur/Florence, Sutherland). |
+| Verified paths | ADPH county HD / BCL bacterial testing; ADEM-certified labs for chemical (call first). |
+| Omitted | Municipal/utility plant labs; ADPH BCL branch rows from commercial table; Houston County Regional Water Lab; all out-of-state chemical; all PFAS-list labs. |
+| Prices | Intentionally omitted (BCL form waiver noted as confirm-locally only). |
+
+### Page / data
+
+- Page: labs/alabama.html · data: data/labs-al.json

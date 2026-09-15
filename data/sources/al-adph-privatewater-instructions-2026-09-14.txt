@@ -1,0 +1,205 @@
+               COLLECTION INSTRUCTIONS FOR PRIVATE WATER SAMPLES
+
+
+
+Instructions for proper water sample collection:
+
+    •    Avoid contaminating the sample bottle or the water source during sampling.
+    •    Use sterilized public health laboratory sample bottles only. They are available at local county
+         health departments or the laboratory office.
+    •    Be sure the bottle is sealed.
+    •    Before the sample bottle is opened, allow the water to run for at least 3 minutes.
+    •    Remove the cap and hold it in your hand (do not lay it down on a surface).
+    •    Do not touch the inside of the bottle or the inside of the cap.
+    •    Do not rinse out the bottle.
+    •    Do not use any device (e.g., cup, funnel, etc.) to fill the bottle.
+    •    Hold the bottle below the neck.
+    •    Allow water to fill bottle up to the 100 mL mark.
+    •    Immediately replace the cap tightly.
+    •    Once the sample has been collected, fill out the form legibly with the requested information.
+    •    Attach a sticker to each sample.
+    •    Deliver samples as soon as possible within the work hour stated below in the “Notes” section.
+         Samples will not be tested if over 30 hours old when received.
+
+Notes:
+
+    •    Delivery of specimens to the laboratory is the responsibility of the individual.
+    •    Water samples will be received and tested during normal work hours (7:30 am – 4:00 pm)
+         Monday through Thursday.
+    •    The water test report is designed to meet Alabama Department of Environmental Management
+         and Environmental Protection Agency specifications. No additional interpretation or amendment
+         will be provided by the testing facility.
+    •    Private well users are encouraged to seek guidance from Bureau of Environmental Services staff
+         at a local county health department or the RSA Tower (Montgomery, AL) Phone: (334) 206-5373.
+    •    Water samples submitted are tested for total coliform bacteria (including E. coli).
+    •    The Bureau of Clinical Laboratories does not perform any chemical analysis of private well water.
+    •    The water test report does not meet any regulatory or financial institution requirements such as
+         mortgage, health or safety in recreational or competitive venues.
+    •    The fee is currently waived for each private water sample tested by the laboratory.
+
+
+Prattville Laboratory                                     Mobile Division Laboratory
+204 Legends Court                                         757 Museum Drive
+Prattville, AL 36066                                      Mobile, AL 36608
+P.O. Box 1000, Prattville, AL 36067                       (251) 344-6049
+(334) 290-3201
+
+
+
+
+ADPH CL-27/Rev. 05-24
+Prattville Laboratory                                       Bureau of Clinical Laboratories                                                  Mobile Laboratory
+P.O. Box 1000                                                Bacteriological Results of Drinking Water                                         757 Museum Drive
+Prattville, AL 36067-9901                                              Shaded Area for Lab Use Only                                             Mobile, AL 36608
+(334) 290-6130                                                         www.alabamapublichealth.gov/bcl                                            (251) 344-6049
+
+ Time Collected                    Date Collected                                                                            Time Received     Date Received
+                                                                          0       0    0
+ 0       8 0                 0       01        01    24                               PWS ID Number
+ 24 Hour Clock                     Month     Day    Year                                                                     24 Hour Clock     Month     Day    Year
+
+                              John Doe                      ( 334 )      290 - 6130                               Private Well                      Your County
+     Collector’s Name                                       Collector’s Phone Number                    System Served                          County
+
+                                          Test Requested:               SM9221 - Multi Tube Ferm             ✔ SM9223B - MMO-Mug
+
+      (Zip code not needed on Public Water)                             Sample Code
+           Collection Point and Zip Code                     mg/L Cl    (Circle one) CA       CP      ECA   ECP     UNS      Lab Number
+                                                                         D P S
+1 Outside Well, 123 Hope St.
+      Nowhere, AL 12345
+
+
+
+
+                                    E
+                                                                         D P S
+2
+
+                                                                         D P S
+
+
+
+
+                                  PL
+3
+
+                                                                         D P S
+4
+
+                                                                         D P S
+5
+                               AM
+                                                                         D P S
+6
+
+                                                                         D P S
+7
+
+                                                                         D P S
+8
+
+                                                                         D P S
+                            EX
+
+
+9
+
+                                                                         D P S
+10
+
+
+                                                                              T
+11 RAW
+
+                                                                              T
+12 RAW
+
+                     Testing Laboratory                         Sample Key                                            Results Key
+                                                                D – Distribution Sample                               CA – Coliform Absent                     Analyst
+                                 Mobile         10060                                                                                                          Tested
+                                                                S – Special Sample                                    CP – Coliform Present
+                           ✔ Prattville         10070                                                                 ECA – E. coli Absent
+                                                                P – Repeat Sample
+                                                                T – Total Coliform Sample                             ECP – E. coli Present
+                                                                                                                      UNS – Unsatisfactory (turn over)
+                         John Doe
+       Mail Report To:
+
+
+
+
+                                                                                                                                                               Analyst
+                         123 Hope St.                                                                                                                          Reviewed
+                         Nowhere, AL 12345
+
+                                                                                                                                 ADPH-BCL/ Rev. 05/24
+                               BUREAU OF CLINICAL LABORATORIES
+                  INSTRUCTIONS FOR COMPLETING THE DRINKING WATER TEST REQUEST
+
+1. Each sample should be uniquely labeled with its corresponding collection point number on the Test Request. Please
+   include the PWSID and collection point description on the sample. NOTE: If more than twelve (12) samples are
+   submitted, renumber the second Test Request from the beginning with No. 13, the third form beginning with the
+   No. 25, etc., so each sample has a different collection point number.
+
+2. Complete the following sections of the form:
+   PWSID:              Identification number, assigned by ADEM Water Division, must be completed. (Not applicable
+                       for private wells.)
+   Collector’s name: Name of the person who collected the sample.
+   System served:      Legal name of your water system.
+   County:             County in which your water system office is located. (For private wells, the county in which
+                       the well is located.)
+   Time collected:     Twenty-four-hour clock format. For times after 12 noon, add 12 hours to the time and write
+
+
+
+
+                                                                          E
+                       those four numbers. For example, 3:45 would read 1545.
+   Date collected:     Record two digits each for month, day, and year. For example, June 9, 2024, would read
+                       060924.
+
+
+
+
+                                                      PL
+   Collection points: Location where the sample is located. Number and location should be the same as labeled on
+                       the corresponding samples(s).
+   mg/L Cl:            Chlorine residual at the collection point in milligrams per liter. (not applicable for private wells.)
+   Sample code:        For each sample, circle the letter to indicate the type of sample collected.
+   Mail report to:     Address to which a copy of the final report should be mailed.
+   Shaded areas:       DO NOT write in any shaded areas. These areas are for lab use only.
+   Shipping:           Use address on front for all deliveries to the Mobile Lab. When shipping via USPS to the
+                              AM
+                       Prattville Lab, use address on front. When shipping to the Prattville Lab via courier, UPS, or
+                       FedEx, use the physical address – 204 Legends Court, Prattville, AL 36066.
+
+                                           WATER SAMPLE INTERPRETATION
+
+If the CP, or ECP column is marked, the sample is positive for total, or E. coli coliform per 100 mL respectively, and
+follow-up action is required. Public water systems must follow ADEM’s regulations. Individuals should contact their
+local county health department environmentalist immediately for corrective action advice.
+        EX
+
+
+If the result is marked in the UNS (Unsatisfactory) column, contact the laboratory for an explanation. See UNS codes
+below.
+
+                                          UNSATISFACTORY SAMPLE CODES
+
+A                          urs old (sample over 6 hours old for Fecal/E. coli).
+        Sample over 30 hours
+B       Sample leaked in transit.
+C       Sample received on a non-scheduled testing day.
+D       Incomplete or incorrect information.
+E       Laboratory accident
+F       Unapproved sample bottle
+G       Sample submitted with less than 100 mL of water (must be filled to at least the 100 mL mark leaving air
+        space for mixing of sample).
+H       Sample bottle too full (insufficient air space for mixing of sample).
+J       Other:
+
+
+
+                                                                                                     ADPH-BCL / Rev. 05/24
+
