@@ -378,3 +378,40 @@ Retrieve date: **14 September 2026** (US/Pacific).
 ### Page / data
 
 - Page: labs/alabama.html · data: data/labs-al.json
+
+## South Dakota — 15 September 2026 (US/Pacific)
+
+Retrieve date: **15 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| DANR Laboratory Certification | https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx | Retrieved 15 September 2026 | In-state: State Health Lab (Pierre), Sioux Falls PHL, Mid Continent Testing, American Engineering Testing; plus out-of-state labs. Archived `data/sources/sd-danr-lab-cert-2026-09-15.html|.txt`. |
+| DANR Private Well Sampling | https://danr.sd.gov/OfficeOfWater/DrinkingWater/PrivateWellSampling.aspx | Retrieved 15 September 2026 | Bacteriological and chemical parameter guidance for private wells. Archived `data/sources/sd-danr-private-well-2026-09-15.html`. |
+| DANR New Well Sampling Program | https://danr.sd.gov/OfficeOfWater/DrinkingWater/NewWellSamplingProgram.aspx | Retrieved 15 September 2026 | Optional program page. Archived `data/sources/sd-danr-new-well-sampling-2026-09-15.html`. |
+| SD DOH Environmental Testing | https://doh.sd.gov/laboratory/environmental-testing/ | Content last updated July 9, 2026; retrieved 15 September 2026 | Private persons: get kit from DOH or special location; DANR private-well info linked. Contact Rea Riggle. Archived `data/sources/sd-doh-environmental-testing-2026-09-15.html|.txt`. |
+| SD DOH Test a Private Well | https://doh.sd.gov/laboratory/environmental-testing/test-a-private-well/ | Content last updated September 14, 2026; retrieved 15 September 2026 | Sample bottle order form; fee information included with bottles; County Extension also distributes bottles. Archived `data/sources/sd-doh-private-well-2026-09-15.html|.txt`. |
+| SD DOH Environmental Testing Fees | https://doh.sd.gov/laboratory/environmental-testing/environmental-testing-fees/ | Content last updated September 14, 2026; retrieved 15 September 2026 | Official fee schedule (inorganic, micro, organics, radiochemistry). Linked from directory; dollar amounts not republished on public HTML. Archived `data/sources/sd-doh-environmental-testing-fees-2026-09-15.html|.txt`. |
+
+### Failed or incomplete (South Dakota)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Commercial private-well acceptance | Mid Continent; American Engineering Testing | No official page confirmed private-well acceptance | Marked unknown — call first. |
+| Sioux Falls PHL private-well path | DANR + DOH pages | Municipal/public health; private-well acceptance not confirmed for homeowners | Short card/note only; not a commercial table row. |
+| Republish DOH fee table | Environmental Testing Fees | Fees verified on official page but may change | Link only; confirm with lab. |
+
+### Directory choices (South Dakota)
+
+| Choice | Detail |
+| --- | --- |
+| In-state commercial | 2 labs tabulated (Mid Continent Testing Laboratory; American Engineering Testing). |
+| Verified path | SD DOH Public Health Laboratory / Environmental Health Laboratory private-person kits (State Health Lab on DANR list). |
+| Documented separately | Sioux Falls Public Health Laboratory (public health note). |
+| Omitted | All out-of-state labs on DANR Laboratory Certification page. |
+| Prices | Intentionally omitted from public HTML; official fees page linked. |
+
+### Page / data
+
+- Page: labs/south-dakota.html · data: data/labs-sd.json

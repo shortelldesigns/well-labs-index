@@ -1,0 +1,1167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <title>South Dakota Drinking Water Program</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="https://cdn.sd.gov/css/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"></link>
+<link href="/include/DanrStyles.css" rel="stylesheet" type="text/css"></link>
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" type="text/css" crossorigin="anonymous"/>
+<link rel="stylesheet" href="https://use.typekit.net/mds4ikk.css">
+
+  <meta name="keywords" content="South Dakota, air quality, program, activities, projects, SD, DANR" />
+  <meta name="description" content="Information about the South Dakota Air Quality Program" />
+
+
+
+</head>
+
+<body>
+  <div class="container-fluid">
+    <nav class="navbar navbar-expand-xl bg-light p-1 sticky-top" aria-label="Main navigation">
+  <div class="container-fluid">
+
+    <!-- Brand/Logo: meaningful alt text (WCAG 1.1.1) -->
+    <a class="navbar-brand" href="/default.aspx">
+      <img class="logo pr-1"
+           alt="South Dakota Department of Agriculture and Natural Resources"
+           src="https://cdn.sd.gov/agency/DANR/DANR-Logo.png">
+    </a>
+
+    <!-- Decorative duplicate of logo text — hidden from AT (WCAG 1.3.1) -->
+    <span class="title-header" aria-hidden="true">
+      South Dakota Department of <br>Agriculture &amp; Natural Resources
+    </span>
+
+    <!-- Mobile toggle button: aria-expanded on <button> is valid (WCAG 4.1.2) -->
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#main_nav"
+      aria-controls="main_nav"
+      aria-expanded="false"
+      aria-label="Toggle navigation menu"
+    >
+      <span class="fas fa-bars" aria-hidden="true"></span>
+    </button>
+
+    <div class="collapse navbar-collapse flex-column p-3" id="main_nav">
+
+      <div class="offcanvas-header mt-3">
+        <!-- Close button: aria-expanded on <button> is valid (WCAG 4.1.2) -->
+        <button
+          class="btn navbtn"
+          type="button"
+          data-toggle="collapse"
+          data-target="#main_nav"
+          aria-controls="main_nav"
+          aria-expanded="true"
+          aria-label="Close navigation menu"
+        >
+          <i class="fa fa-bars" aria-hidden="true"></i>
+        </button>
+
+        <a href="/default.aspx">
+          <img class="img-fluid pb-3 offcanvas-logo"
+               src="/images/logos/DANR Logo.png"
+               alt="DANR home">
+        </a>
+      </div>
+
+      <!-- Utility navigation -->
+      <ul class="navbar-nav uppernav" aria-label="Utility navigation">
+        <li class="nav-item pr-3">
+          <button
+            type="button"
+            class="btn navbtn"
+            data-toggle="modal"
+            data-target="#exampleModal"
+            aria-label="Open site search"
+          >
+            <i class="fas fa-search" aria-hidden="true"></i>
+          </button>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/AboutDANR/default.aspx">SECRETARY'S OFFICE</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/ContactUs/default.aspx">CONTACT US</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" 
+               href="https://www.sdstatefair.com/" 
+               target="_blank" 
+               rel="noreferrer noopener">
+                STATE FAIR
+            </a>
+
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/Press/default.aspx">PRESS</a>
+        </li>
+        <!-- <li class="nav-item">
+          <a class="nav-link" href="/AgSummit/default.aspx">GOVERNOR'S AG SUMMIT</a>
+        </li> -->
+      </ul>
+
+      <!-- Primary navigation
+           WCAG FIX (4.1.2): aria-expanded removed from all <a> elements.
+           aria-expanded is only valid on button/combobox/listbox/tree roles.
+           Each dropdown now has a visually-hidden sibling <button> that owns
+           aria-expanded + aria-controls. The <a> retains its href unchanged.
+           Inline script below wires up keyboard disclosure behavior. -->
+      <ul class="navbar-nav mb-2" aria-label="Primary navigation">
+
+        <!-- Agriculture & Environmental Services -->
+        <li class="nav-item dropdown">
+          <a class="nav-link"
+             href="/Agriculture/default.aspx"
+             id="dropdown-agriculture">
+            AGRICULTURE &amp; ENVIRONMENTAL SERVICES
+          </a>
+          <button class="sr-only dropdown-disclosure"
+                  type="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                  aria-controls="menu-agriculture"
+                  aria-label="Toggle Agriculture and Environmental Services submenu">
+          </button>
+          <ul class="dropdown-menu fade-down" id="menu-agriculture" aria-labelledby="dropdown-agriculture">
+            <li><a class="dropdown-item" href="/Agriculture/Livestock/default.aspx">LIVESTOCK SERVICES</a></li>
+            <li><a class="dropdown-item" href="/Agriculture/inspection/default.aspx">INSPECTION, COMPLIANCE</a></li>
+            <li><a class="dropdown-item" href="/Environment/AirQuality/default.aspx">AIR QUALITY</a></li>
+            <li><a class="dropdown-item" href="/Environment/MineralsMining/default.aspx">MINERALS, MINING, &amp; SUPERFUND</a></li>
+            <li><a class="dropdown-item" href="/Environment/WasteManagement/default.aspx">WASTE MANAGEMENT</a></li>
+          </ul>
+        </li>
+
+        <!-- Resource Conservation & Forestry -->
+        <li class="nav-item dropdown">
+          <a class="nav-link"
+             href="/Conservation/default.aspx"
+             id="dropdown-conservation">
+            RESOURCE CONSERVATION &amp; FORESTRY
+          </a>
+          <button class="sr-only dropdown-disclosure"
+                  type="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                  aria-controls="menu-conservation"
+                  aria-label="Toggle Resource Conservation and Forestry submenu">
+          </button>
+          <ul class="dropdown-menu fade-down" id="menu-conservation" aria-labelledby="dropdown-conservation">
+            <li><a class="dropdown-item" href="/Conservation/Apiary/default.aspx">APIARY</a></li>
+            <li><a class="dropdown-item" href="/Conservation/default.aspx">CONSERVATION</a></li>
+            <li><a class="dropdown-item" href="/Conservation/Forestry/default.aspx">FORESTRY</a></li>
+            <li><a class="dropdown-item" href="/Conservation/PlantIndustry/default.aspx">PLANT INDUSTRY</a></li>
+            <li><a class="dropdown-item" href="/Conservation/SpecialtyCropBlockGrant/default.aspx">SPECIALTY CROP BLOCK GRANT</a></li>
+            <li><a class="dropdown-item" href="/Conservation/WatershedProtection/default.aspx">WATERSHED PROTECTION</a></li>
+          </ul>
+        </li>
+
+        <!-- Finance & Technical Assistance -->
+        <li class="nav-item dropdown">
+          <a class="nav-link"
+             href="/Funding/default.aspx"
+             id="dropdown-funding">
+            FINANCE &amp; TECHNICAL ASSISTANCE
+          </a>
+          <button class="sr-only dropdown-disclosure"
+                  type="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                  aria-controls="menu-funding"
+                  aria-label="Toggle Finance and Technical Assistance submenu">
+          </button>
+          <ul class="dropdown-menu fade-down" id="menu-funding" aria-labelledby="dropdown-funding">
+            <li><a class="dropdown-item" href="/Funding/AgricultureMediation/default.aspx">AGRICULTURAL MEDIATION</a></li>
+            <li><a class="dropdown-item" href="/Funding/checkoff/default.aspx">CHECKOFF REMITTANCE</a></li>
+            <li><a class="dropdown-item" href="/Funding/EnviromentalFunding/default.aspx">ENVIRONMENTAL FUNDING</a></li>
+            <li>
+              <a class="dropdown-item"
+                 href="http://www.sdgs.usd.edu/"
+                 target="_blank"
+                 rel="noopener noreferrer">
+                GEOLOGICAL SURVEY<span class="sr-only"> (opens in new tab)</span>
+              </a>
+            </li>
+          </ul>
+        </li>
+
+        <!-- Office of Water (with nested submenu) -->
+        <li class="nav-item dropdown">
+          <a class="nav-link pr-5"
+             href="/OfficeOfWater/default.aspx"
+             id="dropdown-water">
+            OFFICE OF WATER
+          </a>
+          <button class="sr-only dropdown-disclosure"
+                  type="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                  aria-controls="menu-water"
+                  aria-label="Toggle Office of Water submenu">
+          </button>
+          <ul class="dropdown-menu fade-down" id="menu-water" aria-labelledby="dropdown-water">
+            <li><a class="dropdown-item" href="/OfficeOfWater/DrinkingWater/default.aspx">DRINKING WATER</a></li>
+            <li><a class="dropdown-item" href="/OfficeOfWater/WaterRights/default.aspx">WATER RIGHTS</a></li>
+            <li class="dropdown">
+              <a class="dropdown-item border-0"
+                 href="/OfficeOfWater/SurfaceWaterQuality/default.aspx"
+                 id="dropdown-water-quality">
+                WATER QUALITY
+              </a>
+              <button class="sr-only dropdown-disclosure"
+                      type="button"
+                      aria-haspopup="true"
+                      aria-expanded="false"
+                      aria-controls="menu-water-quality"
+                      aria-label="Toggle Water Quality submenu">
+              </button>
+              <ul class="dropdown-menu w-100 border-0" id="menu-water-quality" aria-labelledby="dropdown-water-quality">
+                <li>
+                  <a class="dropdown-itemc border-0"
+                     href="/OfficeOfWater/OperatorCert/default.aspx">
+                    OPERATOR CERTIFICATION
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- ============================================================
+     SD STATE HOLIDAY CLOSED BANNER
+     Auto-displays on recognized SD state holidays (and observed
+     Friday/Monday when holiday falls on Sat/Sun).
+     WCAG 2.1 AA: role="alert", sufficient color contrast,
+     dismissible with keyboard, focus-managed close button.
+     ============================================================ -->
+<div id="holiday-banner-row" class="row" hidden>
+  <div class="col-12">
+    <div id="holiday-banner"
+         role="alert"
+         aria-live="polite"
+         aria-atomic="true"
+         style="
+           background-color: #154734;
+           color: #ffffff;
+           padding: 0.85rem 1.25rem;
+           display: flex;
+           align-items: center;
+           justify-content: space-between;
+           flex-wrap: wrap;
+           gap: 0.5rem;
+         ">
+      <div style="display:flex; align-items:center; gap:0.6rem; flex:1; min-width:0;">
+        <svg aria-hidden="true" focusable="false"
+             xmlns="http://www.w3.org/2000/svg"
+             viewBox="0 0 24 24" fill="currentColor"
+             style="width:1.4rem;height:1.4rem;flex-shrink:0;">
+          <path d="M19 4h-1V2h-2v2H8V2H6v2H5C3.9 4 3 4.9 3 6v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2z"/>
+        </svg>
+        <span id="holiday-banner-message" style="font-weight:600; font-size:1rem;"></span>
+      </div>
+      <button id="holiday-banner-close"
+              type="button"
+              aria-label="Dismiss holiday closure notice"
+              style="
+                background: transparent;
+                border: 2px solid #ffffff;
+                color: #ffffff;
+                border-radius: 4px;
+                padding: 0.2rem 0.6rem;
+                font-size: 1rem;
+                line-height: 1;
+                cursor: pointer;
+                flex-shrink: 0;
+              ">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  function getNthWeekday(year, month, weekday, nth) {
+    var d     = new Date(year, month, 1);
+    var first = d.getDay();
+    var offset = (weekday - first + 7) % 7;
+    if (nth === -1) {
+      var last      = new Date(year, month + 1, 0).getDate();
+      var candidate = last - ((new Date(year, month, last).getDay() - weekday + 7) % 7);
+      return new Date(year, month, candidate);
+    }
+    return new Date(year, month, 1 + offset + (nth - 1) * 7);
+  }
+
+  function shiftObserved(date) {
+    var day = date.getDay();
+    if (day === 6) return new Date(date.getFullYear(), date.getMonth(), date.getDate() - 1); // Sat→Fri
+    if (day === 0) return new Date(date.getFullYear(), date.getMonth(), date.getDate() + 1); // Sun→Mon
+    return date;
+  }
+
+  function toFullKey(date) {
+    return date.getFullYear() + '-' +
+      ('0' + (date.getMonth() + 1)).slice(-2) + '-' +
+      ('0' + date.getDate()).slice(-2);
+  }
+
+  function getSDHolidays(year) {
+    var holidays = [
+      { name: "New Year's Day",             date: shiftObserved(new Date(year, 0, 1)) },
+      { name: "Martin Luther King Jr. Day", date: getNthWeekday(year, 0, 1, 3) },   // 3rd Mon Jan
+      { name: "Presidents Day",             date: getNthWeekday(year, 1, 1, 3) },   // 3rd Mon Feb
+      { name: "Memorial Day",               date: getNthWeekday(year, 4, 1, -1) },  // Last Mon May
+      { name: "Juneteenth",                 date: shiftObserved(new Date(year, 5, 19)) },
+      // In 2026, Jul 4 falls on Saturday; the governor's closure (Jul 3) replaces
+      // the standard observed entry. The one-time entry below handles 2026.
+      year !== 2026 ? { name: "Independence Day", date: shiftObserved(new Date(year, 6, 4)) } : null,
+      { name: "Labor Day",                  date: getNthWeekday(year, 8, 1, 1) },   // 1st Mon Sep
+      { name: "Native Americans Day",       date: getNthWeekday(year, 9, 1, 2) },   // 2nd Mon Oct
+      { name: "Veterans Day",               date: shiftObserved(new Date(year, 10, 11)) },
+      { name: "Thanksgiving",               date: getNthWeekday(year, 10, 4, 4) },  // 4th Thu Nov
+      { name: "Christmas Day",              date: shiftObserved(new Date(year, 11, 25)) }
+    ];
+
+    // Observed New Year's Day that rolls back into the current year (e.g. Jan 1 on Sat → Dec 31 Fri)
+    var nye = shiftObserved(new Date(year + 1, 0, 1));
+    if (nye.getFullYear() === year) {
+      holidays.push({ name: "New Year's Day (observed)", date: nye });
+    }
+
+    // ONE-TIME: Governor-granted closure — July 3, 2026.
+    // Independence Day (Jul 4) falls on a Saturday; observed holiday is Fri Jul 3.
+    // Remove this entry after 2026.
+    if (year === 2026) {
+      holidays.push({ name: "Independence Day", date: new Date(2026, 6, 3) });
+    }
+
+    return holidays.filter(Boolean);
+  }
+
+  function checkHolidayStatus() {
+    var now      = new Date();
+    var today    = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    var lists    = getSDHolidays(today.getFullYear()).concat(getSDHolidays(today.getFullYear() - 1));
+    var todayKey    = toFullKey(today);
+    var tomorrowKey = toFullKey(new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1));
+
+    for (var i = 0; i < lists.length; i++) {
+      var h    = lists[i];
+      var hKey = toFullKey(h.date);
+      if (hKey === todayKey)    { return { name: h.name, isToday: true  }; }
+      if (hKey === tomorrowKey) { return { name: h.name, isToday: false }; }
+    }
+    return null;
+  }
+
+  var holidayStatus = checkHolidayStatus();
+  if (holidayStatus) {
+    var bannerRow = document.getElementById('holiday-banner-row');
+    var msgEl     = document.getElementById('holiday-banner-message');
+    var closeBtn  = document.getElementById('holiday-banner-close');
+
+    var monthNames = ['January','February','March','April','May','June',
+                      'July','August','September','October','November','December'];
+    var now      = new Date();
+    var today    = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    var tomorrow = new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1);
+
+    function formatDate(d) {
+      return monthNames[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+    }
+
+    if (holidayStatus.isToday) {
+      msgEl.textContent =
+        'DANR offices are closed today, ' + formatDate(today) +
+        ', in observance of ' + holidayStatus.name +
+        '. We will reopen the next business day.';
+    } else {
+      msgEl.textContent =
+        'DANR offices will be closed tomorrow, ' + formatDate(tomorrow) +
+        ', in observance of ' + holidayStatus.name +
+        '. Normal hours resume the following business day.';
+    }
+
+    bannerRow.removeAttribute('hidden');
+
+    closeBtn.addEventListener('click', function () {
+      bannerRow.setAttribute('hidden', '');
+      var skipLink = document.querySelector('.skip-link');
+      if (skipLink) skipLink.focus();
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if ((e.key === 'Escape' || e.keyCode === 27) && !bannerRow.hasAttribute('hidden')) {
+        bannerRow.setAttribute('hidden', '');
+      }
+    });
+  }
+}());
+</script>
+      <!-- END HOLIDAY BANNER -->
+
+<!-- Keyboard disclosure for dropdown menus (WCAG 2.1.1)
+     Allows keyboard-only users to open/close submenus via the sr-only toggle buttons.
+     Mouse/hover CSS behavior is completely unchanged. -->
+<script>
+(function () {
+  document.querySelectorAll('.dropdown-disclosure').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      var menu = document.getElementById(this.getAttribute('aria-controls'));
+      this.setAttribute('aria-expanded', String(!expanded));
+      if (menu) menu.classList.toggle('show', !expanded);
+    });
+  });
+  document.addEventListener('focusin', function (e) {
+    if (!e.target.closest('nav')) {
+      document.querySelectorAll('.dropdown-disclosure[aria-expanded="true"]').forEach(function (btn) {
+        btn.setAttribute('aria-expanded', 'false');
+        var menu = document.getElementById(btn.getAttribute('aria-controls'));
+        if (menu) menu.classList.remove('show');
+      });
+    }
+  });
+})();
+</script>
+
+    <div class="row row-offcanvas row-offcanvas-right py-3 mb-3">
+      <div class="col-xs-12 col-sm-9 ">
+        <div class="jumbotron bg-transparent">
+          <h1 class="jumboheading w-75">Private Well Sampling</h1>
+          
+            
+              <p>After having your well sampled, the test results, which provide a general indication of water quality,
+                are for your information and allow you to judge for yourself as to the general quality of the water.&nbsp;
+                Sampling techniques and the test results are explained below.</p>
+                <a class="btn btn-default" href="docs/Well Assessment Brochure revised 10.24.23.pdf" aria-label="Click Here for more information on Midwest Assistance Program's Free Private Well Assessment">Click Here for more information on Midwest Assistance Program's Free Private Well Assessment</a>
+
+            
+           
+           
+         
+          </div>
+
+
+        <div class="row">
+          <div class="col-xs-12 col-lg-12">
+
+
+
+            
+            
+
+
+
+
+
+            <h2 class="title">Bacteriological Analysis (Safe or Unsafe)</h2>
+
+
+
+
+
+            <p><a href="docs/How to Take Bacteriological Samples.pdf" aria-label="Learn how to take bacteriological samples">Learn how to take bacteriological samples</a> (pdf)<br>
+              <br>
+              If your bacteriological analysis is determined to be unsafe for drinking purposes, it means there are
+              organisms of the coliform group present in your water. These organisms are characteristic of sewage,
+              sewage-like materials and surface drainage. Until your well is tested and found to be safe, the water
+              should be boiled before being used for drinking purposes.
+            </p>
+
+            <p>Shallow and deep wells are most often contaminated by means of surface water which enters around the
+              pump, through the well cover, or through the upper few feet of the well casing.</p>
+            <p>Wells are sometimes terminated in pits for the purposes of preventing freezing during cold weather. These
+              pits will often collect surface waters which may enter the well by overflowing into the casing or by
+              seeping down the outside of the casing and then into the water bearing formation. It is possible for water
+              to seep down the outside of the casing a considerable distance without the bacteria being filtered out,
+              since the space between the drill hole and the casing often has not been completely filled in. From a
+              sanitary viewpoint, well pits are not desirable.</p>
+
+            <p><a href="docs/disinfectionsheets.pdf" aria-label="Disinfecting Your Well">Disinfecting Your Well</a> (pdf)</p>
+
+            <p>It is recommended that the bacteriological quality of the water be retested at least annually. After
+              heavy rains, snow melt, or flooding in the area of your well, a sample of water should be submitted for at
+              least a bacteriological and nitrate analysis</p>
+
+
+
+
+
+            <p>Common Ions</p>
+
+
+            
+
+
+              <h2 class="title">Chloride</h2>
+
+
+              Chloride in drinking water is generally not harmful to people until high concentrations are reached,
+              although chloride may be injurious to some people suffering from diseases of the heart or kidneys.
+              Restrictions on chloride concentrations in drinking water are generally based on taste requirements rather
+              than on health. The source of chloride may be a more important factor than the quantity of chloride; any
+              sudden increase in the chloride content should be suspected as a possible indication of pollution and
+              should be investigated further. Chloride should not exceed 250 mg/L (milligrams per liter).
+
+
+
+
+
+
+              <h2 class="title">Copper</h2>
+
+
+              Copper is currently regulated because of its effect on the taste of drinking water. Copper is an essential
+              nutrient, but there is no evidence of copper deficiency in the U.S. population. Toxic effects from
+              elevated drinking water levels have been reported, especially from infants. Copper imparts an unpleasant
+              taste to drinking water, which along with an emetic (induces vomiting) effect, serves to limit the amount
+              of copper which can be ingested from drinking water. The occurrence of copper in drinking water is usually
+              a result of corrosion. The recommended maximum limit is 1 mg/L.
+
+
+
+
+
+
+              <h2 class="title">Iron and Manganese</h2>
+
+
+            <td colspan="2" height="116">Iron and manganese are nuisance chemicals that cause troublesome stains and
+              deposits on light-colored clothing, plumbing fixtures, and in pipes. Iron causes yellow, red, or
+              reddish-brown stains and deposits while manganese stains and deposits are gray or black. Iron and
+              manganese can be removed in a zeolite softener equipped with a special resin or by small treatment systems
+              using aeration, filtration, and chlorination. Manganese in excess of 0.05 mg/L will more than likely cause
+              problems. Iron problems arise with levels greater than 0.3 mg/L, or a combination of iron and manganese in
+              excess of 0.3 mg/L. Iron and manganese may also contribute to odor problems.
+
+
+
+
+
+
+              <h2 class="title">Sulfate</h2>
+
+
+            <td colspan="2" height="50">Water with a sulfate content in excess of 250 mg/L may have a bitter taste and
+              have a laxative effect on persons not adapted to the water. Sulfate may contribute to odor problems. The
+              sulfate content can be reduced in a private water supply through treatment.
+
+
+
+
+
+
+              <h2 class="title">Zinc</h2>
+
+
+            <td colspan="2" height="82">Zinc is currently regulated based on taste considerations. Zinc occurrence in
+              drinking water is most frequently due to the corrosion of galvanized ion pipe and fittings. Zinc is
+              relatively non-toxic and is and essential trace element. At drinking water concentrations high enough to
+              cause gastrointestinal problems, zinc would impart a strong astringent (puckery) taste and milky
+              appearance to the water. The recommended maximum limit is 5 mg/L.
+
+
+
+
+
+
+              <h2 class="title">Solids (Total)</h2>
+
+
+            <td colspan="2" height="50">This refers to the amount of total solid matter suspended and dissolved in
+              water. Water with a high solids content is generally a poor quality drinking water. A limit of 500 mg/L
+              for drinking water is recommended with 4,000 mg/L as a maximum.
+
+
+
+
+
+
+              <h2 class="title">pH </h2>
+
+
+            <td colspan="2" height="50">The pH indicates the acidity of the drinking water. The pH scale is from 0 to 14
+              units with a value of 7 being neutral (equal amounts of acid and base). pH values less than 7 are acidic,
+              and pH values above 7 are basic (alkaline). The recommended limit for pH is 6.5 - 8.5.
+
+
+
+
+
+
+              <h2 class="title">Alkalinity</h2>
+
+
+            <td colspan="2" height="50">Alkalinity is not considered to be detrimental to humans, but is generally
+              associated with hardness, high pH values, and excessive dissolved solids, all of which may be undesirable.
+              No recommended standard has been set.
+
+
+            <td width="646" height="24">
+            <td width="122" height="24">
+
+
+              <h2 class="title">Bicarbonate</h2>
+
+
+            <td colspan="2" height="34">Excessive bicarbonate adds to the salinity and total solids content of water,
+              and at high temperatures tends to form scale deposits on faucets and other plumbing. No recommended
+              standard has been set.
+
+
+
+
+
+
+              <h2 class="title">Carbonate</h2>
+
+
+            <td colspan="2" height="52">This term is also called temporary hardness because heating will remove it. When
+              water is heated, bicarbonate breaks down into carbonate and forms solid particles that can stick to in the
+              inside of pipes or a heated surface.
+
+
+
+
+
+
+              <h2 class="title">Conductivity</h2>
+
+
+            <td colspan="2" height="82">This measures the ability of water to conduct an electrical current, and is
+              related to the type and amount of dissolved chemicals in water. In general, water having a conductivity of
+              less than 1,000 microohms may have slight hardness as well as taste and odor problems. Dependent upon the
+              particular chemicals dissolved in the water, these problems may become more pronounced with increasing
+              conductivity to the extent that levels greater than 2,000 microohms may make the water objectionable for
+              human use.
+
+
+
+
+
+
+              <h2 class="title">Calcium</h2>
+
+
+            <td colspan="2" height="66">Calcium is essential to human nutrition and a key element in the formation of
+              teeth and bones. Calcium is also know as limestone and is a cause of water hardness that creates soap curd
+              and scum in sinks and bathtubs. It forms scale deposits in water pipes, water heaters, and tea kettles.
+              Calcium is removed by use of a home water softener.
+
+
+
+
+
+
+              <h2 class="title">Magnesium</strong> </p>
+
+
+            <td colspan="2" height="84">Magnesium is one of the most common elements in the earth's crust. It is used as
+              an antacid medicine. Salts of magnesium and calcium are a cause of water hardness and both can be removed
+              by a home water softener. Magnesium sulfate at very high concentrations (above 1,000 mg/L) may have a
+              laxative effect on some people that are unaccustomed to drinking the water and will also give water an
+              unpleasant taste.
+
+
+
+
+
+
+              <h2 class="title">Langlier Index</h2>
+
+
+            <td colspan="2" height="21">This value indicates whether the water tends to be corrosive (-) or deposit
+              forming (+).
+
+
+
+
+
+
+              <h2 class="title">Sodium</h2>
+
+
+            <td colspan="2" height="50">Sodium may be of health significance to individuals on a low-salt diet. The
+              sodium content is increased when water is passed through a home water softener. People on low sodium diets
+              should consult their physician as to how much water may be consumed.
+
+
+
+
+
+
+              <h2 class="title">Hardness</h2>
+
+
+              <p>Hardness is the soap consuming capacity of water. The harder the water, the more soap is required to
+                produce a lather. Hard water also causes greasy rings on bathtubs, sinks, and dishes, scale deposits in
+                pipes and faucets, and poor laundry results. Hard water problems may be partially overcome for bathing
+                and washing by the use of synthetic detergents or packaged "softening" compounds. The hardness of water
+                may be reduced by use of a home water softener. Home water softeners increase the sodium content of
+                water and therefore may be of concern to people on low sodium diets. Home water softeners do not reduce
+                the total dissolved solids, nitrate, sulfate, or fluoride level of the water.&nbsp;&nbsp; Note that
+                17.12 mg/L equal 1 grain per gallon.&nbsp; South Dakota water is rated for hardness as follows: </p>
+
+              <p>0 -3 grains per gallon - <strong>soft water</strong><br>
+                4 - 10 grains per gallon - <strong>reasonably soft water</strong><br>
+                11 - 25 grains per gallon - <strong>fairly hard, less than average for SD</strong><br>
+                26 - 50 grains per gallon - <strong>average hardness for SD</strong><br>
+                51 - 75 grains per gallon - <strong>very hard</strong><br>
+                Over 75 grains per gallon - <strong>extremely hard</strong>              
+            <h2 class="title">Potassium</h2>
+
+
+            <td colspan="2" height="50">In public drinking water supplies, potassium is an essential nutritional
+              element, but in excessive quantities it acts as a laxative, and 1,000 to 2,000 mg/L is regarded as the
+              extreme limit of potassium permissible in drinking water.
+
+
+
+
+
+
+              <h2 class="title">Nitrate</h2>
+
+
+            <td colspan="2" height="68">Nitrate is excess of 10 mg/L (as nitrogen) is of health significance to infants
+              of six (6) months of age or less, and pregnant women. High nitrate water should not be used for infant
+              feeding or formula preparation. Nitrate cannot be removed or reduced by boiling. Boiling will actually
+              increase the concentration of nitrate in the water.
+
+
+
+
+
+
+              <h2 class="title">Fluoride</h2>
+
+
+              Fluoride is common in nature and is therefore a common component of drinking water. At certain
+              concentrations (1.2 mg/L in SD), fluoride is beneficial by reducing dental cavities significantly. Higher
+              levels of fluoride in water (above 4.0 mg/L) can cause mottled or stained teeth in children that drink the
+              water for long periods before their permanent teeth are in place. This mottling can cause the teeth to be
+              more fragile and sometimes lead to increased cavities. Osteoporosis (leaching of calcium from the bones)
+              can also be caused by high levels of fluoride in drinking water.
+
+
+
+
+          </div>
+
+        </div>
+
+
+
+
+
+
+      </div>
+
+      <div class="col-xs-6 col-sm-3 mt-5 pt-2" id="sidebar">
+        <h2 class="heading">Office of Water Resources</h2>
+
+
+
+  <div id="accordionDW">
+    <div class="card">
+      <div class="card-header" id="headingDW">
+        <div class="mb-0">
+          <a class="title" href="#" data-toggle="collapse" data-target="#collapse7" aria-expanded="true"
+            aria-controls="collapse7">
+            DRINKING WATER INFORMATION <i class="fas fa-angle-down" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+
+      <div id="collapse7" class="collapse" aria-labelledby="headingDW" data-parent="#accordionDW">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/AnnualDWReport.aspx">Annual Drinking Water Reports</a></li>
+                <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                  href="/OfficeOfWater/DrinkingWater/RegulatoryInfo/default.aspx">Drinking Water Regulatory Info</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/Asbestos.aspx">Asbestos</a></li>
+
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/CapacityDevelopment.aspx">Capacity Development</a></li>
+
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/DisinfectionByProducts.aspx">Disinfection By-Products</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/DrinkingWaterSecurity.aspx">Drinking Water Security</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/Flouride.aspx">Fluoride</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/GroundWaterRule.aspx">Ground Water Rule</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/InorganicContanimants.aspx">Inorganic Contaminants</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx">Laboratory Certification</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/LeadCopper.aspx">Lead and Copper</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/leadschools.aspx">Lead In Schools</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/manganese.aspx">Manganese</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/DrinkingWaterRequirementsForNewSystems.aspx">New Drinking Water
+                Systems</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/NewWellSamplingProgram.aspx">New Well Sampling Program</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/Nitrates.aspx">Nitrates/Nitrites</a></li>
+                <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                  href="/OfficeOfWater/DrinkingWater/PFAS.aspx">PFAS</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/PrivateWellSampling.aspx">Private Well Sampling</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/publicnotification.aspx">Public Notification</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/radiological.aspx">Radiological Contaminants</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/RevisedColiform.aspx">Revised Total Coliform Rule</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/SurfaceWaterTreatmentRule.aspx">Surface Water Treatment Rule</a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/syntheticorganic.aspx">Synthetic Organic Contaminants</a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/UnregulatedContaminants.aspx">Unregulated Contaminants</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/voc.aspx">Volatile Organic Contaminants</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/waiverinformation.aspx">Waiver Information</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/WellheadProtection/default.aspx">Wellhead Protection</a></li>
+            <!--<li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/OperatorCertification/default.aspx">Water System Information</a></li>-->
+            <!-- <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                  href="/OfficeOfWater/DrinkingWater/SourceWaterProtection/default.aspx">Source Water Protection</a></li>
+                  <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                    href="/OfficeOfWater/DrinkingWater/WellheadProtection/default.aspx">Wellhead Protection</a></li>-->
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="accordionLSL">
+    <div class="card">
+  <div class="card-header" id="headingLSL">
+  <div class="mb-0">
+    <a class="title"
+       href="#"
+       data-toggle="collapse"
+       data-target="#collapse10"
+       aria-expanded="true"
+       aria-controls="collapse10"
+       aria-label="Expand Lead Service Line Inventory navigation section">
+      LEAD SERVICE LINE INVENTORY
+      <i class="fas fa-angle-down" aria-hidden="true"></i>
+    </a>
+  </div>
+</div>
+
+      <div id="collapse10" class="collapse" aria-labelledby="headingLSL" data-parent="#accordionLSL">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+              href="/OfficeOfWater/LeadWaterPipes/default.aspx">Lead Service Line Inventory</a>
+          </li>
+          
+           
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="accordionOpCert">
+    <div class="card">
+      <div class="card-header" id="headingOpCert">
+        <div class="mb-0">
+          <a class="title" href="#" data-toggle="collapse" data-target="#collapse9" aria-expanded="true"
+            aria-controls="collapse9">
+            OPERATOR CERTIFICATION <i class="fas fa-angle-down" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+
+      <div id="collapse9" class="collapse" aria-labelledby="headingOpCert" data-parent="#accordionOpCert">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/OperatorCert/default.aspx">Operator Certification</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="https://boardsandcommissions.sd.gov/Meetings.aspx?BoardID=187" target="_blank" rel="noreferrer noopener">Board of Operator Certification<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/OperatorCert/PDF/OpCertExam.pdf">Exam Schedule</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="../../../OfficeOfWater/OperatorCert/PDF/OpCert Summary.pdf">General Information About
+                Operator
+                Certification</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="accordionForms">
+    <div class="card">
+      <div class="card-header" id="headingForms">
+        <div class="mb-0">
+          <a class="title" href="#" data-toggle="collapse" data-target="#collapse6" aria-expanded="true"
+            aria-controls="collapse6">
+            FORMS <i class="fas fa-angle-down" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+
+      <div id="collapse6" class="collapse" aria-labelledby="headingForms" data-parent="#accordionForms">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/OperatorCert/PDF/OpCertExamApp.pdf">Exam Application Form</a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/OperatorCert/PDF/application-rec-new_20220302.pdf">Reciprocity Application</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div id="accordionLaws">
+    <div class="card">
+      <div class="card-header" id="headingLaws">
+        <div class="mb-0">
+          <a class="title" href="#" data-toggle="collapse" data-target="#collapse8" aria-expanded="true"
+            aria-controls="collapse8">
+            LAWS & RULES <i class="fas fa-angle-down" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+
+      <div id="collapse8" class="collapse" aria-labelledby="headingLaws" data-parent="#accordionLaws">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener" href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:12">Drinking
+                Water Standards<span class="sr-only"> (opens in new tab)</span></a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74%3A04%3A11">Sanitary Surveys<span class="sr-only"> (opens in new tab)</span></a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener" href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=20:01:11">Bottled
+                Water Regulation<span class="sr-only"> (opens in new tab)</span></a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://www.sdlegislature.gov/Rules/Administrative/27258">Operator Certification Rules<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:07">Laboratory Certification Rules<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <!-- <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank" rel="noreferrer noopener"
+              href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:08">Municipal Swimming Pool and Beach
+              Rules<span class="sr-only"> (opens in new tab)</span></a></li> -->
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:01">Fluoridation of Water Supplies
+                Rules<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:12:32">Public Notification Rules<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener" href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:09">Capacity
+                Requirements for New Community
+                and New Nontransient Noncommunity Water Systems<span class="sr-only"> (opens in new tab)</span></a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=34A-3A&">Chapter
+                34A-3A - Safe Drinking Water<span class="sr-only"> (opens in new tab)</span></a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener" href="https://www.ecfr.gov/current/title-40/part-141">40 C.F.R. PART 141 ï¿½ NATIONAL PRIMARY DRINKING WATER REGULATIONS<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener" href="https://www.ecfr.gov/current/title-40/part-142">40 C.F.R. PART 142 ï¿½ NATIONAL PRIMARY DRINKING WATER REGULATIONS
+                IMPLEMENTATION<span class="sr-only"> (opens in new tab)</span></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+      </div>
+      
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <footer class="footer" role="contentinfo" style="background-color: #003d4d; color: #ffffff;">
+    
+
+
+    <div class="container bottom_border" style="background-color: #003d4d;">
+        <div class="row">
+            <!-- Contact Us -->
+            <div class="col-12 col-sm-6 col-md-3">
+                <p class="footertitle pt2" style="color: #a8e34f;">Contact Us</p>
+                <p class="mb10" style="color: #ffffff;">Department Secretary: <br><strong>Hunter Roberts</strong></p>
+                <p style="color: #ffffff;">
+                    <i class="fa fa-location-arrow pr-2" aria-hidden="true" style="color: #ffffff;"></i>
+                    523 E Capitol Ave, <br>Pierre, SD 57501-3182
+                </p>
+                <p style="color: #ffffff;">
+                    <i class="fa fa-phone pr-2" aria-hidden="true" style="color: #ffffff;"></i>
+                    <a href="tel:605-773-5559"
+                       aria-label="Call DANR at 605-773-5559"
+                       class="contact-link"
+                       style="color: #ffffff;">
+                        605-773-5559
+                    </a>
+                </p>
+
+                <p style="color: #ffffff;">
+                    <i class="fa fa-envelope pr-2" aria-hidden="true" style="color: #ffffff;"></i>
+                    <a href="mailto:DANRmail@state.sd.us"
+                       aria-label="Email DANR at DANRmail@state.sd.us"
+                       class="contact-link"
+                       style="color: #ffffff;">
+                        Email DANR
+                    </a>
+                </p>
+            </div>
+
+            <!-- DANR Links -->
+            <div class="col-12 col-sm-6 col-md-3">
+                <p class="footertitle pt2" style="color: #a8e34f;">DANR Links</p>
+                <nav aria-label="DANR links">
+                    <ul class="footer_ul_amrc" >
+                        <li ><a href="/AboutDANR/default.aspx">About DANR</a></li>
+                        <li ><a href="/ContactUs/default.aspx">Contact Us</a></li>
+                        <li ><a href="https://www.sdstatefair.com/">State Fair</a></li>
+                        <li ><a href="/Press/default.aspx">Press</a></li>
+                        <li ><a href="/Press/ArchivedDocuments.aspx">Archived Documents</a></li>
+                        <li ><a href="/ContactUs/docs/DANR Nondiscrimination Policy.pdf">Nondiscrimination Policy (PDF)</a></li>
+                        <li ><a href="https://intranetdenr.sd.gov/">DANR Intranet Site</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <!-- State Links -->
+            <div class="col-12 col-sm-6 col-md-3">
+                <p class="footertitle pt2" style="color: #a8e34f;">State Links</p>
+                <nav aria-label="State of South Dakota links">
+                    <ul class="footer_ul_amrc" >
+                        <li ><a href="https://sd.gov">State Home Page</a></li>
+                        <li ><a href="https://www.sd.gov/cs?id=sc_cat_item&sys_id=f7f939eddbd4b150b2fb93d4f39619c0">Request Public Records</a></li>
+                        <li ><a href="https://sd.gov/disclaim.aspx">Disclaimer</a></li>
+                        <li ><a href="https://www.sd.gov/cs?id=kb_article_view&sysparm_article=KB0010219&sys_kb_id=6e01841547c32650fc1303dc426d43a9&spa=1">Accessibility</a></li>
+                        <li ><a href="https://sd.gov/privacy.aspx">Privacy Policy</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <!-- Follow Us -->
+            <div class="col-12 col-sm-6 col-md-3">
+                <p class="footertitle pt2 text-center" style="color: #a8e34f;">Follow Us</p>
+                <nav aria-label="Social media links">
+                    <ul class="social_footer_ul text-center"  style="display: flex; justify-content: center; gap: 20px;">
+                        <li >
+                            <a href="https://m.facebook.com/SDDANR/"
+                               target="_blank"
+                               rel="noopener noreferrer"
+                               aria-label="Follow DANR on Facebook (opens in new tab)"
+                               class="social-link">
+                                <i class="fab fa-facebook-f" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <li >
+                            <a href="https://twitter.com/SD_DANR?s=09"
+                               target="_blank"
+                               rel="noopener noreferrer"
+                               aria-label="Follow DANR on X (formerly Twitter) (opens in new tab)"
+                               class="social-link">
+                                <i class="fab fa-twitter" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <li >
+                            <a href="https://www.instagram.com/sddanr/"
+                               target="_blank"
+                               rel="noopener noreferrer"
+                               aria-label="Follow DANR on Instagram (opens in new tab)"
+                               class="social-link">
+                                <i class="fab fa-instagram" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" style="background-color: #003d4d; padding: 15px 0;">
+        <p class="text-center" style="color: #ffffff; margin: 0;">Copyright &copy; 2026 | State of South Dakota</p>
+    </div>
+</footer>
+
+<script src="https://cdn.sd.gov/lib/jquery/jquery.slim.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.sd.gov/lib/bootstrap/bootstrap.min.js" crossorigin="anonymous"></script>
+<script src="/include/DanrScripts.js"></script>
+<script src="/include/scripts.js"></script>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content rounded text-center">
+            <div class="modal-header">
+                <h5 class="modal-title mx-auto" id="exampleModalLabel">WHAT CAN WE HELP YOU FIND?</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+            </div>
+            <div class="modal-body">
+
+                
+                <script async src="https://cse.google.com/cse.js?cx=012382400048732927914:7hahkjp_r0s"></script>
+                <div class="gcse-searchbox-only"></div>
+
+                <br>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+</body>
+
+</html>
