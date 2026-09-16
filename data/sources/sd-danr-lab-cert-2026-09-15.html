@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <title>South Dakota Drinking Water Program</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="https://cdn.sd.gov/css/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"></link>
+<link href="/include/DanrStyles.css" rel="stylesheet" type="text/css"></link>
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" type="text/css" crossorigin="anonymous"/>
+<link rel="stylesheet" href="https://use.typekit.net/mds4ikk.css">
+
+  <meta name="keywords" content="South Dakota, air quality, program, activities, projects, SD, DANR" />
+  <meta name="description" content="Information about the South Dakota Air Quality Program" />
+
+
+
+
+</head>
+
+<body>
+  <div class="container-fluid">
+    <nav class="navbar navbar-expand-xl bg-light p-1 sticky-top" aria-label="Main navigation">
+  <div class="container-fluid">
+
+    <!-- Brand/Logo: meaningful alt text (WCAG 1.1.1) -->
+    <a class="navbar-brand" href="/default.aspx">
+      <img class="logo pr-1"
+           alt="South Dakota Department of Agriculture and Natural Resources"
+           src="https://cdn.sd.gov/agency/DANR/DANR-Logo.png">
+    </a>
+
+    <!-- Decorative duplicate of logo text — hidden from AT (WCAG 1.3.1) -->
+    <span class="title-header" aria-hidden="true">
+      South Dakota Department of <br>Agriculture &amp; Natural Resources
+    </span>
+
+    <!-- Mobile toggle button: aria-expanded on <button> is valid (WCAG 4.1.2) -->
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#main_nav"
+      aria-controls="main_nav"
+      aria-expanded="false"
+      aria-label="Toggle navigation menu"
+    >
+      <span class="fas fa-bars" aria-hidden="true"></span>
+    </button>
+
+    <div class="collapse navbar-collapse flex-column p-3" id="main_nav">
+
+      <div class="offcanvas-header mt-3">
+        <!-- Close button: aria-expanded on <button> is valid (WCAG 4.1.2) -->
+        <button
+          class="btn navbtn"
+          type="button"
+          data-toggle="collapse"
+          data-target="#main_nav"
+          aria-controls="main_nav"
+          aria-expanded="true"
+          aria-label="Close navigation menu"
+        >
+          <i class="fa fa-bars" aria-hidden="true"></i>
+        </button>
+
+        <a href="/default.aspx">
+          <img class="img-fluid pb-3 offcanvas-logo"
+               src="/images/logos/DANR Logo.png"
+               alt="DANR home">
+        </a>
+      </div>
+
+      <!-- Utility navigation -->
+      <ul class="navbar-nav uppernav" aria-label="Utility navigation">
+        <li class="nav-item pr-3">
+          <button
+            type="button"
+            class="btn navbtn"
+            data-toggle="modal"
+            data-target="#exampleModal"
+            aria-label="Open site search"
+          >
+            <i class="fas fa-search" aria-hidden="true"></i>
+          </button>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/AboutDANR/default.aspx">SECRETARY'S OFFICE</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/ContactUs/default.aspx">CONTACT US</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" 
+               href="https://www.sdstatefair.com/" 
+               target="_blank" 
+               rel="noreferrer noopener">
+                STATE FAIR
+            </a>
+
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/Press/default.aspx">PRESS</a>
+        </li>
+        <!-- <li class="nav-item">
+          <a class="nav-link" href="/AgSummit/default.aspx">GOVERNOR'S AG SUMMIT</a>
+        </li> -->
+      </ul>
+
+      <!-- Primary navigation
+           WCAG FIX (4.1.2): aria-expanded removed from all <a> elements.
+           aria-expanded is only valid on button/combobox/listbox/tree roles.
+           Each dropdown now has a visually-hidden sibling <button> that owns
+           aria-expanded + aria-controls. The <a> retains its href unchanged.
+           Inline script below wires up keyboard disclosure behavior. -->
+      <ul class="navbar-nav mb-2" aria-label="Primary navigation">
+
+        <!-- Agriculture & Environmental Services -->
+        <li class="nav-item dropdown">
+          <a class="nav-link"
+             href="/Agriculture/default.aspx"
+             id="dropdown-agriculture">
+            AGRICULTURE &amp; ENVIRONMENTAL SERVICES
+          </a>
+          <button class="sr-only dropdown-disclosure"
+                  type="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                  aria-controls="menu-agriculture"
+                  aria-label="Toggle Agriculture and Environmental Services submenu">
+          </button>
+          <ul class="dropdown-menu fade-down" id="menu-agriculture" aria-labelledby="dropdown-agriculture">
+            <li><a class="dropdown-item" href="/Agriculture/Livestock/default.aspx">LIVESTOCK SERVICES</a></li>
+            <li><a class="dropdown-item" href="/Agriculture/inspection/default.aspx">INSPECTION, COMPLIANCE</a></li>
+            <li><a class="dropdown-item" href="/Environment/AirQuality/default.aspx">AIR QUALITY</a></li>
+            <li><a class="dropdown-item" href="/Environment/MineralsMining/default.aspx">MINERALS, MINING, &amp; SUPERFUND</a></li>
+            <li><a class="dropdown-item" href="/Environment/WasteManagement/default.aspx">WASTE MANAGEMENT</a></li>
+          </ul>
+        </li>
+
+        <!-- Resource Conservation & Forestry -->
+        <li class="nav-item dropdown">
+          <a class="nav-link"
+             href="/Conservation/default.aspx"
+             id="dropdown-conservation">
+            RESOURCE CONSERVATION &amp; FORESTRY
+          </a>
+          <button class="sr-only dropdown-disclosure"
+                  type="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                  aria-controls="menu-conservation"
+                  aria-label="Toggle Resource Conservation and Forestry submenu">
+          </button>
+          <ul class="dropdown-menu fade-down" id="menu-conservation" aria-labelledby="dropdown-conservation">
+            <li><a class="dropdown-item" href="/Conservation/Apiary/default.aspx">APIARY</a></li>
+            <li><a class="dropdown-item" href="/Conservation/default.aspx">CONSERVATION</a></li>
+            <li><a class="dropdown-item" href="/Conservation/Forestry/default.aspx">FORESTRY</a></li>
+            <li><a class="dropdown-item" href="/Conservation/PlantIndustry/default.aspx">PLANT INDUSTRY</a></li>
+            <li><a class="dropdown-item" href="/Conservation/SpecialtyCropBlockGrant/default.aspx">SPECIALTY CROP BLOCK GRANT</a></li>
+            <li><a class="dropdown-item" href="/Conservation/WatershedProtection/default.aspx">WATERSHED PROTECTION</a></li>
+          </ul>
+        </li>
+
+        <!-- Finance & Technical Assistance -->
+        <li class="nav-item dropdown">
+          <a class="nav-link"
+             href="/Funding/default.aspx"
+             id="dropdown-funding">
+            FINANCE &amp; TECHNICAL ASSISTANCE
+          </a>
+          <button class="sr-only dropdown-disclosure"
+                  type="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                  aria-controls="menu-funding"
+                  aria-label="Toggle Finance and Technical Assistance submenu">
+          </button>
+          <ul class="dropdown-menu fade-down" id="menu-funding" aria-labelledby="dropdown-funding">
+            <li><a class="dropdown-item" href="/Funding/AgricultureMediation/default.aspx">AGRICULTURAL MEDIATION</a></li>
+            <li><a class="dropdown-item" href="/Funding/checkoff/default.aspx">CHECKOFF REMITTANCE</a></li>
+            <li><a class="dropdown-item" href="/Funding/EnviromentalFunding/default.aspx">ENVIRONMENTAL FUNDING</a></li>
+            <li>
+              <a class="dropdown-item"
+                 href="http://www.sdgs.usd.edu/"
+                 target="_blank"
+                 rel="noopener noreferrer">
+                GEOLOGICAL SURVEY<span class="sr-only"> (opens in new tab)</span>
+              </a>
+            </li>
+          </ul>
+        </li>
+
+        <!-- Office of Water (with nested submenu) -->
+        <li class="nav-item dropdown">
+          <a class="nav-link pr-5"
+             href="/OfficeOfWater/default.aspx"
+             id="dropdown-water">
+            OFFICE OF WATER
+          </a>
+          <button class="sr-only dropdown-disclosure"
+                  type="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                  aria-controls="menu-water"
+                  aria-label="Toggle Office of Water submenu">
+          </button>
+          <ul class="dropdown-menu fade-down" id="menu-water" aria-labelledby="dropdown-water">
+            <li><a class="dropdown-item" href="/OfficeOfWater/DrinkingWater/default.aspx">DRINKING WATER</a></li>
+            <li><a class="dropdown-item" href="/OfficeOfWater/WaterRights/default.aspx">WATER RIGHTS</a></li>
+            <li class="dropdown">
+              <a class="dropdown-item border-0"
+                 href="/OfficeOfWater/SurfaceWaterQuality/default.aspx"
+                 id="dropdown-water-quality">
+                WATER QUALITY
+              </a>
+              <button class="sr-only dropdown-disclosure"
+                      type="button"
+                      aria-haspopup="true"
+                      aria-expanded="false"
+                      aria-controls="menu-water-quality"
+                      aria-label="Toggle Water Quality submenu">
+              </button>
+              <ul class="dropdown-menu w-100 border-0" id="menu-water-quality" aria-labelledby="dropdown-water-quality">
+                <li>
+                  <a class="dropdown-itemc border-0"
+                     href="/OfficeOfWater/OperatorCert/default.aspx">
+                    OPERATOR CERTIFICATION
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- ============================================================
+     SD STATE HOLIDAY CLOSED BANNER
+     Auto-displays on recognized SD state holidays (and observed
+     Friday/Monday when holiday falls on Sat/Sun).
+     WCAG 2.1 AA: role="alert", sufficient color contrast,
+     dismissible with keyboard, focus-managed close button.
+     ============================================================ -->
+<div id="holiday-banner-row" class="row" hidden>
+  <div class="col-12">
+    <div id="holiday-banner"
+         role="alert"
+         aria-live="polite"
+         aria-atomic="true"
+         style="
+           background-color: #154734;
+           color: #ffffff;
+           padding: 0.85rem 1.25rem;
+           display: flex;
+           align-items: center;
+           justify-content: space-between;
+           flex-wrap: wrap;
+           gap: 0.5rem;
+         ">
+      <div style="display:flex; align-items:center; gap:0.6rem; flex:1; min-width:0;">
+        <svg aria-hidden="true" focusable="false"
+             xmlns="http://www.w3.org/2000/svg"
+             viewBox="0 0 24 24" fill="currentColor"
+             style="width:1.4rem;height:1.4rem;flex-shrink:0;">
+          <path d="M19 4h-1V2h-2v2H8V2H6v2H5C3.9 4 3 4.9 3 6v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2z"/>
+        </svg>
+        <span id="holiday-banner-message" style="font-weight:600; font-size:1rem;"></span>
+      </div>
+      <button id="holiday-banner-close"
+              type="button"
+              aria-label="Dismiss holiday closure notice"
+              style="
+                background: transparent;
+                border: 2px solid #ffffff;
+                color: #ffffff;
+                border-radius: 4px;
+                padding: 0.2rem 0.6rem;
+                font-size: 1rem;
+                line-height: 1;
+                cursor: pointer;
+                flex-shrink: 0;
+              ">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  function getNthWeekday(year, month, weekday, nth) {
+    var d     = new Date(year, month, 1);
+    var first = d.getDay();
+    var offset = (weekday - first + 7) % 7;
+    if (nth === -1) {
+      var last      = new Date(year, month + 1, 0).getDate();
+      var candidate = last - ((new Date(year, month, last).getDay() - weekday + 7) % 7);
+      return new Date(year, month, candidate);
+    }
+    return new Date(year, month, 1 + offset + (nth - 1) * 7);
+  }
+
+  function shiftObserved(date) {
+    var day = date.getDay();
+    if (day === 6) return new Date(date.getFullYear(), date.getMonth(), date.getDate() - 1); // Sat→Fri
+    if (day === 0) return new Date(date.getFullYear(), date.getMonth(), date.getDate() + 1); // Sun→Mon
+    return date;
+  }
+
+  function toFullKey(date) {
+    return date.getFullYear() + '-' +
+      ('0' + (date.getMonth() + 1)).slice(-2) + '-' +
+      ('0' + date.getDate()).slice(-2);
+  }
+
+  function getSDHolidays(year) {
+    var holidays = [
+      { name: "New Year's Day",             date: shiftObserved(new Date(year, 0, 1)) },
+      { name: "Martin Luther King Jr. Day", date: getNthWeekday(year, 0, 1, 3) },   // 3rd Mon Jan
+      { name: "Presidents Day",             date: getNthWeekday(year, 1, 1, 3) },   // 3rd Mon Feb
+      { name: "Memorial Day",               date: getNthWeekday(year, 4, 1, -1) },  // Last Mon May
+      { name: "Juneteenth",                 date: shiftObserved(new Date(year, 5, 19)) },
+      // In 2026, Jul 4 falls on Saturday; the governor's closure (Jul 3) replaces
+      // the standard observed entry. The one-time entry below handles 2026.
+      year !== 2026 ? { name: "Independence Day", date: shiftObserved(new Date(year, 6, 4)) } : null,
+      { name: "Labor Day",                  date: getNthWeekday(year, 8, 1, 1) },   // 1st Mon Sep
+      { name: "Native Americans Day",       date: getNthWeekday(year, 9, 1, 2) },   // 2nd Mon Oct
+      { name: "Veterans Day",               date: shiftObserved(new Date(year, 10, 11)) },
+      { name: "Thanksgiving",               date: getNthWeekday(year, 10, 4, 4) },  // 4th Thu Nov
+      { name: "Christmas Day",              date: shiftObserved(new Date(year, 11, 25)) }
+    ];
+
+    // Observed New Year's Day that rolls back into the current year (e.g. Jan 1 on Sat → Dec 31 Fri)
+    var nye = shiftObserved(new Date(year + 1, 0, 1));
+    if (nye.getFullYear() === year) {
+      holidays.push({ name: "New Year's Day (observed)", date: nye });
+    }
+
+    // ONE-TIME: Governor-granted closure — July 3, 2026.
+    // Independence Day (Jul 4) falls on a Saturday; observed holiday is Fri Jul 3.
+    // Remove this entry after 2026.
+    if (year === 2026) {
+      holidays.push({ name: "Independence Day", date: new Date(2026, 6, 3) });
+    }
+
+    return holidays.filter(Boolean);
+  }
+
+  function checkHolidayStatus() {
+    var now      = new Date();
+    var today    = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    var lists    = getSDHolidays(today.getFullYear()).concat(getSDHolidays(today.getFullYear() - 1));
+    var todayKey    = toFullKey(today);
+    var tomorrowKey = toFullKey(new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1));
+
+    for (var i = 0; i < lists.length; i++) {
+      var h    = lists[i];
+      var hKey = toFullKey(h.date);
+      if (hKey === todayKey)    { return { name: h.name, isToday: true  }; }
+      if (hKey === tomorrowKey) { return { name: h.name, isToday: false }; }
+    }
+    return null;
+  }
+
+  var holidayStatus = checkHolidayStatus();
+  if (holidayStatus) {
+    var bannerRow = document.getElementById('holiday-banner-row');
+    var msgEl     = document.getElementById('holiday-banner-message');
+    var closeBtn  = document.getElementById('holiday-banner-close');
+
+    var monthNames = ['January','February','March','April','May','June',
+                      'July','August','September','October','November','December'];
+    var now      = new Date();
+    var today    = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    var tomorrow = new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1);
+
+    function formatDate(d) {
+      return monthNames[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+    }
+
+    if (holidayStatus.isToday) {
+      msgEl.textContent =
+        'DANR offices are closed today, ' + formatDate(today) +
+        ', in observance of ' + holidayStatus.name +
+        '. We will reopen the next business day.';
+    } else {
+      msgEl.textContent =
+        'DANR offices will be closed tomorrow, ' + formatDate(tomorrow) +
+        ', in observance of ' + holidayStatus.name +
+        '. Normal hours resume the following business day.';
+    }
+
+    bannerRow.removeAttribute('hidden');
+
+    closeBtn.addEventListener('click', function () {
+      bannerRow.setAttribute('hidden', '');
+      var skipLink = document.querySelector('.skip-link');
+      if (skipLink) skipLink.focus();
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if ((e.key === 'Escape' || e.keyCode === 27) && !bannerRow.hasAttribute('hidden')) {
+        bannerRow.setAttribute('hidden', '');
+      }
+    });
+  }
+}());
+</script>
+      <!-- END HOLIDAY BANNER -->
+
+<!-- Keyboard disclosure for dropdown menus (WCAG 2.1.1)
+     Allows keyboard-only users to open/close submenus via the sr-only toggle buttons.
+     Mouse/hover CSS behavior is completely unchanged. -->
+<script>
+(function () {
+  document.querySelectorAll('.dropdown-disclosure').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var expanded = this.getAttribute('aria-expanded') === 'true';
+      var menu = document.getElementById(this.getAttribute('aria-controls'));
+      this.setAttribute('aria-expanded', String(!expanded));
+      if (menu) menu.classList.toggle('show', !expanded);
+    });
+  });
+  document.addEventListener('focusin', function (e) {
+    if (!e.target.closest('nav')) {
+      document.querySelectorAll('.dropdown-disclosure[aria-expanded="true"]').forEach(function (btn) {
+        btn.setAttribute('aria-expanded', 'false');
+        var menu = document.getElementById(btn.getAttribute('aria-controls'));
+        if (menu) menu.classList.remove('show');
+      });
+    }
+  });
+})();
+</script>
+
+    <div class="row row-offcanvas row-offcanvas-right py-3 mb-3">
+      <div class="col-xs-12 col-sm-9 ">
+        <div class="jumbotron bg-transparent">
+          <h1 class="jumboheading ">Laboratory Certification</h1>
+
+          <p>Certified laboratories use approved methods to analyze drinking water compliance samples from public water systems (PWSs). This provides the PWSs with reliable information on the quality of their water. The laboratory results are used to monitor PWS compliance with health-based and aesthetic standards.</p>
+          <p>Laboratories must:</p>
+          <ul>
+            <li>Be certified by the state to analyze drinking water samples for compliance monitoring</li>
+            <li>Successfully analyze proficiency testing (PT) samples at least annually for each method and analyte for which they desire certification</li>
+            <li>Use approved methods</li>
+            <li>Pass periodic on-site audits</li>
+          </ul>
+          <p>&nbsp;</p>
+          <p>Out of state laboratories wishing to be certified in South Dakota must provide specific information to achieve certification and to maintain their current certification status. <a href="docs/labcertdirections.pdf">Click here for more information.</a></p>
+        </div>
+
+
+        <div class="row">
+          <div class="col-xs-12 col-lg-12">
+            <h2 class="title">Laboratories certified for the analysis of drinking water in the state of South Dakota:
+            </h2>
+           
+                    <table class="table table-sm" role="presentation">
+                      <tbody>
+                       
+                        <tr>
+                          <td >
+                            <p><a class="lab-name" href="http://doh.sd.gov/Lab">South Dakota State Health Laboratory</a><br>
+                              Laboratory Building <br>
+                              615 East Fourth Street<br>
+                              Pierre, South Dakota 57501<br>
+                              <a class="lab-phone" href="tel:+16057733368">605-773-3368</a><br>
+                              <strong>Contact person:</strong> Rea Riggle<br>
+                              <strong>Certified for:</strong> Inorganics, SOC's, VOC's, Chlorite, HAA5, Perchlorate,
+                              TTHM's, Microbiology, E.Coli enumeration, Chlorite</p>
+                          </td>
+                          <td >
+                            <p align="left"><a class="lab-name" href="https://www.siouxfalls.org/health/public-health/health-laboratory">Sioux Falls Public Health Laboratory</a><br>
+                              521 North Main, Suite 100<br>
+                              Sioux Falls, South Dakota 57104<br>
+                              <a class="lab-phone" href="tel:+16053678777">605-367-8777</a><br>
+                              <strong>Contact person: </strong>Lisa Kellen-Anderson<br>
+                              <strong>Certified for:</strong> Microbiology</p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td ><p clas="mb-0"><a class="lab-name" href="https://www.thechemistrylab.com/">Mid Continent Testing Laboratory</a></p>
+                            2381 South Plaza Drive PO 3388<br>
+                            Rapid City, SD 57709<br>
+                            <a class="lab-phone" href="tel:+16053480111">605-348-0111</a><br>
+                            <strong>Contact person:</strong> Jason Pojorlie<br>
+                            <strong>Certified for:</strong>&nbsp; Inorganics, VOC's, Cyanide,&nbsp; Microbiology, E.Coli
+                            enumeration,TTHM's, HAA5's, SOC's (except 548 and PCB's), TOCs</td>
+                          <td><span class="lab-name">American Engineering Testing</span><br>
+                            601 East 48th Street North<br>
+                            Sioux Falls, SD 57104<br>
+                            <a class="lab-phone" href="tel:+16053325371">605-332-5371</a><br>
+                            <strong>Contact person:</strong> Dan Hanson<br>
+                            <strong>Certified for:&nbsp;</strong> Microbiology, E.Coli enumeration<p></p>
+                            <p style="margin-top: 0">&nbsp;</p>
+                          </td>
+                        </tr>
+                      
+                        <tr>
+                          <td colspan="2" height="21">
+                            <p class="title">OTHER LABS CERTIFIED BY SOUTH DAKOTA </p>
+                          </td>
+                        </tr>
+                       
+                        <tr>
+                          <td >
+                            <p><span class="lab-name">Pace Analytical Services-Pittsburgh</span><br>
+                              1638 Roseytown Rd, Suite 2<br>
+                              Greenburg, PA 15601<br>
+                              <a class="lab-phone" href="tel:+17248805600">724-880-5600</a><br>                             
+                              <strong>Certified for:</strong> Radiological
+                            </p>
+                            <p align="left">&nbsp;</p>
+                          </td>
+                          <td >
+                            <p><a class="lab-name" href="http://energylab.com/">Energy Laboratories Inc.</a><br>
+                              1107 South Broadway, PO Box 30916<br>
+                              Billings, MT 59107-0916<br>
+                              <a class="lab-phone" href="tel:+14062526325">406-252-6325</a><br>
+                              <strong>Contact person:</strong> Leigh Ann Wise<br>
+                              <strong>Certified for:</strong> Inorganics, SOC's(except Method 531.1, 547, 549.2),
+                              TTHM's, Cyanide,VOC's, HAA5's, Uranium, PFAS</p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td >
+                            <p><a class="lab-name" href="http://energylab.com/">Energy Laboratories Inc.</a><br>
+                              2393 Salt Creek Hwy, PO Box 3258<br>
+                              Casper, WY 82602<br>
+                              <a class="lab-phone" href="tel:+18882350515">888-235-0515</a><br>
+                              <a class="lab-phone" href="tel:+13072350515">307-235-0515</a><br>
+                              <strong>Contact person:</strong> Donny Juarez<br>
+                              <strong>Certified for:</strong> Some SOC's, Radiological, excluding Uranium,<br>
+                              TOCs</p>
+                            <p></p>
+                          </td>
+                          <td ><span class="lab-name">Eurofins Eaton Analytical LLC</span><br>
+                            931 Corporate Center Drive<br>
+                            Pomona, CA 91768<br>
+                            <a class="lab-phone" href="tel:+18668886653">866-888-6653</a>
+                            <br>
+                            <strong>Contact person:</strong> Robert Dean<br>
+                            <strong>Certified for:</strong> Inorganics, VOC's, SOC's, TTHM's, HAA5's,
+                             Bromate, Chlorite</td>
+                        </tr>
+                        <tr>
+                          <td >
+                            <p align="left"><span class="lab-name">Pace Analytical</span><br>
+                              1673 Terra Ave<br>
+                              Sheridan WY 82801<br>
+                              <a class="lab-phone" href="tel:+13076728945">307-672-8945</a><br>
+                              <strong>Contact person:</strong> Amy Eady <br>
+                              <strong>Certified for:</strong> Inorganics excluding Nickel, Uranium </p>
+                            <p align="left">&nbsp;</p>
+                          </td>
+                          <td >
+                            <p><strong><a class="lab-name" href="http://www.eatonanalytical.com">
+                                Eurofins Eaton Analytical Inc</a></strong><br>
+                              110 South Hill Street<br>
+                              South Bend IN 46617<br>
+                              <a class="lab-phone" href="tel:+15744725523">574-472-5523</a>
+                              <br>
+                              <strong>Contact person:</strong> Theresa Zielke<br>
+                              <strong>Certified for:</strong> Inorganics, SOC's, TTHM's, Cyanide, Chlorite, HAA5, VOC's,
+                              Bromate, Radiological, Uranium</p>
+                            <p align="left">&nbsp;</p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td >
+                            <p><span class="lab-name">Minnesota Valley Testing Laboratories</span><br>
+                              2616 E Broadway Ave<br>
+                              Bismarck, ND 58501<br>
+                              <a class="lab-phone" href="tel:+17012589720">701-258-9720</a>&nbsp;&nbsp;&nbsp; <a class="lab-phone" href="tel:+18002796885">800-279-6885</a><br>
+                              <strong>Contact person:</strong> David Luiken<br>
+                              <strong>Certified for:</strong> Inorganics, TOC's, Microbiology</p>
+                            <p>&nbsp;</p>
+                          </td>
+                          <td >
+                            <p><span class="lab-name">Element Materials Technology</span><br>
+                              2417 West Pinhook Rd<br>
+                              Lafayette, LA 70508-3344<br>
+                              <a class="lab-phone" href="tel:+18887867555">888-786-7555</a><br>
+                              <strong>Contact person:</strong> Tristan Davis <br>
+                              <strong>Certified for:</strong> Lead, Copper</p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td height="48"><span class="lab-name">Element Materials Technology</span><br>
+                            328 Ley Road, Suite 100 <br>
+                            Ft Wayne, IN 46825<br>
+                            <a class="lab-phone" href="tel:+12604717000">260-471-7000</a><br>
+                            <strong>Contact person:</strong> Sarah Ezzelle <br>
+                            <strong>Certified for:</strong> Lead, Copper, IOC's, VOC's, SOC's, TTHM's, HAA5's, Cyanide, Microbiology</td>
+                          <td valign="top" height="48"><span class="lab-name">Foundation Analytical Laboratory</span><br>
+723 Sleezer Road <br>
+Cherokee, IA 51012, <a class="lab-phone" href="tel:+17122556989">712-255-6989</a><br>
+<strong>Contact person:</strong> Brittany Erickson<br>
+<strong>Certified for:</strong> Inorganics except Mercury, Lead, Copper, Cyanide</td>
+                        </tr>
+                        <tr>
+                          <td height="48"><span class="lab-name">Alliance Technical Group LLC</span><br>
+                            3310 Win Street <br>
+                            Cuyahoga, OH. 44233<br>
+                            <a class="lab-phone" href="tel:+13302538211">330-253-8211</a><br>
+                            <strong>Contact person:</strong> Sarah MacGillvray<br>
+                            <strong>Certified for:</strong> Inorganics (Excluding: HG + F), Radiologicals, PFAS</td>
+                            <td height="48"><span class="lab-name">Symbio Labratories</span><br>
+                              8310 Mirimar Mall, <br>
+                              San Diego, CA 92121<br>
+                              <a class="lab-phone" href="tel:+18582570159">858-257-0159</a><br>
+                              
+                              <strong>Certified for:</strong> PFAS</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  
+
+          </div>
+
+        </div>
+
+
+
+
+
+
+      </div>
+
+
+      <div class="col-xs-6 col-sm-3 mt-5 pt-2" id="sidebar">
+        <h2 class="heading">Office of Water Resources</h2>
+
+
+
+  <div id="accordionDW">
+    <div class="card">
+      <div class="card-header" id="headingDW">
+        <div class="mb-0">
+          <a class="title" href="#" data-toggle="collapse" data-target="#collapse7" aria-expanded="true"
+            aria-controls="collapse7">
+            DRINKING WATER INFORMATION <i class="fas fa-angle-down" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+
+      <div id="collapse7" class="collapse" aria-labelledby="headingDW" data-parent="#accordionDW">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/AnnualDWReport.aspx">Annual Drinking Water Reports</a></li>
+                <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                  href="/OfficeOfWater/DrinkingWater/RegulatoryInfo/default.aspx">Drinking Water Regulatory Info</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/Asbestos.aspx">Asbestos</a></li>
+
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/CapacityDevelopment.aspx">Capacity Development</a></li>
+
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/DisinfectionByProducts.aspx">Disinfection By-Products</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/DrinkingWaterSecurity.aspx">Drinking Water Security</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/Flouride.aspx">Fluoride</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/GroundWaterRule.aspx">Ground Water Rule</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/InorganicContanimants.aspx">Inorganic Contaminants</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx">Laboratory Certification</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/LeadCopper.aspx">Lead and Copper</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/leadschools.aspx">Lead In Schools</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/manganese.aspx">Manganese</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/DrinkingWaterRequirementsForNewSystems.aspx">New Drinking Water
+                Systems</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/NewWellSamplingProgram.aspx">New Well Sampling Program</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/Nitrates.aspx">Nitrates/Nitrites</a></li>
+                <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                  href="/OfficeOfWater/DrinkingWater/PFAS.aspx">PFAS</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/PrivateWellSampling.aspx">Private Well Sampling</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/publicnotification.aspx">Public Notification</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/radiological.aspx">Radiological Contaminants</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/RevisedColiform.aspx">Revised Total Coliform Rule</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/SurfaceWaterTreatmentRule.aspx">Surface Water Treatment Rule</a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/syntheticorganic.aspx">Synthetic Organic Contaminants</a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/UnregulatedContaminants.aspx">Unregulated Contaminants</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/voc.aspx">Volatile Organic Contaminants</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/waiverinformation.aspx">Waiver Information</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/WellheadProtection/default.aspx">Wellhead Protection</a></li>
+            <!--<li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/DrinkingWater/OperatorCertification/default.aspx">Water System Information</a></li>-->
+            <!-- <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                  href="/OfficeOfWater/DrinkingWater/SourceWaterProtection/default.aspx">Source Water Protection</a></li>
+                  <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                    href="/OfficeOfWater/DrinkingWater/WellheadProtection/default.aspx">Wellhead Protection</a></li>-->
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="accordionLSL">
+    <div class="card">
+  <div class="card-header" id="headingLSL">
+  <div class="mb-0">
+    <a class="title"
+       href="#"
+       data-toggle="collapse"
+       data-target="#collapse10"
+       aria-expanded="true"
+       aria-controls="collapse10"
+       aria-label="Expand Lead Service Line Inventory navigation section">
+      LEAD SERVICE LINE INVENTORY
+      <i class="fas fa-angle-down" aria-hidden="true"></i>
+    </a>
+  </div>
+</div>
+
+      <div id="collapse10" class="collapse" aria-labelledby="headingLSL" data-parent="#accordionLSL">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+              href="/OfficeOfWater/LeadWaterPipes/default.aspx">Lead Service Line Inventory</a>
+          </li>
+          
+           
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="accordionOpCert">
+    <div class="card">
+      <div class="card-header" id="headingOpCert">
+        <div class="mb-0">
+          <a class="title" href="#" data-toggle="collapse" data-target="#collapse9" aria-expanded="true"
+            aria-controls="collapse9">
+            OPERATOR CERTIFICATION <i class="fas fa-angle-down" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+
+      <div id="collapse9" class="collapse" aria-labelledby="headingOpCert" data-parent="#accordionOpCert">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/OperatorCert/default.aspx">Operator Certification</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="https://boardsandcommissions.sd.gov/Meetings.aspx?BoardID=187" target="_blank" rel="noreferrer noopener">Board of Operator Certification<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/OperatorCert/PDF/OpCertExam.pdf">Exam Schedule</a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="../../../OfficeOfWater/OperatorCert/PDF/OpCert Summary.pdf">General Information About
+                Operator
+                Certification</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="accordionForms">
+    <div class="card">
+      <div class="card-header" id="headingForms">
+        <div class="mb-0">
+          <a class="title" href="#" data-toggle="collapse" data-target="#collapse6" aria-expanded="true"
+            aria-controls="collapse6">
+            FORMS <i class="fas fa-angle-down" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+
+      <div id="collapse6" class="collapse" aria-labelledby="headingForms" data-parent="#accordionForms">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/OperatorCert/PDF/OpCertExamApp.pdf">Exam Application Form</a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link"
+                href="/OfficeOfWater/OperatorCert/PDF/application-rec-new_20220302.pdf">Reciprocity Application</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div id="accordionLaws">
+    <div class="card">
+      <div class="card-header" id="headingLaws">
+        <div class="mb-0">
+          <a class="title" href="#" data-toggle="collapse" data-target="#collapse8" aria-expanded="true"
+            aria-controls="collapse8">
+            LAWS & RULES <i class="fas fa-angle-down" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+
+      <div id="collapse8" class="collapse" aria-labelledby="headingLaws" data-parent="#accordionLaws">
+        <div class="card-body">
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener" href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:12">Drinking
+                Water Standards<span class="sr-only"> (opens in new tab)</span></a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74%3A04%3A11">Sanitary Surveys<span class="sr-only"> (opens in new tab)</span></a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener" href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=20:01:11">Bottled
+                Water Regulation<span class="sr-only"> (opens in new tab)</span></a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://www.sdlegislature.gov/Rules/Administrative/27258">Operator Certification Rules<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:07">Laboratory Certification Rules<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <!-- <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank" rel="noreferrer noopener"
+              href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:08">Municipal Swimming Pool and Beach
+              Rules<span class="sr-only"> (opens in new tab)</span></a></li> -->
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:01">Fluoridation of Water Supplies
+                Rules<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:12:32">Public Notification Rules<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener" href="https://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=74:04:09">Capacity
+                Requirements for New Community
+                and New Nontransient Noncommunity Water Systems<span class="sr-only"> (opens in new tab)</span></a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener"
+                href="https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=34A-3A&">Chapter
+                34A-3A - Safe Drinking Water<span class="sr-only"> (opens in new tab)</span></a></li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener" href="https://www.ecfr.gov/current/title-40/part-141">40 C.F.R. PART 141 ï¿½ NATIONAL PRIMARY DRINKING WATER REGULATIONS<span class="sr-only"> (opens in new tab)</span></a>
+            </li>
+            <li class="list-group-item bg-light border-top-0"><a class="nav-link" target="_blank"
+                rel="noreferrer noopener" href="https://www.ecfr.gov/current/title-40/part-142">40 C.F.R. PART 142 ï¿½ NATIONAL PRIMARY DRINKING WATER REGULATIONS
+                IMPLEMENTATION<span class="sr-only"> (opens in new tab)</span></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  <footer class="footer" role="contentinfo" style="background-color: #003d4d; color: #ffffff;">
+    
+
+
+    <div class="container bottom_border" style="background-color: #003d4d;">
+        <div class="row">
+            <!-- Contact Us -->
+            <div class="col-12 col-sm-6 col-md-3">
+                <p class="footertitle pt2" style="color: #a8e34f;">Contact Us</p>
+                <p class="mb10" style="color: #ffffff;">Department Secretary: <br><strong>Hunter Roberts</strong></p>
+                <p style="color: #ffffff;">
+                    <i class="fa fa-location-arrow pr-2" aria-hidden="true" style="color: #ffffff;"></i>
+                    523 E Capitol Ave, <br>Pierre, SD 57501-3182
+                </p>
+                <p style="color: #ffffff;">
+                    <i class="fa fa-phone pr-2" aria-hidden="true" style="color: #ffffff;"></i>
+                    <a href="tel:605-773-5559"
+                       aria-label="Call DANR at 605-773-5559"
+                       class="contact-link"
+                       style="color: #ffffff;">
+                        605-773-5559
+                    </a>
+                </p>
+
+                <p style="color: #ffffff;">
+                    <i class="fa fa-envelope pr-2" aria-hidden="true" style="color: #ffffff;"></i>
+                    <a href="mailto:DANRmail@state.sd.us"
+                       aria-label="Email DANR at DANRmail@state.sd.us"
+                       class="contact-link"
+                       style="color: #ffffff;">
+                        Email DANR
+                    </a>
+                </p>
+            </div>
+
+            <!-- DANR Links -->
+            <div class="col-12 col-sm-6 col-md-3">
+                <p class="footertitle pt2" style="color: #a8e34f;">DANR Links</p>
+                <nav aria-label="DANR links">
+                    <ul class="footer_ul_amrc" >
+                        <li ><a href="/AboutDANR/default.aspx">About DANR</a></li>
+                        <li ><a href="/ContactUs/default.aspx">Contact Us</a></li>
+                        <li ><a href="https://www.sdstatefair.com/">State Fair</a></li>
+                        <li ><a href="/Press/default.aspx">Press</a></li>
+                        <li ><a href="/Press/ArchivedDocuments.aspx">Archived Documents</a></li>
+                        <li ><a href="/ContactUs/docs/DANR Nondiscrimination Policy.pdf">Nondiscrimination Policy (PDF)</a></li>
+                        <li ><a href="https://intranetdenr.sd.gov/">DANR Intranet Site</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <!-- State Links -->
+            <div class="col-12 col-sm-6 col-md-3">
+                <p class="footertitle pt2" style="color: #a8e34f;">State Links</p>
+                <nav aria-label="State of South Dakota links">
+                    <ul class="footer_ul_amrc" >
+                        <li ><a href="https://sd.gov">State Home Page</a></li>
+                        <li ><a href="https://www.sd.gov/cs?id=sc_cat_item&sys_id=f7f939eddbd4b150b2fb93d4f39619c0">Request Public Records</a></li>
+                        <li ><a href="https://sd.gov/disclaim.aspx">Disclaimer</a></li>
+                        <li ><a href="https://www.sd.gov/cs?id=kb_article_view&sysparm_article=KB0010219&sys_kb_id=6e01841547c32650fc1303dc426d43a9&spa=1">Accessibility</a></li>
+                        <li ><a href="https://sd.gov/privacy.aspx">Privacy Policy</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <!-- Follow Us -->
+            <div class="col-12 col-sm-6 col-md-3">
+                <p class="footertitle pt2 text-center" style="color: #a8e34f;">Follow Us</p>
+                <nav aria-label="Social media links">
+                    <ul class="social_footer_ul text-center"  style="display: flex; justify-content: center; gap: 20px;">
+                        <li >
+                            <a href="https://m.facebook.com/SDDANR/"
+                               target="_blank"
+                               rel="noopener noreferrer"
+                               aria-label="Follow DANR on Facebook (opens in new tab)"
+                               class="social-link">
+                                <i class="fab fa-facebook-f" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <li >
+                            <a href="https://twitter.com/SD_DANR?s=09"
+                               target="_blank"
+                               rel="noopener noreferrer"
+                               aria-label="Follow DANR on X (formerly Twitter) (opens in new tab)"
+                               class="social-link">
+                                <i class="fab fa-twitter" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <li >
+                            <a href="https://www.instagram.com/sddanr/"
+                               target="_blank"
+                               rel="noopener noreferrer"
+                               aria-label="Follow DANR on Instagram (opens in new tab)"
+                               class="social-link">
+                                <i class="fab fa-instagram" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" style="background-color: #003d4d; padding: 15px 0;">
+        <p class="text-center" style="color: #ffffff; margin: 0;">Copyright &copy; 2026 | State of South Dakota</p>
+    </div>
+</footer>
+
+<script src="https://cdn.sd.gov/lib/jquery/jquery.slim.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.sd.gov/lib/bootstrap/bootstrap.min.js" crossorigin="anonymous"></script>
+<script src="/include/DanrScripts.js"></script>
+<script src="/include/scripts.js"></script>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content rounded text-center">
+            <div class="modal-header">
+                <h5 class="modal-title mx-auto" id="exampleModalLabel">WHAT CAN WE HELP YOU FIND?</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+            </div>
+            <div class="modal-body">
+
+                
+                <script async src="https://cse.google.com/cse.js?cx=012382400048732927914:7hahkjp_r0s"></script>
+                <div class="gcse-searchbox-only"></div>
+
+                <br>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+</body>
+
+</html>

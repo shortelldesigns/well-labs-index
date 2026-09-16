@@ -1,0 +1,92 @@
+{
+  "state": "South Dakota",
+  "state_code": "SD",
+  "last_updated": "2026-09-15",
+  "source": {
+    "title": "DANR Laboratory Certification roster + DANR Private Well Sampling + SD DOH Environmental Testing / Test a Private Well / Environmental Testing Fees",
+    "danr_lab_cert": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/LaboratoryCert.aspx",
+    "danr_private_well_sampling": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/PrivateWellSampling.aspx",
+    "danr_new_well_sampling": "https://danr.sd.gov/OfficeOfWater/DrinkingWater/NewWellSamplingProgram.aspx",
+    "doh_environmental_testing": "https://doh.sd.gov/laboratory/environmental-testing/",
+    "doh_test_private_well": "https://doh.sd.gov/laboratory/environmental-testing/test-a-private-well/",
+    "doh_environmental_testing_fees": "https://doh.sd.gov/laboratory/environmental-testing/environmental-testing-fees/",
+    "retrieved": "2026-09-15",
+    "in_state_commercial_table_count": 2,
+    "out_of_state_omitted": true,
+    "public_health_labs_documented_separately": true,
+    "state_health_lab_verified_path_only": true,
+    "limitations": [
+      "DANR LaboratoryCert.aspx lists in-state labs: South Dakota State Health Laboratory (Pierre), Sioux Falls Public Health Laboratory, Mid Continent Testing Laboratory (Rapid City), American Engineering Testing (Sioux Falls), plus many out-of-state labs.",
+      "State Health Laboratory is the verified private-person kit path via SD DOH Environmental Health Laboratory — documented in verified_paths only, not as a commercial table row.",
+      "Sioux Falls Public Health Laboratory is municipal/public health (Microbiology only on DANR list). Private-well acceptance unknown — documented in a short note, not as a commercial row.",
+      "Commercial table: Mid Continent Testing Laboratory and American Engineering Testing only. accepts_private_wells unknown — call first for both.",
+      "Out-of-state labs on DANR page omitted from main table — cite/link DANR Laboratory Certification only.",
+      "DOH bottle-order page states fee information is included with bottles and bottles are also available from County Extension offices. Official Environmental Testing Fees page lists dollar amounts (content last updated September 14, 2026) — this directory links that page rather than republishing a fee table that may change.",
+      "Prices for commercial labs intentionally omitted."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "SD DOH Public Health Laboratory / Environmental Health Laboratory — private-person testing kits",
+      "url": "https://doh.sd.gov/laboratory/environmental-testing/",
+      "notes": "DOH Environmental Testing: private persons need a testing kit from the Department of Health or a special location; follow kit instructions. DANR offers private well testing information. Bottle order: https://doh.sd.gov/laboratory/environmental-testing/test-a-private-well/ — fee information included with bottles; bottles also available from County Extension offices. Contact Rea Riggle / Kristy Deal at 605-773-3368. DANR Laboratory Certification lists South Dakota State Health Laboratory: Laboratory Building, 615 East Fourth Street, Pierre, South Dakota 57501; 605-773-3368; Contact person Rea Riggle; certified for Inorganics, SOC's, VOC's, Chlorite, HAA5, Perchlorate, TTHM's, Microbiology, E.Coli enumeration, Chlorite. DOH page also lists 615 E 4th Street Pierre, toll-free 1-800-738-2301 (in SD only), fax 605-773-6129, Rea.Riggle@state.sd.us. Fees: see official Environmental Testing Fees page (do not invent; confirm current amounts)."
+    }
+  ],
+  "public_health_note": {
+    "name": "Sioux Falls Public Health Laboratory",
+    "address": "521 North Main, Suite 100, Sioux Falls, South Dakota 57104",
+    "phone": "605-367-8777",
+    "contact": "Lisa Kellen-Anderson",
+    "certified_for": "Microbiology",
+    "accepts_private_wells": "unknown — call first",
+    "notes": "Municipal/public health lab on DANR Laboratory Certification page. Not listed as a commercial row. Private-well acceptance not confirmed on DOH private-person pages retrieved 2026-09-15."
+  },
+  "labs": [
+    {
+      "name": "Mid Continent Testing Laboratory",
+      "city": "Rapid City",
+      "address": "2381 South Plaza Drive, PO 3388, Rapid City, SD 57709",
+      "phone": "605-348-0111",
+      "contact": "Jason Pojorlie",
+      "certifications": [
+        "Inorganics",
+        "VOC's",
+        "Cyanide",
+        "Microbiology",
+        "E.Coli enumeration",
+        "TTHM's",
+        "HAA5's",
+        "SOC's (except 548 and PCB's)",
+        "TOCs"
+      ],
+      "danr_list": "In-state (DANR Laboratory Certification)",
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on DANR LaboratoryCert.aspx retrieved 2026-09-15."
+    },
+    {
+      "name": "American Engineering Testing",
+      "city": "Sioux Falls",
+      "address": "601 East 48th Street North, Sioux Falls, SD 57104",
+      "phone": "605-332-5371",
+      "contact": "Dan Hanson",
+      "certifications": [
+        "Microbiology",
+        "E.Coli enumeration"
+      ],
+      "danr_list": "In-state (DANR Laboratory Certification)",
+      "accepts_private_wells": "unknown — call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on DANR LaboratoryCert.aspx retrieved 2026-09-15."
+    }
+  ],
+  "omitted": {
+    "state_health_lab_verified_path_only": [
+      "South Dakota State Health Laboratory (Pierre) — documented in verified_paths"
+    ],
+    "public_health_documented_separately": [
+      "Sioux Falls Public Health Laboratory"
+    ],
+    "out_of_state": "Pace Analytical Services-Pittsburgh; Energy Laboratories Inc. Billings MT; Energy Laboratories Inc. Casper WY; Eurofins Eaton Analytical LLC Pomona CA; Pace Analytical Sheridan WY; Eurofins Eaton Analytical Inc South Bend IN; Minnesota Valley Testing Laboratories Bismarck ND; Element Materials Technology Lafayette LA; Element Materials Technology Ft Wayne IN; Foundation Analytical Laboratory Cherokee IA; Alliance Technical Group LLC Cuyahoga OH; Symbio Laboratories San Diego CA — cite DANR Laboratory Certification page only."
+  }
+}
