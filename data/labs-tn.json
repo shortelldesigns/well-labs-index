@@ -1,0 +1,247 @@
+{
+  "state": "Tennessee",
+  "state_code": "TN",
+  "last_updated": "2026-09-16",
+  "source": {
+    "title": "TDEC Laboratories Certified for Drinking Water Analyses (Commercial) PDF dated 03/17/2026 + TDEC Microbiological certified labs PDF + TDH Division of Laboratory Services Environmental Microbiology / Chemistry private-well path",
+    "tdec_lab_cert_program": "https://www.tn.gov/environment/program-areas/wr-water-resources/water-quality/drinking-water-redirect/lab-certification-program.html",
+    "commercial_pdf": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf",
+    "commercial_pdf_revised": "2026-03-17",
+    "micro_pdf": "https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-microbiological-labs.pdf",
+    "tdh_lab": "https://www.tn.gov/health/lab.html",
+    "tdh_well_kit_instructions": "https://www.tn.gov/content/dam/tn/health/documents/WellWaterTestKitInstructions.pdf",
+    "tdh_well_kit_instructions_version": "V1. 10/3/2024",
+    "williamson_flyer": "https://williamsoncounty-tn.gov/DocumentCenter/View/22926/Well-Water-Testing-Flyer",
+    "legacy_health_commercial_pdf_stale": "https://www.tn.gov/content/dam/tn/health/documents/wr_wq_dw_approved-commercial-labs.pdf",
+    "retrieved": "2026-09-16",
+    "in_state_commercial_table_count": 10,
+    "out_of_state_omitted": true,
+    "military_federal_labs_omitted": true,
+    "limitations": [
+      "TDEC Commercial Laboratories PDF footer: Page x of 12 (03/17/2026). Title: Laboratories Certified for Drinking Water Analyses / Commercial Laboratories Certified for Drinking Water Analysis.",
+      "In-state military/federal entries omitted from commercial table: BNH AEDC Chemistry Lab (Arnold AFB); DOE Y-12 CNS National Security Complex; NAS Arnold AFB WTP (Old ATA) Micro Lab.",
+      "All out-of-state labs on the commercial PDF omitted from the main table \u2014 cite/link TDEC commercial PDF only.",
+      "Microbiological Laboratories PDF archived and linked for additional micro-only / utility context; commercial table uses the Commercial Laboratories PDF in-state commercial/independent/university rows.",
+      "Microbac Laboratories, Inc - Nashville (Lab ID 03073) prints address 505 East Broadway Avenue, Maryville, TN 37804 with Nashville phone 615-242-1480 \u2014 transcribed as printed.",
+      "Commercial private-well acceptance unknown for every commercial row \u2014 call first.",
+      "TDH Environmental Microbiology page states it accepts samples from private wells (Total Coliform/E. coli); Chemistry Laboratory states samples typically sourced from private wells among other sources. Fees/prices intentionally omitted.",
+      "TDH Well Water Test Kit Instructions PDF (V1. 10/3/2024) describes a home coliform presence/absence color kit (purple/yellow) and Waterborne.Health@tn.gov / 615-532-7111 \u2014 documented as related guidance, not as a certified-lab submission path.",
+      "Private Water Supply hub URL referenced on the kit PDF was not located (404s at common paths); flyer + TDH lab page used as working private-well contacts.",
+      "Stale health.tn.gov approved-commercial-labs PDF (rev ~2017) archived for contrast only \u2014 not used for the table."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "TDH Division of Laboratory Services \u2014 Environmental Microbiology (private wells)",
+      "url": "https://www.tn.gov/health/lab.html",
+      "notes": "TDH lab page: Environmental Microbiology Unit performs bacteriological analyses on water samples from both public and private water systems; accepts samples from private wells; Total Coliform/E. coli by presence/absence or quantitative means; provides sterile bottles with required forms. Contact Kristin Dunaway, Supervisor, Environmental Microbiology \u2014 Kristin.Dunaway@tn.gov \u00b7 615-262-6337. Central lab: 630 Hart Lane, Nashville, TN 37216 (carrier) / P.O. Box 305130, Nashville, TN 37230 (USPS). Williamson County flyer corroborates: testing by TDH Division of Laboratory Services, 630 Hart Lane; supply request TDOH-ENVLogin.Health@tn.gov or 615-262-6337."
+    },
+    {
+      "name": "TDH Division of Laboratory Services \u2014 Chemistry Laboratory (environmental / drinking water including private wells among sources)",
+      "url": "https://www.tn.gov/health/lab.html",
+      "notes": "TDH lab page Chemistry Laboratory: samples typically sourced from lakes, streams, rivers, ponds, open wells, private wells, unprotected springs, or sources with visible contamination. Bottle orders: TDOH-EnvLogin.Health@TN.gov or Chemistry Laboratory Manager 615-262-6346. Confirm current private-well acceptance, parameters, and fees with the lab before collecting."
+    }
+  ],
+  "labs": [
+    {
+      "name": "AIRL, Inc.",
+      "city": "Cleveland",
+      "address": "1550 37th Street NE, Cleveland, TN 37312-5600",
+      "phone": "423-476-7766",
+      "contact": "Roy Patterson",
+      "lab_id": "02034",
+      "chem_cert_expire": "2/24/2029",
+      "bact_cert_expire": "2/24/2029",
+      "certifications": [
+        "Inorganics/Trace Metals",
+        "Membrane Filter- Total, Fecal and E.coli."
+      ],
+      "tdec_list": "In-state (TDEC Commercial Laboratories PDF 03/17/2026)",
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on TDEC commercial PDF retrieved 2026-09-16."
+    },
+    {
+      "name": "Assured Bio Labs, LLC",
+      "city": "Oak Ridge",
+      "address": "228 Midway Lane, Suite B, Oak Ridge, TN 37830",
+      "phone": "865-813-1700",
+      "contact": "Edward (Ed) Sobek",
+      "lab_id": "03147",
+      "chem_cert_expire": "",
+      "bact_cert_expire": "3/7/2027",
+      "certifications": [
+        "Enzyme Substrate - Total Coliform and E.coli."
+      ],
+      "tdec_list": "In-state (TDEC Commercial Laboratories PDF 03/17/2026)",
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on TDEC commercial PDF retrieved 2026-09-16."
+    },
+    {
+      "name": "Eberline Analytical Oak Ridge",
+      "city": "Oak Ridge",
+      "address": "601 Scarboro Road, Oak Ridge, TN 37830-7371",
+      "phone": "865-481-0683",
+      "contact": "Ethan Getgood",
+      "lab_id": "02042",
+      "chem_cert_expire": "11/15/2026",
+      "bact_cert_expire": "",
+      "certifications": [
+        "Radiochemistry"
+      ],
+      "tdec_list": "In-state (TDEC Commercial Laboratories PDF 03/17/2026)",
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Radiochemistry only as printed. As printed on TDEC commercial PDF retrieved 2026-09-16."
+    },
+    {
+      "name": "Eurofins Knoxville",
+      "city": "Knoxville",
+      "address": "5815 Middlebrook Pike, Knoxville, TN 37921-5947",
+      "phone": "865-291-3000",
+      "contact": "Anna Barlozhetskaya",
+      "lab_id": "02014",
+      "chem_cert_expire": "6/4/2028",
+      "bact_cert_expire": "",
+      "certifications": [
+        "Inorganics/Trace Metals",
+        "Organics"
+      ],
+      "tdec_list": "In-state (TDEC Commercial Laboratories PDF 03/17/2026)",
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on TDEC commercial PDF retrieved 2026-09-16."
+    },
+    {
+      "name": "Microbac - Knoxville Division",
+      "city": "Maryville",
+      "address": "505 East Broadway Avenue, Maryville, TN 37804",
+      "phone": "865-977-1200",
+      "contact": "T.J. McCallum",
+      "lab_id": "02017",
+      "chem_cert_expire": "4/21/2028",
+      "bact_cert_expire": "4/21/2028",
+      "certifications": [
+        "Enzyme Substrate - Total Coliform and E.coli.",
+        "General Chemistry-Turbidity, Corrosivity, pH",
+        "Heterotrophic Plate Count",
+        "Inorganics/Trace Metals"
+      ],
+      "tdec_list": "In-state (TDEC Commercial Laboratories PDF 03/17/2026)",
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on TDEC commercial PDF retrieved 2026-09-16."
+    },
+    {
+      "name": "Microbac Laboratories, Inc - Nashville",
+      "city": "Maryville",
+      "address": "505 East Broadway Avenue, Maryville, TN 37804",
+      "phone": "615-242-1480",
+      "contact": "T.J. McCallum",
+      "lab_id": "03073",
+      "chem_cert_expire": "",
+      "bact_cert_expire": "12/3/2028",
+      "certifications": [
+        "Membrane Filter- Total, Fecal and E.coli."
+      ],
+      "tdec_list": "In-state (TDEC Commercial Laboratories PDF 03/17/2026)",
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "PDF prints Maryville address with Nashville phone \u2014 transcribed as printed. As printed on TDEC commercial PDF retrieved 2026-09-16."
+    },
+    {
+      "name": "Pace Analytical National Center for Testing&Evaluation",
+      "city": "Mount Juliet",
+      "address": "12065 Lebanon Road, Mount Juliet, TN 37122-2605",
+      "phone": "615-758-5858",
+      "contact": "Timothy Looper",
+      "lab_id": "02006",
+      "chem_cert_expire": "12/9/2027",
+      "bact_cert_expire": "3/12/2027",
+      "certifications": [
+        "Disinfection Byproducts",
+        "Enzyme Substrate - Total Coliform and E.coli.",
+        "General Chemistry-Turbidity, Corrosivity, pH",
+        "Heterotrophic Plate Count",
+        "Inorganics/Trace Metals",
+        "Membrane Filter- Total, Fecal and E.coli.",
+        "Organics",
+        "Radiochemistry"
+      ],
+      "tdec_list": "In-state (TDEC Commercial Laboratories PDF 03/17/2026)",
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "Name printed with Testing&Evaluation (no space). As printed on TDEC commercial PDF retrieved 2026-09-16."
+    },
+    {
+      "name": "Tennessee Tech University Water Center",
+      "city": "Cookeville",
+      "address": "P O Box 5033, Cookeville, TN 38505",
+      "phone": "931-372-3538",
+      "contact": "Phillip Burr",
+      "lab_id": "02029",
+      "chem_cert_expire": "11/28/2026",
+      "bact_cert_expire": "10/5/2026",
+      "certifications": [
+        "Disinfection Byproducts",
+        "Enzyme Substrate - Total Coliform and E.coli.",
+        "General Chemistry-Turbidity, Corrosivity, pH",
+        "Inorganics/Trace Metals"
+      ],
+      "tdec_list": "In-state (TDEC Commercial Laboratories PDF 03/17/2026)",
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on TDEC commercial PDF retrieved 2026-09-16."
+    },
+    {
+      "name": "Waypoint Analytical, LLC (Jackson)",
+      "city": "Jackson",
+      "address": "2269 Dr. F. E. Wright Drive, Jackson, TN 38305",
+      "phone": "731-423-5330",
+      "contact": "Richard Medina",
+      "lab_id": "02046",
+      "chem_cert_expire": "12/5/2026",
+      "bact_cert_expire": "12/5/2026",
+      "certifications": [
+        "Enzyme Substrate - Total Coliform and E.coli.",
+        "Inorganics/Trace Metals"
+      ],
+      "tdec_list": "In-state (TDEC Commercial Laboratories PDF 03/17/2026)",
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on TDEC commercial PDF retrieved 2026-09-16."
+    },
+    {
+      "name": "Waypoint Analytical, LLC (Memphis)",
+      "city": "Memphis",
+      "address": "2790 Whitten Road, Memphis, TN 38133",
+      "phone": "901-213-2400",
+      "contact": "Richard Medina",
+      "lab_id": "02027",
+      "chem_cert_expire": "8/11/2028",
+      "bact_cert_expire": "8/11/2028",
+      "certifications": [
+        "Disinfection Byproducts",
+        "Enzyme Substrate - Total Coliform and E.coli.",
+        "General Chemistry-Turbidity, Corrosivity, pH",
+        "Heterotrophic Plate Count",
+        "Inorganics/Trace Metals",
+        "Membrane Filter- Total, Fecal and E.coli.",
+        "Organics"
+      ],
+      "tdec_list": "In-state (TDEC Commercial Laboratories PDF 03/17/2026)",
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on TDEC commercial PDF retrieved 2026-09-16."
+    }
+  ],
+  "omitted": {
+    "military_federal_in_state": [
+      "BNH AEDC Chemistry Lab (Arnold AFB) \u2014 Lab ID 02010",
+      "DOE Y-12 CNS National Security Complex \u2014 Lab ID 02018",
+      "NAS Arnold AFB WTP (Old ATA) Micro Lab \u2014 Lab ID 03003"
+    ],
+    "out_of_state": "All out-of-state labs on TDEC Commercial Laboratories PDF (03/17/2026) \u2014 cite/link that PDF only."
+  }
+}
