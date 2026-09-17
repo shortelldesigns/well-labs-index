@@ -415,3 +415,40 @@ Retrieve date: **15 September 2026** (US/Pacific).
 ### Page / data
 
 - Page: labs/south-dakota.html · data: data/labs-sd.json
+
+## Tennessee — 16 September 2026 (US/Pacific)
+
+Retrieve date: **16 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| TDEC Laboratory Certification Program | https://www.tn.gov/environment/program-areas/wr-water-resources/water-quality/drinking-water-redirect/lab-certification-program.html | Retrieved 16 September 2026 | Links to certified commercial and microbiological PDFs. Archived `data/sources/tn-lab-cert-program-2026-09-16.html`. |
+| TDEC Certified Commercial Labs PDF | https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-commercial-labs.pdf | Footer date 03/17/2026 | In-state commercial/independent/university + military/federal + out-of-state. Archived `data/sources/tn-certified-commercial-labs-2026-09-16.pdf|.txt`. |
+| TDEC Certified Microbiological Labs PDF | https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_certified-microbiological-labs.pdf | Retrieved 16 September 2026 | Broader micro roster (many utility plants). Archived `data/sources/tn-certified-micro-labs-2026-09-16.pdf|.txt`. |
+| TDH Division of Laboratory Services | https://www.tn.gov/health/lab.html | Retrieved 16 September 2026 | Environmental Microbiology accepts private wells; Chemistry lists private wells among typical sources. Contacts Kristin Dunaway 615-262-6337; Chemistry bottle orders TDOH-EnvLogin / 615-262-6346. Archived `data/sources/tn-tdh-lab-2026-09-16.html|.txt`. |
+| TDH Well Water Test Kit Instructions PDF | https://www.tn.gov/content/dam/tn/health/documents/WellWaterTestKitInstructions.pdf | V1. 10/3/2024 | Home coliform color kit guidance; Waterborne.Health@tn.gov / 615-532-7111. Archived `data/sources/tn-well-water-test-kit-instructions-2026-09-16.pdf|.txt`. |
+| Williamson County Well Water Testing flyer | https://williamsoncounty-tn.gov/DocumentCenter/View/22926/Well-Water-Testing-Flyer | Retrieved 16 September 2026 | Corroborates TDH Division of Laboratory Services testing at 630 Hart Lane; supply request TDOH-ENVLogin.Health@tn.gov or 615-262-6337. Archived `data/sources/tn-williamson-well-flyer-2026-09-16.pdf|.txt`. |
+
+### Failed or incomplete (Tennessee)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Private Water Supply hub (linked from kit PDF as “Private Water Supply (tn.gov)”) | Common TDH healthy-homes paths | HTTP 404 at several guessed paths | Used TDH lab page + Williamson flyer + kit PDF as working sources. |
+| Stale health.tn.gov commercial PDF | https://www.tn.gov/content/dam/tn/health/documents/wr_wq_dw_approved-commercial-labs.pdf | Rev ~08/03/2017; expired cert dates | Archived for contrast only; **not** used for the directory table. Prefer TDEC `wr_wq_dw_certified-commercial-labs.pdf` (03/17/2026). |
+| Older micro PDF path | https://www.tn.gov/content/dam/tn/environment/water/drinking-water-unit/wr_wq_dw_approved-microbiological-labs.pdf | HTTP 404 | Used `wr_wq_dw_certified-microbiological-labs.pdf` from the LCP page. |
+| Commercial private-well acceptance | 10 commercial rows | No official page confirmed homeowner acceptance | Marked unknown — call first. |
+
+### Directory choices (Tennessee)
+
+| Choice | Detail |
+| --- | --- |
+| In-state commercial | 10 labs tabulated from TDEC commercial PDF (03/17/2026). |
+| Verified path | TDH Environmental Microbiology (private wells / Total Coliform–E. coli) + Chemistry Laboratory (private wells among typical sources). |
+| Omitted | BNH AEDC (Arnold AFB); DOE Y-12 CNS; NAS Arnold AFB WTP Micro Lab; all out-of-state commercial-PDF labs. |
+| Prices | Intentionally omitted; confirm with TDH or the lab. |
+
+### Page / data
+
+- Page: labs/tennessee.html · data: data/labs-tn.json
