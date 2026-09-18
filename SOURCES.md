@@ -452,3 +452,43 @@ Retrieve date: **16 September 2026** (US/Pacific).
 ### Page / data
 
 - Page: labs/tennessee.html · data: data/labs-tn.json
+
+## West Virginia — 17 September 2026 (US/Pacific)
+
+Retrieve date: **17 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| OLS Laboratory Certified Parameter List PDF | https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf | Updated 8/20/2026 (footer Thursday, August 20, 2026; 104 pages) | Primary roster. Archived `data/sources/wv-ols-certified-labs-2026-08-20.pdf|.txt`. |
+| OEHS certified labs listing page | https://oehs.wvdhhr.org/eed/data-management/water-quality-laboratories-certified-in-west-virginia/ | Retrieved 17 September 2026 | Hub linking the certified list. Archived `data/sources/wv-ols-listing-page-2026-09-17.html|.txt`. |
+| OLS Environmental Microbiology | https://dhhr.wv.gov/ols/labs/Pages/EnvironmentalMicrobiology.aspx | Retrieved 17 September 2026 | Tests private / individual households; prefer county health department collection; OLS bottles; 30-hour hold. Archived `data/sources/wv-ols-env-microbiology-2026-09-17.html|.txt`. |
+| OLS Environmental Chemistry | https://dhhr.wv.gov/ols/labs/Pages/EnvironmentalChemistry.aspx | Retrieved 17 September 2026 | Support to private well owners; bottle order 304-965-2694 / Apr 2026 form. Archived `data/sources/wv-ols-env-chemistry-2026-09-17.html|.txt`. |
+| Bottle request form (Chemistry, Apr 2026) | https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/Bottle_Request_Form_With%20Fees%206.0_Apr2026.pdf | Apr 2026 | Archived `data/sources/wv-ols-bottle-request-form-apr2026.pdf|.txt`. Fees not republished on HTML. |
+| Microbiology bottle request | https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Micro/Bottle_Request_Form.pdf | Retrieved 17 September 2026 | Archived `data/sources/wv-ols-micro-bottle-request.pdf|.txt`. |
+| Information for Private Well Owners pamphlet | https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/Water%20Pamphlet.pdf | Retrieved 17 September 2026 | Archived `data/sources/wv-ols-private-well-pamphlet.pdf|.txt`. |
+| OEHS Individual Water Supplies | https://oehs.wvdhhr.org/phs/public-health-sanitation/individual-water-supplies/ | Retrieved 17 September 2026 | Rules/guidance hub. Archived `data/sources/wv-individual-water-supplies-2026-09-17.html|.txt`. |
+| Local health departments map | https://dhhr.wv.gov/localhealth/Pages/Map.aspx | Linked from OLS | Preferred first contact for private-well bacteriological sampling per OLS Microbiology page. |
+
+### Failed or incomplete (West Virginia)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Older certified-labs PDF (5/14/2026) | https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%285-14-26%29.pdf | Not needed — 8/20/2026 PDF retrieved successfully | Used 8/20/2026 PDF only. |
+| Commercial phone numbers on OLS PDF | OLS certified parameter list | Not printed on the PDF | Marked phone unknown for all 6 commercial rows. |
+| Commercial private-well acceptance | 6 commercial rows | No official page confirmed homeowner acceptance | Marked unknown — call first. |
+| County Extension private-well kit path | Extension search | No independently verified statewide Extension kit path found beyond OLS / LHD / OEHS materials | Linked OLS + local health map + OEHS Individual Water Supplies only. |
+
+### Directory choices (West Virginia)
+
+| Choice | Detail |
+| --- | --- |
+| In-state commercial | 6 labs tabulated from OLS PDF 8/20/2026 (Advanced Analytical Solutions; Analabs; Pace Beaver; Pace Morgantown; Standard Laboratories Lab 67; Sturm Environmental Services). |
+| Verified path | OLS Environmental Microbiology (private / individual households via county health department preferred) + OLS Environmental Chemistry (private well owners). |
+| Omitted | 13 municipal/utility water-plant labs; WV Dept. of Agriculture Moorefield field office; OLS Chemistry/Microbiology/District (in verified path); 27 out-of-state labs. |
+| Prices | Intentionally omitted; confirm with OLS or the lab. |
+
+### Page / data
+
+- Page: labs/west-virginia.html · data: data/labs-wv.json

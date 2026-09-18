@@ -1,0 +1,275 @@
+
+
+ 
+ Environmental Microbiology
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ [#nav] Skip to Navigation
+
+ [#readmaincontent] Skip to Main Content
+
+ 
+
+ [http://www.wv.gov] 
+
+ [http://www.wv.gov/agencies] State Agency Directory | [http://www.wv.gov/services] Online Services
+
+ [https://dhhr.wv.gov/bph3] 
+
+ [https://dhhr.wv.gov/ols] 
+
+Search this site 
+
+ 
+
+ 
+
+ [/] [/] 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ [/ols/about/Pages/default.aspx] About OLS
+ [/ols/support/Pages/default.aspx] Support Services
+ [/ols/regulatory/Pages/default.aspx] Regulatory
+ [/ols/training/Pages/default.aspx] Training
+ [/ols/labs/Pages/default.aspx] LabsCurrently selected
+ 
+ [/ols/labs/Pages/DiagnosticImmunology.aspx] Diagnostic Immunology
+ [/ols/labs/Pages/Microbiology.aspx] Microbiology
+ [/ols/labs/Pages/MolecularDiagnostics.aspx] Molecular Diagnostics
+ [/ols/labs/Pages/Bacteriology.aspx] Bacteriology
+ [/ols/labs/Pages/Arbovirus.aspx] Arbovirus
+ [/ols/labs/Pages/Influenza.aspx] Influenza
+ [/ols/labs/Pages/biotinidase.aspx] Biotinidase Deficiency
+ [/ols/labs/Pages/CAH.aspx] Congenital Adrenal Hyperplasia (CAH)
+ [/ols/labs/Pages/CHT4.aspx] Congenital Hypothyroidism (CH)
+ [/ols/labs/Pages/CysticFibrosis.aspx] Cystic Fibrosis
+ [/ols/labs/Pages/hemoglobinopathies.aspx] Hemoglobinopathies
+ [/ols/labs/Pages/aminoaciddisorders-.aspx] Amino Acid Disorders 
+ [/ols/labs/Pages/CT.aspx] Chemical Terrorism Response Laboratory (CT)
+ [/ols/labs/Pages/ChlamydiaandGonorrhea.aspx] Chlamydia and Gonorrhea
+ [/ols/labs/Pages/EmergingPathogens.aspx] Emerging Pathogens
+ [/ols/labs/Pages/EnvironmentalChemistry.aspx] Environmental Chemistry
+ [/ols/labs/Pages/BT.aspx] Bioterrorism Response Laboratory (BT)
+ [/ols/labs/Pages/fattyacidoxidationdisorders.aspx] FATTY ACID OXIDATION DISORDERS 
+ [/ols/labs/Pages/EnvironmentalMicrobiology.aspx] Environmental Microbiology
+ [/ols/labs/Pages/HIVAIDS.aspx] HIV/AIDS
+ 
+ [/ols/forms/Pages/default.aspx] Forms
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Search this site 
+
+ 
+
+West Virginia Office
+
+of Laboratory Services
+
+167 11th Ave
+
+South Charleston, WV 25303
+
+Phone:
+ 304-558-3530
+
+ 
+
+ 
+
+ [#ctl00_PlaceHolderMain_SiteMapPath1_SkipLink] [/Pages/default.aspx] WVDHHR > [/ols/Pages/default.aspx] Office of Laboratory Services > [/ols/labs/Pages/default.aspx] Labs > Environmental Microbiology
+
+Environmental Microbiology
+
+ 
+
+ 
+
+Page Content
+
+The dedicated staff in the Environmental Microbiology Section have impacted the lives of everyone in West Virginia who has consumed water from a Public Water System.  The Bardane District Environmental Laboratory staffs three individuals to handle the drinking water testing for the nine counties in the Eastern panhandle.  This includes Berkeley, Jefferson, Grant, Hampshire, Hardy, Mineral, Morgan, Pendleton, and Tucker.
+
+Water Testing
+
+This Unit tests water from the majority of Public Water Systems in the state as a requirement under the Safe Drinking Water Act ( [https://www.epa.gov/sdwa] SDWA) and the Total Coliform Rule ( [https://www.epa.gov/dwreginfo/revised-total-coliform-rule-and-total-coliform-rule] TCR).  In addition, this Unit also tests water from private, individual households, recreational areas such as swimming pools and bathing beaches, and bottled water companies.  Dairy plants and dairy farms also submit water for testing.
+
+ 
+
+ 
+
+What are we looking for?
+ 
+Water samples are first tested for Coliform Bacteria.  This group of bacteria, normally found in the environment, is used as an indicator, to indicate the possible presence of pathogens (disease-causing organisms).  Generally, when pathogens are present in drinking water, coliforms are present as well.  The reverse is not necessarily true - when coliforms are found in drinking water, pathogens may or may not be present.  However, treating the water to eliminate the coliforms would most likely also eliminate the pathogens.  The level of coliform bacteria allowed in drinking water is zero.  If coliforms are found in the water sample, further testing is performed to look for Fecal Coliforms (a subgroup of Total Coliforms) or E. coli (one member of the Fecal Coliform Group).  Since both Fecal Coliforms and E. coli are found in the intestinal tract and feces of warm-blooded animals, their presence in drinking water can indicate a sewage contamination problem.
+
+Where do water samples come from?
+ 
+
+Water samples are collected by Water Plant Operators from Public Water Systems, Engineers from the Office of Environmental Health Service ( [http://www.wvdhhr.org/oehs/] OEHS) - Environmental Engineering Division ( [http://www.wvdhhr.org/oehs/eed/] EED), Sanitarians from OEHS - Public Health Sanitation Division ( [http://www.wvdhhr.org/phs/index.asp] PHSD) and Local County Health Departments ( [/localhealth/Pages/Map.aspx] LHD).  Samples are also received from other laboratories that are not certified to conduct drinking water tests.  On a limited basis and by prior arrangement, samples are received from private citizens.  Private citizens needing to have their well water tested should first contact their local county health departments.  This way a trained sanitarian can collect the sample and ensure that the well is properly protected.  In the event that the sample does have coliform bacteria present, the sanitarian can instruct the well owner on how to treat the well, remedy the problem and provide follow-up testing.
+ 
+
+ 
+Samples must be collected in containers that are provided by the Office of Laboratory Services.  These containers are specially prepared, contain a dechlorinating agent and are tested for sterility.  They are supplied to clients upon submission of the [/ols/labs/Documents/Environmental%20Micro/Bottle_Request_Form.pdf] Bottle Request Form.  This form may be mailed, faxed, submitted with samples, or hand-delivered.  Samples must be received and testing begun within 30 hours of collection for compliance with the SDWA.  The EM-1 Water Bacteriological Report Form must be completed in ink and submitted along with the sample.  Water collection containers are state property and must be returned to the Office of Laboratory Services for testing.  They cannot be sent to any other laboratory.
+ 
+
+ 
+Samples can be mailed or sent by other delivery services such as UPS or FedEx or can be hand delivered.  If samples are hand-delivered to the South Charleston Laboratory after operating hours, they can be left in the refrigerator located in the building by the back parking lot gate.  Samples are received at the South Charleston Laboratory, 8:00 a.m. to 5:00 p.m. Monday through Friday (with the exception of State holidays), by U.S. Mail, and by special arrangements on Saturday.  The Bardane District Environmental Laboratory receives samples 8:00 a.m. to 4:00 p.m. Monday through Wednesday and 8:00 a.m. to 12:00 p.m. on Thursday.
+
+How is water tested?
+ 
+The Environmental Microbiology Section has at their disposal, several different methods to test water for coliform bacteria.  All of the test methods require 100 mL (approximately 3.4 oz) of sample.
+ 
+
+ 
+Enzyme Substrate Method
+ 
+The Enzyme Substrate Test is used primarily for all types of water.  A reagent packet is added to 100 mLs of sample and then the mixture is incubated for 24 hours.  A color change from clear to yellow confirms the presence of coliform bacteria.  At the same time, a blue fluorescence when subjected to UV light confirms the presence of E. coli.  A variation of this test is also available when there is a need to know the amount of coliform bacteria and E. coli present.  A slightly different formulation is available that will allow for confirmed results in as little as 18 hours.
+ 
+
+ 
+Fermentation Method
+ 
+The Fermentation Method is a backup method used on certain types of dairy plant samples.  One hundred milliliters of sample is added to a growth medium and incubated for up to 48 hours.  A change in color from purple to yellow indicates a presumptive positive test for coliform bacteria.  All presumptive positive samples are then subjected to a confirmation test and a fecal coliform test which can take an additional 48 hours to complete.  High numbers of non-coliform bacteria can interfere with this test causing invalid results.
+
+Are Drinking Water Laboratories certified?
+
+To ensure uniformity and the validity of test results, Public Water Systems must have their water routinely checked for coliform bacteria and chemical analytes by a laboratory that is certified to perform such testing.  The Environmental Microbiology Section is certified by the United States Environmental Protection Agency (USEPA) to perform Coliform Testing on drinking water.  All commercial and private laboratories that test drinking water samples from public supplies in West Virginia must be certified by the State.  Several staff members of the Environmental Microbiology Section have been trained as Certification Officers (CO) by the USEPA at the Andrew W. Breidenbach Environmental Research Center in Cincinnati, OH.  These staff members oversee the Drinking Water Microbiology Certification Program for the state of West Virginia.  Certified Drinking Water Laboratories must pass an on-site inspection by the CO every three years.  This is based on the USEPA's Manual for the Certification of Drinking Water Laboratories.  Laboratories must successfully test Proficiency Test (PT) Samples annually for each method that they are certified for.  All laboratories certified by the State of West Virginia along with their testing capabilities can be found on the [/ols/labs/Documents/Environmental%20Micro/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf] Certified Laboratory List​​.  Certification for chemical analysis is handled by the [/ols/labs/Pages/EnvironmentalChemistry.aspx] Environmental Chemistry Section.
+
+Forms and Instructions
+
+ [/ols/labs/Documents/Environmental%20Micro/Bottle_Request_Form.pdf] Water Sample Collection Bottle Request Form
+
+Water Sample Submission Form (not available electronically; call for copy)
+ 
+
+Resource Links
+
+ [/ols/labs/Documents/Environmental%20Chemistry/Water%20Pamphlet.pdf] Information for Private Well Owners
+
+ [/ols/labs/Documents/Environmental%20Micro/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf] WV Certified Drinking Water Laboratories​​​​​​
+ 
+
+ [http://www.wvdhhr.org/oehs/] WV Office of Environmental Health Services (OEHS)
+
+ [http://www.wvdhhr.org/phs/index.asp] WV OEHS Public Health Sanitation Division (PHSD)
+
+ 
+ [https://www.epa.gov/dwstandardsregulations/drinking-water-contaminant-human-health-effects-information] EPA (general information on drinking water)
+ 
+ [https://www.epa.gov/dwlabcert/laboratory-certification-manual-drinking-water] EPA Laboratory Certification Manual for Drinking Water
+ 
+ [https://www.epa.gov/sdwa] EPA Safe Drinking Water Act
+ 
+ [https://www.epa.gov/dwreginfo/revised-total-coliform-rule-and-total-coliform-rule] EPA Total Coliform Rule
+
+Pay Invoice
+
+Click [https://epay.wvsto.com/processepay/default.aspx?GUID=59A3550F-5DB8-4299-B22D-E50B1313DE29] HERE to pay your Microbiology Water Invoice.
+
+For questions or issues with billing, contact:
+
+Sean Patrick
+
+BPH Accounts Receivable
+
+304-352-4844
+
+ [mailto:dhhrbphar@wv.gov] dhhrbphar@wv.gov
+ 
+
+ 
+
+Contact Information
+
+Phone: 304-965-2694
+ 
+Water Testing - 304-414-2432
+ 
+Laboratory Certification - 304-414-2435
+ 
+
+Kearneysville (Bardane) Location
+
+Phone: 304-725-5832
+
+ 
+
+ 
+
+West Virginia Office
+
+of Laboratory Services
+
+167 11th Ave
+
+South Charleston, WV 25303
+
+Phone:
+ 304-558-3530
+
+ [../../../ols/Pages/contact.aspx] Contact Us | [../../../ols/Pages/site-map.aspx] Site Map
+To view Nondiscrimination Policies and Plans, please [https://dhhr.wv.gov/Pages/Nondiscrimination.aspx] click here.
+
+ 
+
+ 
+
