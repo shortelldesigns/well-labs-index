@@ -1,0 +1,170 @@
+{
+  "state": "West Virginia",
+  "state_code": "WV",
+  "last_updated": "2026-09-17",
+  "source": {
+    "title": "WV DHHR Office of Laboratory Services Environmental Drinking Water Laboratory Certification Program \u2014 Laboratory Certified Parameter List PDF updated 8/20/2026 + OLS Environmental Microbiology / Environmental Chemistry private-well path + OEHS certified-labs listing page",
+    "certified_labs_pdf": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/waterqualitylabs%20%282026%29%20-%20Updated%20List%20%288-20-26%29.pdf",
+    "certified_labs_pdf_updated": "2026-08-20",
+    "listing_page": "https://oehs.wvdhhr.org/eed/data-management/water-quality-laboratories-certified-in-west-virginia/",
+    "ols_env_microbiology": "https://dhhr.wv.gov/ols/labs/Pages/EnvironmentalMicrobiology.aspx",
+    "ols_env_chemistry": "https://dhhr.wv.gov/ols/labs/Pages/EnvironmentalChemistry.aspx",
+    "ols_bottle_request_chem_apr2026": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/Bottle_Request_Form_With%20Fees%206.0_Apr2026.pdf",
+    "ols_micro_bottle_request": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Micro/Bottle_Request_Form.pdf",
+    "ols_private_well_pamphlet": "https://dhhr.wv.gov/ols/labs/Documents/Environmental%20Chemistry/Water%20Pamphlet.pdf",
+    "oehs_individual_water_supplies": "https://oehs.wvdhhr.org/phs/public-health-sanitation/individual-water-supplies/",
+    "local_health_map": "https://dhhr.wv.gov/localhealth/Pages/Map.aspx",
+    "retrieved": "2026-09-17",
+    "in_state_commercial_table_count": 6,
+    "out_of_state_omitted": true,
+    "municipal_utility_labs_omitted": true,
+    "state_agriculture_lab_omitted_from_commercial_table": true,
+    "limitations": [
+      "OLS Laboratory Certified Parameter List PDF footer date Thursday, August 20, 2026 (104 pages). Primary source for roster.",
+      "PDF prints laboratory name, street address, city/state/ZIP, certificate ID, issue/expiration dates, and certified parameter groups \u2014 it does not print commercial phone numbers. Phone marked unknown for all commercial rows.",
+      "In-state municipal / utility / water-plant labs omitted from commercial table (AL/SD pattern): Beckley Water Company; Clarksburg Water Board; Fairmont Water Plant; Morgantown Utility Board Robert B. Creel Water Treatment Facility; Sweeneysburg Water Treatment Plant; Weirton Water Treatment Plant; Wheeling Water Treatment Plant; WVAWC Bluefield / Bluestone / Huntington / Kanawha Valley / Weston; WVAW-New River.",
+      "West Virginia Department of Agriculture / Moorefield Field Office (cert 00161M; Microbiology - Group I) omitted from commercial table as a state agriculture field office \u2014 not tabulated as commercial.",
+      "WV DOH OLS Chemistry (00003 C), OLS Microbiology (00003 M), and District Environmental Laboratory Kearneysville/Bardane (00005 M) documented in verified paths \u2014 not as commercial rows.",
+      "All 27 out-of-state labs on the 8/20/2026 PDF omitted from the main table \u2014 cite/link the official PDF.",
+      "Commercial private-well acceptance unknown for every commercial row \u2014 call first.",
+      "OLS Environmental Microbiology states the Unit tests water from private, individual households; private citizens should first contact their local county health department; OLS sterile bottles required; samples received/testing begun within 30 hours. Limited basis / prior arrangement for private citizens noted on the page.",
+      "OLS Environmental Chemistry states it provides support to private well owners; initial screening set includes total coliform, regulated metals, and combined nitrate + nitrite; bottles via 304-965-2694 or bottle request form (Apr 2026).",
+      "Fees appear on bottle-request / submission forms but are intentionally omitted from public HTML \u2014 confirm current amounts with OLS.",
+      "Older 5/14/2026 PDF not used (8/20/2026 PDF retrieved successfully)."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "WV DHHR Office of Laboratory Services \u2014 Environmental Microbiology (private / individual households)",
+      "url": "https://dhhr.wv.gov/ols/labs/Pages/EnvironmentalMicrobiology.aspx",
+      "notes": "OLS states this Unit tests water from private, individual households (among other sources). Private citizens needing well water tested should first contact their local county health department so a sanitarian can collect the sample. Samples must use OLS-provided sterile containers (Bottle Request Form). Samples must be received and testing begun within 30 hours of collection. South Charleston Laboratory receives samples 8:00 a.m.\u20135:00 p.m. Mon\u2013Fri (except state holidays); Bardane District Environmental Laboratory (Eastern panhandle counties) receives Mon\u2013Wed 8:00 a.m.\u20134:00 p.m. and Thu 8:00 a.m.\u201312:00 p.m. Contacts printed on page: Water Testing 304-414-2432; Laboratory Certification 304-414-2435; Kearneysville (Bardane) 304-725-5832. OLS main office address on page: 167 11th Ave, South Charleston, WV 25303 \u00b7 304-558-3530. Certified list entries: OLS Microbiology 4710 Chimney Drive Suite G Charleston WV 25302 (cert 00003 M); District Environmental Laboratory 1948 Wiltshire Road Suite #7 Kearneysville WV 25430 (cert 00005 M)."
+    },
+    {
+      "name": "WV DHHR Office of Laboratory Services \u2014 Environmental Chemistry (private well owners)",
+      "url": "https://dhhr.wv.gov/ols/labs/Pages/EnvironmentalChemistry.aspx",
+      "notes": "OLS Environmental Chemistry states it provides support to private well owners (among OEHS, county health departments, Oral Health Program). Page recommends an initial set for private well owners: total coliform, regulated metals, and combined nitrate + nitrite. How to order sample bottles: telephone 304-965-2694 or bottle request form (Apr 2026 version linked). Contact: Environmental Chemistry Section, 4710 Chimney Drive, Suite G, Charleston, WV 25302 \u00b7 Phone 304-965-2694 \u00b7 Fax 304-965-2696. Certified list entry: OLS Chemistry cert 00003 C (Inorganics; Trace Metals). Fees intentionally omitted \u2014 confirm with OLS."
+    }
+  ],
+  "labs": [
+    {
+      "name": "Advanced Analytical Solutions, L.L.C.",
+      "city": "Parkersburg",
+      "address": "6325 Emerson Avenue, Parkersburg, WV 26104",
+      "phone": "unknown",
+      "certificate": "00542 M",
+      "issue_date": "8/19/2026",
+      "expiration_date": "1/31/2027",
+      "certifications": [
+        "Microbiology - Group I"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on WV OLS certified parameter list PDF dated Thursday, August 20, 2026. Phone not printed on the PDF."
+    },
+    {
+      "name": "Analabs, Inc.",
+      "city": "Crab Orchard",
+      "address": "196 Dayton Street, Crab Orchard, WV 25827",
+      "phone": "unknown",
+      "certificate": "00442 CM",
+      "issue_date": "8/19/2026",
+      "expiration_date": "1/31/2027",
+      "certifications": [
+        "Inorganics",
+        "Microbiology - Group I",
+        "Trace Metals"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on WV OLS certified parameter list PDF dated Thursday, August 20, 2026. Phone not printed on the PDF."
+    },
+    {
+      "name": "Pace Analytical Services, LLC - Beaver",
+      "city": "Beaver",
+      "address": "225 Industrial Park Road, Beaver, WV 25813",
+      "phone": "unknown",
+      "certificate": "00412 CM",
+      "issue_date": "8/19/2026",
+      "expiration_date": "1/31/2027",
+      "certifications": [
+        "Inorganics",
+        "Microbiology - Group I",
+        "Radionuclides",
+        "Trace Metals"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on WV OLS certified parameter list PDF dated Thursday, August 20, 2026. Phone not printed on the PDF."
+    },
+    {
+      "name": "Pace Analytical Services, LLC - Morgantown WV",
+      "city": "Morgantown",
+      "address": "16 Commerce Drive, Morgantown, WV 26501",
+      "phone": "unknown",
+      "certificate": "00312 M",
+      "issue_date": "8/19/2026",
+      "expiration_date": "1/31/2027",
+      "certifications": [
+        "Microbiology - Group I"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on WV OLS certified parameter list PDF dated Thursday, August 20, 2026. Phone not printed on the PDF."
+    },
+    {
+      "name": "Standard Laboratories, Inc Lab 67",
+      "city": "Wheeling",
+      "address": "8 Industrial Park Drive, Wheeling, WV 26003",
+      "phone": "unknown",
+      "certificate": "00353 M",
+      "issue_date": "8/19/2026",
+      "expiration_date": "1/31/2027",
+      "certifications": [
+        "Microbiology - Group I"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on WV OLS certified parameter list PDF dated Thursday, August 20, 2026. Phone not printed on the PDF."
+    },
+    {
+      "name": "Sturm Environmental Services",
+      "city": "Bridgeport",
+      "address": "203 Brushy Fork Road, Bridgeport, WV 26330",
+      "phone": "unknown",
+      "certificate": "00172 M",
+      "issue_date": "8/19/2026",
+      "expiration_date": "1/31/2027",
+      "certifications": [
+        "Microbiology - Group I"
+      ],
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on WV OLS certified parameter list PDF dated Thursday, August 20, 2026. Phone not printed on the PDF."
+    }
+  ],
+  "omitted": {
+    "municipal_utility_in_state": [
+      "Beckley Water Company (Shady Springs) \u2014 00411 M",
+      "Clarksburg Water Board \u2014 00171 M",
+      "Fairmont Water Plant \u2014 00251 M",
+      "Morgantown Utility Board Robert B. Creel Water Treatment Facility \u2014 00311 M",
+      "Sweeneysburg Water Treatment Plant (Beckley) \u2014 00414 M",
+      "Weirton Water Treatment Plant \u2014 00051 M",
+      "Wheeling Water Treatment Plant \u2014 00351 M",
+      "WVAWC - Bluefield \u2014 00282 M",
+      "WVAWC - Bluestone (True) \u2014 00446 M",
+      "WVAWC - Huntington \u2014 00061 M",
+      "WVAWC - Kanawha Valley (Charleston) \u2014 00201 M",
+      "WVAWC - Weston \u2014 00211 M",
+      "WVAW-New River (Fayetteville) \u2014 00102 M"
+    ],
+    "state_non_commercial": [
+      "West Virginia Department of Agriculture / Moorefield Field Office \u2014 00161M (Microbiology - Group I)",
+      "West Virginia Dept. of Health - Office of Lab Services, Chemistry \u2014 00003 C (documented in verified path)",
+      "West Virginia Dept. of Health - Office of Lab Services, Microbiology \u2014 00003 M (documented in verified path)",
+      "West Virginia Dept. of Health, District Environmental Laboratory (Kearneysville) \u2014 00005 M (documented in verified path / Bardane)"
+    ],
+    "out_of_state_count": 27,
+    "out_of_state_note": "27 out-of-state labs on the 8/20/2026 PDF omitted from the main table \u2014 use the official OLS certified labs PDF."
+  }
+}

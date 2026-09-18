@@ -1,0 +1,74 @@
+                                                                                                                                                    Office of Laboratory Services
+                                                                                                                                                       Environmental Chemistry
+                                                                                                                                                        4710 Chimney Drive Suite G Charleston WV 25302
+                                                         WATER SAMPLE SUBMISSION FORM                                                                       Phone: (304)965-2694 Fax: (304)965-2696
+
+                  Company:                                                                                        Company:
+                  Public Water System ID #:                                                                       Name:
+  .SUBMITTER
+
+
+
+
+                                                                                                        INVOICE
+                  Name:                                                                                           Address:
+                  Address:                                                                                        City, State, Zip:
+                  City, State, Zip:                                                                               Telephone No.:
+                  Telephone No.:                                                                                  Fax No.:
+                  Fax No.:                                          Fax Results: ⎕YES ⎕NO
+
+                  County:                                                                              Water Fluoridation Program Plant Result (ppm):
+  SAMPLING DATA
+
+
+
+
+                  Sampling Point Description:                                                           Lead/Copper (First Draw) Water Last Used Date:
+                                                                                                                                                                Time:
+                                                                                                       Comment:
+                  Date Collected:                                 Time:
+                  Collected by:
+  PURPOSE
+
+
+
+
+                  ⎕Fluoridation Program                          ⎕Customer Request                                                      BOTTLE NUMBER(S)
+                  ⎕Regulatory Compliance                         ⎕District Engineer Request
+                  ⎕Lead Assessment                               District:
+                                              INORGANIC PARAMETERS REQUESTED FOR TESTING (required preservative) [Fee]
+□ Alkalinity (Ice): [$12]
+□ Anions Package: Fluoride, Chloride, Nitrate, Nitrite, Ortho-phosphate and Sulfate. (Ice): [$30 per package; or $20 per analyte]
+□ Combined Nitrate + Nitrite (H2SO4): [$15]
+□ Conductivity (Ice): [$12]
+□ Cyanide, Free (Ice, NaOH,C6H8O6): [$25]
+□ Fluoride: [$20]
+□ Metals Lead / Copper – First Draw: [$32 per package, or $20 per analyte]
+□ Metals Regulatory Package: Antimony, Arsenic, Barium, Beryllium, Cadmium, Chromium, Nickel, Thallium, Selenium and Sodium: [$60 per package; or $20 per analyte]
+□ Metals Secondary Package; Iron, Magnesium, Manganese, Silver and Zinc: [$45 per package; or $20 per analyte]
+□ Nitrite (Ice): [$15]
+□ Nitrate (Ice): [$15]
+□ Turbidity (Ice): [$12]
+□ Wet Chemistry Package: Alkalinity, Calcium, Calcium Hardness, pH, Total Dissolved Solids and Total Hardness. (Ice): [$30 per package]
+                                     ORGANIC PARAMETERS REQUESTED FOR TESTING (required preservative) [Fee]
+□ (SUVA) Specific Ultraviolet Absorption (Ice): [$50- fee includes both raw and finished sample]
+□ (TOC) Total Organic Carbon (Ice,H3PO4): [$40- fee includes both raw and finished sample]
+
+             •       A $5 processing fee is applied for each sample received by the laboratory (except samples for fluoride only testing).
+             •       A $12 special handling and packaging processing fee may be applied to orders.
+             •       A $15 fee is applied to chain of custody samples.
+
+
+                                                                                                       LABORATORY USE ONLY
+                                                                   RECEIVED BY:                                   METHOD OF SHIPPING:   TEMPERATURE WHEN RECEIVED:
+                             Place Barcode Here                                                                                                                               Document #: QCDEC-049-R8
+                                                                                                                                                    .
+                                                                   DATE/TIME:                                     ⎕MAILED                 COLLECTED WITHIN 24HRS                Effective Date: April 2024
+
+ CHAIN-OF-CUSTODY:                                ⎕YES ⎕NO                                                        ⎕HAND DELIVERED              ⎕YES ⎕NO                                      Revision: 7.0
+
+
+
+
+                                                             All laboratory service fees are listed in 64CSR51 (Effective 4/28/2024).
+
