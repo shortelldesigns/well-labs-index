@@ -492,3 +492,40 @@ Retrieve date: **17 September 2026** (US/Pacific).
 ### Page / data
 
 - Page: labs/west-virginia.html · data: data/labs-wv.json
+
+## Oklahoma (added 18 September 2026)
+
+Retrieve date: **18 September 2026** (US/Pacific).
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| DEQ Accredited_Labs_2026 GIS layer | https://gis.deq.ok.gov/server/rest/services/Accredited_Labs_2026/MapServer/6 | Layer name Accredited_Labs_2026; queried 18 Sep 2026 | curl REST query `Physical_State='OK'` → 100 in-state features. Archived `data/sources/ok-accredited-labs-2026-gis.json`. BusinessCa=Commercial → 19 rows; tabulated 17 after omitting state SELS + state agriculture. |
+| DEQ Accredited Laboratory search | https://labaccreditation.deq.ok.gov/labaccreditation/ | Retrieved 18 Sep 2026 | Official search UI; notes “Commercial Sample” column for labs accepting private samples (column not present on GIS export). |
+| Laboratory Accreditation hub | https://oklahoma.gov/deq/divisions/state-environmental-laboratory-services/laboratory-accreditation.html | Retrieved 18 Sep 2026 | Parameter verification: 405-702-1000 / labaccreditation@deq.ok.gov. |
+| SELS Sample Collection Assistance | https://oklahoma.gov/deq/divisions/state-environmental-laboratory-services/sample-collection-assistance.html | Retrieved 18 Sep 2026 | Private TC and private nitrate+nitrite instruction links; kit contact 405-702-1000 / selsd@deq.ok.gov. |
+| Water Test Request | https://www.deq.ok.gov/water-test-request/ | Retrieved 18 Sep 2026 | Private-well kit request form (coliform, nitrate/nitrite, lead, Water Wellness). Fee amounts not republished on site HTML. |
+| Private Total Coliform & E. coli instructions PDF | https://oklahoma.gov/content/dam/ok/en/deq/documents/deqmainresources/Instruction_Private_TC_8999-GUI30-R02-102324.pdf | Doc id 8999-GUI30-R02-102324 | 28-hour hold; no Friday/weekend ship. Archived + pdftotext. |
+| Private Nitrate + Nitrite instructions PDF | https://oklahoma.gov/content/dam/ok/en/deq/documents/deqmainresources/Private_Nitrate_Nitrite_R02-102324.pdf | R02-102324 | 48-hour hold; DEQ bottle required. Archived + pdftotext. |
+| Private Water Well Analysis PDF | https://oklahoma.gov/content/dam/ok/en/deq/documents/executive-offices/fact-sheets/Private%20Well%20Analysis.pdf | Retrieved 18 Sep 2026 | Water Wellness panel parameters listed. Archived + pdftotext. |
+| Home Water Testing PDF | https://oklahoma.gov/content/dam/ok/en/deq/documents/deqmainresources/HomeWaterTesting.pdf | Fact sheet 10/2024 | Annual private-well testing recommendations. Archived + pdftotext. |
+| SELS Technical Assistance | https://oklahoma.gov/deq/divisions/state-environmental-laboratory-services/technical-assistance.html | Retrieved 18 Sep 2026 | No state rules requiring private-well testing; lenders often require TC/E. coli. |
+| Laboratory Services Fees | https://oklahoma.gov/deq/divisions/state-environmental-laboratory-services/laboratory-services-fees.html | FY2027 schedule linked on page | Linked only; fee table not republished. |
+| Oklahoma Well Owner Network (OSU) | https://water.okstate.edu/our-work/oklahoma-well-owner-network | Retrieved via search 18 Sep 2026 | Linked as Extension screening tool; OWON states certified tests go through DEQ. Not used as certified roster. |
+
+### Omitted from Oklahoma commercial table
+
+| Category | Count | Notes |
+| --- | --- | --- |
+| Municipal / utility (Muncipality/Municipal) | 9 | City of Lawton; OKC Hefner; Norman WTP; Edmond Micro; Midwest City; Durant; Tulsa Microbiology / Wet Chemistry / Instrumentation |
+| State SELS principal lab | 1 | Documented in verified paths only |
+| State agriculture lab | 1 | Ok Dept. of Ag-Laboratory |
+| Permittee | 58 | Industrial permittee labs |
+| Industrial / Induistrial | 12 | Spelling as printed on GIS |
+| Field laboratory Accreditation | 1 | |
+| Research | 1 | Oklahoma Water Survey/OU |
+| Out-of-state | n/a | Filtered by Physical_State=OK; use official DEQ search |
+
+### Page / data
+
+- Page: labs/oklahoma.html · data: data/labs-ok.json
+- Sources archive: data/sources/ok-*
