@@ -1,0 +1,323 @@
+Private Water Well Analysis
+Groundwater is a resource found under the earth’s surface. Most
+groundwater comes from rain and melting snow soaking into the
+ground. Water fills the spaces between rocks and soils, making an
+“aquifer”. About half of our nation’s drinking water comes from
+groundwater. Most is supplied through public drinking water
+systems, but many families rely on private, household wells and use
+groundwater as their source of fresh water.
+If your drinking water comes from a household well, then you are on
+a private water supply. Federal and Oklahoma governments do not
+regulate privately-owned wells in Oklahoma; however, the Oklahoma
+Department of Environmental Quality and other entities provide
+education and technical support to private well owners on appropriate
+testing. You, the private well owner, are responsible for assuring your
+water is safe and of adequate quality for your needs. Even if you
+currently have a safe water source, regular testing can be valuable.
+For this reason, routine testing for a few of the most common
+contaminants is highly recommended.
+This fact sheet explains some of the most common testing that
+is performed for private water supplies, as well as sampling and
+testing actions. The results provided will help establish a baseline
+for the current quality of your drinking water that can help diagnose
+future changes in water quality. This guidance will assist you with
+interpreting the results effectively from our Water Wellness test panel
+that includes chloride, conductivity, copper, hardness, iron, lead, manganese, nitrate/nitrite,
+pH, sodium, and sulfate. The Water Wellness test panel has been designed to provide the
+most benefit to a well owner and will aid in addressing the aspects of human health, oil and
+gas related contamination, possible treatment recommendations, corrosivity, bacteriological
+species indicators, and aesthetics.
+Note that the Water Wellness panel does not include all of the Environmental Protection Agency (EPA)
+primary and secondary drinking water standard parameters.
+
+Testing is recommended if there are known problems with the groundwater or drinking
+water in your area, or if conditions near your wells have changed significantly (flooding,
+land disturbances, or new construction or industrial activity). Other reasons to test your well
+water are if there has been repairs on the well system or if you notice a change in your water
+quality (i.e., odor, color, taste).
+Interpreting Your Results
+Test results should be compared against the current EPA maximum contaminant levels                     This publication is issued by the
+(MCLs) and secondary standards (SMCLs) for each result.                                                Oklahoma Department of Environmental
+                                                                                                       Quality authorized by Rob Singletary,
+EPA has established MCLs for certain contaminants which, when present at excessive                     Executive Director. Copies have been
+                                                                                                       prepared at a cost of $0.159 each. Copies
+levels, may have an adverse effect on human health. MCL concentrations are the highest                 have been deposited with the publications
+                                                                                                       clearinghouse of the Oklahoma
+concentration of a contaminant allowed in drinking water.                                              Department of Libraries.
+                                                                                                       (Fact Sheets\SELS\Private Well Analysis.
+Note that not all contaminants have MCLs.
+                                                                                                       indd 12/2025)
+ Private Water Well Analysis
+
+EPA has also established National Secondary           content that corrodes pipes and fixtures. The
+Drinking Water regulations for some                   most common sources of lead in drinking water
+contaminants that can make the appearance,            are lead pipes, faucets, and fixtures. In homes
+taste or odor of drinking water less pleasing to a    with lead pipes that connect the home to the
+consumer. These SMCLs are neither mandatory           water main, also known as lead services lines,
+nor enforceable but can assist public water supply    these pipes are typically the most significant
+systems with managing their drinking water for        source of lead in the water. Lead pipes are more
+aesthetic considerations. They are not considered     likely to be found in older cities and homes built
+to present a risk to human health in concentrations   before 1986. Among homes without lead service
+at or below the SMCL                                  lines, the most common problem is with brass or
+The units of measurement for most of these            chrome-plated brass faucets and plumbing with
+standards are reported either in micrograms           lead solder.
+per liter (µg/L) or milligrams per liter (mg/L).      Nitrate/Nitrite
+µg/L and mg/L are equivalent to the units part
+                                                      Nitrates are present in sewage, animal manure,
+per billion (ppb) and part per million (ppm),
+                                                      soil, and fertilizers. It can contaminate a private
+respectively. To convert the units, multiply
+                                                      well through groundwater movement, surface
+the value measured in µg/L or ppb by 1000 to
+                                                      water seepage, and water run-off. The maximum
+calculate for mg/L or ppm. Inversely, divide
+                                                      allowable level for nitrate in a domestic well,
+the value measured in mg/L or ppm by 1000 to
+                                                      a public water supply, or other primary source
+calculate the measurement in µg/L or ppb. Tests
+                                                      of drinking water is 10 mg/L. Nitrates are of
+with concentration results below that lab test’s
+                                                      particular concern to pregnant women and infants
+lowest reportable value are indicated by a “<”
+                                                      under six months old since drinking water high
+(less than symbol) followed by that test’s lowest
+                                                      in nitrates may cause Methemoglobinemia
+level that can be reported. In such cases, it means
+                                                      (Blue Baby Syndrome). Nitrates are typically of
+no significant concentration of the contaminant
+                                                      little concern for adults or older children. This
+was detected in the sample.
+                                                      contaminant cannot be removed or reduced by
+Copper                                                boiling; boiling will increase the concentration
+Copper is a naturally occurring metal found           of nitrate in the water. The treatment options for
+in rock, soil, water, and sediment. Pure copper       removing nitrates include reverse osmosis, ion
+is red-orange but becomes blue-green when             exchange filtration, and distillation.
+exposed to air and water. For centuries, humans       Chloride
+have used it to produce copper alloys including
+                                                      The recommended upper limit for chloride is 250
+brass and bronze. Today, copper is widely used in
+                                                      mg/L. Concentrations greater than 250 mg/L can
+the production of many items including pennies,
+                                                      give a salty taste to the water, kill vegetation, and
+electrical wiring, and plumbing materials such as
+                                                      cause increased blood pressure.
+household water pipes.
+The major source of copper in drinking water is       Iron
+corrosion of household plumbing, faucets, and         Iron is a naturally occurring drinking water
+water fixtures. Water absorbs copper as it leaches    contaminant that can cause poor taste and odor
+from plumbing materials such as pipes, fittings,      issues and can be associated with discoloration
+and brass faucets. The amount of copper in your       that leads to staining of fixtures, dishes, and
+water depends on the types and amounts of             laundry.
+minerals in the water, how long water stays in the    Iron makes up at least 5% of the Earth’s crust.
+pipes, the water temperature and acidity.             That means there are plenty of opportunities for
+Lead                                                  rainwater to pick up iron as it seeps across soil
+                                                      and through layers of rock that may contain this
+Lead can enter drinking water when plumbing
+                                                      metallic element. This water ends up in aquifers,
+materials that contain lead corrode, especially
+                                                      lakes, rivers and other sources of municipal water
+where the water has high acidity or low mineral
+                                                      supplies and private wells.                             2
+ Private Water Well Analysis
+
+Manganese                                             to the extent that levels greater than 2,000
+                                                      microohms may make the water objectionable to
+Manganese is a common, naturally occurring
+                                                      human use.
+mineral found in rocks, soil, groundwater, and
+surface water. Manganese is a natural component       Hardness
+of most foods. Manganese is an essential nutrient,    Hardness is the measurement of dissolved
+and eating a small amount of it each day is           magnesium and calcium in water. Hardness can
+important to stay healthy.                            increase through contact of water with natural
+pH                                                    accumulations of salts in soil and geological
+                                                      formations, primarily limestone, dolomite and
+pH reflects the acidity or basicity of water. This
+                                                      gypsum. It is reported as mg of calcium carbonate
+measurement has a range from 0 to 14 standard
+                                                      per liter (mg/L). Water hardness can be expressed
+units (SU). A pH of 7 is neutral; any value below
+                                                      in four ways:
+7 is considered acidic and values higher are
+basic. The optimum range for pH in drinking           •   Soft – less than 60 mg/L
+water is between 6.5 to 8.5 SU. Water with a pH       •   Moderately Hard – between 60
+below 6.5 is corrosive and can damage plumbing            and 120mg/L
+fixtures or leach metals from pipes and solder.
+                                                      •   Hard – between 120 and 180 mg/L
+Water with a pH above 8.5 creates conditions
+where calcium carbonate may precipitate out and       •   Very Hard – greater than 180 mg/L
+clog water lines. If the pH is too high or low, the   Water hardness varies throughout Oklahoma. In
+water may not be suitable for your lawn, garden,      areas where the water is relatively hard, users of
+or houseplants.                                       well water might have to use a water softener to
+Sulfate                                               reduce hardness. Excessive hardness may cause
+                                                      laundering difficulties, produce scale build-up,
+Sulfate is a mineral that occurs naturally in         and shorten the life of appliances. Scale build-up,
+drinking water. The recommended maximum for           caused by long-term movement of hard water
+sulfate is 250 mg/L. Excessive concentrations         through pipes, can reduce the inside diameter
+of sulfate may act as a laxative to unaccustomed      of your pipes. This will gradually restrict water
+consumers. A bitter or medicinal taste is often       movement through the pipe and lowers water
+associated with high sulfate concentrations.          pressure.
+Conductivity                                          Sodium
+Conductivity is typically reported in units of        Sodium is the sixth most abundant element
+µmhos/cm and is a measure of the ability of           on Earth and is widely distributed in soils,
+water to conduct an electrical current. Some          plants, water, and foods. Most of the world
+level of conductivity is normal in well water.        has significant deposits of sodium-containing
+Conductivity increases with increasing amounts        minerals. Sodium ion is ubiquitous in water
+of certain ions such as chloride, nitrate, sulfate,   because of the high solubility of many sodium
+phosphate, sodium, magnesium, calcium and             salts. Groundwater typically contains higher
+iron. Elevated conductivity beyond usual baseline     concentrations of minerals and salts than do
+levels can be an indicator of water pollution,        surface waters. Sodium is present in road deicing
+typically caused by oil and gas activity or road      chemicals, in water treatment chemicals, in
+runoff. There is no EPA MCL for conductivity.         domestic water softeners, and in sewage effluents.
+In general, water having a conductivity of less       These uses contribute significant quantities of
+than 1,000 microohms is slightly mineralized          sodium to water. At the present time the EPA
+but should be suitable for human consumption.         guidance level for sodium in drinking water is
+Depending on the minerals dissolved in the water,     20 mg/L. This value was developed for those
+it may have some hardness as well as issues with      individuals restricted to a total sodium intake of
+odor and taste. These problems may become             500 mg/day and should not be extrapolated to the
+more pronounced with increasing conductivity          entire population.
+                                                                                                            3
+ Private Water Well Analysis
+If you have additional concerns or questions, or if you are experiencing other problems which you feel
+may affect your water, contact the DEQ’s State Environmental Laboratory at (405) 702-1000 or (866)
+412-3057, or email selsd@deq.ok.gov, to discuss your needs and testing options, and to coordinate
+additional well water testing.
+Additional Information
+Visit our webpage at https://tinyurl.com/3msajd66 for additional information.
+Home Water Testing FAQ has additional information about private wells, well testing, recommended
+tests, and private water treatment options.
+Laboratory Service Fees contain current pricing for analytical services.
+Sources
+EPA: Drinking Water from Household Wells https://tinyurl.com/fjs3s7tc
+ Analyte       Sources                             When to Test                                Acceptable    EPA Classification
+                                                                                                Ranges
+  Copper       Corrosion of household              •   Household plumbing or service          < 1.3 mg/L*
+               plumbing, fixtures or service           lines that contain copper
+               lines that contain copper;
+               erosion of natural deposits;        •   Stained plumbing fixtures,
+               surface water runoff and soil           laundry
+               seepage.
+
+
+   Lead        Corrosion of household              •    Household plumbing or service        < 0.015 mg/L*
+               plumbing, fixtures, or service      lines contain lead
+               lines that contain lead; erosion
+               of natural deposits.                •   Corrosion of pipes, plumbing
+                                                                                             Health-Based
+                                                   •   House was built before 1986           Goal: 0 mg/L
+
+                                                   •   Pregnant, nursing, or infant
+                                                       person in household
+  Nitrate      Runoff from agricultural areas,     •   Pregnant or nursing person in           < 10 mg/L
+               neighborhood lawns, livestock           household                                              Primary MCLs
+               operations; sewage, septic fields
+                                                   •   Infant < 6 months old in
+                                                       household
+
+                                                   •   Nearby agricultural area,
+                                                       livestock operations or live in
+                                                       areas with high lawn fertilization
+                                                       rates
+  Nitrite      Runoff from agricultural areas,     •   Pregnant or nursing person in            < 1 mg/L
+               neighborhood lawns, livestock           household
+               operations; sewage, septic fields
+                                                   •   Infant < 6 months old in
+                                                       household
+
+                                                   •   Nearby agricultural area,
+                                                       livestock operations or live in
+                                                       areas with high lawn
+                                                       fertilization rates                                          4
+Private Water Well Analysis
+
+ Analyte    Sources                             When to Test                         Acceptabliity   EPA Classification
+                                                                                        Range
+Chloride    Oil and gas activity or injection   •   Water tastes salty                < 250 mg/L
+            wells; runoff from road salt;
+            water softener                      •   Nearby oil and gas activity
+
+                                                •   Water kills vegetation
+  Iron      Naturally occurring                 •   Water is red, brown, orange or    < 0.3 mg/L
+            mineral found in rocks, soil,           yellow
+            groundwater, and surface
+            water; corrosion of household       •   Water leaves red, brown,
+            plumbing or service lines that          orange or yellow stains
+            contain iron
+                                                •   Water tastes metallic
+
+                                                •   Water smells musty, septic or
+                                                    earthy
+
+                                                •   Water softener needed to treat
+                                                    hardness
+
+                                                •   Stained plumbing fixtures or
+                                                    clothing
+Manganese   Naturally occurring                 •   If water softener is needed to   < 0.05 mg/L
+            mineral found in rocks, soil,           treat hardness
+            groundwater, and surface water                                                           Secondary MCLs
+                                                •   Stained plumbing fixtures,
+                                                    laundry
+
+                                                •   Black stains in toilets
+   pH       Hydrogen ions, which can occur •        Household plumbing or service       6.5-8.5
+            during the natural breakdown            lines that contain lead
+            of water molecules, are
+            measured to indicate the acidity •      Corrosion of pipes, plumbing
+            or basicity of water
+                                                •   Dump, junkyard, landfill,
+                                                    factory, gas station or dry-
+                                                    cleaning operation nearby
+
+                                                •   Rapid wear of water treatment
+                                                    equipment
+
+                                                •   Metallic-bitter taste
+ Sulfate    Naturally occurring mineral         •   Nearby oil and gas activity       < 250 mg/L
+            found in rocks, soils,
+            groundwater and surface
+            water; industrial processes;
+            agricultural runoff
+
+
+
+
+                                                                                                            5
+ Private Water Well Analysis
+
+  Analyte     Sources                         When to Test                             Acceptablity     EPA Classification
+                                                                                         Range
+Conductivity Dissolved salts and minerals     •    Nearby oil and gas activity
+                                                                                      < 1,000 µmhos/
+                                                                                            cm
+
+ Hardness     Erosion of natural deposits     •    Scaly residues, soaps don’t       Results in mg/L:
+                                                   lather
+                                                                                        Soft: 0-60
+                                              •    Spots on dishes
+                                                                                       Moderately
+                                                                                                        No Limits Set by
+                                              •    Damage to hot water heaters,        Hard: 60-120
+                                                                                                        EPA; All Ranges
+                                                   dishwashers, and cloth washers                       are Suggestions
+                                                                                      Hard: 120-180
+                                                                                                             Only
+                                              •    Scaly residues
+                                                                                       Very Hard: >
+                                                                                           180
+  Sodium      Naturally occurring             •    Water tastes salty                   < 60 mg/L
+              mineral found in rocks, soil,
+              groundwater, and surface        •    Individuals on restricted diets
+              water; water softener                due to high blood pressure
+
+                                              •    Nearby oil and gas activity
+
+
+
+
+*These values are known as “action levels” for public water systems. If more than 10% of
+samples exceed the action levels, public water systems must take additional treatment steps.
+Although the action levels were determined based on economic considerations, EPA’s health-
+based goal for lead in drinking water is zero.
+
+                                                                                                               6
+
