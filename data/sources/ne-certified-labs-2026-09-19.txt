@@ -1,0 +1,23 @@
+     Name of Lab          Certification #           Address                                         Certified for Analytes
+Central District Health                     1137 South Locust
+                          NE-04-01                                     Total Coliform/E.coli by Colilert SM9223B
+Department                                  Grand Island, NE 68801
+
+                                            818 S. Beltline Hwy East
+Enviro Services Inc.      NE-04-03                                     Total Coliform/E.coli by Colilert SM9223B
+                                            Scottsbluff, NE 69361
+
+Metropolitan Utilities                      2710 Grebe Street
+                          NE-04-04                                     Total Coliform/E.coli by Colilert SM9223B
+Districts                                   Omaha, NE 68111
+
+                                                                       Total Coliform/E.coli by Quanti-tray 2000 SM9223B, Nitrate as N by EPA 300.0, Nitrite
+Midwest Laboratories,                       13611 B Street
+                          NE-04-05                                     as N by SM4500-NO2-B, Nitrate/Nitrite as N by EPA 353.2, Copper by EPA 200.8,
+Inc. (by reciprocity)                       Omaha, NE 68144
+                                                                       Lead by EPA 200.7, VOCs by EPA 524.2, Floride by EPA 300.0
+
+American Agricultural                       700 East D Street          Total Coliform/E.coli by Colilert SM9223B
+                          NE-04-06
+Laboratory                                  McCook, NE 69001           Nitrate/Nitrite EPA 353.2
+

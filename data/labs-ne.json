@@ -1,0 +1,100 @@
+{
+  "state": "Nebraska",
+  "state_code": "NE",
+  "last_updated": "2026-09-19",
+  "source": {
+    "title": "Nebraska DHHS Division of Public Health Laboratory Certification \u2014 certified labs PDF + Public Health Environmental Laboratory private-citizen kit path (Customer Service / Private Citizen Water Test Kit Request Form) + DWEE private-well sampling guidance",
+    "certified_labs_pdf": "https://dhhs.ne.gov/Public%20Health%20Lab%20Documents/certified%20labs.pdf",
+    "certified_labs_pdf_metadata_moddate": "2024-05-22",
+    "lab_certification_requirements": "https://dhhs.ne.gov/Pages/Lab-Certification-Requirements.aspx",
+    "public_health_lab": "https://dhhs.ne.gov/Pages/Public-Health-Lab.aspx",
+    "private_citizen_kit_form": "https://www.nebraska.gov/dhhs/water-test-kits/private.html",
+    "lab_customer_service_price_list": "https://dhhs.ne.gov/Pages/Lab-Price-List.aspx",
+    "dwee_private_well_sampling": "https://dwee.nebraska.gov/news-events/press-releases/all-about-dwee-sample-private-drinking-water-wells",
+    "unl_drinking_water_testing": "https://water.unl.edu/article/drinking-water-wells/water-testing",
+    "retrieved": "2026-09-19",
+    "in_state_commercial_table_count": 3,
+    "local_health_dept_omitted": true,
+    "municipal_utility_labs_omitted": true,
+    "limitations": [
+      "Primary roster: Nebraska DHHS \u201ccertified labs.pdf\u201d linked from Lab Certification Requirements \u201cCertified Labs\u201d action item; retrieved 19 September 2026. PDF metadata ModDate Wed May 22, 2024 \u2014 no newer downloadable statewide drinking-water certified-lab PDF found tonight; verify current status with Lab Certification Manager (402-471-8407) before shipping.",
+      "PDF prints Name of Lab, Certification #, Address, and Certified for Analytes \u2014 it does not print commercial phone numbers. Phone marked unknown for all commercial rows.",
+      "Central District Health Department (NE-04-01; Grand Island) omitted from commercial table as a local health department laboratory.",
+      "Metropolitan Utilities Districts (NE-04-04; Omaha) omitted from commercial table as a municipal / utility laboratory.",
+      "Commercial private-well acceptance unknown for every commercial row \u2014 call first.",
+      "Verified private-well path is Nebraska Public Health Environmental Laboratory (NPHEL) private-citizen kits (bacteria / coliform and nitrate) via Private Citizen Water Test Kit Request Form or Customer Service 402-471-3935; NPHEL kits required; form states samples over 30 hours old will not be tested; mail/deliver Monday\u2013Thursday; fees appear on DWEE article and Customer Service pages but are intentionally omitted from public HTML.",
+      "UNL Water Drinking Water Testing page linked only as Extension guidance; NebGuide G1614 points to DHHS certified list \u2014 not used as the certified roster.",
+      "Arkansas (request-only ADH DW list) and Kansas (JS AB Manager database without a verified downloadable export tonight) skipped in favor of Nebraska\u2019s official PDF."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "Nebraska Public Health Environmental Laboratory \u2014 private citizen bacteria / coliform kits",
+      "url": "https://www.nebraska.gov/dhhs/water-test-kits/private.html",
+      "notes": "Private Citizen Water Test Kit Request Form offers Type of Bacteria Kit (Presence/Absence or Numerical Count) and Nitrate kits. Form states: lab has a 90-day return policy on kits; Coliform samples must be collected and mailed the same day; deliver or mail Monday through Thursday; beware of state and federal holidays; Sample over 30 hours old will not be tested. Customer Service page (Lab-Price-List): order kits online (Private Clients or Companies) or call NPHEL Customer Service at 402-471-3935, Mon\u2013Fri 8:00 a.m.\u20135:00 p.m. except holidays; samples must be collected in NPHEL-supplied kits; instructions included. Public Health Lab hub: Main laboratory 402-471-2122; sample kits press 2 (471-3935); private well results interpretation press 3 (471-4982); mailing address 3701 South 14th St., Lincoln, Nebraska 68502. Fees intentionally omitted \u2014 confirm with NPHEL."
+    },
+    {
+      "name": "Nebraska DWEE \u2014 sample private drinking water wells (kit path guidance)",
+      "url": "https://dwee.nebraska.gov/news-events/press-releases/all-about-dwee-sample-private-drinking-water-wells",
+      "notes": "DWEE states well owners can request sample kits from Nebraska DHHS online; lab tests for presence of coliform bacteria; nitrate guidance included (do not boil high-nitrate water). Article links DHHS kit ordering and NPHEL price list. Used as corroborating private-well guidance pointing to the same NPHEL kits \u2014 not as a certified roster."
+    }
+  ],
+  "labs": [
+    {
+      "name": "Enviro Services Inc.",
+      "city": "Scottsbluff",
+      "address": "818 S. Beltline Hwy East, Scottsbluff, NE 69361",
+      "phone": "unknown",
+      "certification_number": "NE-04-03",
+      "certified_analytes": "Total Coliform/E.coli by Colilert SM9223B",
+      "reciprocity": false,
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on Nebraska DHHS certified labs PDF (PDF metadata ModDate 22 May 2024; retrieved 19 September 2026 from Lab Certification Requirements \u201cCertified Labs\u201d link). Phone not printed on the PDF."
+    },
+    {
+      "name": "Midwest Laboratories, Inc. (by reciprocity)",
+      "city": "Omaha",
+      "address": "13611 B Street, Omaha, NE 68144",
+      "phone": "unknown",
+      "certification_number": "NE-04-05",
+      "certified_analytes": "Total Coliform/E.coli by Quanti-tray 2000 SM9223B; Nitrate as N by EPA 300.0; Nitrite as N by SM4500-NO2-B; Nitrate/Nitrite as N by EPA 353.2; Copper by EPA 200.8; Lead by EPA 200.7; VOCs by EPA 524.2; Fluoride by EPA 300.0 (PDF prints \u201cFloride\u201d)",
+      "reciprocity": true,
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on Nebraska DHHS certified labs PDF (PDF metadata ModDate 22 May 2024; retrieved 19 September 2026). Label includes \u201c(by reciprocity)\u201d. PDF analyte text prints \u201cFloride\u201d (summarized as Fluoride with note). Phone not printed on the PDF."
+    },
+    {
+      "name": "American Agricultural Laboratory",
+      "city": "McCook",
+      "address": "700 East D Street, McCook, NE 69001",
+      "phone": "unknown",
+      "certification_number": "NE-04-06",
+      "certified_analytes": "Total Coliform/E.coli by Colilert SM9223B; Nitrate/Nitrite EPA 353.2",
+      "reciprocity": false,
+      "accepts_private_wells": "unknown \u2014 call first",
+      "mail_or_dropoff": "unknown",
+      "notes": "As printed on Nebraska DHHS certified labs PDF (PDF metadata ModDate 22 May 2024; retrieved 19 September 2026). Phone not printed on the PDF."
+    }
+  ],
+  "omitted": {
+    "local_health_department": [
+      {
+        "name": "Central District Health Department",
+        "certification_number": "NE-04-01",
+        "address": "1137 South Locust, Grand Island, NE 68801",
+        "certified_analytes": "Total Coliform/E.coli by Colilert SM9223B",
+        "reason": "Local health department laboratory \u2014 omitted from commercial table (Oklahoma/WV municipal-utility pattern)."
+      }
+    ],
+    "municipal_utility": [
+      {
+        "name": "Metropolitan Utilities Districts",
+        "certification_number": "NE-04-04",
+        "address": "2710 Grebe Street, Omaha, NE 68111",
+        "certified_analytes": "Total Coliform/E.coli by Colilert SM9223B",
+        "reason": "Municipal / utility laboratory \u2014 omitted from commercial table."
+      }
+    ]
+  }
+}

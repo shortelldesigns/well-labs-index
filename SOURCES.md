@@ -529,3 +529,29 @@ Retrieve date: **18 September 2026** (US/Pacific).
 
 - Page: labs/oklahoma.html · data: data/labs-ok.json
 - Sources archive: data/sources/ok-*
+
+
+## Nebraska (added 19 September 2026)
+
+Retrieve date: **19 September 2026** (US/Pacific).
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| DHHS certified labs.pdf | https://dhhs.ne.gov/Public%20Health%20Lab%20Documents/certified%20labs.pdf | PDF metadata ModDate 22 May 2024; retrieved 19 Sep 2026 | Linked from Lab Certification Requirements “Certified Labs”. Archived `data/sources/ne-certified-labs-2026-09-19.pdf` + pdftotext. 5 rows total; tabulated 3 commercial/reciprocity. |
+| Lab Certification Requirements | https://dhhs.ne.gov/Pages/Lab-Certification-Requirements.aspx | Retrieved 19 Sep 2026 | Program hub; Certified Labs action item. Archived HTML+txt. |
+| Public Health Environmental Lab | https://dhhs.ne.gov/Pages/Public-Health-Lab.aspx | Retrieved 19 Sep 2026 | Main lab 402-471-2122; kits 471-3935; private well interpretation 471-4982; address 3701 South 14th St., Lincoln, NE 68502. |
+| Private Citizen Water Test Kit Request Form | https://www.nebraska.gov/dhhs/water-test-kits/private.html | Retrieved 19 Sep 2026 | Bacteria (P/A or Numerical Count) + Nitrate kits; 30-hour coliform hold; Mon–Thu mail. |
+| NPHEL Customer Service / Lab Price List | https://dhhs.ne.gov/Pages/Lab-Price-List.aspx | Retrieved 19 Sep 2026 | Order kits online or 402-471-3935; NPHEL kits required. Fees linked only — not republished. |
+| DWEE: Sample private drinking water wells | https://dwee.nebraska.gov/news-events/press-releases/all-about-dwee-sample-private-drinking-water-wells | Retrieved 19 Sep 2026 | Corroborates DHHS online kit path; coliform/nitrate guidance. Not used as certified roster. |
+| UNL Water — Drinking Water Testing | https://water.unl.edu/article/drinking-water-wells/water-testing | Retrieved 19 Sep 2026 | Extension context; points to DHHS certified list. Not used as roster. |
+
+### Omitted from Nebraska commercial table
+
+| Category | Count | Names |
+| --- | --- | --- |
+| Local health department | 1 | Central District Health Department (NE-04-01, Grand Island) |
+| Municipal / utility | 1 | Metropolitan Utilities Districts (NE-04-04, Omaha) |
+
+### Page / data
+
+- Page: labs/nebraska.html · data: data/labs-ne.json
