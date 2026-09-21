@@ -1,0 +1,456 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Home Owner Container Request
+</title><link href="nhwebsite.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" /><link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css" />
+    
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    
+
+
+    <style type="text/css">
+        .CheckboxListClass label { font-size: 8pt; }
+        .CBL2Cols tr td { width: 50%; } label { font-size: 8pt; } 
+        .CBL3Cols tr td { width: 33%; } label { font-size: 8pt; } 
+        .CBL4Cols tr td { width: 25%; } label { font-size: 8pt; } 
+        .CBL5Cols tr td { width: 20%; } label { font-size: 8pt; } 
+    </style>
+
+    <script type="text/javascript">
+  $(document).ready(function () {
+    var target, targetText, div, btn, modalDiv, strMessage;
+    strMessage = 'We have confirmed a problem of periodically not being able to download documents from OneStop during the middle of the day Monday through Friday and are working to solve this problem. If you experience this problem, please download your documents either earlier in the morning or later in the afternoon. Thank you.';
+    $('#divDocIssues').remove();
+    $('#modalWindow').remove();
+
+    //target = $('#ctl00_ContentPlaceHolder1_Label17');
+    target = $('.headingtitle12pt');
+    targetText = target.text();
+    if (targetText === 'OneStop - Search') {
+      return false;
+    }
+      /*Changed from background-color: #284F1E; to background-color: #004785*/
+    modalDiv = $('<div>').attr({ 'id': 'modalWindow', 'title': 'Document Retrieval Problems?' }).html(strMessage).css({ 'display': 'none' }).appendTo($('body'));
+    div = $('<div>').attr({ 'id': 'divDocIssues' }).html('Document Retrieval Problems?').css({ 'color': 'white', 'float': 'right', 'background-color': '#004785', 'padding': '5px 20px', 'margin-top': '-13px', '-moz-border-radius': '15px', '-webkit-border-radius': '15px', 'border-radius': '15px' }).appendTo(target);
+    btn = $('<input>').attr({ 'id': 'btnDocIssues', 'type': 'button', 'value': 'Learn More', 'class':'bigbutton' }).css({ 'margin-left': '10px' }).appendTo(div);
+    btn.on('click', function () {
+      $("#modalWindow").dialog({
+        modal: true,
+        buttons: {
+          OK: function () {
+            $(this).dialog("close");
+          }
+        }
+      });
+    });
+  });
+    </script>
+        
+</head>
+
+<body id="top" bgcolor="white" style="margin-top: 0;">
+    <form name="aspnetForm" method="post" action="./HOBottles.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0NzgxMzYzNzMPZBYCZg9kFgICAw9kFgYCAw8PFgIeBFRleHQFFU1vbmRheSwgU2VwLiAyMSwgMjAyNhYCHgVzdHlsZQURdGV4dC1hbGlnbjpSSUdIVDtkAgUPDxYCHwAFAigpZGQCBw9kFgwCAw8PFgQeC05hdmlnYXRlVXJsBTlodHRwczovL25ocGhsLnF1YWx0cmF4Y2xvdWQuY29tL1Nob3dEb2N1bWVudC5hc3B4P0lEPTc5MDceCEltYWdlVXJsBRkvQ29tbW9uSW1hZ2VzL3BkZmljb24uZ2lmZGQCBQ8PFgQfAgVVaHR0cHM6Ly93d3cuZGVzLm5oLmdvdi9zaXRlcy9nL2ZpbGVzL2VoYmVtdDM0MS9maWxlcy9kb2N1bWVudHMvbGFicy1wcml2YXRlLXdlbGxzLnBkZh8DBRkvQ29tbW9uSW1hZ2VzL3BkZmljb24uZ2lmZGQCBw8PFgQfAgVUaHR0cHM6Ly93d3cuZGhocy5uaC5nb3YvcHJvZ3JhbXMtc2VydmljZXMvZW52aXJvbm1lbnRhbC1oZWFsdGgtYW5kLXlvdS93YXRlci10ZXN0aW5nHwMFHS9Db21tb25JbWFnZXMvZGVzcHJvZ3JhbXMuZ2lmZGQCNA8QZGQWAWZkAkIPEGRkFgFmZAJQDxBkZBYBZmRkhVMp59lPeOwhhTSIZUz0Xu8mETJcdg5BVlZ0h8wxkFc=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/DESOneStop/WebResource.axd?d=5Ek1UbHQcIhGq07BTwUSu89VyCq9X3JVnqeLx4ab9fzShSZdfpmIESZFpYmFa0AgCwoBbRen7cBS58mf_GjKZz2DUvlFS7Rfkd6IPbmsmw81&amp;t=639190689332169432" type="text/javascript"></script>
+
+
+<script src="/DESOneStop/ScriptResource.axd?d=FHNV0pXi-n8DWq63qzVX2FtGE7-d8_dIQ0a54O4YFnBHUM1duacsRt8-z4gajEHjx2ws7X5Adyu1SsHf6lR7pjHSKbEzbsLsY19xswJfK5BoWs8sA9ST2-gti7kHbpuxqFRvpiFJI1QDOWoQaoVg_Ki4Fplfn33TW1B0zqbUKYQ9SWFc9Su7FXzMdn_4Yfsr0&amp;t=ffffffffbec1863d" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/DESOneStop/ScriptResource.axd?d=mJ5k1CrTfMGV8FwVOusY2lh2jsmKMKbqnfrtX2fxvXhUeVNONbZhKPSrsTjKSf3vv44sqsPJPb57If2H_w-vqlL55KC1dfxDAVzGFGfyCQ5p7QEJBGWbfGoM71UZDzzcJ8A3As77MuXbdlFxsbrHTkNE3Xe0S7Pm-qYDF3OsZBgsTtC6H-VOreDLKh9YIBaI0&amp;t=ffffffffbec1863d" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="07D96612" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAD8ACDu4i3JQbxcEgr3j+dWtzR+4SC0fZYF0H1gj+XgVixjyRBlqndtqTdICG7mbrKZV6zgB82sTBlDbnAWaeAefcdcIkBpzLKoV78pC66Mx8fmuKmq7BTDnv7NhG4o+rFhHjfPIjt++mYvDTxEzkP8X6+dTXo6brHOIhIlX+FdlqEZGwssZ64/rU6xiYQf/58eUhrYUFyyNB/nHnbZ+SAlScODWes8/Bxd6jh1CY55BNFtBm7NyLLQUHKyjdzpv1JVuqcQr5C3862gTq9q04s1qGVXwxtcfjBtYDcb9flsZr4dhobtBUOcOg/GWMby/3LJOUzbalCaf+fmZZnsQc9DnPhYWDCKHGjDgqBAfZWC1JQA/6IreL/nCmy5hJA2zzN4uoNSSn0ODJekgd6l8gc/1/Bq+99VGAhmOovBAfmtvr+Mm/6i3jNyBqmDV/AjNhppOV7lDM7xDsYDIITh2hnAXyng0P9tBLdmWSEYAzpAO9+xgK0RMLEA77v89OWnfRgoMq7yNGU18osCeochuxCQlB+U4OCoiLpSqBjeQn2XEZa338c8YY/AfTTwXeNLO0rztxHDsq/Waq5IwiMaYX/ZOh0B6f/ZTpTmQYkjNt1N5u1b7K3d8REKfk8d/t833FRf4cYNrU58u2ydFDDU16F6O1JUplJPXzlTdzVcggqUL86n2Svlj+giwmbReH9i06HuEGDdAxojyIc/OTuxtZnEHwPobwFwT2nqRdhoNF6H8Rma+Pytipwm4wKAmkwDciKNdE3BJK9+Y6NW8tgtCkVpLpkD3/zWjy52pueHpyHZ0WLewhLgE4C003C+WIyJ48STlk+KIhvQ15W88Qg7hoLJZjou5SU9XD2CYeHdFrFG3xofPPARY76Zix9lpA3ffzK77CBgm2oVypFq7kIaaKfEe3Dz6rXVyFwTj5ozNkJGr2JTkkgPG1VevjwIK7Ea4EEiWK74t88ON79i6t5T212wtCCdU3YlwNlrYOKSSXeYFoX8WM2P05gJnDQNHNuPdXcUT/ki0CXqsM/JNm06AFk3o3InljeLPMM+iLfUDYsN0s+sFFgj8qalY8ElDdrqe3Mlv1fPO7LDlJP/fsdikKNBzKoWwK+CGrhTkWHy2zNDnV3aZ6zjZJabnKqLbrAQ7wDVLKsJ7uUftuNlPG35daSpVr8jAT8iHiBJdy86CSvHruub8LsHaPVPmDOtnmfjEk5oGv+4W0QUny2sw8MwO26mwqPcaiSm8qKXJvRxFbX+KWtursOH0+gl1vGXEn3RVtxY8Bo09hsZxgnVO1TGvziw+wuj93SqQ0OaW/Fv+5wrKiNHWAGbx0lf7EJ6JT9qHH8mOIGJwZQrKAgiC4rmuo6pBNHspShE7wKRM0yDipElApA==" />
+</div>
+        
+
+<div id="pageHeader">
+    <div id="headerGraybar" class="pgheader-table">
+        <!-- Links in the Gray Bar (center-justified): totally optional -->
+        <!--
+            <div class="pgheader-cell">
+                <div class="graybar-links">
+                    <a href="https://www.des.nh.gov/" title="NHDES Home" target="_blank">DES Home</a>
+                </div>
+                <div class="graybar-links">
+                    <a href="https://www4.des.state.nh.us/OnestopDataProviders" target="_blank">Data Provider Login</a>
+                </div>
+            </div>
+            -->
+    </div>
+
+    <div id="headerCenterbar" class="pgheader-table">
+        <div id="headerLeft" class="pgheader-cell">
+            <a href="https://www.des.nh.gov/" title="Home" rel="home" class="site-logo">
+                <img src="Images/logo-environmental-services.png" alt="Home">
+            </a>
+        </div>
+
+        <div id="headerCenter" class="pgheader-cell">
+            <div class="agency-info">
+                <ul class="agency-links">
+                    <li>
+                        <a href="https://www.des.nh.gov/advisories" target="_blank" rel="noopener noreferrer">Advisories</a>
+                    </li>
+                    <li>
+                        <a href="https://www.des.nh.gov/events" target="_blank" rel="noopener noreferrer">Events</a>
+                    </li>
+                    <li>
+                        <a href="https://www.des.nh.gov/onestop-navigation" target="_blank" rel="noopener noreferrer">OneStop</a>
+                    </li>
+                    <li>
+                        <a href="https://www.des.nh.gov/about" target="_blank" rel="noopener noreferrer">About</a>
+                    </li>
+                    <li>
+                        <a href="https://www.des.nh.gov/contact" data-drupal-link-system-path="node/286">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="social-icons">
+                <ul>
+                    <li class="facebook"><a href="https://www.facebook.com/NHEnvironmentalServices/" target="_blank" rel="noopener noreferrer" title="Visit our Facebook page"><i class="fab fa-facebook-square"></i></a></li>
+                    <li class="twitter"><a href="https://twitter.com/NHDES" target="_blank" rel="noopener noreferrer" title="Visit our Twitter page"><i class="fab fa-twitter"></i></a></li>
+                    <li class="instagram"><a href="https://www.instagram.com/nhenvironmentalservices" target="_blank" rel="noopener noreferrer" title="Visit our Instagram page"><i class="fab fa-instagram"></i></a></li>
+                    <li class="youtube"><a href="https://www.youtube.com/user/NHDES" target="_blank" rel="noopener noreferrer" title="Visit our Youtube page"><i class="fab fa-youtube"></i></a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="headerRight" class="pgheader-cell">
+            <img src="Images/livefree.png" alt="New Hampshire state seal">
+        </div>
+    </div>
+
+    <div id="headerBluebar" class="pgheader-table">
+        <!-- Links in the Blue Bar (right-justified): totally optional -->
+        <div class="pgheader-cell">
+            <div class="bluebar-links">
+                <a href="https://www.des.nh.gov/" title="NHDES Home">NHDES Home</a>
+            </div>
+            <div class="bluebar-links">
+                <a href="https://www.des.nh.gov/onestop-navigation" title="OneStop Home">OneStop Home</a>
+            </div>
+            <div class="bluebar-links">
+                <a href="https://www.des.nh.gov/search" title="Site Search">Site Search</a>
+            </div>
+            <div class="bluebar-links">
+                <a href="https://www4.des.state.nh.us/DESOnestop/Help/DESOnestop.pdf" title="Search Help">Search Help</a>
+            </div>
+            <div class="bluebar-links">
+                <a href="https://www.des.nh.gov/contact-directory?category=&keys=onestop" title="OneStop Contact">OneStop Contact</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        <table style="width: 100%; height: 100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="width: 90%; height: 100%" valign="top">
+                    <table style="width: 100%; height: 100%" border="0">
+                        <tr>
+                            <td colspan="1" align="left" valign="middle">
+                                <span id="ctl00_txtSysdate" class="smtext" style="color:RoyalBlue;font-weight:normal;text-align:RIGHT;">Monday, Sep. 21, 2026</span>
+                            </td>
+                            <td colspan="1" align="right" valign="middle">
+                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="width: 100%; height: 100%" valign="top">
+                                
+    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+        <tr>
+            <td align="left" colspan="1" style="height: 30px">
+                <span id="ctl00_ContentPlaceHolder1_lblHeading" class="headingtitle12pt">OneStop - Home Owner Container Request</span>
+            </td>
+            <td align="right" colspan="1" style="height: 30px">
+            </td>
+        </tr>
+    </table>
+    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+        <tr>
+            <td align="center" colspan="4" style="height: 12px" valign="middle">
+            </td>
+        </tr>
+        <tr>
+            <td align="center" colspan="4" valign="top">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td align="center" width="90">
+                            &nbsp;<a id="ctl00_ContentPlaceHolder1_hlWaterTestingGuide" href="https://nhphl.qualtraxcloud.com/ShowDocument.aspx?ID=7907" target="_blank" style="display:inline-block;width:32px;"><img src="/CommonImages/pdficon.gif" alt="[hlWaterTestingGuide]" style="border-width:0px;" /></a></td>
+                        <td align="center" width="240">
+                            <a id="ctl00_ContentPlaceHolder1_hlSuggested" href="https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf" target="_blank" style="display:inline-block;width:32px;"><img src="/CommonImages/pdficon.gif" alt="[hlSuggested]" style="border-width:0px;" /></a></td>
+                        <td align="center" width="100">
+                            <a id="ctl00_ContentPlaceHolder1_hlLabProgramContact" href="https://www.dhhs.nh.gov/programs-services/environmental-health-and-you/water-testing" target="_blank" style="display:inline-block;width:32px;"><img src="/CommonImages/desprograms.gif" alt="Contact Info" style="border-width:0px;" /></a></td>
+                    </tr>
+                    <tr>
+                        <td align="center" width="90">
+                            <span id="ctl00_ContentPlaceHolder1_Label8" class="smtextnotbold7pt" style="color:Black;">Water Testing Guide</span></td>
+                        <td align="center" width="240">
+                            <span id="ctl00_ContentPlaceHolder1_Label9" class="smtextnotbold7pt" style="color:Black;">Suggested Water Quality Testing Fact Sheet</span></td>
+                        <td align="center" width="100">
+                            <span id="ctl00_ContentPlaceHolder1_Label19" class="smtextnotbold7pt" style="color:Black;">DHHS Lab Contact</span></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td align="left" colspan="2" valign="middle" style="height: 48px">
+                <input type="submit" name="ctl00$ContentPlaceHolder1$btnSubmit" value="Submit" id="ctl00_ContentPlaceHolder1_btnSubmit" class="bigbutton7pt" /><input type="submit" name="ctl00$ContentPlaceHolder1$btnReset" value="Reset" id="ctl00_ContentPlaceHolder1_btnReset" class="bigbutton7pt" /></td>
+            <td align="center" colspan="2" style="height: 48px" valign="middle">
+                <span id="ctl00_ContentPlaceHolder1_Label11" class="text8pt">Fill in the information for ALL items in <font color="red">RED</font>.  If any test is "OTHER", please provide an explanation.<BR />When completed, click the SUBMIT button.  To clear the form, click the RESET button.</span></td>
+        </tr>
+        
+        </table> 
+        <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+            <tr>
+            <td align="right" colspan="1" style="width: 10%; height: 24px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_Label1" class="text8pt" style="color:Red;">Name:</span>&nbsp;</td>
+            <td align="left" colspan="3" style="height: 24px" valign="top">
+                <input name="ctl00$ContentPlaceHolder1$txtName" type="text" maxlength="40" id="ctl00_ContentPlaceHolder1_txtName" tabindex="1" class="uctext8pt" style="width:310px;" />&nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td align="right" colspan="1" style="width: 10%; height: 24px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_Label4" class="text8pt" style="color:Red;">Address:</span>&nbsp;</td>
+            <td align="left" colspan="3" style="height: 24px" valign="top">
+                <input name="ctl00$ContentPlaceHolder1$txtAddress1" type="text" maxlength="40" id="ctl00_ContentPlaceHolder1_txtAddress1" tabindex="2" class="uctext8pt" style="width:310px;" /></td>
+        </tr>
+        <tr>
+            <td align="right" colspan="1" style="width: 10%; height: 24px" valign="top">
+            </td>
+            <td align="left" colspan="3" style="height: 24px" valign="top">
+                <input name="ctl00$ContentPlaceHolder1$txtAddress2" type="text" maxlength="40" id="ctl00_ContentPlaceHolder1_txtAddress2" tabindex="3" class="uctext8pt" style="width:310px;" /></td>
+        </tr>
+        <tr>
+            <td align="right" colspan="1" style="width: 10%; height: 24px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_Label5" class="text8pt" style="color:Red;">Town:</span>&nbsp;</td>
+            <td align="left" colspan="3" style="height: 24px" valign="top">
+                <input name="ctl00$ContentPlaceHolder1$txtTown" type="text" maxlength="45" id="ctl00_ContentPlaceHolder1_txtTown" tabindex="4" class="uctext8pt" style="width:310px;" />&nbsp;
+                <span id="ctl00_ContentPlaceHolder1_Label6" class="text8pt" style="color:Red;">State:</span>&nbsp;
+                <input name="ctl00$ContentPlaceHolder1$txtState" type="text" maxlength="2" id="ctl00_ContentPlaceHolder1_txtState" tabindex="5" class="uctext8pt" style="width:25px;" />&nbsp;
+                <span id="ctl00_ContentPlaceHolder1_Label7" class="text8pt" style="color:Red;">Zip Code:</span>&nbsp;
+                <input name="ctl00$ContentPlaceHolder1$txtZip" type="text" maxlength="5" id="ctl00_ContentPlaceHolder1_txtZip" tabindex="6" class="uctext8pt" style="width:50px;" /></td>
+        </tr>
+        <tr>
+            <td align="right" colspan="1" style="width: 10%; height: 24px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_Label20" class="text8pt" style="color:Red;">Phone:</span>&nbsp;</td>
+            <td align="left" colspan="3" style="height: 24px" valign="top">
+                <input name="ctl00$ContentPlaceHolder1$txtPhone" type="text" maxlength="15" id="ctl00_ContentPlaceHolder1_txtPhone" tabindex="7" class="uctext8pt" style="width:120px;" />
+                <span id="ctl00_ContentPlaceHolder1_Label22" class="text8pt" style="color: #566573;">Format: 603-123-4567</span></td>
+        </tr>
+        <tr>
+            <td align="right" colspan="4" style="height: 12px" valign="top">
+            </td>
+        </tr>
+    </table>
+    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+        <tr>
+            <td align="right" colspan="1" style="width: 10%; height: 24px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_Label2" class="text8pt" style="color:Red;">First Test:</span>&nbsp;
+            </td>
+            <td align="left" colspan="1" style="width: 25%; height: 24px" valign="top">
+                <select name="ctl00$ContentPlaceHolder1$dlFirstTest" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ContentPlaceHolder1$dlFirstTest\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_ContentPlaceHolder1_dlFirstTest" tabindex="8" style="font-family:Verdana;font-size:8pt;width:202px;">
+	<option selected="selected" value="Standard Analysis">Standard Analysis</option>
+	<option value="Radiological Analysis">Radiological Analysis</option>
+	<option value="Volatile Organic Chemicals">Volatile Organic Chemicals</option>
+	<option value="Drinking Water Bacteria">Drinking Water Bacteria</option>
+	<option value="Basic Analysis">Basic Analysis</option>
+	<option value="Swimming Water Bacteria">Swimming Water Bacteria</option>
+	<option value="Suspected Sewage Surface Water">Suspected Sewage Surface Water</option>
+	<option value="Fluoride">Fluoride</option>
+	<option value="NH Well Water Test For Home Buyers">NH Well Water Test For Home Buyers</option>
+	<option value="Standard Analysis Plus Radon">Standard Analysis Plus Radon</option>
+	<option value="Radon Only">Radon Only</option>
+	<option value="Arsenic Only">Arsenic Only</option>
+	<option value="Lead Only (for service line ID)">Lead Only (for service line ID)</option>
+	<option value="Other">Other</option>
+
+</select>
+            </td>
+            <td align="right" colspan="1" style="width: 10%; height: 24px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_Label10" class="text8pt" style="color:Red;"># of Kits:</span>&nbsp;
+            </td>
+            <td align="left" colspan="1" style="width: 15%; height: 24px" valign="top">
+                <input name="ctl00$ContentPlaceHolder1$txtFirstBottles" type="text" value="1" maxlength="2" id="ctl00_ContentPlaceHolder1_txtFirstBottles" tabindex="9" class="uctext8pt" style="width:28px;" />
+                <span id="ctl00_ContentPlaceHolder1_Label3" class="text8pt" style="color:Black;">Max. 10</span></td>
+            <td align="right" colspan="1" style="width: 10%; height: 24px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_lblFirstOther" class="text8pt" style="color:Black;">Other:&nbsp<br>(Please explain)</span>&nbsp;
+            </td>
+            <td align="left" colspan="1" style="width: 20%; height: 24px" valign="top">
+                <textarea name="ctl00$ContentPlaceHolder1$txtFirstOther" rows="2" cols="20" id="ctl00_ContentPlaceHolder1_txtFirstOther" tabindex="10" class="uctext8pt" style="height:32px;width:200px;">
+</textarea></td>
+        </tr>
+        <tr>
+            <td align="right" colspan="6" style="height: 12px" valign="top">
+            </td>
+        </tr>
+        <tr>
+            <td align="right" colspan="1" style="width: 10%; height: 24px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_Label12" class="text8pt" style="color:Black;">Second Test:</span>&nbsp;</td>
+            <td align="left" colspan="1" style="width: 25%; height: 24px" valign="top">
+                <select name="ctl00$ContentPlaceHolder1$dlSecondTest" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ContentPlaceHolder1$dlSecondTest\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_ContentPlaceHolder1_dlSecondTest" tabindex="11" style="font-family:Verdana;font-size:8pt;width:202px;">
+	<option selected="selected" value="-Optional-">-Optional-</option>
+	<option value="Standard Analysis">Standard Analysis</option>
+	<option value="Radiological Analysis">Radiological Analysis</option>
+	<option value="Volatile Organic Chemicals">Volatile Organic Chemicals</option>
+	<option value="Drinking Water Bacteria">Drinking Water Bacteria</option>
+	<option value="Basic Analysis">Basic Analysis</option>
+	<option value="Swimming Water Bacteria">Swimming Water Bacteria</option>
+	<option value="Suspected Sewage Surface Water">Suspected Sewage Surface Water</option>
+	<option value="Fluoride">Fluoride</option>
+	<option value="NH Well Water Test For Home Buyers">NH Well Water Test For Home Buyers</option>
+	<option value="Standard Analysis Plus Radon">Standard Analysis Plus Radon</option>
+	<option value="Radon Only">Radon Only</option>
+	<option value="Arsenic Only">Arsenic Only</option>
+	<option value="Lead Only (for service line ID)">Lead Only (for service line ID)</option>
+	<option value="Other">Other</option>
+
+</select>
+            </td>
+            <td align="right" colspan="1" style="width: 10%; height: 24px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_Label13" class="text8pt" style="color:Black;"># of Kits:</span>&nbsp;
+            </td>
+            <td align="left" colspan="1" style="width: 10%; height: 24px" valign="top">
+                <input name="ctl00$ContentPlaceHolder1$txtSecondBottles" type="text" maxlength="2" id="ctl00_ContentPlaceHolder1_txtSecondBottles" tabindex="12" class="uctext8pt" style="width:28px;" />
+                <span id="ctl00_ContentPlaceHolder1_Label14" class="text8pt" style="color:Black;">Max. 10</span></td>
+            <td align="right" colspan="1" style="width: 10%; height: 24px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_lblSecondOther" class="text8pt" style="color:Black;">Other:&nbsp<br>(Please explain)</span>&nbsp;
+            </td>
+            <td align="left" colspan="1" style="width: 20%; height: 24px" valign="top">
+                <textarea name="ctl00$ContentPlaceHolder1$txtSecondOther" rows="2" cols="20" id="ctl00_ContentPlaceHolder1_txtSecondOther" tabindex="13" class="uctext8pt" style="height:32px;width:200px;">
+</textarea></td>
+        </tr>
+        <tr>
+            <td align="left" colspan="6" style="height: 12px" valign="top">
+            </td>
+        </tr>
+        <tr>
+            <td align="right" colspan="1" style="width: 10%; height: 31px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_Label16" class="text8pt" style="color:Black;">Third Test:</span>&nbsp;
+            </td>
+            <td align="left" colspan="1" style="width: 25%; height: 31px" valign="top">
+                <select name="ctl00$ContentPlaceHolder1$dlThirdTest" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ContentPlaceHolder1$dlThirdTest\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_ContentPlaceHolder1_dlThirdTest" tabindex="14" style="font-family:Verdana;font-size:8pt;width:202px;">
+	<option selected="selected" value="-Optional-">-Optional-</option>
+	<option value="Standard Analysis">Standard Analysis</option>
+	<option value="Radiological Analysis">Radiological Analysis</option>
+	<option value="Volatile Organic Chemicals">Volatile Organic Chemicals</option>
+	<option value="Drinking Water Bacteria">Drinking Water Bacteria</option>
+	<option value="Basic Analysis">Basic Analysis</option>
+	<option value="Swimming Water Bacteria">Swimming Water Bacteria</option>
+	<option value="Suspected Sewage Surface Water">Suspected Sewage Surface Water</option>
+	<option value="Fluoride">Fluoride</option>
+	<option value="NH Well Water Test For Home Buyers">NH Well Water Test For Home Buyers</option>
+	<option value="Standard Analysis Plus Radon">Standard Analysis Plus Radon</option>
+	<option value="Radon Only">Radon Only</option>
+	<option value="Arsenic Only">Arsenic Only</option>
+	<option value="Lead Only (for service line ID)">Lead Only (for service line ID)</option>
+	<option value="Other">Other</option>
+
+</select>
+            </td>
+            <td align="right" colspan="1" style="width: 10%; height: 31px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_Label17" class="text8pt" style="color:Black;"># of Kits:</span>&nbsp;
+            </td>
+            <td align="left" colspan="1" style="width: 10%; height: 31px" valign="top">
+                <input name="ctl00$ContentPlaceHolder1$txtThirdBottles" type="text" maxlength="2" id="ctl00_ContentPlaceHolder1_txtThirdBottles" tabindex="15" class="uctext8pt" style="width:28px;" />
+                <span id="ctl00_ContentPlaceHolder1_Label18" class="text8pt" style="color:Black;">Max. 10</span></td>
+            <td align="right" colspan="1" style="width: 10%; height: 31px" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_lblThirdOther" class="text8pt" style="color:Black;">Other:&nbsp<br>(Please explain)</span>&nbsp;
+            </td>
+            <td align="left" colspan="1" style="width: 20%; height: 31px" valign="top">
+                <textarea name="ctl00$ContentPlaceHolder1$txtThirdOther" rows="2" cols="20" id="ctl00_ContentPlaceHolder1_txtThirdOther" tabindex="16" class="uctext8pt" style="height:32px;width:200px;">
+</textarea></td>
+        </tr>
+    </table>
+    <div style="width: 985px; height: 12px">
+    </div>
+
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        
+<link href="nhwebsite.css" rel="stylesheet" type="text/css" />
+      <div id="addresscontainer" align="center">
+        <div id="address">
+          <br />
+          New Hampshire Department of Environmental Services | PO Box 95 | 29 Hazen Drive | Concord, NH &nbsp;03302-0095<br />
+            603.271.3503 | TDD Access: Relay NH 1.800.735.2964 | Hours: M-F, 8am-4pm<br />
+        </div>
+      </div>
+      <!-- This clearing element should immediately follow the #mainContent3col div in order to force the #container div to contain all child floats --><br class="clearfloat" />
+      <div class="footercontainer">
+        <div class="left-element">
+          <a href="http://www.nh.gov/">NH.gov</a> | <a href="http://www.nh.gov/disclaimer.html">privacy policy</a> | <a href="http://www.nh.gov/wai/index.html">accessibility policy</a>
+        </div>
+        <div class="right-element">
+
+        </div>
+      </div>
+      
+<center>
+	<hr />
+	<table border="0">
+		<tr>
+			<td></td>
+			<td valign="top" align="left"><font face="arial,helvetica" size="1"><b>The Department of 
+						Environmental Services is dedicated to making more environmental information 
+						more readily available to more people while maintaining user confidence in the 
+						information. The information is the best available according to the procedures 
+						and standards of each of the contributing programs and of this system. The 
+						different programs are regularly maintaining the information in their 
+						databases, and the system is periodically being modified to respond to user 
+						needs. As a result, the system may not always provide access to all existing 
+						information, and it may occasionally contain unintentional inaccuracies. The 
+						Department has made every effort to present the information in a clear and 
+						understandable way for a variety of users. We can not be responsible, however, 
+						for the misuse or misinterpretation of the information presented by this 
+						system. </b></font>
+			</td>
+		</tr>
+	</table>
+</center>
+
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl05', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+    </form>
+</body>
+</html>
+

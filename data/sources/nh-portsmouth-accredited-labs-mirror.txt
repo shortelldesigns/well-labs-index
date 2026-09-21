@@ -1,0 +1,27 @@
+Accredited Laboratory Search Results (New England Laboratories)
+New Hampshire Environmental Laboratory Accreditation Program (NHELAP)
+www4.des.state.nh.us/CertifiedLabs/Certified-Method-Result.aspx
+Search Date: September 25, 2024
+
+                                                                             TELEPHONE
+                      LABORATORY NAME                             LAB ID      NUMBER                    ADDRESS                 TOWN         STATE               WEBSITE
+EUROFINS ENVIRONMENT TESTING EASTERN ANALYTICAL #1012             1012     (603)228-0525     51 ANTRIM AVENUE              CONCORD            NH     HTTP://EASTERNANALYTICAL.COM/
+EUROFINS PORTSMOUTH                                               1732     (603)436-2001     124 HERITAGE AVE              PORTSMOUTH         NH     WWW.EUROFINS.COM
+GRANITE STATE ANALYTICAL SERVICES LLC                             1015     (603)432-3044     22 MANCHESTER RD              DERRY              NH     WWW.GRANITESTATEANALYTICAL.COM
+NELSON ANALYTICAL LLC                                             1005     (603)622-0200     490 E INDUSTRIAL PARK DRIVE   MANCHESTER         NH     WWW.NELSONANALYTICAL.COM
+NEW ENGLAND RADON LTD                                             1020     (603)893-4260     11 A INDUSTRIAL WAY UNIT 3    SALEM              NH     WWW.NEWENGLANDRADON.COM
+                                                                                                                                                     WWW.DHHS.NH.GOV/DPHS/LAB/WATER-
+NEW HAMPSHIRE DHHS PUBLIC HEALTH LABORATORIES                     3000     (603)271-3445     29 HAZEN DR                   CONCORD            NH
+                                                                                                                                                     LAB/INDEX.HTM
+SEACOAST ANALYTICAL SERVICES LLC (#1733)                          1733     (603)868-1457     72 PINKHAM RD                 LEE                NH     WWW.SEACOASTANALYTICAL.COM
+ALPHA ANALYTICAL (MANSFIELD) [#2062]                              2062     (508)822-9300     320 FORBES BLVD               MANSFIELD          MA     WWW.ALPHALAB.COM
+CONTEST A PACE ANALYTICAL LABORATORY (#2516)                      2516     (413)525-2332     39 SPRUCE ST                  EAST LONGMEADOW    MA     WWW.CONTESTLABS.COM
+KATAHDIN ANALYTICAL SERVICES LLC (#2001)                          2001     (207)874-2400     600 TECHNOLOGY WAY            SCARBOROUGH        ME     WWW.KATAHDINLAB.COM
+NELSON ANALYTICAL LLC - MAINE DIVISION                            2018     (207)467-3478     120 YORK STREET               KENNEBUNK          ME     WWW.NELSONANALYTICAL.COM
+ENDYNE INC (#2021)                                                2021     (802)879-4333     160 JAMES BROWN DR            WILLISTON          VT
+VERMONT DEPARTMENT OF HEALTH LABORATORY                           3004     (802)338-4724     359 SOUTH PARK DRIVE          COLCHESTER         VT     WWW.HEALTHVERMONT.GOV
+MICROBAC LABORATORIES INC                                         2243     (860)774-6814     61 LOUISA VIENS DR            DAYVILLE           CT     WWW.MICROBAC.COM
+PHOENIX ENVIRONMENTAL LABORATORIES, INC. (#2136)                  2136     (860)645-1102     587 EAST MIDDLE TPK           MANCHESTER         CT     WWW.PHOENIXLABS.COM
+
+For complete list of NHELAP laboratories: www4.des.state.nh.us/CertifiedLabs/Certified-Method-Result.aspx
+

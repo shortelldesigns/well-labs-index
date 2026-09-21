@@ -555,3 +555,29 @@ Retrieve date: **19 September 2026** (US/Pacific).
 ### Page / data
 
 - Page: labs/nebraska.html · data: data/labs-ne.json
+
+## New Hampshire (added 20 September 2026)
+
+Retrieve date: **20 September 2026** (US/Pacific).
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| labs-private-wells.pdf | https://www.des.nh.gov/sites/g/files/ehbemt341/files/documents/labs-private-wells.pdf | Document header April 2026; PDF ModDate 20 Apr 2026; lab list footer updated 9/20/2024; retrieved 20 Sep 2026 | Primary roster: laboratories that serve NH private well users. Archived `data/sources/nh-labs-private-wells.pdf` + pdftotext. 10 rows on PDF; tabulated 9 commercial (NHDHHS in verified paths). |
+| NHDES Private Wells | https://www.des.nh.gov/water/drinking-water/private-wells | Retrieved 20 Sep 2026 | Private-well hub; links guidance PDF and Be Well Informed. |
+| Be Well Informed | https://www4.des.state.nh.us/DWITool/Welcome.aspx | Retrieved 20 Sep 2026 | Result interpreter / treatment guidance — not a lab roster. |
+| NHELAP hub | https://www.des.nh.gov/water/drinking-water/new-hampshire-environmental-laboratory-accreditation-program | Retrieved 20 Sep 2026 | Program hub; points to Accredited Laboratory Search and private-wells guidance. |
+| Accredited Laboratory Search | https://www4.des.state.nh.us/CertifiedLabs/Certified-Method.aspx | Retrieved 20 Sep 2026 | Live NHELAP database. HTML archived; live results not scraped into table. |
+| WAL Program | https://www.dhhs.nh.gov/programs-services/environmental-health-and-you/water-analysis-laboratory-program | Retrieved 20 Sep 2026 | Homeowner Water Testing verified path. |
+| WAL contact | https://www.dhhs.nh.gov/water-analysis-laboratory | Retrieved 20 Sep 2026 | 29 Hazen Drive, Concord NH 03301; Waterlab@dhhs.nh.gov; 603-271-3445. |
+| Home Owner Container Request | https://www4.des.state.nh.us/DESOnestop/HOBottles.aspx | Retrieved 20 Sep 2026 | Kit/bottle request form including NH Well Water Test For Home Buyers. |
+
+### Omitted from New Hampshire commercial table
+
+| Category | Count | Names |
+| --- | --- | --- |
+| State public health lab (on PDF; covered in verified paths) | 1 | NHDHHS Public Health Laboratories |
+
+### Page / data
+
+- Page: labs/new-hampshire.html · data: data/labs-nh.json
+- Sources archive: data/sources/nh-*
