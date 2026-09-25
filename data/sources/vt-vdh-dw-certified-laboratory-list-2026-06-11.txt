@@ -1,0 +1,573 @@
+                                                                     Vermont Department of Health
+                                                              Laboratories Certified for Drinking Water Analysis
+                                                                               June 11, 2026
+
+
+
+The Safe Drinking Water Act specifies categories of federally regulated analytes. Laboratories certified to test an analyte group are marked with an “X,”
+laboratories certified to test for some but not all analytes in a group are marked as “Partial.” Listings with an EPA marking provides the number of the testing
+method used. Scope sheets are detailed listings of tests labs are certified for.
+
+Note: Laboratories may be added to or deleted from this list at any time.
+
+Laboratories highlighted in green accept private samples. Some laboratories that generally accept private samples may specifically not accept private PFAS
+samples or may analyze them by a noncertified method. Please contact the individual laboratory for specifics.
+
+For any questions, please contact the Laboratory Certification Officer by e-mail at SDWAcert@vermont.gov
+
+
+Abbreviation              Explanation
+BACT (QUAL)               Qualitative (presence/absence) analysis of total coliform bacteria and E. coli
+BACT (QUANT, LT2)         Quantitative analysis of total coliform bacteria, E. coli, Cryptosporidium and
+                          Giardia
+IOC                       Inorganic chemicals (ex. metals, nitrate and nitrite)
+ASB                       Asbestos
+HAA5                      Haloacetic acids
+THMs                      Trihalomethanes
+VOC                       Volatile organic compounds
+SOC A                     Synthetic organic chemicals sub-group A (EDB and DCBP)
+SOC B                     Synthetic organic chemicals sub-group B (Carbamates)
+SOC C                     Synthetic organic chemicals sub-group C (Herbicides)
+SOC D                     Synthetic organic chemicals sub-group D (Pesticides, phthalates, PCBs)
+PFAS                      Per- and polyfluoroalkyl substances
+TABLE WSR                 Water supply rule contaminants for non-community water systems
+Partial                   Indicates that the laboratory is certified for some, but not all, regulated
+                          analytes within the group
+
+                                                                            Page 1 of 15
+                                                                           Vermont Department of Health
+                                                                    Laboratories Certified for Drinking Water Analysis
+                                                                                     June 11, 2026
+
+
+
+                                                      BACT                                                                                                         CERTIFICATE
+                                   Scope    BACT                                                                                                           TABLE
+     CERTIFIED LABORATORY                           (QUANT,   IOC    ASB     HAA5     THMs      VOC     SOC A    SOC B   SOC C   SOC D     PFAS      RAD           EXPIRATION
+                                   Sheet   (QUAL)     LT2)                                                                                                  WSR       DATE
+Analytical Services, Inc.
+130 Allen Brook Lane
+Williston, VT 05495
+                                             X      X, EPA                                                                                                          3/8/2027
+PHONE: (802) 878-5138                               1623.1
+FAX: (802) 878-6765
+analyticalservices.com
+LAB ID: VT 3100
+Battelle Analytical Chemistry
+Services
+141 Longwater Dr. Suite 202
+Suite 202                                                                                                                                 EPA 533,
+Norwell, MA 02061                                                                                                                        EPA 537.1                 7/15/2026
+                                                                                                                                            v2
+PHONE: (781) 681-5400
+FAX: (614) 458-6917
+battelle.org
+LAB ID: VT 87856
+Champlain Water District
+403 Queen City Park Road
+South Burlington, VT 05403
+PHONE: (802) 861-4896                        X                                                                                                                     3/15/2027
+FAX: (802) 864-0435
+champlainwater.org
+LAB ID: VT 3400
+City of Rutland Water Laboratory
+94 Greens Hills Lane
+Rutland, VT 05701
+                                             X                                                                                                                     3/22/2027
+PHONE: (802) 773-1863
+FAX: (802) 773-1660
+LAB ID: VT 3700
+                                                                                 Page 2 of 15
+                                                                                  Vermont Department of Health
+                                                                           Laboratories Certified for Drinking Water Analysis
+                                                                                            June 11, 2026
+
+                                                     BACT                                                                                                                   CERTIFICATE
+                                  Scope    BACT                                                                                                                    TABLE
+     CERTIFIED LABORATORY                          (QUANT,      IOC         ASB     HAA5     THMs      VOC     SOC A    SOC B   SOC C   SOC D     PFAS      RAD             EXPIRATION
+                                  Sheet   (QUAL)     LT2)                                                                                                           WSR        DATE
+Continental Water Laboratory
+8631 Younger Creek Drive
+Sacramento, CA 95828
+                                            X                                                                                                                                7/1/2027
+PHONE: (916) 379-2323
+FAX: (916) 383-8593
+LAB ID: VT 4039
+Culligan Analytical Lab
+9399 West Higgins Road Suite B2
+Suite B2
+Rosemont, IL 60018
+                                                             X (Partial)                                                                                          X (Partial) 1/15/2027
+PHONE: (847) 430-1219
+FAX: (847) 430-2219
+culligan.com
+LAB ID: VT 02199
+EMSL Analytical, Inc.
+200 Route 130 North
+Cinnaminson, NJ 08077                                                                                                                            EPA 533,
+PHONE:                                                       X (Partial)     X                                                                  EPA 537.1    X              10/3/2026
+                                                                                                                                                   v2
+FAX: (856)786-5974
+emsl.com
+LAB ID: VT 04006
+Endyne Inc.
+315 New York Road
+Plattsburgh, NY 12903
+PHONE: (518) 563-1720                       X        X       X (Partial)                                                                                                     3/1/2027
+FAX: (518) 563-0052
+endynelabs.com
+LAB ID: VT 11892
+
+
+
+
+                                                                                        Page 3 of 15
+                                                                                     Vermont Department of Health
+                                                                              Laboratories Certified for Drinking Water Analysis
+                                                                                               June 11, 2026
+
+                                                        BACT                                                                                                              CERTIFICATE
+                                     Scope    BACT                                                                                                               TABLE
+     CERTIFIED LABORATORY                             (QUANT,      IOC         ASB     HAA5       THMs      VOC   SOC A    SOC B   SOC C   SOC D   PFAS   RAD             EXPIRATION
+                                     Sheet   (QUAL)     LT2)                                                                                                      WSR        DATE
+Endyne, Inc
+553 Route 149 - Suite B
+Lake George, NY 12845
+                                               X                                                                                                                          10/9/2026
+PHONE: (802) 355-4189
+
+LAB ID: VT 12199
+Endyne, Inc.
+160 James Brown Drive
+Williston, VT 05495
+PHONE: (802) 879-4333                          X        X       X (Partial)              X          X        X     X                X       X                   X (Partial) 2/22/2027
+FAX: (802) 879-7103
+endynelabs.com
+LAB ID: VT 2021
+Endyne, Inc.
+56 Etna Road
+Lebanon, NH 03766
+PHONE: (603) 678-4891                          X        X       X (Partial)                                                                                               2/15/2027
+FAX: (603) 678-4893
+endynelabs.com
+LAB ID: VT 2037
+Eurofins Built Environment Testing
+East - Cary
+730 SE Maynard Road
+Cary, NC 27511
+                                                                                X                                                                                         12/7/2026
+PHONE: 561-579-5669
+FAX: 919-481-1442
+eurofinsus.com
+LAB ID: VT 12048
+
+
+
+
+                                                                                             Page 4 of 15
+                                                                                  Vermont Department of Health
+                                                                           Laboratories Certified for Drinking Water Analysis
+                                                                                            June 11, 2026
+
+                                                     BACT                                                                                                                         CERTIFICATE
+                                  Scope    BACT                                                                                                                          TABLE
+     CERTIFIED LABORATORY                          (QUANT,      IOC         ASB     HAA5       THMs      VOC   SOC A    SOC B   SOC C     SOC D         PFAS      RAD             EXPIRATION
+                                  Sheet   (QUAL)     LT2)                                                                                                                 WSR        DATE
+Eurofins Concord
+51 Antrim Ave
+Concord , NH 03301
+PHONE: (603) 228-0525                       X        X           X                    X          X        X     X        X       X      X (Partial)                         X     11/16/2026
+FAX: (603) 228-0525
+eurofinsus.com
+LAB ID: VT 101204
+Eurofins Derry
+22 Manchester Rd
+Derry, NH 03038                                                                                                                                        EPA 522,
+PHONE: (603) 432-3044                       X        X       X (Partial)              X          X        X     X        X       X          X         EPA 537.1         X (Partial) 5/8/2027
+                                                                                                                                                         v2
+FAX: (603) 434-4837
+eurofinsus.com
+LAB ID: VT 101507
+Eurofins Lancaster Laboratories
+Environment Testing, LLC
+2425 New Holland Pike
+Lancaster, PA 17601                                                                                                                                    EPA 533,
+                                                                 X                               X        X              X                            EPA 537.1         X (Partial) 10/28/2026
+PHONE: 717-556-9413                                                                                                                                      v2
+FAX: (717) 656-2681
+eurofinsus.com
+LAB ID: VT 36037
+Eurofins Pomona
+941 Corporate Center Drive
+Pomona, CA 91768                                                                                                                                       EPA 533,
+PHONE: 626-386-1129                                              X                    X          X        X     X        X       X          X         EPA 537.1         X (Partial) 1/22/2027
+                                                                                                                                                         v2
+FAX: (866) 988-3757
+eurofinsus.com
+LAB ID: VT 0114
+
+
+                                                                                          Page 5 of 15
+                                                                          Vermont Department of Health
+                                                                   Laboratories Certified for Drinking Water Analysis
+                                                                                    June 11, 2026
+
+                                                     BACT                                                                                                           CERTIFICATE
+                                  Scope    BACT                                                                                                            TABLE
+     CERTIFIED LABORATORY                          (QUANT,   IOC    ASB     HAA5       THMs      VOC   SOC A    SOC B   SOC C   SOC D     PFAS      RAD             EXPIRATION
+                                  Sheet   (QUAL)     LT2)                                                                                                   WSR        DATE
+Eurofins South Bend
+110 South Hill Street
+South Bend , IN 46617                                                                                                                    EPA 533,
+                                            X      X, EPA    X                X          X        X     X                               EPA 537.1    X    X (Partial) 11/15/2026
+PHONE: (574) 472-5505                               1623                                                         X       X       X
+                                                                                                                                           v2
+FAX: (574) 233-8207
+eurofinsus.com
+LAB ID: VT 8775
+Eurofins St Louis
+13715 Rider Trail North
+Earth City, MO 63045
+PHONE: (314) 298-8566                                                                                                                                X               3/20/2027
+
+eurofinsus.com
+LAB ID: VT 87689
+GEL Laboratories, LLC
+2040 Savage Road
+2040 Savage Rd
+Charleston, SC 29407                                                                                                                     EPA 533,
+                                                                                                                                        EPA 537.1    X              12/15/2026
+PHONE: (843) 556-8171                                                                                                                      v1
+FAX: (843) 766-1178
+gel.com/laboratories
+LAB ID: VT 87156
+KNL Environmental Services, LLC
+3202 N. Florida Avenue
+3202 N. Florida Avenue
+Tampa, FL 33603
+                                                                                                                                                     X               2/8/2027
+PHONE: (813) 229-2879
+FAX: (813) 229-0002
+knlenvironmental.com
+LAB ID: VT 84025
+
+                                                                                  Page 6 of 15
+                                                                                      Vermont Department of Health
+                                                                               Laboratories Certified for Drinking Water Analysis
+                                                                                                June 11, 2026
+
+                                                         BACT                                                                                                                 CERTIFICATE
+                                      Scope    BACT                                                                                                                   TABLE
+     CERTIFIED LABORATORY                              (QUANT,      IOC         ASB     HAA5       THMs      VOC   SOC A    SOC B   SOC C   SOC D     PFAS      RAD           EXPIRATION
+                                      Sheet   (QUAL)     LT2)                                                                                                          WSR       DATE
+Maine Laboratories LLC, dba PFAS
+Laboratories
+25 Main St
+Norridgewock, ME 04957                                                                                                                              EPA 537.1
+                                                                                                                                                       v2                      4/8/2027
+PHONE: (207) 518-8030
+
+pfaslaboratories.com
+LAB ID: VT 2247
+Microbac Laboratories, Inc. -
+Marietta
+158 Starlite Drive
+Marietta, OH 45750                                                                                                                                   EPA 533,
+PHONE: (800) 373-4071                                                                                                                               EPA 537.1                 9/20/2026
+                                                                                                                                                       v2
+microbac.com/locations/info-
+marietta
+LAB ID: VT 87551
+National Testing Laboratories, Ltd.
+556 S. Mansfield St
+Ypsilanti, MI 48197
+PHONE: (734) 483-8333                           X        X       X (Partial)              X          X        X     X        X       X       X                         X      11/30/2026
+FAX: (734) 483-0340
+watercheck.com
+LAB ID: VT 40014
+
+
+
+
+                                                                                              Page 7 of 15
+                                                                               Vermont Department of Health
+                                                                        Laboratories Certified for Drinking Water Analysis
+                                                                                         June 11, 2026
+
+                                                  BACT                                                                                                              CERTIFICATE
+                               Scope    BACT                                                                                                               TABLE
+     CERTIFIED LABORATORY                       (QUANT,      IOC         ASB     HAA5     THMs      VOC     SOC A    SOC B   SOC C   SOC D   PFAS   RAD             EXPIRATION
+                               Sheet   (QUAL)     LT2)                                                                                                      WSR        DATE
+NELAnalytical
+227 China Road
+Winslow, ME 04901
+PHONE: (207) 873-7711                    X        X                                                                                                                 4/22/2027
+FAX: (207) 873-7022
+nelabservices.com
+LAB ID: VT 87820
+Nelson Analytical
+490 E. Industrial Park Dr.
+Manchester, NH 03109
+PHONE: (603) 622-0200                    X        X       X (Partial)                       X        X                                                    X (Partial) 5/22/2027
+FAX: (603) 782-8329
+nelsonanalytical.com
+LAB ID: VT 1005
+Nelson Analytical Lab, Keene
+Division
+103 Monadnock Highway
+N. Swanzey, NH 03431
+                                         X        X                                                                                                                  2/1/2027
+PHONE: (603) 357-2577
+FAX: (603) 352-3899
+eai-labs.com
+LAB ID: VT 100704
+Niagara Bottling
+217 AquaPenn Drive
+Howard, PA 16841
+PHONE: (814) 357-6091                    X        X                                                                                                                  6/8/2027
+
+niagarawater.com
+LAB ID: VT 0423
+
+
+                                                                                     Page 8 of 15
+                                                                              Vermont Department of Health
+                                                                       Laboratories Certified for Drinking Water Analysis
+                                                                                        June 11, 2026
+
+                                                         BACT                                                                                                                 CERTIFICATE
+                                      Scope    BACT                                                                                                                  TABLE
+     CERTIFIED LABORATORY                              (QUANT,   IOC    ASB     HAA5       THMs      VOC   SOC A    SOC B   SOC C     SOC D         PFAS      RAD             EXPIRATION
+                                      Sheet   (QUAL)     LT2)                                                                                                         WSR        DATE
+NSF International
+789 N. Dixboro Road
+Ann Arbor, MI 48105
+PHONE: (734) 757-4081                                            X                X          X        X     X        X       X          X                      X    X (Partial) 4/15/2027
+FAX: (734) 769-0109
+nsf.org
+LAB ID: VT 11206
+Onterris Laboratories, LLC
+2714 Exchange Drive
+Wilmington, NC 28411                                                                                                                               EPA 533,
+PHONE: 910-212-5858                                                                                                                               EPA 537.1                   5/15/2027
+                                                                                                                                                     v2
+onterris.com
+LAB ID: VT 871147
+Onterris Laboratories, LLC
+1104 Windfield Way
+El Dorado Hills, CA 95762                                                                                                                          EPA 533,
+PHONE: 916-673-1520 ext 115                                                                                                                       EPA 537.1                    7/9/2026
+                                                                                                                                                     v2
+FAX: (916)673-0106
+onterris.com
+LAB ID: VT 4042
+Pace Analytical National Center for
+Testing & Innovation
+12065 Lebanon Road
+Mt. Juliet, TN 37122
+                                                                 X                X          X        X     X                       X (Partial)                X    X (Partial) 4/1/2027
+PHONE: (615) 773-9737
+FAX: (615) 758-5859
+pacelabs.com
+LAB ID: VT 2006
+
+
+                                                                                      Page 9 of 15
+                                                                                       Vermont Department of Health
+                                                                                Laboratories Certified for Drinking Water Analysis
+                                                                                                 June 11, 2026
+
+                                                          BACT                                                                                                                 CERTIFICATE
+                                       Scope    BACT                                                                                                                   TABLE
+     CERTIFIED LABORATORY                               (QUANT,      IOC         ASB     HAA5     THMs       VOC    SOC A    SOC B   SOC C   SOC D     PFAS      RAD           EXPIRATION
+                                       Sheet   (QUAL)     LT2)                                                                                                          WSR       DATE
+Pace Analytical Services LLC -
+Mansfield
+320 Forbes Blvd
+Mansfield, MA 01581                                                                                                                                   EPA 533,
+                                                                  X (Partial)                                                                        EPA 537.1                 9/15/2026
+PHONE: (508) 898-9220                                                                                                                                   v2
+FAX: (508) 898-9193
+pacelabs.com
+LAB ID: VT 0015
+Pace Analytical Services LLC -
+Westborough, MA
+8 Walkup Drive
+Westborough, MA 01581
+                                                                  X (Partial)                       X         X      X                                                          1/1/2027
+PHONE: (508) 898-9220
+
+pacelabs.com
+LAB ID: VT 0935
+Pace Analytical Services, LLC - East
+Longmeadow
+39 Spruce Street
+East Longmeadow, MA 01028                                                                                                                             EPA 533,
+                                                                  X (Partial)                       X         X                                      EPA 537.1                 6/15/2027
+PHONE: (413) 525-2332                                                                                                                                   v2
+FAX: (413) 525-6405
+pacelabs.com
+LAB ID: VT 255716
+
+
+
+
+                                                                                             Page 10 of 15
+                                                                                  Vermont Department of Health
+                                                                           Laboratories Certified for Drinking Water Analysis
+                                                                                            June 11, 2026
+
+                                                     BACT                                                                                                              CERTIFICATE
+                                  Scope    BACT                                                                                                               TABLE
+      CERTIFIED LABORATORY                         (QUANT,      IOC         ASB     HAA5       THMs       VOC   SOC A   SOC B   SOC C   SOC D   PFAS   RAD             EXPIRATION
+                                  Sheet   (QUAL)     LT2)                                                                                                      WSR        DATE
+Pace Analytical Services, LLC -
+Greensburg PA
+1638 Roseytown Road
+Suites 2, 3 & 4
+Greensburg, PA 15601                                                                                                                                    X               6/1/2027
+PHONE: (724) 850-5630
+FAX: (724) 850-5601
+pacelabs.com
+LAB ID: VT 0282
+Pace Analytical Services, LLC -
+Melville, NY
+575 Broadhollow Road
+Melville, NY 11747
+                                            X                    X                    X          X         X     X       X       X       X                   X (Partial) 2/10/2027
+PHONE: (516) 370-6006
+
+pacelabs.com
+LAB ID: VT 10478
+Pace Analytical Services, LLC -
+Minneapolis MN
+1700 Elm Street SE
+Minneapolis, MN 55414-2485
+                                                             X (Partial)                                                                                                5/1/2027
+PHONE: (612) 607-6352
+FAX: (612) 607-6444
+pacelabs.com
+LAB ID: VT 027053137
+
+
+
+
+                                                                                          Page 11 of 15
+                                                                                    Vermont Department of Health
+                                                                             Laboratories Certified for Drinking Water Analysis
+                                                                                              June 11, 2026
+
+                                                       BACT                                                                                                                       CERTIFICATE
+                                    Scope    BACT                                                                                                                        TABLE
+      CERTIFIED LABORATORY                           (QUANT,      IOC         ASB     HAA5       THMs       VOC   SOC A   SOC B   SOC C    SOC D       PFAS       RAD             EXPIRATION
+                                    Sheet   (QUAL)     LT2)                                                                                                               WSR        DATE
+Pace Analytical Services, LLC -
+Ormond Beach FL
+8 E. Tower Circle
+Ormond Beach, FL 32174                                                                                                                                 EPA 533,
+                                                                   X                    X          X         x     X       X       X      X (partial) EPA 537.1         X (Partial) 10/15/2026
+PHONE: (386) 676-4803                                                                                                                                    v2
+FAX: (386) 6725828
+pacelabs.com
+LAB ID: VT 83079
+Phoenix Environmental Laboratory,
+Inc.
+P.O. Box 370
+587 Middle Turnpike East
+Manchester , CT 06040                         X        X           X                    X          X         X     X       X       X          X                             X     10/28/2026
+PHONE: (860) 645-1102
+FAX: (860) 645-0823
+phoenixlabs.com
+LAB ID: VT 11301
+Seacoast Analytical Services
+72 Pinkham Road
+Lee, NH 03861
+PHONE: (603) 868-1457                         X        X       X (Partial)                                                                                                         2/25/2027
+
+seacoastanalytical.com
+LAB ID: VT 1733
+
+
+
+
+                                                                                            Page 12 of 15
+                                                                            Vermont Department of Health
+                                                                     Laboratories Certified for Drinking Water Analysis
+                                                                                      June 11, 2026
+
+                                                       BACT                                                                                                          CERTIFICATE
+                                    Scope    BACT                                                                                                            TABLE
+     CERTIFIED LABORATORY                            (QUANT,   IOC    ASB     HAA5     THMs       VOC    SOC A    SOC B   SOC C   SOC D     PFAS      RAD            EXPIRATION
+                                    Sheet   (QUAL)     LT2)                                                                                                   WSR       DATE
+SGS North America Inc. - Dayton
+2235 Rt. 130
+Dayton, NJ 08810
+PHONE: (609) 574-5409                                          X                         X         X      X                               EPA 533           X (Partial) 1/8/2027
+FAX: (732) 329-3499
+sgs.com/en-us
+LAB ID: VT 12129
+SGS North America, Inc.
+5500 Business Drive
+Wilmington, NC 28405                                                                                                                       EPA 533,
+PHONE: (910) 350-1903                                                                                                                     EPA 537.1                   8/30/2026
+                                                                                                                                             v2
+FAX: (910) 350-1557
+sgs.com/en-us
+LAB ID: VT 87634
+SGS North America, Inc. - Orlando
+4405 Vineland Road
+Ste C-15                                                                                                                                   EPA 533,
+Orlando, FL 32811                                                                                                                          EPA 537,
+                                                                                                                                          EPA 537.1                   8/30/2026
+PHONE: (407) 425-6700
+                                                                                                                                             v2
+FAX: (407) 425-0707
+sgs.com/en-us
+LAB ID: VT 83510
+
+
+
+
+                                                                                  Page 13 of 15
+                                                                                   Vermont Department of Health
+                                                                            Laboratories Certified for Drinking Water Analysis
+                                                                                             June 11, 2026
+
+                                                      BACT                                                                                                                         CERTIFICATE
+                                   Scope    BACT                                                                                                                           TABLE
+     CERTIFIED LABORATORY                           (QUANT,      IOC         ASB     HAA5       THMs       VOC   SOC A   SOC B   SOC C   SOC D     PFAS         RAD                EXPIRATION
+                                   Sheet   (QUAL)     LT2)                                                                                                                  WSR       DATE
+Vermont Agriculture and
+Environmental Laboratory
+163 Admin Drive
+Randolph Center, VT 05061
+PHONE: 802-585-6073
+                                             X        X                                                                                          EPA 533                           9/30/2026
+agriculture.vermont.gov/vermont-
+agriculture-
+and-environmental-laboratory-
+vael
+LAB ID: VT 3002
+Vermont Dept. of Health
+Laboratory
+359 South Park Drive
+Colchester, VT 05446
+                                             X        X       X (Partial)              X          X         X     X       X       X       X                  X (Partial)    X      12/25/2026
+PHONE: (800) 660-9997
+FAX: (802) 338-4706
+healthvermont.gov/lab
+LAB ID: VT 00020
+Weck Laboratories, Inc.
+14859 Clark Avenue
+Industry, CA 91745                                                                                                                                EPA 533,
+PHONE: (626) 336-2139                                                                                                                            EPA 537.1                         8/15/2027
+                                                                                                                                                    v1
+FAX: (626) 336-2634
+wecklabs.com
+LAB ID: VT 4047
+
+
+
+
+                                                                                           Page 14 of 15
+

@@ -1,0 +1,234 @@
+{
+  "state": "Vermont",
+  "state_code": "VT",
+  "last_updated": "2026-09-24",
+  "source": {
+    "title": "VDH Laboratories Certified for Drinking Water Analysis PDF (June 11, 2026; green = accept private samples) + DEC Certified Laboratories for Landowner Water Quality Testing + VDH Laboratory drinking-water kits / homeowner path",
+    "vdh_certified_pdf": "https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf",
+    "vdh_certified_pdf_document_date": "June 11, 2026",
+    "vdh_certified_pdf_metadata_creation": "2026-06-11",
+    "vdh_certified_pdf_metadata_moddate": "2026-06-12",
+    "dec_landowner_certified_labs": "https://dec.vermont.gov/drinking-water-and-groundwater-protection/wastewater-systems-and-potable-water-supply-program-2-0",
+    "dec_landowner_map": "https://vtanr.maps.arcgis.com/apps/Embed/index.html?webmap=fa5dec59b193484f9bcf4ea1704c0c04",
+    "vdh_drinking_water_testing": "https://www.healthvermont.gov/lab/lab-testing/drinking-water-testing",
+    "vdh_lab_forms": "https://www.healthvermont.gov/lab/forms",
+    "vdh_sample_drop": "https://www.healthvermont.gov/lab/lab-testing/drinking-water-sample-drop-information",
+    "vdh_kit_webstore": "https://vdh.webapps.aidcvt.com/water-test",
+    "vdh_how_to_test": "https://www.healthvermont.gov/environment/drinking-water/how-test-your-drinking-water",
+    "vdh_private_drinking_water": "https://www.healthvermont.gov/environment/drinking-water/private-drinking-water",
+    "vdh_new_drilled_well": "https://www.healthvermont.gov/environment/drinking-water/new-drilled-well-testing-what-you-need-know",
+    "retrieved": "2026-09-24",
+    "commercial_table_count": 17,
+    "vdh_state_lab_in_verified_paths": true,
+    "limitations": [
+      "Primary private-well / landowner roster: DEC Certified Laboratories for Landowner Water Quality Testing table (retrieved 24 September 2026) \u2014 18 rows including Vermont Department of Health Laboratory.",
+      "VDH Laboratories Certified for Drinking Water Analysis PDF dated June 11, 2026 (metadata CreationDate 11 Jun 2026; ModDate 12 Jun 2026; 14 content pages). Note on PDF: Laboratories highlighted in green accept private samples.",
+      "Commercial table = 17 DEC landowner labs excluding VDH Laboratory (documented under verified kit path). Out-of-state labs included only because DEC landowner table lists them for Vermont landowners.",
+      "Addresses for DEC-listed labs taken from matching VDH certified-PDF rows when name/phone match; Eurofins Portsmouth address unknown (not printed on DEC table; no Portsmouth row under that name on VDH PDF).",
+      "Fees intentionally omitted \u2014 order form prints kit prices; confirm current fees with VDH Lab / each commercial lab.",
+      "Municipal/utility and other VDH-certified labs not on the DEC landowner table omitted from commercial table (e.g., Champlain Water District). City of Rutland Water Laboratory is green on the VDH PDF (accept private samples) but not on the DEC landowner table \u2014 linked via PDF only, not tabulated.",
+      "Additional-contaminants DEC table (PFAS/Giardia/Radon/Radium) archived in page HTML; not duplicated as a second commercial roster."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "Vermont Department of Health Laboratory \u2014 Drinking Water Testing / Homeowner kits",
+      "url": "https://www.healthvermont.gov/lab/lab-testing/drinking-water-testing",
+      "notes": "VDH Drinking Water Testing page for the public. Physical address as printed on kit order form / PDF: 359 South Park Drive, Colchester, VT 05446; mailing PO Box 1125, Burlington, VT 05402-1125; phone 802-338-4724 or 800-660-9997 (toll-free in Vermont); fax 802-338-4706. Homeowner Testing Package recommended on How to Test Your Drinking Water (bacteria annually; inorganic + gross alpha every five years). LAB ID VT 00020 on VDH certified PDF; green = accept private samples. Fees intentionally omitted \u2014 confirm with the Lab."
+    },
+    {
+      "name": "VDH Laboratory Forms & Ordering + Sample Drop-off (webstore / order form / Local Health Offices)",
+      "url": "https://www.healthvermont.gov/lab/forms",
+      "notes": "Order water and radon test kits via online webstore (https://vdh.webapps.aidcvt.com/water-test) or download drinking water and radon test kit order form; also phone/mail/fax. Sample drop-off: in-person at Lab (Mon\u2013Thu 7:45 a.m.\u20134:00 p.m.; Fri 7:45 a.m.\u20133:30 p.m.) or Office of Local Health locations / mail-ship within hold times. Schedule note retrieved 24 Sep 2026: state offices will not accept drinking water samples for courier pickup Thu Oct 8, Fri Oct 9, or Mon Oct 12; Lab closed Fri Oct 9 and Mon Oct 12."
+    }
+  ],
+  "labs": [
+    {
+      "name": "Alpha Analytical - Mansfield",
+      "city": "Mansfield",
+      "state": "MA",
+      "address": "320 Forbes Blvd, Mansfield, MA 01581",
+      "phone": "(508) 898-9220",
+      "website": "pacelabs.com",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC Certified Laboratories for Landowner Water Quality Testing (call to confirm packages)",
+      "notes": "DEC landowner table name/phone as printed. Address matched to VDH certified PDF Pace Analytical Services LLC - Mansfield (LAB ID VT 0015; same phone). DEC also lists PFAS Yes on additional-contaminants table."
+    },
+    {
+      "name": "Analytical Services - Williston VT",
+      "city": "Williston",
+      "state": "VT",
+      "address": "130 Allen Brook Lane, Williston, VT 05495",
+      "phone": "(802) 878-5138",
+      "website": "analyticalservices.com",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC landowner table; VDH PDF green = accept private samples (call to confirm packages)",
+      "notes": "DEC landowner table name/phone. Address/website/LAB ID VT 3100 from VDH certified PDF (June 11, 2026)."
+    },
+    {
+      "name": "Contest Pace Analytical Lab- E Longmeadow MA",
+      "city": "East Longmeadow",
+      "state": "MA",
+      "address": "39 Spruce Street, East Longmeadow, MA 01028",
+      "phone": "(413) 525-2332",
+      "website": "pacelabs.com",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC Certified Laboratories for Landowner Water Quality Testing (call to confirm packages)",
+      "notes": "DEC landowner table name/phone as printed (Contest Pace\u2026). Address matched to VDH PDF Pace Analytical Services, LLC - East Longmeadow (LAB ID VT 255716; same phone)."
+    },
+    {
+      "name": "EMSL Analytical Inc - Cinnaminson NJ",
+      "city": "Cinnaminson",
+      "state": "NJ",
+      "address": "200 Route 130 North, Cinnaminson, NJ 08077",
+      "phone": "(800) 220-3675",
+      "website": "emsl.com",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC Certified Laboratories for Landowner Water Quality Testing (call to confirm packages)",
+      "notes": "DEC landowner table name/phone as printed. Address/website from VDH certified PDF EMSL Analytical, Inc. (LAB ID VT 04006). PDF phone field blank on extract; DEC phone used."
+    },
+    {
+      "name": "Endyne - Lebanon NH",
+      "city": "Lebanon",
+      "state": "NH",
+      "address": "56 Etna Road, Lebanon, NH 03766",
+      "phone": "(603) 678-4891",
+      "website": "endynelabs.com",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC landowner table; VDH PDF green = accept private samples (call to confirm packages)",
+      "notes": "DEC landowner table. Address from VDH PDF Endyne, Inc. Lebanon (LAB ID VT 2037)."
+    },
+    {
+      "name": "Endyne - Plattsburgh NY",
+      "city": "Plattsburgh",
+      "state": "NY",
+      "address": "315 New York Road, Plattsburgh, NY 12903",
+      "phone": "(518) 563-1720",
+      "website": "endynelabs.com",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC Certified Laboratories for Landowner Water Quality Testing (call to confirm packages)",
+      "notes": "DEC landowner table. Address from VDH PDF Endyne Inc. Plattsburgh (LAB ID VT 11892)."
+    },
+    {
+      "name": "Endyne Inc - Williston VT",
+      "city": "Williston",
+      "state": "VT",
+      "address": "160 James Brown Drive, Williston, VT 05495",
+      "phone": "(802) 879-4333",
+      "website": "endynelabs.com",
+      "new_well_testing": "Yes",
+      "accepts_private_wells": "Yes \u2014 listed on DEC landowner table (New Well Testing Yes); VDH PDF green = accept private samples (call to confirm packages)",
+      "notes": "DEC landowner table marks New Well Testing Yes. Address from VDH PDF Endyne, Inc. Williston (LAB ID VT 2021)."
+    },
+    {
+      "name": "Eurofins Eastern Analytical- Concord NH",
+      "city": "Concord",
+      "state": "NH",
+      "address": "51 Antrim Ave, Concord, NH 03301",
+      "phone": "(603) 228-0525",
+      "website": "eurofinsus.com",
+      "new_well_testing": "Yes",
+      "accepts_private_wells": "Yes \u2014 listed on DEC landowner table (New Well Testing Yes); VDH PDF green = accept private samples (call to confirm packages)",
+      "notes": "DEC landowner table marks New Well Testing Yes. Address from VDH PDF Eurofins Concord (LAB ID VT 101204)."
+    },
+    {
+      "name": "Eurofins Laboratories Environment Testing- Lancaster PA",
+      "city": "Lancaster",
+      "state": "PA",
+      "address": "2425 New Holland Pike, Lancaster, PA 17601",
+      "phone": "(717) 556-9413",
+      "website": "eurofinsus.com",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC Certified Laboratories for Landowner Water Quality Testing (call to confirm packages)",
+      "notes": "DEC landowner table. Address from VDH PDF Eurofins Lancaster Laboratories Environment Testing, LLC (LAB ID VT 36037)."
+    },
+    {
+      "name": "Eurofins Portsmouth - Portsmouth NH",
+      "city": "Portsmouth",
+      "state": "NH",
+      "address": "unknown",
+      "phone": "(603) 436-2001",
+      "website": "unknown",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC Certified Laboratories for Landowner Water Quality Testing (call to confirm packages)",
+      "notes": "DEC landowner table name/phone as printed. Street address not printed on the DEC table and no matching Portsmouth row found on the VDH June 11, 2026 certified PDF under this name \u2014 address left unknown; confirm with the lab / DEC map."
+    },
+    {
+      "name": "GEL Laboratories - Charleston SC",
+      "city": "Charleston",
+      "state": "SC",
+      "address": "2040 Savage Road, Charleston, SC 29407",
+      "phone": "(843) 556-8171",
+      "website": "gel.com/laboratories",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC Certified Laboratories for Landowner Water Quality Testing (call to confirm packages)",
+      "notes": "DEC landowner table. Address from VDH PDF GEL Laboratories, LLC (LAB ID VT 87156)."
+    },
+    {
+      "name": "Granite State Analytical - Derry NH",
+      "city": "Derry",
+      "state": "NH",
+      "address": "22 Manchester Rd, Derry, NH 03038",
+      "phone": "(603) 432-3044",
+      "website": "granitestateanalytical.com",
+      "new_well_testing": "Yes",
+      "accepts_private_wells": "Yes \u2014 listed on DEC landowner table (New Well Testing Yes); VDH PDF lists matching phone/address as Eurofins Derry (call to confirm packages)",
+      "notes": "DEC landowner table name/phone/New Well Testing Yes; website from DEC link. VDH certified PDF lists Eurofins Derry at same address/phone (LAB ID VT 101507)."
+    },
+    {
+      "name": "National Testing Laboratories - Ypsilanti MI",
+      "city": "Ypsilanti",
+      "state": "MI",
+      "address": "556 S. Mansfield St, Ypsilanti, MI 48197",
+      "phone": "(734) 483-8333",
+      "website": "watercheck.com",
+      "new_well_testing": "Yes",
+      "accepts_private_wells": "Yes \u2014 listed on DEC landowner table (New Well Testing Yes); VDH PDF green = accept private samples (call to confirm packages)",
+      "notes": "DEC landowner table marks New Well Testing Yes. Address from VDH PDF National Testing Laboratories, Ltd. (LAB ID VT 40014)."
+    },
+    {
+      "name": "Nelson Analytical - Manchester NH",
+      "city": "Manchester",
+      "state": "NH",
+      "address": "490 E. Industrial Park Dr., Manchester, NH 03109",
+      "phone": "(603) 622-0200",
+      "website": "nelsonanalytical.com",
+      "new_well_testing": "Yes",
+      "accepts_private_wells": "Yes \u2014 listed on DEC landowner table (New Well Testing Yes); VDH PDF green = accept private samples (call to confirm packages)",
+      "notes": "DEC landowner table marks New Well Testing Yes. Address from VDH PDF Nelson Analytical Manchester (LAB ID VT 1005)."
+    },
+    {
+      "name": "Nelson Analytical Lab, Keene Division - Swanzey NH",
+      "city": "Swanzey",
+      "state": "NH",
+      "address": "103 Monadnock Highway, N. Swanzey, NH 03431",
+      "phone": "(603) 357-2577",
+      "website": "nelsonanalytical.com",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC Certified Laboratories for Landowner Water Quality Testing (call to confirm packages)",
+      "notes": "DEC landowner table. Address from VDH PDF Nelson Analytical Lab, Keene Division (LAB ID VT 100704)."
+    },
+    {
+      "name": "Northeast Laboratory Services - Winslow ME",
+      "city": "Winslow",
+      "state": "ME",
+      "address": "227 China Road, Winslow, ME 04901",
+      "phone": "(207) 873-7711",
+      "website": "nelabservices.com",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC Certified Laboratories for Landowner Water Quality Testing (call to confirm packages)",
+      "notes": "DEC landowner table. Address from VDH PDF NELAnalytical Winslow (LAB ID VT 87820)."
+    },
+    {
+      "name": "VAEL - Randolph VT",
+      "city": "Randolph Center",
+      "state": "VT",
+      "address": "163 Admin Drive, Randolph Center, VT 05061",
+      "phone": "(802) 585-6073",
+      "website": "agriculture.vermont.gov/vermont-agriculture-and-environmental-laboratory-vael",
+      "new_well_testing": "No",
+      "accepts_private_wells": "Yes \u2014 listed on DEC landowner table; VDH PDF green = accept private samples (call to confirm packages)",
+      "notes": "DEC landowner table (VAEL - Randolph VT). Full name on VDH PDF: Vermont Agriculture and Environmental Laboratory (LAB ID VT 3002)."
+    }
+  ]
+}

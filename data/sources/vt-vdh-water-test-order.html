@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Oqtu68Eq/bjdlmPpIcqH+1BIO6/io4BnVyCBGUabp1lULJTcrgerhiBgISh3bN/BOvLdARz1NKUjTRhe0Ap1gw==" />
+<meta charset='utf-8' />
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+<title>Vermont Department of Health Webstore</title>
+
+<meta name="usersnap_key" content="fb92bdd3-36ab-42b8-81ac-295a4bf444cb">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="preload" href="/assets/logo-7ac48e1e75245b1444435cdc76a9d868d3cc9450c5ebb7c60ffa19584463575e.webp" as="image" fetchpriority="high">
+<link rel="preload" href="/assets/application-b5984b504db079783357e53cafa3085363e48f2ac0e57d3a81f3c79729c603bc.css" as="style" type="text/css" fetchpriority="high">
+<link rel="preload" href="/assets/application-b7ea2c1e6c98d5c70cb419c0f28ad38b0c915482990bc766c267e39232874867.js" as="script" type="text/javascript" fetchpriority="high">
+
+<link rel="preconnect" href='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'>
+<link rel="preconnect" href='https://widget.usersnap.com/load/fb7bb9aa-902b-46b3-8910-75f691a612bb?onload=onUsersnapCXLoad'>
+
+<link rel="stylesheet" media="all" href="/assets/application-b5984b504db079783357e53cafa3085363e48f2ac0e57d3a81f3c79729c603bc.css" />
+
+
+<script src="/assets/modernizr-min-30dc1c786c758d6308e9484007f5fd2f04c9cd6fc0c8dffecc392caef6923243.js"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-46S674GKW4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-46S674GKW4');
+</script>
+
+</head>
+<body data-session-limit="30">
+<div class="page-wrapper">
+<header class="header d-print-none">
+<div class="header-top">
+<div class="container">
+<div class="header-right">
+<div class="header-dropdown dropdown-expanded">
+<a href="#">Links</a>
+<div class="header-menu">
+<ul>
+<li><a href="/refinery/login">LOG-IN</a></li>
+<li><a href="/visitors/new">REGISTER</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="header-middle">
+<div class="container">
+<div class="header-left">
+<a class="logo" href="https://www.healthvermont.gov"><img alt="VDH Logo" src="/assets/logo-7ac48e1e75245b1444435cdc76a9d868d3cc9450c5ebb7c60ffa19584463575e.webp" />
+</a><!-- End .header-left -->
+</div>
+<div class="header-center">
+<div class="header-search">
+<a class="search-toggle" href="#" role="button">
+<i class="icon-magnifier"></i>
+</a>
+<form action="/products" method="get">
+<div class="header-search-wrapper">
+<input class="form-control" id="query" name="query" placeholder="Search..." type="search">
+<button aria-label="Search" class="btn" title="Search" type="submit">
+<i class="icon-magnifier"></i>
+</button>
+</div>
+<!-- End .header-search-wrapper -->
+</form>
+</div>
+<!-- End .header-search -->
+</div>
+<!-- End .header-center -->
+<div class="header-right">
+<div class="ml-3" id="google_translate_element"></div>
+<script>
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
+    }, 'google_translate_element');
+  }
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+<button class="mobile-menu-toggler" type="button">
+<i class="icon-menu"></i>
+</button>
+
+<div class="cart-wrapper"></div>
+
+
+<script id="cartWrapperTemplate" type="text/x-jQuery-tmpl">
+  <div class="dropdown cart-dropdown">
+    <a href="#" class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static">
+      <span class="cart-count">${cart.total_items_qty}</span>
+    </a>
+
+    <div class="dropdown-menu" >
+      <div class="dropdownmenu-wrapper">
+        <div class="dropdown-cart-header">
+          <span>${cart.total_items_qty} Items</span>
+
+          <a href="/cart">View Cart</a>
+        </div>
+        <div class="dropdown-cart-products">
+          {{tmpl(cart.line_items) "#lineItemTemplate"}}
+        </div>
+        <div class="dropdown-cart-total">
+          <span>Total</span>
+
+          <span class="cart-total-price">${cart.total}</span>
+        </div>
+
+        <div class="dropdown-cart-action">
+          <a href="/cart/shipping" class="btn btn-block">Checkout</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</script>
+
+<script id="lineItemTemplate" type="text/x-jQuery-tmpl">
+  <div class="product">
+    <div class="product-details">
+      <h4 class="product-title">
+        <a href="/products/${slug}">${description}</a>
+      </h4>
+
+      <span class="cart-product-info">
+        <span class="cart-product-qty">${qty} unit</span>
+          {{if unit_price != '$0.00'}}
+            x ${unit_price}
+          {{/if}}
+      </span>
+    </div>
+
+    <figure class="product-image-container">
+      <a href="/products/${slug}" class="product-image">
+        <img src="${thumbnail}" alt="product">
+      </a>
+      <a href="javascript:;" class="btn-remove" data-item-id="${id}" title="Remove Product"><i class="icon-cancel"></i></a>
+    </figure>
+  </div>
+</script>
+
+</div>
+</div>
+</div>
+<div class="header-bottom sticky-header">
+<div class="container">
+<nav class="main-nav">
+<ul class="menu sf-arrows">
+</ul>
+</nav>
+<div class="cart-wrapper ml-auto"></div>
+</div>
+</div>
+
+</header>
+
+<main class="main container pt-4 mb-4">
+<div class="water-supplies">
+<div class="row">
+<div class="col-md-3 my-auto">
+<a href="https://vdh.webapps.aidcvt.com/cart?ISBN=VDHPHL0003"><img class="img-fluid" alt="Drinking water test kit (wells &amp; springs)" src="/assets/water_test/flood-ef06e1fa4e495e8bd552f82d3bcb7ff266eb084e4cf609e36be84c8b7d5e55ca.jpg" />
+<h3 class="p-4 flood">Flood Drinking Water Test Kit (Wells and Springs)</h3>
+</a></div>
+<div class="col">
+<div class="row justify-content-between">
+<div class="col-md-3">
+<a href="/water_supplies/new_spring"><img class="img-fluid" alt="New Well or Spring Owners" src="/assets/water_test/new_spring-cc5b1039d42e2e9f5982578b2c7141ef27beb803fc594867284ee52e7b24d5e7.jpg" />
+<h3 class="p-4">New Well or Spring Owners</h3>
+</a></div>
+<div class="col-md-3">
+<a href="/water_supplies/existing_spring"><img class="img-fluid" alt="Existing Well or Spring Owners" src="/assets/water_test/existing_spring-055d8e983e11e82a23302e7a23bd1334861dea137c04c11b7b55b73ce0722fe1.jpg" />
+<h3 class="p-4">Existing Well or Spring Owners</h3>
+</a></div>
+<div class="col-md-3">
+<a href="/water_supplies/town_water_user"><img class="img-fluid" alt="Residents on Town Water Systems" src="/assets/water_test/town_water_user-bfc0fb4105ab7b687139e3df3b43ccc88f75911312e57fe47e451989a462ae7f.jpg" />
+<h3 class="p-4">Residents on Town Water Systems</h3>
+</a></div>
+<div class="col-md-3">
+<a href="/water_supplies/park"><img class="img-fluid" alt="Environmental Water (Surface water and swim waters)" src="/assets/water_test/park-5efa4f9ece6b157b3c789b8185e619ded505441e7f4bd7d795995de71115c2e8.jpg" />
+<h3 class="p-4">Environmental Water (Surface water and swim waters)</h3>
+</a></div>
+</div>
+<div class="row justify-content-between">
+<div class="col-md-3">
+<a href="/water_supplies/radon"><img class="img-fluid" alt="Radon Testing" src="/assets/water_test/radon-8eb44846ebf07e1c8949c9f85393f79fc516ca27aecc9d3bc38bd020a06db812.jpg" />
+<h3 class="p-4">Radon Testing</h3>
+</a></div>
+<div class="col-md-3">
+<a href="/water_supplies/town_water_manager"><img class="img-fluid" alt="Town Water Operators and Managers/Regulated Systems" src="/assets/water_test/town_water_manager-55d1cd217091117fa894dd7e6b47568376bea62bcdde29977fdeab8aac46df8d.jpg" />
+<h3 class="p-4">Town Water Operators and Managers/Regulated Systems</h3>
+</a></div>
+<div class="col-md-3">
+<a href="/water_supplies/all"><img class="img-fluid" alt="A La Carte" src="/assets/water_test/all-5a7fb2989f40896c448424f08df4318e5b60e31aeaefab6e4a60801d28868131.svg" />
+<h3 class="p-4">A La Carte</h3>
+</a></div>
+</div>
+</div>
+</div>
+</div>
+
+</main>
+<footer class="footer d-print-none">
+<div class="footer-middle">
+<div class="container">
+<div class="footer-ribbon">
+<a href="/water-test">Back to home</a>
+</div>
+<!-- End .footer-ribbon -->
+<div class="row">
+<div class="col-lg-3">
+<div class="widget">
+<h4 class="widget-title">Contact Us</h4>
+<p>For help, technical assistance, or feedback:</p>
+<ul class="contact-info">
+<li><span class="contact-info-label">Phone:</span>Toll Free
+<a href="tel:800-660-9997">800-660-9997</a>
+</li>
+<li>
+<span class="contact-info-label">Email:</span>
+<a href="mailto:AHS.VDHLabCustomerService@vermont.gov">AHS.VDHLabCustomerService@vermont.gov</a>
+</li>
+<li>
+<span class="contact-info-label">Working Days/Hours:</span>
+Monday - Friday / 7:45AM - 4:30PM
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-9">
+<div class="row">
+<div class="col-md-5 col-6"></div>
+<div class="col-md-7 col-6">
+<div class="widget">
+<h4 class="widget-title"></h4>
+<div class="row">
+<div class="col-sm-6"></div>
+<div class="col-sm-6">
+<ul class="links">
+<li><a href="/terms-of-service-for-general-public">Terms and conditions</a></li>
+<li><a href="/site-map">Site map</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="footer-bottom">
+<p class="footer-copyright">© 2021 Vermont Department of Health Webstore</p>
+</div>
+</div>
+</div>
+</footer>
+
+<div class="modal fade" id="add-cart-modal" tabindex="-1" role="dialog" aria-labelledby="add-cart-modal">
+  <div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+    <div class="modal-content">
+      <div class="modal-body add-cart-box text-center">
+      
+      </div>
+    </div>
+  </div>
+</div>
+
+<script id="addCartItemTemplate" type="text/x-jQuery-tmpl">
+  <h4>Added item successfuly</h4>
+  <img src="${thumbnail}" id="productImage" class="img-fluid mx-auto w-75" alt="adding cart image">
+  <h4 class="mt-2">${description}</h4>
+  {{if unit_price != '$0.00'}}
+    <h3 class="text-secondary">${unit_price}</h3>
+  {{/if}}
+  <div class="btn-actions">
+    <a href="/cart" class="btn btn-outline-primary btn-sm">View Cart</a>
+    <button type="button" class="btn btn-outline-primary btn-sm" data-dismiss="modal">Continue</button>
+  </div>
+</script>
+
+</div>
+<div class="mobile-menu-overlay"></div>
+<div class="mobile-menu-container">
+<div class="mobile-menu-wrapper">
+<span class="mobile-menu-close">
+<i class="icon-cancel"></i>
+</span>
+<nav class="mobile-nav">
+<ul class="mobile-menu">
+<li class="active">
+<a href="/home">Home</a>
+</li>
+<li>
+<a href="#">Categories</a>
+<ul>
+<li>
+<a href="#">Pamplet</a>
+<ul>
+<li>
+<a href="#">Paperbook</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<div class="social-icons">
+<a class="social-icon" href="#" target="_blank">
+<i class="icon-facebook"></i>
+</a>
+<a class="social-icon" href="#" target="_blank">
+<i class="icon-twitter"></i>
+</a>
+<a class="social-icon" href="#" target="_blank">
+<i class="icon-instagram"></i>
+</a>
+</div>
+</div>
+</div>
+
+<div class="cookie-disclaimer">
+<div class="container">
+<p>
+This website stores cookies on your computer. These cookies are used to collect information about how
+you interact with our website and allow us to remember you.
+We use this information in order to improve and customize your browsing experience and for analytics
+and metrics about our visitors both on this website and other media.
+To find out more about the cookies we use, see our Privacy Policy.
+</p>
+<p>
+If you decline, your information won’t be tracked when you visit this website.
+A single cookie will be used in your browser to remember your preference not to be tracked.
+</p>
+<div class="text-right">
+<a class="btn btn-danger cookie-accept" href="javascript:;">Okay</a>
+<a class="btn btn-outline-danger" href="javascript:;">Decline</a>
+</div>
+</div>
+</div>
+
+<div class="d-none" id="flash">
+</div>
+</body>
+</html>
+<script src="/assets/application-b7ea2c1e6c98d5c70cb419c0f28ad38b0c915482990bc766c267e39232874867.js"></script>
+  <script>
+    $(function() {
+      var cart = {"total":"$0.00","discount":"$0.00","total_items_qty":0,"line_items":[]}
+      $('.cart-wrapper').html($('#cartWrapperTemplate').tmpl({cart: cart}))
+    })
+  </script>
+

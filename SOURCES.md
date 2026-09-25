@@ -581,3 +581,32 @@ Retrieve date: **20 September 2026** (US/Pacific).
 
 - Page: labs/new-hampshire.html · data: data/labs-nh.json
 - Sources archive: data/sources/nh-*
+
+## Vermont (added 24 September 2026)
+
+Retrieve date: **24 September 2026** (US/Pacific).
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| VDH DW certified laboratory list PDF | https://www.healthvermont.gov/sites/default/files/document/lsid-phl-DW-certified-laboratory-list.pdf | June 11, 2026; metadata CreationDate 11 Jun 2026; ModDate 12 Jun 2026; retrieved 24 Sep 2026 | Full certified roster; green highlight = accept private samples. Archived `data/sources/vt-vdh-dw-certified-laboratory-list-2026-06-11.pdf` + pdftotext. |
+| DEC Certified Laboratories for Landowner Water Quality Testing | https://dec.vermont.gov/drinking-water-and-groundwater-protection/wastewater-systems-and-potable-water-supply-program-2-0 | Retrieved 24 Sep 2026 | Primary private-well / landowner roster (table + map). 18 rows including VDH Laboratory; tabulated 17 commercial. |
+| DEC interactive map | https://vtanr.maps.arcgis.com/apps/Embed/index.html?webmap=fa5dec59b193484f9bcf4ea1704c0c04 | Retrieved 24 Sep 2026 | Map URL archived. |
+| VDH Drinking Water Testing | https://www.healthvermont.gov/lab/lab-testing/drinking-water-testing | Retrieved 24 Sep 2026 | Verified homeowner kit path hub. |
+| VDH Forms & Ordering | https://www.healthvermont.gov/lab/forms | Retrieved 24 Sep 2026 | Webstore + kit order form + schedule notes. |
+| VDH kit webstore | https://vdh.webapps.aidcvt.com/water-test | Retrieved 24 Sep 2026 | Online water/radon kit orders. |
+| VDH Sample Drop-off | https://www.healthvermont.gov/lab/lab-testing/drinking-water-sample-drop-information | Retrieved 24 Sep 2026 | Lab hours + Local Health Office drop-off. |
+| How to Test Your Drinking Water | https://www.healthvermont.gov/environment/drinking-water/how-test-your-drinking-water | Retrieved 24 Sep 2026 | Homeowner Testing Package guidance. |
+| Private Water (Wells & Springs) | https://www.healthvermont.gov/environment/drinking-water/private-drinking-water | Retrieved 24 Sep 2026 | Private-well hub. |
+| New Drilled Well Testing | https://www.healthvermont.gov/environment/drinking-water/new-drilled-well-testing-what-you-need-know | Retrieved 24 Sep 2026 | New-well path. |
+
+### Omitted from Vermont commercial table
+
+| Category | Count | Notes |
+| --- | --- | --- |
+| State public health lab (on DEC + PDF; covered in verified paths) | 1 | Vermont Department of Health Laboratory |
+| VDH-certified labs not on DEC landowner table | many | Municipal/utility and other specialty rows (e.g. Champlain Water District). City of Rutland Water Laboratory is green on PDF (accept private samples) but not on DEC landowner table — PDF only. |
+
+### Page / data
+
+- Page: labs/vermont.html · data: data/labs-vt.json
+- Sources archive: data/sources/vt-*
