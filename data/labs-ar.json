@@ -1,0 +1,72 @@
+{
+  "state": "Arkansas",
+  "state_code": "AR",
+  "last_updated": "2026-09-25",
+  "source": {
+    "title": "ADH Glen F. Baker Public Health Laboratory Water Microbiology \u2014 Private/Well Water Testing path + Environmental Testing Laboratories resource list (names only)",
+    "adh_water_microbiology": "https://healthy.arkansas.gov/programs-services/public-health-safety/arkansas-public-health-laboratory/water-microbiology-laboratory/",
+    "adh_private_instructions_pdf": "https://healthy.arkansas.gov/wp-content/uploads/ADH_PrivateDrinkingWaterCollectionInstructions.pdf",
+    "adh_private_instructions_pdf_alt": "https://healthy.arkansas.gov/wp-content/uploads/Instructions_for_Private_Water_Collection.pdf",
+    "adh_health_units": "https://healthy.arkansas.gov/health-units/",
+    "adh_local_health_units_link_as_printed": "https://www.healthy.arkansas.gov/local-health-units",
+    "adh_local_health_unit_directory_pdf": "https://healthy.arkansas.gov/wp-content/uploads/LOCAL-HEALTH-UNIT-DIRECTORY.pdf",
+    "adh_drinking_water_safety": "https://healthy.arkansas.gov/programs-services/public-health-safety/drinking-water-safety/",
+    "adh_contact": "https://healthy.arkansas.gov/resources/about-adh/contact-us/",
+    "adh_lab_email": "adh.lab@arkansas.gov",
+    "retrieved": "2026-09-25",
+    "commercial_table_count": 3,
+    "state_lab_in_verified_paths": true,
+    "limitations": [
+      "Primary private-well path: ADH Water Microbiology Laboratory Private/Well Water Testing \u2014 kits from local health unit; total coliform and E. coli only; samples must arrive within 30 hours.",
+      "ADH does not test private samples for minerals, parasites, or chemicals on this path \u2014 page directs owners to private environmental labs.",
+      "Commercial table = 3 lab names printed under Environmental Testing Laboratories on the Water Microbiology page. Address, phone, city, and website not printed \u2014 marked unknown.",
+      "ADH disclaimer: does not endorse or recommend specific labs; contact labs directly.",
+      "Full statewide certified drinking-water lab roster is request-only per EPA state-program PDF (submit request) \u2014 not available as a static public download tonight. Kansas KDHE AB Manager is JS-only without a verified static export.",
+      "Fees intentionally omitted \u2014 instructions PDF prints a dollar amount that can change; confirm current fee with ADH / local health unit."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "ADH Glen F. Baker Public Health Laboratory \u2014 Private/Well Water Testing (kits via local health unit)",
+      "url": "https://healthy.arkansas.gov/programs-services/public-health-safety/arkansas-public-health-laboratory/water-microbiology-laboratory/",
+      "notes": "Obtain a Water Collection Kit from your local health unit. Private drinking water samples tested for total coliform and E. coli only; must be received within 30 hours. Lab at 201 S. Monroe St., Little Rock, AR 72205. Email adh.lab@arkansas.gov. ADH main contact 1-800-462-0599 / 4815 W. Markham, Little Rock, AR 72205-3867. Fees intentionally omitted \u2014 confirm with ADH / local health unit."
+    },
+    {
+      "name": "ADH Private Drinking Water Sample Collection Instructions + return / hand-delivery",
+      "url": "https://healthy.arkansas.gov/wp-content/uploads/ADH_PrivateDrinkingWaterCollectionInstructions.pdf",
+      "notes": "Official instructions for collecting and submitting private drinking water samples. Return to Local County Health unit before ADH courier pickup, or hand deliver to Glen F. Baker Public Health Laboratory (201 South Monroe Street, Little Rock). Samples received Mon\u2013Fri 8:00 a.m.\u20134:00 p.m. except legal holidays; not accepted at Local Health Unit after Thursday courier pickup through the first working day of the following week. Alternate PDF URL also hosted: Instructions_for_Private_Water_Collection.pdf."
+    }
+  ],
+  "labs": [
+    {
+      "name": "Eurofins Environment Testing-Little Rock",
+      "city": "unknown",
+      "state": "AR",
+      "address": "unknown",
+      "phone": "unknown",
+      "website": "unknown",
+      "accepts_private_wells": "unknown \u2014 named on ADH Environmental Testing Laboratories resource list; call first",
+      "notes": "Name as printed on ADH Water Microbiology Laboratory page under Environmental Testing Laboratories. Address, phone, and website not printed on that page."
+    },
+    {
+      "name": "Arkansas Analytical Inc.",
+      "city": "unknown",
+      "state": "AR",
+      "address": "unknown",
+      "phone": "unknown",
+      "website": "unknown",
+      "accepts_private_wells": "unknown \u2014 named on ADH Environmental Testing Laboratories resource list; call first",
+      "notes": "Name as printed on ADH Water Microbiology Laboratory page under Environmental Testing Laboratories. Address, phone, and website not printed on that page."
+    },
+    {
+      "name": "Environmental Services Co Inc.",
+      "city": "unknown",
+      "state": "AR",
+      "address": "unknown",
+      "phone": "unknown",
+      "website": "unknown",
+      "accepts_private_wells": "unknown \u2014 named on ADH Environmental Testing Laboratories resource list; call first",
+      "notes": "Name as printed on ADH Water Microbiology Laboratory page under Environmental Testing Laboratories. Address, phone, and website not printed on that page."
+    }
+  ]
+}

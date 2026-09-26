@@ -610,3 +610,33 @@ Retrieve date: **24 September 2026** (US/Pacific).
 
 - Page: labs/vermont.html · data: data/labs-vt.json
 - Sources archive: data/sources/vt-*
+
+## Arkansas (25 September 2026)
+
+Retrieve date: **25 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| ADH Water Microbiology Laboratory | https://healthy.arkansas.gov/programs-services/public-health-safety/arkansas-public-health-laboratory/water-microbiology-laboratory/ | Retrieved 25 September 2026 | Private/Well Water Testing path (kits via local health unit; total coliform + E. coli only; 30-hour hold). Environmental Testing Laboratories name list: Eurofins Environment Testing-Little Rock; Arkansas Analytical Inc.; Environmental Services Co Inc. Lab address 201 S. Monroe St., Little Rock, AR 72205. Email adh.lab@arkansas.gov. Archived `data/sources/ar-water-microbiology-2026-09-25.html`. |
+| ADH Private Drinking Water Sample Collection Instructions PDF | https://healthy.arkansas.gov/wp-content/uploads/ADH_PrivateDrinkingWaterCollectionInstructions.pdf | Retrieved 25 September 2026 | Collection + shipping; LHU courier or hand-deliver to Glen F. Baker. Fee line printed on PDF — **not copied to the site**. Archived `data/sources/ar-private-instructions-alt-2026-09-25.pdf`. |
+| ADH Instructions_for_Private_Water_Collection.pdf (alternate) | https://healthy.arkansas.gov/wp-content/uploads/Instructions_for_Private_Water_Collection.pdf | Retrieved 25 September 2026 | Same instructions family; archived `data/sources/ar-private-water-instructions-2026-09-25.pdf`. |
+| ADH Health Units locator | https://healthy.arkansas.gov/health-units/ | Retrieved 25 September 2026 | Official local health unit finder (page linked from Water Microbiology as local health unit). Archived `data/sources/ar-health-units-2026-09-25.html`. |
+| ADH Local Health Unit Directory PDF | https://healthy.arkansas.gov/wp-content/uploads/LOCAL-HEALTH-UNIT-DIRECTORY.pdf | Retrieved 25 September 2026 | Statewide LHU directory. Archived `data/sources/ar-local-health-unit-directory-2026-09-25.pdf`. |
+| ADH Drinking Water Safety | https://healthy.arkansas.gov/programs-services/public-health-safety/drinking-water-safety/ | Retrieved 25 September 2026 | Broader PWS program context; archived `data/sources/ar-drinking-water-safety-2026-09-25.html`. |
+| ADH Contact Us | https://healthy.arkansas.gov/resources/about-adh/contact-us/ | Retrieved 25 September 2026 | 1-800-462-0599; 4815 W. Markham. Archived `data/sources/ar-contact-us-2026-09-25.html`. |
+
+### Failed or incomplete (Arkansas)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Full statewide certified DW lab roster | EPA state-program PDF still lists Arkansas as submit-request | No static public certified-lab PDF/Excel found tonight | Used ADH Water Microbiology Private/Well path + printed Environmental Testing Laboratories names only. |
+| Kansas KDHE AB Manager (preferred earlier in nightly order) | https://ab.qamanager.com/publicparameters/11 | JS SPA; curl returns empty shell without a verified static export | Skipped Kansas; shipped next preferred high-well state with a verifiable public path (Arkansas). |
+| Commercial lab phones/addresses | ADH Environmental Testing Laboratories list | Names only on the official page | Marked city/address/phone unknown; did not invent contacts. |
+
+### Not used as AR lab sources
+
+- Third-party directories.
+- Invented phones, addresses, or private-well acceptance claims beyond ADH’s printed resource-list names and state-lab kit path.
+
