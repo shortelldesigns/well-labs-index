@@ -640,3 +640,38 @@ Retrieve date: **25 September 2026** (US/Pacific).
 - Third-party directories.
 - Invented phones, addresses, or private-well acceptance claims beyond ADH’s printed resource-list names and state-lab kit path.
 
+## Mississippi (26 September 2026)
+
+Retrieve date: **26 September 2026** (US/Pacific).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| MSDH Private Well Water Testing | https://msdh.ms.gov/msdhsite/index.cfm/30,18658,76,762,html | Retrieved 26 September 2026 | Bacteriological contamination only; minerals/chemicals via private lab. Archived `data/sources/ms-private-well-water-testing-2026-09-26.html`. |
+| MSDH Private Wells hub | https://msdh.ms.gov/msdhsite/index.cfm/30,0,76,762,html | Retrieved 26 September 2026 | Same private-well content + disinfection links. Archived `data/sources/ms-private-wells-hub-2026-09-26.html`. |
+| MSDH Apply online (Private Well Sample) | https://apps.msdh.ms.gov/WasteWaterOnlineApp/ApplicationEntry.aspx?id=pw | Retrieved 26 September 2026 | Single-well bacteriological sample application; links to In-State Participating Labs for chemistry. Archived `data/sources/ms-private-well-apply-online-2026-09-26.html`. |
+| MSDH In-State Participating Labs | https://msdh.ms.gov/msdhsite/index.cfm/14,1112,188,html | Last reviewed Feb 14, 2025; retrieved 26 September 2026 | 6 labs: Argus Analytical; Bonner Analytical Testing, Inc.; Huntington Ingalls, Inc; City of Meridian Fresh Water Treatment Plant; Micro-Methods Laboratory; NASA Environmental Services. Certification phone 601-576-7582. Archived `data/sources/ms-participating-labs-2026-09-26.html` (+ print + txt). |
+| MSDH Participating Labs print handler | https://msdh.ms.gov/msdhsite/handlers/printcontent.cfm?ContentID=1112&EntryCode=1112&GroupID=14&ThisPageURL=https%3A%2F%2Fmsdh.ms.gov%2Fpage%2F14%2C1112%2C188.html | Retrieved 26 September 2026 | Same 6 labs. Archived `data/sources/ms-participating-labs-print-2026-09-26.html`. |
+| MSDH Private Water Well Disinfection Procedure PDF | https://msdh.ms.gov/msdhsite/index.cfm/30,4285,76,pdf/PrivateWaterWellDisinfection.pdf | Retrieved 26 September 2026 | Disinfection procedure; archived `data/sources/ms-private-water-well-disinfection-2026-09-26.pdf`. |
+| MSU Extension Pub 3813 (secondary) | https://extension.msstate.edu/publications/testing-residential-private-well-drinking-water-and-understanding-bacteriological-analyses | Retrieved 26 September 2026 | Homeowner context only; no labs invented. Archived `data/sources/ms-msu-testing-residential-well-2026-09-26.html`. |
+| MSU Mississippi Well Owner Network (secondary) | https://extension.msstate.edu/natural-resources/water/mississippi-well-owner-network | Retrieved 26 September 2026 | Secondary context. Archived `data/sources/ms-msu-well-owner-network-2026-09-26.html`. |
+
+### Failed or incomplete (Mississippi)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Kansas KDHE AB Manager (preferred earlier in nightly order) | https://ab.qamanager.com/publicparameters/11 | JS SPA; no verified static export | Skipped Kansas again; shipped Mississippi with verifiable MSDH static pages. |
+| Huntington Ingalls phone | Participating Labs page | Phone not printed | Marked unknown. |
+| Per-lab private-well acceptance | Participating Labs page | Not stated per row (list is certification participation) | Marked unknown — call first for all 6. |
+
+### Not used as MS lab sources
+
+- Third-party directories.
+- Invented phones, addresses, or private-well acceptance claims beyond MSDH’s printed Participating Labs rows and private-well bacteriological path.
+- Argus or any other lab from search snippets not present on the official page (Argus **was** present on the official page and was included).
+
+### Page / data
+
+- Page: labs/mississippi.html · data: data/labs-ms.json
+- Sources archive: data/sources/ms-*

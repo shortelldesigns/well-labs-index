@@ -1,0 +1,118 @@
+{
+  "state": "Mississippi",
+  "state_code": "MS",
+  "last_updated": "2026-09-26",
+  "source": {
+    "title": "MSDH Private Well Water Testing (bacteriological only) + Water Supply Certification In-State Participating Labs",
+    "msdh_private_well_water_testing": "https://msdh.ms.gov/msdhsite/index.cfm/30,18658,76,762,html",
+    "msdh_private_wells_hub": "https://msdh.ms.gov/msdhsite/index.cfm/30,0,76,762,html",
+    "msdh_apply_online": "https://apps.msdh.ms.gov/WasteWaterOnlineApp/ApplicationEntry.aspx?id=pw",
+    "msdh_participating_labs": "https://msdh.ms.gov/msdhsite/index.cfm/14,1112,188,html",
+    "msdh_participating_labs_print": "https://msdh.ms.gov/msdhsite/handlers/printcontent.cfm?ContentID=1112&EntryCode=1112&GroupID=14&ThisPageURL=https%3A%2F%2Fmsdh.ms.gov%2Fpage%2F14%2C1112%2C188.html",
+    "msdh_disinfection_pdf": "https://msdh.ms.gov/msdhsite/index.cfm/30,4285,76,pdf/PrivateWaterWellDisinfection.pdf",
+    "msdh_certification_phone": "601-576-7582",
+    "msdh_address": "570 East Woodrow Wilson Dr, Jackson, MS 39216",
+    "msdh_main_phone": "866-HLTHY4U",
+    "msu_extension_pub_3813": "https://extension.msstate.edu/publications/testing-residential-private-well-drinking-water-and-understanding-bacteriological-analyses",
+    "msu_well_owner_network": "https://extension.msstate.edu/natural-resources/water/mississippi-well-owner-network",
+    "retrieved": "2026-09-26",
+    "commercial_table_count": 6,
+    "state_lab_in_verified_paths": true,
+    "limitations": [
+      "MSDH tests private wells for bacteriological contamination only (page spelling Mississipi as printed). Minerals, chemicals, or other contaminants go through a private laboratory.",
+      "Online Private Well Sample application is for a single well; Division of On-site Wastewater takes the sample. Not for homes on public water systems.",
+      "Participating Labs table = 6 in-state labs from MSDH Water Supply Certification page (last reviewed Feb 14, 2025). Includes municipal/federal facilities; private-well acceptance not stated per row — marked unknown; call first.",
+      "Odd spellings/punctuation kept as printed (e.g. Huntington Ingalls, Inc without trailing period; Bonner Analytical Testing, Inc. with period).",
+      "Huntington Ingalls phone not printed — marked unknown.",
+      "Fees intentionally omitted — confirm current fee with MSDH / Division of On-site Wastewater.",
+      "Kansas KDHE AB Manager remains JS-only without a verified static export — skipped again.",
+      "MSU Extension pubs cited as secondary homeowner context only — no labs invented from Extension."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "MSDH Private Well Water Testing — bacteriological contamination only",
+      "url": "https://msdh.ms.gov/msdhsite/index.cfm/30,18658,76,762,html",
+      "notes": "MSDH tests private wells for bacteriological contamination only. Testing for mineral content, chemicals or other contaminants should be done through a private laboratory. Sampling service for private water wells only — not for homes on public water systems (contact water supply operator or MSDH Bureau of Public Water Supply). Hub also at Private Wells index.cfm/30,0,76,762,html."
+    },
+    {
+      "name": "Apply online for private well water sampling and testing (Private Well Sample)",
+      "url": "https://apps.msdh.ms.gov/WasteWaterOnlineApp/ApplicationEntry.aspx?id=pw",
+      "notes": "Official online application: Department will take a sample from your well and test for bacteriological contamination; application is for a single well. Chemistry/minerals/other contaminants require a private lab — form links to In-State Participating Labs. Division of On-site Wastewater will not sample homes on public water systems."
+    }
+  ],
+  "labs": [
+    {
+      "name": "Argus Analytical",
+      "city": "Ridgeland",
+      "state": "MS",
+      "address": "235 Highpoint Drive, Ridgeland, MS 39157",
+      "phone": "(601) 957-2676",
+      "website": "unknown",
+      "epa_id": "MS00001",
+      "scopes": "Chemistry, Microbiology",
+      "accepts_private_wells": "unknown — named on MSDH In-State Participating Labs list; call first",
+      "notes": "Name, address, phone, EPA ID, and Chemistry/Microbiology scopes as printed on MSDH Water Supply Certification: In-State Participating Labs (last reviewed Feb 14, 2025; retrieved 2026-09-26). Website not printed."
+    },
+    {
+      "name": "Bonner Analytical Testing, Inc.",
+      "city": "Hattiesburg",
+      "state": "MS",
+      "address": "2703 Oak Grove Road, Hattiesburg, MS 39402",
+      "phone": "(601) 264-2854",
+      "website": "unknown",
+      "epa_id": "MS00013",
+      "scopes": "Microbiology",
+      "accepts_private_wells": "unknown — named on MSDH In-State Participating Labs list; call first",
+      "notes": "Name, address, phone, EPA ID, and Microbiology scope as printed on MSDH In-State Participating Labs. Website not printed. Trailing period after Inc. kept as printed."
+    },
+    {
+      "name": "Huntington Ingalls, Inc",
+      "city": "Pascagoula",
+      "state": "MS",
+      "address": "1000 Access Rd, Mail Station 2030-02, Pascagoula, MS 39568-0149",
+      "phone": "unknown",
+      "website": "unknown",
+      "epa_id": "MS01000",
+      "scopes": "Microbiology",
+      "accepts_private_wells": "unknown — named on MSDH In-State Participating Labs list; call first",
+      "notes": "Name, address, EPA ID, and Microbiology scope as printed. Phone and website not printed on the official page. No period after Inc (as printed)."
+    },
+    {
+      "name": "City of Meridian Fresh Water Treatment Plant",
+      "city": "Meridian",
+      "state": "MS",
+      "address": "P.O. Box 1430, Meridian, MS 39302",
+      "phone": "(601) 484-6836",
+      "website": "unknown",
+      "epa_id": "MS00008",
+      "scopes": "Microbiology",
+      "accepts_private_wells": "unknown — named on MSDH In-State Participating Labs list; call first",
+      "notes": "Municipal/utility plant as printed on MSDH In-State Participating Labs. Website not printed. Private-well acceptance not stated — call first."
+    },
+    {
+      "name": "Micro-Methods Laboratory",
+      "city": "Ocean Springs",
+      "state": "MS",
+      "address": "6500 Sunplex Drive, Ocean Springs, MS 39564",
+      "phone": "(228) 875-6420",
+      "website": "unknown",
+      "epa_id": "MS00021",
+      "scopes": "Chemistry, Microbiology",
+      "accepts_private_wells": "unknown — named on MSDH In-State Participating Labs list; call first",
+      "notes": "Name, address, phone, EPA ID, and Chemistry/Microbiology scopes as printed. Website not printed."
+    },
+    {
+      "name": "NASA Environmental Services",
+      "city": "Stennis Space Center",
+      "state": "MS",
+      "address": "Building 8100, Room 112C, Stennis Space Center, MS 39529",
+      "phone": "(228) 688-2053",
+      "website": "unknown",
+      "epa_id": "MS00903",
+      "scopes": "Chemistry, Microbiology",
+      "accepts_private_wells": "unknown — named on MSDH In-State Participating Labs list; call first",
+      "notes": "Federal/facility lab as printed on MSDH In-State Participating Labs. Website not printed. Private-well acceptance not stated — call first."
+    }
+  ]
+}
