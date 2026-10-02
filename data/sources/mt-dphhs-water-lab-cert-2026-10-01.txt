@@ -1,0 +1,66 @@
+# Water Laboratory Certification Program
+# Source: https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram
+# Retrieved: 1 October 2026 (US/Pacific) via WebFetch (box curl/Chrome TLS to dphhs.mt.gov failed: unexpected EOF)
+# Montana DPHHS — certification authorizes labs to analyze public water supplies in Montana.
+
+## Out-of-State Laboratories (first roster block)
+ALS Laboratory Group Environmental Division 4388 Glendale-Milford Road Cincinnati, OH 45242 (513) 733-5336
+Eurofins Built Environmental Testing East - Cary 730 SW Maynard Road Cary, NC 27511 (919) 481-1413
+
+## Montana Laboratories (first roster block)
+DPHHS State of Montana Environmental Laboratory 1400 Broadway, Room B-206 Helena, MT 59601 (406) 444-3444
+Energy Laboratories, Inc. 1120 South 27th Street Billings, MT 59107 (800) 735-4489
+Energy Laboratories, Inc. 3161 East Lyndale Helena, MT 59604 (406) 442-0711
+
+## Out-of-State Laboratories (second roster block)
+Anatek Labs, Inc. 504 Sprague, Suite D Spokane, WA 99202 (509) 838-3999
+Culligan Analytical Laboratory 9399 W Higgins Road, Suite 1100 Rosemont, IL 60018 (847) 430-1284
+EMSL Analytical, Inc. 200 Route 130 North Cinnaminson, New Jersey 08077 (800) 220-3675
+Energy Laboratories, Inc. - Casper 2393 Salt Creek Highway Casper, WY 82601 (307) 235-0515
+Eurofins Eaton Analytical, Inc. 941 Corporate Center Dr. Pomona, CA 91768 (626) 386-1100
+Eurofins Eaton Analytical, LLC- South Bend 110 South Hill Street South Bend, IN 46617 (574) 233-4777
+Eurofins Lancaster Laboratories Environmental, LLC 2425 New Holland Pike Lancaster, PA 17605 (717) 656-2300
+Eurofins Denver 4955 Yarrow St. Arvada, CO 80002 (303)736-0100
+PACE Analytical-Sheridan 1673 Terra Avenue Sheridan, WY 82801 (307) 672-8945
+Pace Analytical NCT&I 12065 Lebanon Road Mt. Juliet, TN 37122 (615) 758-5858
+Pace Analytical Services LLC- Florida 8 East Tower Circle Ormond Beach, FL 32174 (386) 672-5668
+Pace Analytical Services LLC- MPLS 1700 Elm Street SE, Suite 200 Minneapolis, MN 55414 (612) 607-1700
+Pace Analytical Services LLC- Peoria 2231 Altorfer Dr. Peoria, IL 61615 (309)683-1775
+SGS North America, Inc. 5500 Business Drive Wilmington, NC 28405 (910) 350-1903
+
+## Montana Laboratories (second roster block)
+Alpine Analytical 1315 Cherry Avenue Helena, MT 59601 (406) 449-6282
+Billings Public Utilities Department City of Billings Public Works- Water Quality 2251 Belknap Billings, MT 59101 (406) 657-8346
+Bridger Analytical Laboratory 7539 Pioneer Way, Suite C Bozeman, Mt 59718 (406) 582-0822
+Montana Bureau of Mines and Geology 1300 West Park Butte, MT 59701 (406) 496-4747
+Montana Environmental Laboratory 1170 N. Meridian Kalispell, MT 59904-4363 (406) 755-2131
+
+## Out-of-State Laboratories – Radiologic Only
+Pace Analytical Services, Inc.- Pitts 1638 Roseytown Road, Suite1 Greensburgh, PA 15601 (724) 850-5600
+Weck Laboratory Inc. 14859 Clark Ave. Hacienda Heights, CA 91745 (626)336-2139
+
+## Montana Laboratories (third roster block — microbiology / bacteriological listings as grouped on page)
+DPHHS State of Montana Environmental Laboratory 1400 Broadway, Room B-206 Helena, MT 59601 (406) 444-3444
+Alpine Analytical 1315 Cherry Avenue Helena, MT 59601 (406) 449-6282
+Aqua Tech Laboratory 505 West Main, Suite 320 Lewistown, MT 59457 (406) 538-6988
+Billings Public Utilities Department 2251 Belknap Billings, MT 59101 (406) 657-8346
+Bridger Analytical Laboratory 7539 Pioneer Way, Suite C Bozeman, MT 59718 (406) 582-0822
+Energy Laboratories, Inc. 1120 South 27th Street Billings, MT 59107 (800) 735-4489
+Energy Laboratories, Inc. PO Box 5688 Helena, MT 59604 (406) 442-0711
+Great Falls Water Plant Lab 1301 Lower River Rd. Great Falls, MT 59403-5021 (406) 727-1325
+Mission Mountain Laboratories 82892 US 93 Ravali, MT 59863 (406) 370-1089
+Missoula CCHD Water Lab 301 West Alder Missoula, MT 59802 (406) 523-4755
+Montana Environmental Laboratory PO Box 8900 Kalispell, MT 59904 (406) 755-2131
+MSM Laboratory 7305 Continental Dr. Butte, MT 59701 (406)491-5562
+RD Water Lab, LLC PO Box 5064 Missoula, MT 59806 (406) 721-8179
+Water Technologies Laboratory 1709 South Ave West Missoula MT 59801 (406) 549-8868
+
+## Out-of-State Laboratories (fourth roster block)
+Anatek Labs 1282 Alturas Drive Moscow, ID 83843 (208)823-2839
+Astro-Chem Lab Inc. PO Box 972 Williston, ND 58801 (701)572-7355
+Culligan Analytical Laboratory 9399 W Higgins Rd, Suite 1100 Rosemont, IL 60018 (847) 430-1284
+PACE Analytical-Sheridan 1673 Terra Avenue Sheridan, WY 82801 (307) 672-8945
+NOVA Biologics, Inc. 1775 East Loop 336, Suite 4 Conroe, TX 77301 (936) 756-5333
+
+## Contact (as printed)
+Jill Cohenour Chemistry Certification Officer (406) 444-5261

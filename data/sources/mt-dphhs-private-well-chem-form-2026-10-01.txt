@@ -1,0 +1,12 @@
+# Chemistry Testing for Private Well Sample Submission Form
+# Source: https://dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateWellScreenBlueSheet1.pdf
+# Retrieved: 1 October 2026 via WebFetch (PDF text extract; box curl TLS failed)
+# Form date line: July 2025. Prices subject to change. (Fees NOT republished on Well Labs Index.)
+
+STATE OF MONTANA ENVIRONMENTAL LABORATORY
+P.O. Box 4369, Helena, MT 59604
+(406) 444-3444, Toll-Free (800) 821-7284
+https://dphhs.mt.gov/publichealth/LaboratoryServices/EnvironmentalLaboratory
+
+Available tests named on form: Basic Screen (Coliform & E.coli P/A; Nitrate+Nitrite; Specific Conductivity); Metals Screen (WellScan); Anion Screen; VOC; Pesticides; Herbicides; Full Well Screen.
+Samples paid in advance. Bacteria samples within 48 hours.

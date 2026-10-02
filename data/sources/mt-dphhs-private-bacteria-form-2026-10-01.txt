@@ -1,0 +1,11 @@
+# Bacteria Testing for Private Well Sample Submission Form
+# Source: https://www.dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateBacteria.pdf
+# Retrieved: 1 October 2026 via WebFetch (PDF text extract; box curl TLS failed)
+# Form date line: January 2024. Prices subject to change. (Fees NOT republished on Well Labs Index.)
+
+STATE OF MONTANA ENVIRONMENTAL LABORATORY
+P.O. Box 4369, Helena, MT 59604
+(406) 444-3444, Toll-Free (800) 821-7284
+
+Tests named: Total Coliform Presence/Absence; Total Coliform Count; Iron Bacteria; Sulfur Bacteria.
+Keep sample cool; return within 48 hours.

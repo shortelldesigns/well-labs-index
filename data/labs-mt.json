@@ -1,0 +1,199 @@
+{
+  "state": "Montana",
+  "state_code": "MT",
+  "last_updated": "2026-10-01",
+  "source": {
+    "title": "DPHHS Water Laboratory Certification Program + Montana State Environmental Laboratory Private Well Testing",
+    "dphhs_water_lab_certification": "https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram",
+    "dphhs_environmental_laboratory": "https://dphhs.mt.gov/publichealth/laboratoryservices/environmentallaboratory/index",
+    "dphhs_environmental_laboratory_alt": "https://dphhs.mt.gov/publichealth/LaboratoryServices/EnvironmentalLaboratory/",
+    "dphhs_private_well_chemistry_form": "https://dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateWellScreenBlueSheet1.pdf",
+    "dphhs_private_well_bacteria_form": "https://www.dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateBacteria.pdf",
+    "dphhs_fee_schedule": "https://dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/EnvironmentalLaboratoryTestingFeeSchedule.pdf",
+    "dphhs_certification_contact": "Jill Cohenour, Chemistry Certification Officer, (406) 444-5261",
+    "dphhs_env_lab_phone": "(406) 444-3444",
+    "dphhs_env_lab_toll_free": "(800) 821-7284",
+    "dphhs_env_lab_mail": "P.O. Box 4369, Helena, MT 59604",
+    "dphhs_env_lab_street": "1400 Broadway, Room B-206, Helena, MT 59601",
+    "msu_certified_labs": "https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html",
+    "msu_well_testing": "https://waterquality.montana.edu/well-ed/testing/",
+    "retrieved": "2026-10-01",
+    "commercial_table_count": 15,
+    "state_lab_in_verified_paths": true,
+    "limitations": [
+      "DPHHS Water Laboratory Certification Program certifies labs to analyze public drinking-water supplies; private-well acceptance is not stated per commercial/municipal row — marked unknown; call first.",
+      "DPHHS Montana State Environmental Laboratory explicitly offers Private Well Testing (Chemistry and Microbiology forms) — verified private-well path.",
+      "In-state Montana laboratory locations tabulated from the DPHHS certification page (15 unique locations). Out-of-state certified labs omitted from the table (linked via official page).",
+      "Odd spellings kept as printed where they appear on the DPHHS page (e.g. Ravali; Bozeman, Mt on one listing).",
+      "Energy Laboratories Helena and Montana Environmental Laboratory appear with both street and PO Box addresses on different roster blocks — both printed forms noted.",
+      "Fees intentionally omitted — confirm current fee with DPHHS Environmental Laboratory (fee schedule PDF linked, not republished).",
+      "Box curl/Chrome TLS to dphhs.mt.gov failed (unexpected EOF); official content retrieved via WebFetch and archived as dated .txt under data/sources/mt-*.",
+      "Kansas KDHE AB Manager remains JS-only without a verified static export — skipped again.",
+      "MSU Extension Well Educated / certified-labs pages cited as secondary homeowner context only — no labs invented from Extension; MSU note that Montana Bureau of Mines and Geology does not test homeowner samples is secondary and not used to invent a DPHHS claim."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "DPHHS Montana State Environmental Laboratory — Private Well Testing (Chemistry)",
+      "url": "https://dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateWellScreenBlueSheet1.pdf",
+      "notes": "Official Chemistry Testing for Private Well Sample Submission Form (July 2025 on form; prices subject to change — fees not republished). Hub: Environmental Laboratory page. Lab: P.O. Box 4369 / 1400 Broadway Room B-206, Helena; (406) 444-3444; toll-free (800) 821-7284. Packages named on form include Basic Screen, Metals Screen, Anion Screen, VOC, Pesticides, Herbicides, Full Well Screen. Samples paid in advance; bacteria samples within 48 hours."
+    },
+    {
+      "name": "DPHHS Montana State Environmental Laboratory — Private Well Testing (Microbiology / bacteria-only)",
+      "url": "https://www.dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateBacteria.pdf",
+      "notes": "Official Bacteria Testing for Private Well Sample Submission Form (January 2024 on form; prices subject to change — fees not republished). Tests named: Total Coliform P/A, Total Coliform Count, Iron Bacteria, Sulfur Bacteria. Same Helena lab contact/delivery as chemistry form."
+    }
+  ],
+  "labs": [
+    {
+      "name": "DPHHS State of Montana Environmental Laboratory",
+      "city": "Helena",
+      "state": "MT",
+      "address": "1400 Broadway, Room B-206, Helena, MT 59601 (mail: P.O. Box 4369, Helena, MT 59604)",
+      "phone": "(406) 444-3444",
+      "website": "https://dphhs.mt.gov/publichealth/laboratoryservices/environmentallaboratory/index",
+      "accepts_private_wells": "yes — Private Well Testing Chemistry and Microbiology forms on DPHHS Environmental Laboratory site",
+      "notes": "Also toll-free (800) 821-7284. Named on DPHHS Water Laboratory Certification Program Montana Laboratories roster (retrieved 2026-10-01). Verified private-well path via official private-well forms."
+    },
+    {
+      "name": "Energy Laboratories, Inc. (Billings)",
+      "city": "Billings",
+      "state": "MT",
+      "address": "1120 South 27th Street, Billings, MT 59107",
+      "phone": "(800) 735-4489",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "Name, address, and phone as printed on DPHHS certification page. Website not printed."
+    },
+    {
+      "name": "Energy Laboratories, Inc. (Helena)",
+      "city": "Helena",
+      "state": "MT",
+      "address": "3161 East Lyndale, Helena, MT 59604 (also listed as PO Box 5688, Helena, MT 59604)",
+      "phone": "(406) 442-0711",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "Street and PO Box both appear on different roster blocks of the DPHHS certification page. Website not printed."
+    },
+    {
+      "name": "Alpine Analytical",
+      "city": "Helena",
+      "state": "MT",
+      "address": "1315 Cherry Avenue, Helena, MT 59601",
+      "phone": "(406) 449-6282",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "Name, address, and phone as printed on DPHHS certification page. Website not printed."
+    },
+    {
+      "name": "Billings Public Utilities Department (City of Billings Public Works — Water Quality)",
+      "city": "Billings",
+      "state": "MT",
+      "address": "2251 Belknap, Billings, MT 59101",
+      "phone": "(406) 657-8346",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "Municipal/utility lab as printed. Private-well acceptance not stated — call first. Website not printed."
+    },
+    {
+      "name": "Bridger Analytical Laboratory",
+      "city": "Bozeman",
+      "state": "MT",
+      "address": "7539 Pioneer Way, Suite C, Bozeman, Mt 59718",
+      "phone": "(406) 582-0822",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "Odd capitalization Mt kept as printed on one DPHHS roster block. Website not printed."
+    },
+    {
+      "name": "Montana Bureau of Mines and Geology",
+      "city": "Butte",
+      "state": "MT",
+      "address": "1300 West Park, Butte, MT 59701",
+      "phone": "(406) 496-4747",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "Phone as printed on DPHHS certification page. Website not printed. Secondary MSU Extension page states this lab is not able to test samples from homeowners — confirm with lab; not treated as a verified private-well path."
+    },
+    {
+      "name": "Montana Environmental Laboratory",
+      "city": "Kalispell",
+      "state": "MT",
+      "address": "1170 N. Meridian, Kalispell, MT 59904-4363 (also listed as PO Box 8900, Kalispell, MT 59904)",
+      "phone": "(406) 755-2131",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "Street and PO Box both appear on different roster blocks. Website not printed."
+    },
+    {
+      "name": "Aqua Tech Laboratory",
+      "city": "Lewistown",
+      "state": "MT",
+      "address": "505 West Main, Suite 320, Lewistown, MT 59457",
+      "phone": "(406) 538-6988",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "Name, address, and phone as printed on DPHHS certification page. Website not printed."
+    },
+    {
+      "name": "Great Falls Water Plant Lab",
+      "city": "Great Falls",
+      "state": "MT",
+      "address": "1301 Lower River Rd., Great Falls, MT 59403-5021",
+      "phone": "(406) 727-1325",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "Municipal/plant lab as printed. Private-well acceptance not stated — call first. Website not printed."
+    },
+    {
+      "name": "Mission Mountain Laboratories",
+      "city": "Ravali",
+      "state": "MT",
+      "address": "82892 US 93, Ravali, MT 59863",
+      "phone": "(406) 370-1089",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "City spelling Ravali kept as printed on DPHHS certification page. Website not printed."
+    },
+    {
+      "name": "Missoula CCHD Water Lab",
+      "city": "Missoula",
+      "state": "MT",
+      "address": "301 West Alder, Missoula, MT 59802",
+      "phone": "(406) 523-4755",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "County health department lab as printed. Private-well acceptance not stated — call first. Website not printed."
+    },
+    {
+      "name": "MSM Laboratory",
+      "city": "Butte",
+      "state": "MT",
+      "address": "7305 Continental Dr., Butte, MT 59701",
+      "phone": "(406) 491-5562",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "Phone printed without space after area code on DPHHS page; normalized for display only. Website not printed."
+    },
+    {
+      "name": "RD Water Lab, LLC",
+      "city": "Missoula",
+      "state": "MT",
+      "address": "PO Box 5064, Missoula, MT 59806",
+      "phone": "(406) 721-8179",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "PO Box address as printed. Website not printed."
+    },
+    {
+      "name": "Water Technologies Laboratory",
+      "city": "Missoula",
+      "state": "MT",
+      "address": "1709 South Ave West, Missoula MT 59801",
+      "phone": "(406) 549-8868",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DPHHS Water Laboratory Certification Program roster; call first",
+      "notes": "Comma after Missoula omitted as printed on DPHHS page. Website not printed."
+    }
+  ]
+}

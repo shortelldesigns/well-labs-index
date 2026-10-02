@@ -1,0 +1,5 @@
+Fetch note — 1 October 2026 (US/Pacific)
+dphhs.mt.gov TLS from this box (curl, wget, Python urllib, Chrome headless) failed with SSL unexpected EOF / ERR_CONNECTION_CLOSED.
+Official page content retrieved via WebFetch (external fetch provider) and archived as .txt transcriptions.
+MSU Extension pages archived as HTML via curl (TLS succeeded for waterquality.montana.edu).
+Kansas KDHE AB Manager (https://ab.qamanager.com/publicparameters/11) not used — JS-only shell; skipped again.

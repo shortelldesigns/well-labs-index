@@ -1,0 +1,19 @@
+# Montana State Environmental Laboratory
+# Source: https://dphhs.mt.gov/publichealth/laboratoryservices/environmentallaboratory/index
+# Also: https://dphhs.mt.gov/publichealth/LaboratoryServices/EnvironmentalLaboratory/
+# Retrieved: 1 October 2026 (US/Pacific) via WebFetch (box curl TLS failed)
+
+Full-service environmental laboratory of Montana DPHHS. Serves general public and agencies.
+
+Private Well Testing forms with collection instructions:
+- Private Well Testing- Chemistry: Packages are available to screen for metals, nutrients, anions, organics, and more.
+- Private Well Testing- Microbiology: A variety of options for only bacteria testing.
+- HUD/FHA Mortgage Testing: Testing required by HUD for a HUD/FHA loan.
+
+Contact / delivery:
+- Toll free: 1-800-821-7284
+- Lab phone as on forms: (406) 444-3444
+- Address: Cogswell Building 1400 E. Broadway / 1400 Broadway Room B-206, Helena
+- Samples via mail carrier, courier (free), or hand delivery.
+
+Childcare free well-water testing program noted separately (Qualtrics form) — not used as general homeowner path.

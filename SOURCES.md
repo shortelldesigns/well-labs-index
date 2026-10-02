@@ -675,3 +675,38 @@ Retrieve date: **26 September 2026** (US/Pacific).
 
 - Page: labs/mississippi.html · data: data/labs-ms.json
 - Sources archive: data/sources/ms-*
+
+## Montana (1 October 2026)
+
+Retrieve date: **1 October 2026** (US/Pacific; nightly ~9:12 PM PT).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| DPHHS Water Laboratory Certification Program | https://dphhs.mt.gov/publichealth/LaboratoryServices/WaterLaboratoryCertificationProgram | Retrieved 1 October 2026 | Static public roster of Montana and out-of-state certified drinking-water labs (names, addresses, phones). 15 unique in-state locations tabulated; out-of-state omitted from table. Archived `data/sources/mt-dphhs-water-lab-cert-2026-10-01.txt` (WebFetch transcription — box TLS failed). Certification contact Jill Cohenour (406) 444-5261 as printed. |
+| DPHHS Montana State Environmental Laboratory | https://dphhs.mt.gov/publichealth/laboratoryservices/environmentallaboratory/index | Retrieved 1 October 2026 | Explicit Private Well Testing — Chemistry and Microbiology forms. Toll-free 1-800-821-7284. Archived `data/sources/mt-dphhs-environmental-lab-2026-10-01.txt`. |
+| Private Well Chemistry form (PDF) | https://dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateWellScreenBlueSheet1.pdf | Form date July 2025; prices subject to change | Basic Screen, Metals, Anion, VOC, Pesticides, Herbicides. Fees **not** copied to site. Archived `data/sources/mt-dphhs-private-well-chem-form-2026-10-01.txt`. |
+| Private Well Bacteria form (PDF) | https://www.dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/PrivateBacteria.pdf | Form date January 2024; prices subject to change | Coliform P/A, count, iron bacteria, sulfur bacteria. Fees **not** copied. Archived `data/sources/mt-dphhs-private-bacteria-form-2026-10-01.txt`. |
+| Environmental Laboratory Testing Fee Schedule (PDF) | https://dphhs.mt.gov/assets/publichealth/Lab/EnvironmentalLabtesting/EnvironmentalLaboratoryTestingFeeSchedule.pdf | Linked; fees not republished | Official fee PDF linked from directory tools only. |
+| MSU Extension certified labs (secondary) | https://waterquality.montana.edu/well-ed/testing/certifiedlabs.html | Retrieved 1 October 2026 | Secondary homeowner context; points to DPHHS certification. HTML archived `data/sources/mt-msu-certified-labs-2026-10-01.html`. |
+| MSU Extension Testing Your Well Water (secondary) | https://waterquality.montana.edu/well-ed/testing/ | Retrieved 1 October 2026 | Well Educated program context. Archived `data/sources/mt-msu-well-testing-2026-10-01.html`. |
+
+### Failed or incomplete (Montana)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Direct curl/wget/Chrome TLS to dphhs.mt.gov | Water Lab Certification + Environmental Lab + PDFs | SSL unexpected EOF / ERR_CONNECTION_CLOSED from this box | WebFetch retrieved page/PDF text; archived dated `.txt` transcriptions under `data/sources/mt-*`. Same class of failure previously documented for some PA DEP hosts. |
+| Kansas KDHE AB Manager (preferred earlier in nightly order) | https://ab.qamanager.com/publicparameters/11 | JS SPA; curl returns empty shell without verified static export | Skipped Kansas again; shipped Montana (preferred after KS) with verifiable static DPHHS roster + private-well forms. |
+| Per-lab private-well acceptance (non-state lab) | DPHHS certification roster | Not stated per commercial/municipal row | Marked unknown — call first for 14 of 15 rows; DPHHS Environmental Laboratory verified via private-well forms. |
+
+### Not used as MT lab sources
+
+- Third-party directories.
+- Invented phones, addresses, or private-well acceptance claims beyond DPHHS printed roster rows and Environmental Laboratory private-well forms.
+- MSU Extension scope checkmarks as the primary table (secondary only).
+
+### Page / data
+
+- Page: labs/montana.html · data: data/labs-mt.json
+- Sources archive: data/sources/mt-*
