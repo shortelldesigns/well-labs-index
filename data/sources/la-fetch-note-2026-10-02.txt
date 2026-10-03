@@ -1,0 +1,16 @@
+Louisiana Well Labs Index source fetch note — 2 October 2026 (US/Pacific; automation evening Oct 2 PT / early Oct 3 UTC)
+
+HTTP retrieval (box Safari UA curl):
+- https://ldh.la.gov/page/laboratory-certification → 200, archived HTML/TXT
+- https://ldh.la.gov/page/louisiana-well-owner-network → 200
+- https://ldh.la.gov/page/well-testing-information → 200
+- https://ldh.la.gov/page/bacteriological-potable-water-sampling-instructions → 200
+- https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2809 (microbiology certified list, March 2026) → 200 PDF
+- https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2668 (chemistry certified list, current as of 2/12/2026) → 200 PDF
+- https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Certified_Drinking_Water_Chemistry_Labs_10.25.25.pdf (homeowner analyte matrix as of 10/17/25) → 200
+- https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Documents/FINAL_Sample_Locations.pdf → 200
+- Default curl without Safari UA to ldh.la.gov often 403; Safari UA succeeded.
+
+Kansas: KDHE AB Manager remains JS-only without verified static export — skipped again; Louisiana preferred.
+
+WebFetch also succeeded on LDH hub pages (used for cross-check).

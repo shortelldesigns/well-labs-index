@@ -1,0 +1,159 @@
+{
+  "state": "Louisiana",
+  "state_code": "LA",
+  "last_updated": "2026-10-02",
+  "source": {
+    "title": "LDH Laboratory Certification (chemistry + microbiology) + Louisiana Private Well Owner Network / private-well testing path",
+    "ldh_laboratory_certification": "https://ldh.la.gov/page/laboratory-certification",
+    "ldh_microbiology_certified_list": "https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2809",
+    "ldh_chemistry_certified_list": "https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2668",
+    "ldh_chemistry_homeowner_matrix": "https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Certified_Drinking_Water_Chemistry_Labs_10.25.25.pdf",
+    "ldh_private_well_owner_network": "https://ldh.la.gov/page/louisiana-well-owner-network",
+    "ldh_well_testing_information": "https://ldh.la.gov/page/well-testing-information",
+    "ldh_order_private_well_testing": "https://www.la.egov.com/ldh/privatewell/",
+    "ldh_sample_drop_off_locations_pdf": "https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Documents/FINAL_Sample_Locations.pdf",
+    "ldh_bacti_sampling_instructions": "https://ldh.la.gov/page/bacteriological-potable-water-sampling-instructions",
+    "ldh_sample_drop_off_map": "https://experience.arcgis.com/experience/09b9be44414043d68341c1a0370286d9",
+    "ldh_oph_lab_phone": "(225) 219-5200",
+    "ldh_pwi_phone": "1-888-293-7020",
+    "ldh_pwi_email": "PWI@LA.GOV",
+    "microbiology_list_document_date": "March 2026",
+    "chemistry_list_document_date": "Current as of 2/12/2026",
+    "chemistry_homeowner_matrix_document_date": "as of 10/17/25 (filename 10.25.25)",
+    "retrieved": "2026-10-02",
+    "commercial_table_count": 9,
+    "state_lab_in_verified_paths": true,
+    "limitations": [
+      "LDH Laboratory Certification chemistry and microbiology lists certify labs for Safe Drinking Water Act drinking-water analysis; private-well acceptance is not stated per commercial row unless the source marks it (Water Test, Inc. is marked PRIVATE WELLS ONLY on the microbiology list).",
+      "LDH Private Well Owner Network / Private Well Testing Information / egov Order Private Water Well Testing / Sample Drop-Off Locations PDF are the verified private-well sample paths (parish health units and five LDH OPH laboratory drop-off sites).",
+      "Municipal / public-water-system plant labs named on the microbiology and chemistry lists (city/parish utility labs, JRTC Fort Johnson, etc.) are omitted from the homeowner table unless an official source states they accept private-well samples.",
+      "Out-of-state certified chemistry labs omitted from the table \u2014 use the official Qualtrax chemistry list and the LDH homeowner analyte matrix PDF.",
+      "Shreveport Regional Laboratory phone appears as (318) 676-7809 on the microbiology certified list and (318) 676-7807 on the Sample Drop-Off Locations PDF \u2014 both printed forms noted; call to confirm.",
+      "Fees intentionally omitted from the table \u2014 LDH Private Well Testing Information page publishes sanitarian-collected and self-collect bacteriological fees; confirm current amounts on the official page.",
+      "Kansas KDHE AB Manager remains JS-only without a verified static export \u2014 skipped again.",
+      "Default box curl to ldh.la.gov returned 403; Safari UA curl and WebFetch succeeded."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "LDH Private Well Owner Network \u2014 Order Private Water Well Testing + OPH / parish health unit sample path",
+      "url": "https://www.la.egov.com/ldh/privatewell/",
+      "notes": "Official online order tool linked from LDH Private Well Owner Network and Private Well Testing Information. Sample drop-off / pick-up locations listed on LDH FINAL_Sample_Locations.pdf (five OPH laboratories Monday\u2013Thursday by 2:00 pm excluding holidays, plus parish health units \u2014 call ahead). Contact PWI@LA.GOV or 1-888-293-7020. Fees: confirm on LDH Private Well Testing Information page (not republished here)."
+    },
+    {
+      "name": "Water Test, Inc. \u2014 microbiology certified list marks PRIVATE WELLS ONLY",
+      "url": "https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2809",
+      "notes": "Named on LDH List of Laboratories Certified by Louisiana for Drinking Water Analysis \u2014 Microbiology (March 2026) with annotation (PRIVATE WELLS ONLY). Address/phone as printed: 21220 Highway 36, Covington, LA 70433; (985) 892-8329; Contact Michael Metevier, President. Also appears on LDH chemistry homeowner matrix (as of 10/17/25) for total coliform. Call to confirm current packages and fees."
+    }
+  ],
+  "labs": [
+    {
+      "name": "LDH Central Laboratory (Office of Public Health Baton Rouge Laboratory)",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "address": "1209 Leesville Avenue, Baton Rouge, LA 70802",
+      "phone": "(225) 219-5200",
+      "website": "https://ldh.la.gov/page/louisiana-well-owner-network",
+      "accepts_private_wells": "yes \u2014 LDH Sample Drop-Off Locations PDF lists this OPH laboratory for private water well sample drop-off (Mon\u2013Thu by 2:00 pm excluding holidays); order via LDH private-well egov tool",
+      "source_url": "https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Documents/FINAL_Sample_Locations.pdf",
+      "source_document_date": "Sample Drop-Off Locations PDF (retrieved 2026-10-02); also microbiology certified list March 2026",
+      "notes": "Also named on microbiology certified list (March 2026) and chemistry homeowner matrix (as of 10/17/25). Contact printed on micro list: Michelle McCarthy, Manager."
+    },
+    {
+      "name": "LDH Amite Regional Laboratory",
+      "city": "Amite",
+      "state": "LA",
+      "address": "104 North 1st Street #A, Amite, LA 70422",
+      "phone": "(985) 748-2011",
+      "website": "https://ldh.la.gov/page/louisiana-well-owner-network",
+      "accepts_private_wells": "yes \u2014 LDH Sample Drop-Off Locations PDF lists this OPH laboratory for private water well sample drop-off (Mon\u2013Thu by 2:00 pm excluding holidays)",
+      "source_url": "https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Documents/FINAL_Sample_Locations.pdf",
+      "source_document_date": "Sample Drop-Off Locations PDF (retrieved 2026-10-02); also microbiology certified list March 2026",
+      "notes": "Contact printed on micro list: Lisa Carrier, Manager. Sample locations PDF prints Amite City, LA 70422."
+    },
+    {
+      "name": "LDH Shreveport Regional Laboratory",
+      "city": "Shreveport",
+      "state": "LA",
+      "address": "1035 Creswell Avenue, Shreveport, LA 71104 (Sample Drop-Off PDF also: Room 352; ZIP 71101)",
+      "phone": "(318) 676-7809",
+      "website": "https://ldh.la.gov/page/louisiana-well-owner-network",
+      "accepts_private_wells": "yes \u2014 LDH Sample Drop-Off Locations PDF lists this OPH laboratory for private water well sample drop-off (Mon\u2013Thu by 2:00 pm excluding holidays)",
+      "source_url": "https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Documents/FINAL_Sample_Locations.pdf",
+      "source_document_date": "Sample Drop-Off Locations PDF (retrieved 2026-10-02); also microbiology certified list March 2026",
+      "notes": "Phone (318) 676-7809 on microbiology certified list; Sample Drop-Off Locations PDF prints (318) 676-7807 \u2014 call to confirm. Contact printed on micro list: Melissa Jones, Supervisor."
+    },
+    {
+      "name": "LDH Rapides Regional Laboratory",
+      "city": "Alexandria",
+      "state": "LA",
+      "address": "5604-A Coliseum Blvd. Room A102, Alexandria, LA 71303",
+      "phone": "(318) 487-5282 Ext. 197",
+      "website": "https://ldh.la.gov/page/louisiana-well-owner-network",
+      "accepts_private_wells": "yes \u2014 LDH Sample Drop-Off Locations PDF lists this OPH laboratory for private water well sample drop-off (Mon\u2013Thu by 2:00 pm excluding holidays)",
+      "source_url": "https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Documents/FINAL_Sample_Locations.pdf",
+      "source_document_date": "Sample Drop-Off Locations PDF (retrieved 2026-10-02); also microbiology certified list March 2026",
+      "notes": "Sample Drop-Off PDF also lists ext. 265. Contact printed on micro list: Samantha Derbonne, Supervisor."
+    },
+    {
+      "name": "LDH Lake Charles Regional Laboratory",
+      "city": "Lake Charles",
+      "state": "LA",
+      "address": "2827 4th Avenue, Room 132, Lake Charles, LA 70601",
+      "phone": "(337) 475-3236",
+      "website": "https://ldh.la.gov/page/louisiana-well-owner-network",
+      "accepts_private_wells": "yes \u2014 LDH Sample Drop-Off Locations PDF lists this OPH laboratory for private water well sample drop-off (Mon\u2013Thu by 2:00 pm excluding holidays)",
+      "source_url": "https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Documents/FINAL_Sample_Locations.pdf",
+      "source_document_date": "Sample Drop-Off Locations PDF (retrieved 2026-10-02); also microbiology certified list March 2026",
+      "notes": "Contact printed on micro list: Jillian Comeaux, Supervisor."
+    },
+    {
+      "name": "Water Test, Inc.",
+      "city": "Covington",
+      "state": "LA",
+      "address": "21220 Highway 36, Covington, LA 70433",
+      "phone": "(985) 892-8329",
+      "website": "unknown",
+      "accepts_private_wells": "yes \u2014 microbiology certified list marks PRIVATE WELLS ONLY",
+      "source_url": "https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2809",
+      "source_document_date": "March 2026",
+      "notes": "Contact printed: Michael Metevier, President. Also on LDH chemistry homeowner matrix (as of 10/17/25) for total coliform. Website not printed on official lists."
+    },
+    {
+      "name": "Curtis Environmental Services, Inc.",
+      "city": "LaPlace",
+      "state": "LA",
+      "address": "185 Belle Terre Boulevard, LaPlace, LA 70068",
+      "phone": "(985) 653-0000",
+      "website": "unknown",
+      "accepts_private_wells": "unknown \u2014 named on LDH chemistry certified list (Accepts Commercial Samples: Yes) and homeowner analyte matrix; call first",
+      "source_url": "https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2668",
+      "source_document_date": "Current as of 2/12/2026 (chemistry Qualtrax); homeowner matrix as of 10/17/25",
+      "notes": "EPA ID LA00955; Certificate # LA033 (effective 1/1/2026\u201312/31/2026). Phone from homeowner matrix PDF. Website not printed."
+    },
+    {
+      "name": "Element Materials Technology Lafayette, LLC",
+      "city": "Lafayette",
+      "state": "LA",
+      "address": "2417 West Pinhook Road, Lafayette, LA 70508",
+      "phone": "(337) 235-0483",
+      "website": "unknown",
+      "accepts_private_wells": "unknown \u2014 named on LDH chemistry certified list (Accepts Commercial Samples: Yes) and homeowner analyte matrix; call first",
+      "source_url": "https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2668",
+      "source_document_date": "Current as of 2/12/2026 (chemistry Qualtrax); homeowner matrix as of 10/17/25",
+      "notes": "EPA ID LA00903; Certificate # LA023 (effective 1/1/2026\u201312/31/2026). Phone from homeowner matrix PDF. Website not printed."
+    },
+    {
+      "name": "SGS North America Inc. - Scott",
+      "city": "Scott",
+      "state": "LA",
+      "address": "500 Ambassador Caffery Pkwy, Scott, LA 70583",
+      "phone": "(337) 237-4775",
+      "website": "unknown",
+      "accepts_private_wells": "unknown \u2014 named on LDH chemistry certified list (Accepts Commercial Samples: Yes) and homeowner analyte matrix; call first",
+      "source_url": "https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2668",
+      "source_document_date": "Current as of 2/12/2026 (chemistry Qualtrax); homeowner matrix as of 10/17/25",
+      "notes": "EPA ID LA01236; Certificate # LA025 (effective 1/1/2026\u201312/31/2026). Phone from homeowner matrix PDF. Website not printed."
+    }
+  ]
+}

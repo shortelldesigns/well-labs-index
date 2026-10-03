@@ -710,3 +710,37 @@ Retrieve date: **1 October 2026** (US/Pacific; nightly ~9:12 PM PT).
 
 - Page: labs/montana.html · data: data/labs-mt.json
 - Sources archive: data/sources/mt-*
+
+## Louisiana (2 October 2026)
+
+Retrieve date: **2 October 2026** (US/Pacific; automation evening Oct 2 PT / early Oct 3 UTC).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| LDH Laboratory Certification | https://ldh.la.gov/page/laboratory-certification | Retrieved 2 October 2026 | Safari UA curl HTTP 200. Links Qualtrax chemistry ID=2668 and microbiology ID=2809. Archived `data/sources/la-ldh-lab-certification-2026-10-02.html` / `.txt`. Default curl without Safari UA often 403. |
+| LDH microbiology certified list (Qualtrax) | https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2809 | March 2026 | curl HTTP 200 PDF. Includes LDH regional labs and Water Test, Inc. marked PRIVATE WELLS ONLY. Archived `data/sources/la-ldh-micro-labs-qualtrax-2026-10-02.pdf` / `.txt`. |
+| LDH chemistry certified list (Qualtrax) | https://ldh-oph.qualtraxcloud.com/ShowDocument.aspx?ID=2668 | Current as of 2/12/2026 | curl HTTP 200 PDF. In-state commercial rows with Accepts Commercial Samples: Yes include Curtis Environmental, Element Lafayette, SGS Scott. Archived `data/sources/la-ldh-chem-labs-qualtrax-2026-10-02.pdf` / `.txt`. |
+| LDH chemistry homeowner analyte matrix | https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Certified_Drinking_Water_Chemistry_Labs_10.25.25.pdf | as of 10/17/25 (filename 10.25.25) | Linked from Private Well Testing Information. Archived `data/sources/la-ldh-chem-labs-homeowner-matrix-2025-10-25.pdf` / `.txt`. Used for phones of commercial chemistry labs. |
+| LDH Private Well Owner Network | https://ldh.la.gov/page/louisiana-well-owner-network | Retrieved 2 October 2026 | Order tool, sample drop-off map, stewardship links. Archived HTML/TXT. |
+| LDH Private Well Testing Information | https://ldh.la.gov/page/well-testing-information | Retrieved 2 October 2026 | Sanitarian vs self-collect bacteriological path; fees published on page (not copied into table). Archived HTML/TXT. |
+| Order Private Water Well Testing | https://www.la.egov.com/ldh/privatewell/ | Retrieved 2 October 2026 | Official egov order tool linked from PWON and well-testing pages. |
+| Sample Drop-Off Locations PDF | https://ldh.la.gov/assets/oph/Center-EH/envepi/PWI/Documents/FINAL_Sample_Locations.pdf | Retrieved 2 October 2026 | Five OPH labs + parish health units. Archived `data/sources/la-ldh-sample-locations-2026-10-02.pdf` / `.txt`. |
+| Bacteriological / potable water sampling instructions | https://ldh.la.gov/page/bacteriological-potable-water-sampling-instructions | Retrieved 2 October 2026 | Archived HTML/TXT. |
+| Fetch note | — | 2 October 2026 | `data/sources/la-fetch-note-2026-10-02.txt` |
+
+### Failed or incomplete (Louisiana)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Default curl to ldh.la.gov (no Safari UA) | https://ldh.la.gov/page/laboratory-certification (and related) | HTTP 403 | Safari UA curl + WebFetch succeeded. |
+| Legacy DrinkingWaterLABSList.pdf | https://ldh.la.gov/assets/oph/Center-PHCH/Center-CH/lab/DrinkingWaterLABSList.pdf | HTTP 403 | Used current Qualtrax microbiology list ID=2809 instead. |
+| Kansas KDHE AB Manager (preferred earlier in nightly order) | https://ab.qamanager.com/publicparameters/11 | JS SPA; no verified static export | Skipped Kansas again; shipped Louisiana with verifiable static LDH lists + PWON path. |
+
+### Not used as LA lab sources
+
+- Third-party directories.
+- Invented private-well acceptance for municipal PWS plant labs.
+- Dollar amounts from the well-testing page republished into the lab table (linked only; confirm on official page).
+
