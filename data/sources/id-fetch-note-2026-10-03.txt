@@ -1,0 +1,21 @@
+Idaho Well Labs Index source fetch — 3 October 2026 (US/Pacific)
+
+Succeeded:
+- DHW Drinking Water and Private Wells hub (Safari UA curl HTTP 200 + WebFetch)
+  https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells
+  Includes ~30% private-well statistic, annual bacteria+nitrate / 3–5 year other contaminants guidance,
+  Idaho Certified Laboratories table (8 labs), Free Idaho Private Well Water Testing (Available Fall 2026),
+  Idaho Private Well Drinking Water Map, EH@dhw.idaho.gov / 1-800-445-8647, IBL citizen-science note.
+- DHW Drinking Water Testing and Certification
+  https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification
+- DEQ Wells guidance
+  https://www.deq.idaho.gov/water-quality/groundwater/wells/
+- Idaho Health Tools free private well water testing product page
+  https://healthtools.dhw.idaho.gov/collections/other-environmental-health/products/idaho-private-well-water-testing
+
+Skipped:
+- Kansas KDHE AB Manager https://ab.qamanager.com/publicparameters/11 — JS-only; no verified static export.
+
+Not invented:
+- No per-commercial-lab private-well acceptance beyond DHW listing as certified labs near you.
+- Fees omitted. Free program noted as Available Fall 2026 only as printed; enrollment status not invented.

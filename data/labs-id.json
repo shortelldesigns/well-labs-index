@@ -1,0 +1,139 @@
+{
+  "state": "Idaho",
+  "state_code": "ID",
+  "last_updated": "2026-10-03",
+  "source": {
+    "title": "DHW Drinking Water and Private Wells hub (Idaho Certified Laboratories) + Drinking Water Testing and Certification + Free Private Well Water Testing via Idaho Health Tools",
+    "dhw_private_wells": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+    "dhw_drinking_water_testing_certification": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification",
+    "idaho_health_tools_free_private_well_testing": "https://healthtools.dhw.idaho.gov/collections/other-environmental-health/products/idaho-private-well-water-testing",
+    "idaho_private_well_drinking_water_map": "https://experience.arcgis.com/experience/82cdfd919bf140dfb6890b4241dabbec/",
+    "deq_wells": "https://www.deq.idaho.gov/water-quality/groundwater/wells/",
+    "ibl_citizen_science_submission_form": "https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=15082&dbid=0&repo=PUBLIC-DOCUMENTS",
+    "dhw_eh_email": "EH@dhw.idaho.gov",
+    "dhw_eh_phone": "1-800-445-8647",
+    "ibl_phone": "208-334-2235",
+    "retrieved": "2026-10-03",
+    "commercial_table_count": 8,
+    "state_lab_in_verified_paths": true,
+    "limitations": [
+      "DHW Idaho Certified Laboratories table on the private-wells hub lists 8 labs (name, street address, city, phone) for finding a water testing laboratory near you; private-well sample acceptance is not stated per commercial row — marked unknown; call first.",
+      "Idaho Bureau of Labs is on that table and DHW promotes private-well testing through IBL citizen-science / submission forms plus Free Idaho Private Well Water Testing (Available Fall 2026) via Idaho Health Tools — treated as verified private-well paths; still call/confirm packages.",
+      "Idaho Health Tools product page retrieved 3 October 2026 printed *Currently sold out, additional tests will be available soon* and *Only one test kit per household can be ordered every five years.* — enrollment/fulfillment status not invented beyond printed wording; DHW hub titles the program Available Fall 2026.",
+      "About 30% of Idaho residents use private wells; private wells not regulated — as printed on DHW hub.",
+      "Test bacteria and nitrates once a year; other contaminants every 3 to 5 years — as printed on DHW hub.",
+      "Fees intentionally omitted from the table — confirm with the lab / agency.",
+      "Kansas KDHE AB Manager remains JS-only without a verified static export — skipped again."
+    ]
+  },
+  "verified_paths": [
+    {
+      "name": "Free Idaho Private Well Water Testing (Available Fall 2026) via Idaho Health Tools",
+      "url": "https://healthtools.dhw.idaho.gov/collections/other-environmental-health/products/idaho-private-well-water-testing",
+      "notes": "DHW Drinking Water and Private Wells hub titles Free Idaho Private Well Water Testing (Available Fall 2026) and directs residents to Idaho Health Tools to request a free testing kit. Contaminants named on the DHW hub include nitrate, fluoride, arsenic, lead, uranium, manganese, chromium, nickel, copper, zinc, selenium, cadmium, and barium. Health Tools product page retrieved 3 October 2026 printed Currently sold out, additional tests will be available soon and Only one test kit per household can be ordered every five years — confirm current availability on the official page. Contact EH@dhw.idaho.gov or 1-800-445-8647."
+    },
+    {
+      "name": "Idaho Bureau of Labs — private-well path via DHW certified list + IBL citizen-science / submission forms",
+      "url": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification",
+      "notes": "Named on DHW Idaho Certified Laboratories table (2220 Old Penitentiary Rd., Boise; 208-334-2235). DHW private-wells hub states private well owners utilizing IBL as their testing laboratory can participate in citizen science by granting permission on IBL submission form. Drinking Water Testing and Certification page: call 208-334-2235 with questions about sample submission to IBL; consult Sampling and Submission Guide; proper forms must accompany samples. Call/confirm packages and fees."
+    }
+  ],
+  "labs": [
+    {
+      "name": "Idaho Bureau of Labs",
+      "city": "Boise",
+      "state": "ID",
+      "address": "2220 Old Penitentiary Rd.",
+      "phone": "208-334-2235",
+      "website": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification",
+      "accepts_private_wells": "yes — listed on DHW private-wells Idaho Certified Laboratories table; DHW promotes private-well testing via IBL citizen-science / submission forms and Free Private Well Water Testing program — call/confirm packages",
+      "source_url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+      "source_document_date": "Retrieved 2026-10-03",
+      "notes": "Also covered under Drinking Water Testing and Certification (IBL). Phone as printed: 208-334-2235."
+    },
+    {
+      "name": "Analytical Laboratories",
+      "city": "Boise",
+      "state": "ID",
+      "address": "1804 N. 33rd St.",
+      "phone": "208-342-5515",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DHW Idaho Certified Laboratories table on private-wells hub; call first",
+      "source_url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+      "source_document_date": "Retrieved 2026-10-03",
+      "notes": "Name, street address, city, and phone as printed on DHW Certified Laboratories table. Website not printed."
+    },
+    {
+      "name": "Magic Valley Lab",
+      "city": "Twin Falls",
+      "state": "ID",
+      "address": "210 Addison Ave.",
+      "phone": "208-733-4250",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DHW Idaho Certified Laboratories table on private-wells hub; call first",
+      "source_url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+      "source_document_date": "Retrieved 2026-10-03",
+      "notes": "Name, street address, city, and phone as printed on DHW Certified Laboratories table. Website not printed."
+    },
+    {
+      "name": "IAS Envirochem",
+      "city": "Pocatello",
+      "state": "ID",
+      "address": "3314 Pole Line Rd",
+      "phone": "208-237-3300",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DHW Idaho Certified Laboratories table on private-wells hub; call first",
+      "source_url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+      "source_document_date": "Retrieved 2026-10-03",
+      "notes": "Name, street address, city, and phone as printed on DHW Certified Laboratories table. Website not printed."
+    },
+    {
+      "name": "Teton Microbiology Lab",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "address": "300 S. Freeman Ave.",
+      "phone": "208-529-0077",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DHW Idaho Certified Laboratories table on private-wells hub; call first",
+      "source_url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+      "source_document_date": "Retrieved 2026-10-03",
+      "notes": "Name, street address, city, and phone as printed on DHW Certified Laboratories table. Website not printed."
+    },
+    {
+      "name": "SVL Analytical",
+      "city": "Kellogg",
+      "state": "ID",
+      "address": "1 Government Gulch Rd",
+      "phone": "208-784-1258",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DHW Idaho Certified Laboratories table on private-wells hub; call first",
+      "source_url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+      "source_document_date": "Retrieved 2026-10-03",
+      "notes": "Name, street address, city, and phone as printed on DHW Certified Laboratories table. Website not printed."
+    },
+    {
+      "name": "Accurate Testing Labs",
+      "city": "Coeur d'Alene",
+      "state": "ID",
+      "address": "7950 N. Meadowlark Way Suite H",
+      "phone": "208-762-8378",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DHW Idaho Certified Laboratories table on private-wells hub; call first",
+      "source_url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+      "source_document_date": "Retrieved 2026-10-03",
+      "notes": "Name, street address, city, and phone as printed on DHW Certified Laboratories table (Coeur d'Alene). Website not printed."
+    },
+    {
+      "name": "Anatek Labs",
+      "city": "Moscow",
+      "state": "ID",
+      "address": "1282 Alturas Dr.",
+      "phone": "208-883-2839",
+      "website": "unknown",
+      "accepts_private_wells": "unknown — named on DHW Idaho Certified Laboratories table on private-wells hub; call first",
+      "source_url": "https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells",
+      "source_document_date": "Retrieved 2026-10-03",
+      "notes": "Name, street address, city, and phone as printed on DHW Certified Laboratories table. Website not printed."
+    }
+  ]
+}

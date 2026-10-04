@@ -744,3 +744,36 @@ Retrieve date: **2 October 2026** (US/Pacific; automation evening Oct 2 PT / ear
 - Invented private-well acceptance for municipal PWS plant labs.
 - Dollar amounts from the well-testing page republished into the lab table (linked only; confirm on official page).
 
+## Idaho (3 October 2026)
+
+Retrieve date: **3 October 2026** (US/Pacific; nightly evening Oct 3 PT / early Oct 4 UTC).
+
+### Succeeded
+
+| Source | URL | Document / page date | Notes |
+| --- | --- | --- | --- |
+| DHW Drinking Water and Private Wells | https://healthandwelfare.idaho.gov/health-wellness/environmental-health/drinking-water-and-private-wells | Retrieved 3 October 2026 | ~30% private-well statistic; private wells not regulated; annual bacteria+nitrate / 3–5 year other contaminants; Idaho Certified Laboratories table (8 labs); Free Idaho Private Well Water Testing (Available Fall 2026); Idaho Private Well Drinking Water Map; EH@dhw.idaho.gov / 1-800-445-8647; IBL citizen-science note. Archived `data/sources/id-dhw-private-wells-2026-10-03.html` / `.txt`. |
+| DHW Drinking Water Testing and Certification | https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/drinking-water-testing-and-certification | Retrieved 3 October 2026 | IBL environmental testing + drinking-water lab certification. Call 208-334-2235 for sample submission. Archived `data/sources/id-dhw-drinking-water-testing-cert-2026-10-03.html` / `.txt`. |
+| Idaho Health Tools — Idaho Private Well Water Testing | https://healthtools.dhw.idaho.gov/collections/other-environmental-health/products/idaho-private-well-water-testing | Retrieved 3 October 2026 | Free kit product page. Printed *Currently sold out, additional tests will be available soon* and *Only one test kit per household can be ordered every five years.* — status linked as printed, not invented. Archived `data/sources/id-health-tools-private-well-testing-2026-10-03.html` / `.txt`. |
+| Idaho Private Well Drinking Water Map | https://experience.arcgis.com/experience/82cdfd919bf140dfb6890b4241dabbec/ | Linked from DHW hub | Interactive map for private well owners. |
+| DEQ Wells guidance | https://www.deq.idaho.gov/water-quality/groundwater/wells/ | Retrieved 3 October 2026 | Private vs public wells; nitrate/bacteria/arsenic; wellhead protection. Archived `data/sources/id-deq-wells-2026-10-03.html` / `.txt`. |
+| Fetch note | — | 3 October 2026 | `data/sources/id-fetch-note-2026-10-03.txt` |
+
+### Failed or incomplete (Idaho)
+
+| Attempt | URL | What happened | What we did instead |
+| --- | --- | --- | --- |
+| Kansas KDHE AB Manager (preferred earlier in nightly order) | https://ab.qamanager.com/publicparameters/11 | JS SPA; no verified static export | Skipped Kansas again; shipped Idaho with verifiable static DHW Certified Laboratories table + free-testing / IBL paths. |
+| Per-lab private-well acceptance (commercial rows) | DHW Certified Laboratories table | Not stated per commercial row | Marked unknown — call first for 7 of 8 rows; Idaho Bureau of Labs verified via DHW private-well / citizen-science path. |
+| Free kit fulfillment tonight | Idaho Health Tools product page | Printed currently sold out; additional tests available soon | Noted as printed; DHW hub still titles program Available Fall 2026. |
+
+### Not used as ID lab sources
+
+- Third-party directories.
+- Invented phones, addresses, or private-well acceptance claims beyond the DHW Certified Laboratories table and IBL / free-testing paths.
+- Dollar amounts or enrollment claims beyond printed Free / sold-out / Available Fall 2026 wording.
+
+### Page / data
+
+- Page: labs/idaho.html · data: data/labs-id.json
+- Sources archive: data/sources/id-*
