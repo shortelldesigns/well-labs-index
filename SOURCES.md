@@ -777,3 +777,16 @@ Retrieve date: **3 October 2026** (US/Pacific; nightly evening Oct 3 PT / early 
 
 - Page: labs/idaho.html · data: data/labs-id.json
 - Sources archive: data/sources/id-*
+
+## Maryland — 13 October 2026 (US/Pacific)
+
+- **Primary roster:** [Maryland's Certified Drinking Water Laboratories (PDF)](https://mde.maryland.gov/programs/water/water_supply/Documents/Maryland-Certified-DW-Labs.pdf) by MDE-LCP. Document date as printed: **Latest Revisions: 10/1/2026**. HTTP 200. Archived `data/sources/md-certified-dw-labs-2026-10-01.pdf` / `.txt` (`pdftotext -layout`). Retrieved 13 October 2026.
+- **LCP hub:** [Water Supply Laboratory Certification](https://mde.maryland.gov/programs/water/water_supply/pages/wsp-labcert.aspx) — HTTP 200. Archived `md-wsp-labcert-2026-10-13.html`. LCP homepage last revisions printed 05/13/2026; recommends certified sampler for private residential / real estate / non-compliance testing.
+- **Private-well paths verified:**
+  - [MDE Be Well Wise](https://mde.maryland.gov/programs/Water/Water_Supply/Pages/Be_Well_Wise.aspx) — ~350,000 MD private-well households; annual testing via state-certified lab (bacteria, nitrates, TDS, pH). Archived `md-be-well-wise-2026-10-13.html`.
+  - [MDH Water Microbiology](https://health.maryland.gov/laboratories/Pages/Water-Microbiology.aspx) — private well sample reports mailed to submitting local health department. Archived `md-mdh-water-micro-2026-10-13.html`.
+  - [MDH Well Water Testing Fees](https://health.maryland.gov/laboratories/Pages/Wellwater.aspx) — published fee schedule (fees not republished in directory table). Archived `md-mdh-wellwater-2026-10-13.html`.
+- **Guidance (cited, not used for per-lab acceptance):** [UMD Extension Water Testing](https://extension.umd.edu/resource/water-testing); [UMD Extension Certified Water Testing Labs](https://extension.umd.edu/programs/environment-natural-resources/program-areas/wells-septic-systems-and-water-quality/water-quality-and-testing/certified-water-testing-labs) (last updated 2019; Extension marks possibly outdated — current MDE PDF is the roster). [MDE PFAS Private Well Factsheet (March 2023)](https://mde.maryland.gov/programs/water/water_supply/Documents/PFAS%20Private%20Well%20Factsheet_March2023.pdf).
+- **Page table:** 22 in-state commercial labs (numeric MD Lab Certification Numbers, Maryland addresses). Municipal/utility G-#### labs and out-of-state labs omitted. Private-well acceptance per commercial row unknown on PDF — call first.
+- **Fetch note:** `data/sources/md-fetch-note-2026-10-13.txt`.
+- **Data:** `data/labs-md.json`. **Page:** `labs/maryland.html`.

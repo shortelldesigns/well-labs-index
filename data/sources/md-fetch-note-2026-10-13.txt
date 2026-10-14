@@ -1,0 +1,34 @@
+Maryland Well Labs Index — source fetch note
+Retrieve date: 13 October 2026 (US/Pacific)
+Box timezone: America/Los_Angeles
+
+Primary lab roster:
+  URL: https://mde.maryland.gov/programs/water/water_supply/Documents/Maryland-Certified-DW-Labs.pdf
+  HTTP: 200
+  Document date (as printed): Latest Revisions: 10/1/2026
+  Archived: md-certified-dw-labs-2026-10-01.pdf / .txt (pdftotext -layout)
+  Notes: 7-page MDE-LCP list; in-state commercial labs use numeric MD Lab Certification Numbers; municipal/utility labs use G-#### numbers. Out-of-state labs on pages 4–7 omitted from page table.
+
+LCP hub:
+  URL: https://mde.maryland.gov/programs/water/water_supply/pages/wsp-labcert.aspx
+  HTTP: 200
+  Archived: md-wsp-labcert-2026-10-13.html
+  Notes: LCP Homepage last revisions printed 05/13/2026 on page; for private residential/real estate/non-compliance testing recommends certified sampler. Links MD's Certified DW Labs PDF.
+
+Private-well guidance (official):
+  MDE Be Well Wise — https://mde.maryland.gov/programs/Water/Water_Supply/Pages/Be_Well_Wise.aspx — HTTP 200 — ~350,000 MD households on private wells; test annually via state-certified lab; local health departments / UMD Extension can help identify local concerns; Water Well Construction Program 410-537-3784. Archived md-be-well-wise-2026-10-13.html
+
+  MDH Water Microbiology — https://health.maryland.gov/laboratories/Pages/Water-Microbiology.aspx — HTTP 200 — "Private well sample reports are mailed to the submitting local health department." Archived md-mdh-water-micro-2026-10-13.html
+
+  MDH Well Water Testing Fees — https://health.maryland.gov/laboratories/Pages/Wellwater.aspx — HTTP 200 — publishes fee schedule for Bacteriology, Nitrate-Nitrate, Turbidity, Copper, Iron, Lead, Hardness, etc. Fees not republished in directory table. Archived md-mdh-wellwater-2026-10-13.html
+
+  UMD Extension Water Testing — https://extension.umd.edu/resource/water-testing — HTTP 200 — recommends MDE-certified labs; annual coliform/E.coli/nitrate. Archived md-umd-water-testing-2026-10-13.html
+
+  UMD Extension Certified Water Testing Labs — https://extension.umd.edu/.../certified-water-testing-labs — HTTP 200 — homeowner-oriented cull of MDE list last updated 2019 (outdated per Extension); directs readers to current MDE list / county health department. Not used as per-lab private-well verification. Archived md-umd-certified-labs-2026-10-13.html
+
+  MDE PFAS Private Well Factsheet (March 2023) — HTTP 200 — private wells not regulated; homeowner responsibility; generally state does not fund private-well PFAS testing; contact local health department. Archived md-pfas-private-well-2026-10-13.pdf
+
+Curation:
+  Included: 22 in-state commercial / independent labs (numeric cert IDs, Maryland addresses) from the 10/1/2026 PDF.
+  Omitted from table: municipal/utility/plant labs with G-#### cert numbers; Evitts Creek (Bedford PA address); all out-of-state labs on pages 4–7.
+  Private-well acceptance per commercial row: unknown on PDF — mark call first.
