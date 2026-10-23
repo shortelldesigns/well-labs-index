@@ -790,3 +790,6 @@ Retrieve date: **3 October 2026** (US/Pacific; nightly evening Oct 3 PT / early 
 - **Page table:** 22 in-state commercial labs (numeric MD Lab Certification Numbers, Maryland addresses). Municipal/utility G-#### labs and out-of-state labs omitted. Private-well acceptance per commercial row unknown on PDF — call first.
 - **Fetch note:** `data/sources/md-fetch-note-2026-10-13.txt`.
 - **Data:** `data/labs-md.json`. **Page:** `labs/maryland.html`.
+
+## Connecticut (added 2026-10-23)
+- CT DPH ELCP In-State Approved Commercial Laboratories Certified to Test Drinking Water (dated 10/09/2026): https://portal.ct.gov/dph/-/media/dph/dph-2025/environmental-lab-certification/lab-lists/in-state-laboratories-certified-to-test-drinking-water_20261009.pdf (retrieved 2026-10-23; 17 labs, 13 marked Private Well Testing)

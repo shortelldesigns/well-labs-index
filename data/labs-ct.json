@@ -1,0 +1,221 @@
+{
+ "source": "CT DPH ELCP In-State Approved Commercial Laboratories Certified to Test Drinking Water (dated 10/09/2026)",
+ "url": "https://portal.ct.gov/dph/-/media/dph/dph-2025/environmental-lab-certification/lab-lists/in-state-laboratories-certified-to-test-drinking-water_20261009.pdf",
+ "retrieved": "2026-10-23",
+ "labs": [
+  {
+   "town": "Dayville",
+   "name": "Microbac Laboratories, INC. - Dayville",
+   "license": "PH-0465",
+   "phone": "(860) 774-6814",
+   "tests": [
+    "private_well",
+    "arsenic",
+    "bacteriological",
+    "inorganics",
+    "organics",
+    "uranium"
+   ]
+  },
+  {
+   "town": "Greenwich",
+   "name": "Greenwich Health Department Laboratory",
+   "license": "PH-0703",
+   "phone": "(203) 622-7843",
+   "tests": [
+    "private_well",
+    "arsenic",
+    "bacteriological",
+    "inorganics",
+    "radiological"
+   ]
+  },
+  {
+   "town": "Madison",
+   "name": "Environmental Consulting Lab",
+   "license": "PH-0535",
+   "phone": "(203) 245-0568",
+   "tests": [
+    "private_well",
+    "arsenic",
+    "bacteriological",
+    "inorganics",
+    "uranium"
+   ]
+  },
+  {
+   "town": "Manchester",
+   "name": "Phoenix Environmental Laboratories, Inc.",
+   "license": "PH-0618",
+   "phone": "(860) 645-1102",
+   "tests": [
+    "arsenic",
+    "bacteriological",
+    "inorganics",
+    "organics",
+    "uranium"
+   ]
+  },
+  {
+   "town": "Meriden",
+   "name": "EMSL Analytical, Inc. - CT",
+   "license": "PH-0322",
+   "phone": "(203) 284-5948",
+   "tests": [
+    "private_well",
+    "bacteriological",
+    "asbestos"
+   ]
+  },
+  {
+   "town": "New Haven",
+   "name": "Regional Water Authority",
+   "license": "PH-0411",
+   "phone": "(203) 401-2700",
+   "tests": [
+    "private_well",
+    "arsenic",
+    "bacteriological",
+    "inorganics",
+    "organics",
+    "pfas"
+   ]
+  },
+  {
+   "town": "Newtown",
+   "name": "ALS Environmental - Newtown",
+   "license": "PH-0843",
+   "phone": "(203) 270-9973",
+   "tests": [
+    "arsenic",
+    "bacteriological",
+    "inorganics",
+    "organics",
+    "private_well",
+    "radiological",
+    "uranium"
+   ]
+  },
+  {
+   "town": "Old Saybrook",
+   "name": "Eastern Analytical Laboratory, Inc.",
+   "license": "PH-0448",
+   "phone": "(860) 388-2378",
+   "tests": [
+    "private_well",
+    "bacteriological",
+    "inorganics"
+   ]
+  },
+  {
+   "town": "Rocky Hill",
+   "name": "Northeast Laboratories, Inc",
+   "license": "PH-0404",
+   "phone": "(860) 828-9787",
+   "tests": [
+    "private_well",
+    "bacteriological",
+    "inorganics"
+   ]
+  },
+  {
+   "town": "Stamford",
+   "name": "Stamford Health Department Laboratory",
+   "license": "PH-0710",
+   "phone": "(203) 977-4378",
+   "tests": [
+    "private_well",
+    "bacteriological",
+    "inorganics"
+   ]
+  },
+  {
+   "town": "Stratford",
+   "name": "Complete Environmental Testing, Inc.",
+   "license": "PH-0116",
+   "phone": "(203) 377-9984",
+   "tests": [
+    "bacteriological",
+    "inorganics",
+    "arsenic",
+    "organics",
+    "pfas",
+    "uranium"
+   ]
+  },
+  {
+   "town": "Stratford",
+   "name": "ALS Environmental - Stratford",
+   "license": "PH-0840",
+   "phone": "(203) 325-1371",
+   "tests": [
+    "arsenic",
+    "inorganics",
+    "organics",
+    "uranium"
+   ]
+  },
+  {
+   "town": "Wallingford",
+   "name": "Environmental Monitoring Lab",
+   "license": "PH-0509",
+   "phone": "(203) 284-0555",
+   "tests": [
+    "private_well",
+    "arsenic",
+    "bacteriological",
+    "inorganics",
+    "organics"
+   ]
+  },
+  {
+   "town": "Waterbury",
+   "name": "Northwest Environmental Water Labs",
+   "license": "PH-0537",
+   "phone": "(203) 437-4110",
+   "tests": [
+    "private_well",
+    "arsenic",
+    "bacteriological",
+    "inorganics"
+   ]
+  },
+  {
+   "town": "Wilton",
+   "name": "South Norwalk Electric & Water Laboratory",
+   "license": "PH-0461",
+   "phone": "(203) 762-7884",
+   "tests": [
+    "bacteriological",
+    "inorganics"
+   ]
+  },
+  {
+   "town": "Windsor",
+   "name": "Envirotech Laboratory",
+   "license": "PH-0464",
+   "phone": "(860) 688-7249",
+   "tests": [
+    "private_well",
+    "bacteriological",
+    "inorganics",
+    "radiological"
+   ]
+  },
+  {
+   "town": "Woodbridge",
+   "name": "Aquatek Labs, Inc.",
+   "license": "PH-0466",
+   "phone": "(203) 389-1824",
+   "tests": [
+    "private_well",
+    "arsenic",
+    "bacteriological",
+    "inorganics",
+    "organics",
+    "radiological",
+    "uranium"
+   ]
+  }
+ ]
+}
