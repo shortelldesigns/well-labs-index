@@ -677,3 +677,9 @@ nav.primary a {
 }
 .fold-jump { margin: 0.2rem 0 1rem; }
 #labs { scroll-margin-top: 1rem; }
+
+/* Overflow guard (2026-10-25): long URLs, file names and slash-joined
+   terms in body copy (WI/MI link text, AR PDF name, KY callout) pushed
+   the 390px page sideways. break-word only breaks a token that would
+   otherwise overflow, so normal wrapping and table sizing are unchanged. */
+main p, main li, main dd { overflow-wrap: break-word; }
