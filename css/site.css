@@ -657,3 +657,23 @@ nav.primary a {
   .yes { background: var(--ok-bg); padding: 0.05rem 0.35rem; }
   .sub { background: var(--warn-bg); padding: 0.05rem 0.35rem; }
 }
+
+/* Designer pack 2026-10-25: at <48rem the 37-link nav filled the whole 390 fold.
+   Make it one swipeable row (all links kept, 44px taps), and give card titles 44px taps. */
+@media (max-width: 47.99rem) {
+  nav.primary ul {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+  nav.primary li { flex: 0 0 auto; }
+  nav.primary a { white-space: nowrap; }
+}
+.cta-cards .card h3 a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+}
+.fold-jump { margin: 0.2rem 0 1rem; }
+#labs { scroll-margin-top: 1rem; }
