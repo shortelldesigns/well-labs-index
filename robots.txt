@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /well-labs-index/data/sources/
 Sitemap: https://shortelldesigns.github.io/well-labs-index/sitemap.xml
