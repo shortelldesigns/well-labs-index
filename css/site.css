@@ -683,3 +683,7 @@ nav.primary a {
    the 390px page sideways. break-word only breaks a token that would
    otherwise overflow, so normal wrapping and table sizing are unchanged. */
 main p, main li, main dd { overflow-wrap: break-word; }
+
+/* Designer 2026-10-31: state directory links were 24px tall at 390; make each a 44px tap target */
+.state-list li { align-items: center; }
+.state-list li > span > a:first-child { display: inline-flex; align-items: center; min-height: 44px; }
