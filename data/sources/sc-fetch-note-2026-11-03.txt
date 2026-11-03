@@ -1,0 +1,26 @@
+South Carolina Well Labs Index — source fetch note
+Retrieve date: 3 November 2026 (US/Pacific)
+Box timezone: America/Los_Angeles
+
+Primary lab roster:
+  App: https://gis.des.sc.gov/commerciallabs/ (SCDES "Commercial Environmental Laboratories", linked from the CELMapp help page)
+  Help page: https://des.sc.gov/programs/bureau-regional-laboratory-services/environmental-laboratory-certification/commercial-environmental-laboratory-mapping-celmapp (HTTP 200; archived sc-celmapp-page-2026-11-03.html)
+  Data service (public, used by the app's app.js): https://gis.des.sc.gov/gisserver/rest/services/lwm/CLabs/MapServer
+    Layer 1 CLabs_Facilities (91 records, all IsActive=1) -> sc-clabs-facilities-2026-11-03.json
+    Table 2 CLabs_Details (15,436 rows; 905 with ProgramType=SDW) -> sc-clabs-sdw-details-2026-11-03.json (SDW rows only)
+  Revision: every CLabs_Details row LastRefreshDate = 2026-10-10T04:05:06Z (9 Oct 2026 9:05 PM PT)
+  Selection: permits with >=1 SDW detail row and an ", SC," facility address = 26 permits.
+    GEL LABORATORIES LLC 10120001 + 10120002 (same address) merged -> 1 row.
+    FMU Freshwater Ecology Center 21908001 (Francis Marion University, public) omitted as state/university.
+    => 24 labs on page. 23 out-of-state SDW permits omitted.
+  Coliform column = SDW parameter TOTAL COLIFORM/E.COLI*; Nitrate column = SDW parameter starting NITRATE.
+  EUROFINS COLUMBIA has no phone in the facility record -> "unknown".
+  Private-well acceptance / prices for commercial labs: not published by SCDES -> unknown, call first.
+
+Private-well path (official):
+  SCDES Well Water Quality Testing Services — https://des.sc.gov/programs/bureau-water/residential-wells/well-water-quality-testing-services — HTTP 200
+  Kits from SCDES Regional Office or Health Department; coliform $20; metals & minerals $50 (not accepted Jun 1–Nov 30 2026, Dec 1 restart tentative);
+  samples accepted Mon/Tue/Wed; free annual tests for 65+ / public assistance; VOCs/pesticides/SOCs -> commercial lab; toll-free 1-888-761-5989.
+  Archived: sc-well-water-testing-services-2026-11-03.html
+
+No Clemson/extension source used (non-.gov per task scope).

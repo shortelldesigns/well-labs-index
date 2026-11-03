@@ -1,0 +1,498 @@
+{
+ "source": "SCDES Office of Environmental Laboratory Certification — Commercial Environmental Laboratory Mapping (CELMapp), Safe Drinking Water Act (SDW) certifications",
+ "url": "https://gis.des.sc.gov/commerciallabs/",
+ "data_service": "https://gis.des.sc.gov/gisserver/rest/services/lwm/CLabs/MapServer",
+ "program_page": "https://des.sc.gov/programs/bureau-regional-laboratory-services/environmental-laboratory-certification/commercial-environmental-laboratory-mapping-celmapp",
+ "source_revision": "LastRefreshDate 2026-10-10T04:05:06Z (9 October 2026, 9:05 PM PT)",
+ "retrieved": "2026-11-03",
+ "scope": "In-state South Carolina commercial labs holding SCDES Safe Drinking Water Act certification. Out-of-state SDWA labs and one public-university lab omitted. Private-well acceptance and prices unknown — call first.",
+ "omitted": {
+  "out_of_state_count": 23,
+  "out_of_state": [
+   "ALLIANCE TECHNICAL GROUP LLC - AKRON",
+   "ANALYTICAL SERVICES INC",
+   "CAPE FEAR ANALYTICAL LLC",
+   "CORNWELL ENGINEERING GROUP LABORATORY",
+   "EBERLINE ANALYTICAL CORPORATION",
+   "EMSL ANALYTICAL INC",
+   "EMSL ANALYTICAL INC - CHARLOTTE",
+   "ENVIRONMENTAL CHEMISTS INC",
+   "ENVIRONMENTAL HAZARDS SERVICES LLC",
+   "EUROFINS BUILT ENVIRONMENT TESTING - CARY",
+   "EUROFINS CHARLOTTE",
+   "EUROFINS LANCASTER LABORATORIES ENVIRONMENT TESTING LLC",
+   "EUROFINS ORLANDO",
+   "EUROFINS SAVANNAH",
+   "EUROFINS SOUTH BEND",
+   "K&W LABORATORIES LLC",
+   "NOVA BIOLOGICALS INC",
+   "ONTERRIS LABORATORIES, LLC",
+   "PACE ANALYTICAL SERVICES LLC ASHEVILLE",
+   "PACE ANALYTICAL SERVICES LLC FLORIDA",
+   "PACE ANALYTICAL SERVICES LLC HUNTERSVILLE",
+   "PACE ANALYTICAL SERVICES LLC MINNESOTA",
+   "SGS NORTH AMERICA INC DAYTON"
+  ],
+  "state_university": [
+   "FMU Freshwater Ecology Center (Francis Marion University, a public state university)"
+  ]
+ },
+ "private_well_path": {
+  "agency": "SCDES Well Water Quality Testing Services",
+  "url": "https://des.sc.gov/programs/bureau-water/residential-wells/well-water-quality-testing-services",
+  "retrieved": "2026-11-03"
+ },
+ "labs": [
+  {
+   "name": "ALLIANCE TECHNICAL GROUP LLC - COLUMBIA",
+   "address": "215B STONERIDGE DR, COLUMBIA, SC, 29210-8009",
+   "city": "Columbia",
+   "permits": [
+    "40572001"
+   ],
+   "phone": "(864) 232-1556",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Inorganic - Nutrient",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "DATA RESOURCES INCORPORATED",
+   "address": "1410 SAINT ANDREWS RD STE 200, COLUMBIA, SC, 29210-5931",
+   "city": "Columbia",
+   "permits": [
+    "40569001"
+   ],
+   "phone": "(803) 561-0331",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "ENVIRONMENTAL SYSTEMS TESTING SERVICES LLC",
+   "address": "600 HWY 544, CONWAY, SC, 29526",
+   "city": "Conway",
+   "permits": [
+    "26101001"
+   ],
+   "phone": "(843) 347-7688",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "DAVIS & BROWN INC",
+   "address": "124 W MCIVER RD, FLORENCE, SC, 29501-1515",
+   "city": "Florence",
+   "permits": [
+    "21117001"
+   ],
+   "phone": "(843) 665-6746",
+   "sdwa_categories": [
+    "Inorganic - Demand",
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Inorganic - Nutrient",
+    "Inorganic - Residue",
+    "Inorganic - Trace Metal",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": true,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "ALLIANCE TECHNICAL GROUP LLC - GREENVILLE",
+   "address": "426 FAIRFOREST WAY, GREENVILLE, SC, 29607",
+   "city": "Greenville",
+   "permits": [
+    "23105001"
+   ],
+   "phone": "(864) 232-1556",
+   "sdwa_categories": [
+    "Disinfection By-Products",
+    "Inorganic - Demand",
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Inorganic - Nutrient",
+    "Inorganic - Residue",
+    "Inorganic - Trace Metal",
+    "Microbiology",
+    "Synthetic Organic Chemicals (SOCs)",
+    "Trihalomethanes",
+    "Volatiles (VOCs)"
+   ],
+   "coliform": true,
+   "nitrate": true,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "South East Utilities Services, LLC",
+   "address": "7133 SC-908, Gresham, SC, 29546",
+   "city": "Gresham",
+   "permits": [
+    "33555001"
+   ],
+   "phone": "(843) 874-0482",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "GENERAL ENVIRONMENTAL LABORATORIES INC",
+   "address": "121 MEAD RD STE E, HARDEEVILLE, SC, 29927-4425",
+   "city": "Hardeeville",
+   "permits": [
+    "27553001"
+   ],
+   "phone": "(843) 987-1438",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Inorganic - Nutrient",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": true,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "EUROFINS COLUMBIA",
+   "address": "15 THAMES VALLEY RD, IRMO, SC, 29063",
+   "city": "Irmo",
+   "permits": [
+    "32571001"
+   ],
+   "phone": "unknown",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Inorganic - Nutrient",
+    "Inorganic - Residue",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": true,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "JG ENVIRONMENTAL INC",
+   "address": "7776 FLAT ROCK RD, KERSHAW, SC, 29067",
+   "city": "Kershaw",
+   "permits": [
+    "29101001"
+   ],
+   "phone": "(803) 475-6570",
+   "sdwa_categories": [
+    "Inorganic - Miscellaneous",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "TRIDENT LABS SERVICES INC",
+   "address": "9104 CANVAS LN, LADSON, SC, 29456",
+   "city": "Ladson",
+   "permits": [
+    "10122001"
+   ],
+   "phone": "(843) 871-4999",
+   "sdwa_categories": [
+    "Disinfection By-Products",
+    "Inorganic - Demand",
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Inorganic - Nutrient",
+    "Inorganic - Residue",
+    "Inorganic - Trace Metal",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": true,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "BLACK CREEK LAB",
+   "address": "871 MCNAIR CEMETERY RD, RUBY, SC, 29741",
+   "city": "Ruby",
+   "permits": [
+    "13565001"
+   ],
+   "phone": "(843) 634-7010",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "AQUATIC ANALYTICS LLC",
+   "address": "1180 DROP OFF DR STE 101, SUMMERVILLE, SC, 29483-7233",
+   "city": "Summerville",
+   "permits": [
+    "08565001"
+   ],
+   "phone": "(843) 471-1933",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Inorganic - Nutrient",
+    "Inorganic - Residue",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": true,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "L&L ENVIRONMENTAL WARE SHOALS",
+   "address": "97 S GREENWOOD AVE, WARE SHOALS, SC, 29692",
+   "city": "Ware Shoals",
+   "permits": [
+    "24001001"
+   ],
+   "phone": "(864) 456-2696",
+   "sdwa_categories": [
+    "Inorganic - Miscellaneous",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "PACE ANALYTICAL SERVICES LLC",
+   "address": "106 VANTAGE POINT DR, WEST COLUMBIA, SC, 29172",
+   "city": "West Columbia",
+   "permits": [
+    "32010001"
+   ],
+   "phone": "(704) 977-0963",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "WATER SYSTEMS INC",
+   "address": "3911 EDMUND HWY, WEST COLUMBIA, SC, 29170",
+   "city": "West Columbia",
+   "permits": [
+    "32576001"
+   ],
+   "phone": "(803) 218-8439",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Inorganic - Residue",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "International Product Assurance Laboratories",
+   "address": "100 Clemson Research Boulevard, Anderson, SC, 29625",
+   "city": "Anderson",
+   "permits": [
+    "04584001"
+   ],
+   "phone": "(864) 646-8453",
+   "sdwa_categories": [
+    "Inorganic - Trace Metal"
+   ],
+   "coliform": false,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "GEL ENGINEERING LLC",
+   "address": "2040 SAVAGE RD, CHARLESTON, SC, 29407-4731",
+   "city": "Charleston",
+   "permits": [
+    "10585001"
+   ],
+   "phone": "(843) 769-7378",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous"
+   ],
+   "coliform": false,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "GEL LABORATORIES LLC",
+   "address": "2040 SAVAGE RD, CHARLESTON, SC, 29407-4731",
+   "city": "Charleston",
+   "permits": [
+    "10120001",
+    "10120002"
+   ],
+   "phone": "(843) 556-8171",
+   "sdwa_categories": [
+    "Disinfection By-Products",
+    "Inorganic - Demand",
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous",
+    "Inorganic - Nutrient",
+    "Inorganic - Radiological",
+    "Inorganic - Residue",
+    "Inorganic - Trace Metal",
+    "Per - and Polyfluoroalkyl Substances (PFAS)",
+    "Synthetic Organic Chemicals (SOCs)"
+   ],
+   "coliform": false,
+   "nitrate": true,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "UTILITY LABORATORY SERVICES LLC",
+   "address": "127 RIDGE POINTE DR, GASTON, SC, 29053-8101",
+   "city": "Gaston",
+   "permits": [
+    "32579001"
+   ],
+   "phone": "(803) 608-4948",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous"
+   ],
+   "coliform": false,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "PACE ANALYTICAL SERVICES LLC GREENWOOD",
+   "address": "405 SULLIVAN ST, GREENWOOD, SC, 29649-2908",
+   "city": "Greenwood",
+   "permits": [
+    "24562001"
+   ],
+   "phone": "(704) 572-1652",
+   "sdwa_categories": [
+    "Inorganic - Miscellaneous"
+   ],
+   "coliform": false,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "US WATER SERVICES CORPORATION-HARTSVILLE",
+   "address": "953 N ROLLING RD, HARTSVILLE, SC, 29550-7765",
+   "city": "Hartsville",
+   "permits": [
+    "16659001"
+   ],
+   "phone": "(843) 332-2973",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous"
+   ],
+   "coliform": false,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "EA SERVICES LLC",
+   "address": "6365 St. Andrew’s Road, LEXINGTON, SC, 292123125",
+   "city": "Lexington",
+   "permits": [
+    "32583001"
+   ],
+   "phone": "(803) 796-9231",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous"
+   ],
+   "coliform": false,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "EARTH SCIENCES INC",
+   "address": "1865 AVENUE B N BLDG 177, NORTH CHARLESTON, SC, 29405-1820",
+   "city": "North Charleston",
+   "permits": [
+    "10016001"
+   ],
+   "phone": "(843) 554-1792",
+   "sdwa_categories": [
+    "Inorganic - Miscellaneous"
+   ],
+   "coliform": false,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "WESTON & SAMPSON SERVICES INC",
+   "address": "3955 FABER PL DR STE 300, NORTH CHARLESTON, SC, 29405",
+   "city": "North Charleston",
+   "permits": [
+    "10594001"
+   ],
+   "phone": "(843) 693-6016",
+   "sdwa_categories": [
+    "Inorganic - Mineral",
+    "Inorganic - Miscellaneous"
+   ],
+   "coliform": false,
+   "nitrate": false,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  }
+ ]
+}

@@ -793,3 +793,9 @@ Retrieve date: **3 October 2026** (US/Pacific; nightly evening Oct 3 PT / early 
 
 ## Connecticut (added 2026-10-23)
 - CT DPH ELCP In-State Approved Commercial Laboratories Certified to Test Drinking Water (dated 10/09/2026): https://portal.ct.gov/dph/-/media/dph/dph-2025/environmental-lab-certification/lab-lists/in-state-laboratories-certified-to-test-drinking-water_20261009.pdf (retrieved 2026-10-23; 17 labs, 13 marked Private Well Testing)
+
+## South Carolina (added 2026-11-03)
+- SCDES Commercial Environmental Laboratories (CELMapp): https://gis.des.sc.gov/commerciallabs/ — data via https://gis.des.sc.gov/gisserver/rest/services/lwm/CLabs/MapServer (layer 1 CLabs_Facilities, table 2 CLabs_Details, ProgramType SDW); LastRefreshDate 2026-10-10T04:05:06Z (9 Oct 2026 9:05 PM PT); retrieved 2026-11-03. 24 in-state commercial labs (26 SC SDW permits; GEL's two permits merged; FMU Freshwater Ecology Center, a state-university lab, omitted); 23 out-of-state SDW listings omitted. Archived: data/sources/sc-clabs-facilities-2026-11-03.json, sc-clabs-sdw-details-2026-11-03.json, sc-celmapp-page-2026-11-03.html.
+- CELMapp help page: https://des.sc.gov/programs/bureau-regional-laboratory-services/environmental-laboratory-certification/commercial-environmental-laboratory-mapping-celmapp
+- SCDES Well Water Quality Testing Services (private-well kit path; coliform $20, metals/minerals $50, metals paused Jun 1-Nov 30 2026): https://des.sc.gov/programs/bureau-water/residential-wells/well-water-quality-testing-services (read 2026-11-03; archived sc-well-water-testing-services-2026-11-03.html)
+- **Data:** `data/labs-sc.json`. **Page:** `labs/south-carolina.html`. **Fetch note:** `data/sources/sc-fetch-note-2026-11-03.txt`.

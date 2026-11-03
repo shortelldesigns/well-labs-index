@@ -1,0 +1,1349 @@
+{
+ "displayFieldName": "USER_SiteName",
+ "fieldAliases": {
+  "OBJECTID": "OBJECTID",
+  "USER_PrmtPrmtNum": "PrmtPrmtNum",
+  "USER_SiteName": "SiteName",
+  "USER_SiteAddr": "SiteAddr",
+  "USER_Program": "Program",
+  "USER_Category": "Category",
+  "SiteLatitude": "SiteLatitude",
+  "SiteLongitude": "SiteLongitude",
+  "USER_Phone_": "USER_Phone_",
+  "IsActive": "IsActive"
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "USER_PrmtPrmtNum",
+   "type": "esriFieldTypeString",
+   "alias": "PrmtPrmtNum",
+   "length": 1073741822
+  },
+  {
+   "name": "USER_SiteName",
+   "type": "esriFieldTypeString",
+   "alias": "SiteName",
+   "length": 1073741822
+  },
+  {
+   "name": "USER_SiteAddr",
+   "type": "esriFieldTypeString",
+   "alias": "SiteAddr",
+   "length": 1073741822
+  },
+  {
+   "name": "USER_Program",
+   "type": "esriFieldTypeString",
+   "alias": "Program",
+   "length": 1073741822
+  },
+  {
+   "name": "USER_Category",
+   "type": "esriFieldTypeString",
+   "alias": "Category",
+   "length": 1073741822
+  },
+  {
+   "name": "SiteLatitude",
+   "type": "esriFieldTypeDouble",
+   "alias": "SiteLatitude"
+  },
+  {
+   "name": "SiteLongitude",
+   "type": "esriFieldTypeDouble",
+   "alias": "SiteLongitude"
+  },
+  {
+   "name": "USER_Phone_",
+   "type": "esriFieldTypeString",
+   "alias": "USER_Phone_",
+   "length": 15
+  },
+  {
+   "name": "IsActive",
+   "type": "esriFieldTypeSmallInteger",
+   "alias": "IsActive"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 376,
+    "USER_PrmtPrmtNum": "02101001",
+    "USER_SiteName": "NORMANDEAU ASSOCIATES INC",
+    "USER_SiteAddr": "1019 CHEROKEE AVE NW, AIKEN, SC, 29801",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Demand, Inorganic - Miscellaneous, Taxonomy",
+    "SiteLatitude": 33.56970515,
+    "SiteLongitude": -81.73848924,
+    "USER_Phone_": "8036446262",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 377,
+    "USER_PrmtPrmtNum": "04584001",
+    "USER_SiteName": "International Product Assurance Laboratories",
+    "USER_SiteAddr": "100 Clemson Research Boulevard, Anderson, SC, 29625",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Trace Metal",
+    "SiteLatitude": 34.58547778,
+    "SiteLongitude": -82.8069374,
+    "USER_Phone_": "8646468453",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 378,
+    "USER_PrmtPrmtNum": "07568001",
+    "USER_SiteName": "UNIVERSITY OF SOUTH CAROLINA BEAUFORT WATER QUALITY LAB",
+    "USER_SiteAddr": "1 UNIVERSITY BLVD, BLUFFTON, SC, 29909-6085",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Residue, Microbiology",
+    "SiteLatitude": 32.30397927,
+    "SiteLongitude": -80.9731354,
+    "USER_Phone_": "8432088000",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 379,
+    "USER_PrmtPrmtNum": "07569001",
+    "USER_SiteName": "YODER ENVIRONMENTAL SERVICES LLC",
+    "USER_SiteAddr": "3 Pennyroyal Way, Beaufort, SC, 29906",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous",
+    "SiteLatitude": 32.41283257,
+    "SiteLongitude": -80.75614645,
+    "USER_Phone_": "8438127855",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 380,
+    "USER_PrmtPrmtNum": "10016001",
+    "USER_SiteName": "EARTH SCIENCES INC",
+    "USER_SiteAddr": "1865 AVENUE B N BLDG 177, NORTH CHARLESTON, SC, 29405-1820",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Miscellaneous",
+    "SiteLatitude": 32.86146082,
+    "SiteLongitude": -79.96681299,
+    "USER_Phone_": "8435541792",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 381,
+    "USER_PrmtPrmtNum": "04108001",
+    "USER_SiteName": "GOLDIE ASSOCIATES",
+    "USER_SiteAddr": "210 W NORTH 2ND ST, SENECA, SC, 29678-3235",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, Microbiology, Taxonomy",
+    "SiteLatitude": 34.68669878,
+    "SiteLongitude": -82.95799966,
+    "USER_Phone_": "8648828194",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 382,
+    "USER_PrmtPrmtNum": "08565001",
+    "USER_SiteName": "AQUATIC ANALYTICS LLC",
+    "USER_SiteAddr": "1180 DROP OFF DR STE 101, SUMMERVILLE, SC, 29483-7233",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Microbiology",
+    "SiteLatitude": 33.06693802,
+    "SiteLongitude": -80.18352215,
+    "USER_Phone_": "8434711933",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 383,
+    "USER_PrmtPrmtNum": "10122001",
+    "USER_SiteName": "TRIDENT LABS SERVICES INC",
+    "USER_SiteAddr": "9104 CANVAS LN, LADSON, SC, 29456",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Disinfection By-Products, Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, Microbiology",
+    "SiteLatitude": 33.00579803,
+    "SiteLongitude": -80.1088865,
+    "USER_Phone_": "8438714999",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 384,
+    "USER_PrmtPrmtNum": "10120001",
+    "USER_SiteName": "GEL LABORATORIES LLC",
+    "USER_SiteAddr": "2040 SAVAGE RD, CHARLESTON, SC, 29407-4731",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Disinfection By-Products, HERBICIDES, Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Radiological, Inorganic - Residue, Inorganic - Trace Metal, PCBS AND PESTICIDES, Per - and Polyfluoroalkyl Substances (PFAS), SEMI-VOLATILES, Synthetic Organic Chemicals (SOCs), Volatiles (VOCs)",
+    "SiteLatitude": 32.80596881,
+    "SiteLongitude": -80.03130285,
+    "USER_Phone_": "8435568171",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 385,
+    "USER_PrmtPrmtNum": "10120002",
+    "USER_SiteName": "GEL LABORATORIES LLC",
+    "USER_SiteAddr": "2040 SAVAGE RD, CHARLESTON, SC, 29407-4731",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Radiological",
+    "SiteLatitude": 32.80596881,
+    "SiteLongitude": -80.03130285,
+    "USER_Phone_": "8435568171",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 386,
+    "USER_PrmtPrmtNum": "10585001",
+    "USER_SiteName": "GEL ENGINEERING LLC",
+    "USER_SiteAddr": "2040 SAVAGE RD, CHARLESTON, SC, 29407-4731",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Trace Metal",
+    "SiteLatitude": 32.80596881,
+    "SiteLongitude": -80.03130285,
+    "USER_Phone_": "8437697378",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 387,
+    "USER_PrmtPrmtNum": "10590001",
+    "USER_SiteName": "JOHNSON MIRMIRAN AND THOMPSON INC",
+    "USER_SiteAddr": "3973 SOUTHEASTERN WAY, WEST COLUMBIA, SC, 29169",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Taxonomy",
+    "SiteLatitude": 34.00748165,
+    "SiteLongitude": -81.14360236,
+    "USER_Phone_": "8032189276",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 388,
+    "USER_PrmtPrmtNum": "10592001",
+    "USER_SiteName": "COLLEGE OF CHARLESTON",
+    "USER_SiteAddr": "58 COMING ST RM 341, CHARLESTON, SC, 29401-1402",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Miscellaneous, Microbiology",
+    "SiteLatitude": 32.78300784,
+    "SiteLongitude": -79.93838241,
+    "USER_Phone_": "8436089628",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 389,
+    "USER_PrmtPrmtNum": "13565001",
+    "USER_SiteName": "BLACK CREEK LAB",
+    "USER_SiteAddr": "871 MCNAIR CEMETERY RD, RUBY, SC, 29741",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Mineral, Inorganic - Miscellaneous, Microbiology",
+    "SiteLatitude": 34.67521779,
+    "SiteLongitude": -80.21687727,
+    "USER_Phone_": "8436347010",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 390,
+    "USER_PrmtPrmtNum": "10594001",
+    "USER_SiteName": "WESTON & SAMPSON SERVICES INC",
+    "USER_SiteAddr": "3955 FABER PL DR STE 300, NORTH CHARLESTON, SC, 29405",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous",
+    "SiteLatitude": 32.84630588,
+    "SiteLongitude": -80.01905764,
+    "USER_Phone_": "8436936016",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 391,
+    "USER_PrmtPrmtNum": "10593001",
+    "USER_SiteName": "PASSARELLA & ASSOCIATES",
+    "USER_SiteAddr": "363 WANDO PL DR STE 200, MOUNT PLEASANT, SC, 29464",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Taxonomy",
+    "SiteLatitude": 32.84267798,
+    "SiteLongitude": -79.8726465,
+    "USER_Phone_": "8439718520",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 392,
+    "USER_PrmtPrmtNum": "21908001",
+    "USER_SiteName": "FMU Freshwater Ecology Center",
+    "USER_SiteAddr": "3742 North Williston Rd., Florence, SC, 29502",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Miscellaneous, Microbiology",
+    "SiteLatitude": 34.28414346,
+    "SiteLongitude": -79.69799194,
+    "USER_Phone_": "8436614470",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 393,
+    "USER_PrmtPrmtNum": "21117001",
+    "USER_SiteName": "DAVIS & BROWN INC",
+    "USER_SiteAddr": "124 W MCIVER RD, FLORENCE, SC, 29501-1515",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, Microbiology",
+    "SiteLatitude": 34.23747068,
+    "SiteLongitude": -79.75206763,
+    "USER_Phone_": "8436656746",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 394,
+    "USER_PrmtPrmtNum": "16659001",
+    "USER_SiteName": "US WATER SERVICES CORPORATION-HARTSVILLE",
+    "USER_SiteAddr": "953 N ROLLING RD, HARTSVILLE, SC, 29550-7765",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous",
+    "SiteLatitude": 34.40543651,
+    "SiteLongitude": -80.01298613,
+    "USER_Phone_": "8433322973",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 395,
+    "USER_PrmtPrmtNum": "23104001",
+    "USER_SiteName": "ETT ENVIRONMENTAL INC",
+    "USER_SiteAddr": "4 CRAFTSMAN CT, GREER, SC, 29650",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Biological Examinations, Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, Taxonomy, TOXICITY TESTING, AMERICAMYSIS BAHIA, TOXICITY TESTING, CERIODAPHNIA DUBIA, TOXICITY TESTING, DAPHNIA AMBIGUA, TOXICITY TESTING, MENIDIA BERYLLINA, TOXICITY TESTING, PIMEPHALES PROMELAS",
+    "SiteLatitude": 34.89460128,
+    "SiteLongitude": -82.23567633,
+    "USER_Phone_": "8648776942",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 396,
+    "USER_PrmtPrmtNum": "23613001",
+    "USER_SiteName": "MUELLER ENVIRONMENTAL",
+    "USER_SiteAddr": "214 WHITE DR, MAULDIN, SC, 29662",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Mineral, Inorganic - Miscellaneous",
+    "SiteLatitude": 34.78136386,
+    "SiteLongitude": -82.31770499,
+    "USER_Phone_": "8642755138",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 397,
+    "USER_PrmtPrmtNum": "23031001",
+    "USER_SiteName": "PACE ANALYTICAL SERVICES LLC GREENVILLE",
+    "USER_SiteAddr": "120 HALTON RD STE 13, GREENVILLE, SC, 29607-3508",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, TOXICITY TESTING, CERIODAPHNIA DUBIA, TOXICITY TESTING, PIMEPHALES PROMELAS",
+    "SiteLatitude": 34.84444075,
+    "SiteLongitude": -82.32801112,
+    "USER_Phone_": "8642970606",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 398,
+    "USER_PrmtPrmtNum": "23105001",
+    "USER_SiteName": "ALLIANCE TECHNICAL GROUP LLC - GREENVILLE",
+    "USER_SiteAddr": "426 FAIRFOREST WAY, GREENVILLE, SC, 29607",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Disinfection By-Products, HERBICIDES, Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, Microbiology, PCBS AND PESTICIDES, SEMI-VOLATILES, Synthetic Organic Chemicals (SOCs), Trihalomethanes, Volatiles (VOCs)",
+    "SiteLatitude": 34.79150458,
+    "SiteLongitude": -82.34753442,
+    "USER_Phone_": "8642321556",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 399,
+    "USER_PrmtPrmtNum": "26001002",
+    "USER_SiteName": "COASTAL CAROLINA UNIVERSITY",
+    "USER_SiteAddr": "301 ALLIED DR, CONWAY, SC, 29526",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Biological Examinations, Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Microbiology",
+    "SiteLatitude": 33.79824839,
+    "SiteLongitude": -78.9962689,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 400,
+    "USER_PrmtPrmtNum": "26101001",
+    "USER_SiteName": "ENVIRONMENTAL SYSTEMS TESTING SERVICES LLC",
+    "USER_SiteAddr": "600 HWY 544, CONWAY, SC, 29526",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Residue, Microbiology",
+    "SiteLatitude": 33.80142261,
+    "SiteLongitude": -79.01866593,
+    "USER_Phone_": "8433477688",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 401,
+    "USER_PrmtPrmtNum": "24001001",
+    "USER_SiteName": "L&L ENVIRONMENTAL WARE SHOALS",
+    "USER_SiteAddr": "97 S GREENWOOD AVE, WARE SHOALS, SC, 29692",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Microbiology",
+    "SiteLatitude": 34.3882552,
+    "SiteLongitude": -82.23788253,
+    "USER_Phone_": "8644562696",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 402,
+    "USER_PrmtPrmtNum": "24562001",
+    "USER_SiteName": "PACE ANALYTICAL SERVICES LLC GREENWOOD",
+    "USER_SiteAddr": "405 SULLIVAN ST, GREENWOOD, SC, 29649-2908",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous",
+    "SiteLatitude": 34.20734599,
+    "SiteLongitude": -82.1473563,
+    "USER_Phone_": "7045721652",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 403,
+    "USER_PrmtPrmtNum": "32010001",
+    "USER_SiteName": "PACE ANALYTICAL SERVICES LLC",
+    "USER_SiteAddr": "106 VANTAGE POINT DR, WEST COLUMBIA, SC, 29172",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Residue, Inorganic - Trace Metal, Microbiology",
+    "SiteLatitude": 33.93510064,
+    "SiteLongitude": -81.06253284,
+    "USER_Phone_": "7049770963",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 404,
+    "USER_PrmtPrmtNum": "29101001",
+    "USER_SiteName": "JG ENVIRONMENTAL INC",
+    "USER_SiteAddr": "7776 FLAT ROCK RD, KERSHAW, SC, 29067",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Microbiology",
+    "SiteLatitude": 34.5023788,
+    "SiteLongitude": -80.63528125,
+    "USER_Phone_": "8034756570",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 405,
+    "USER_PrmtPrmtNum": "27553001",
+    "USER_SiteName": "GENERAL ENVIRONMENTAL LABORATORIES INC",
+    "USER_SiteAddr": "121 MEAD RD STE E, HARDEEVILLE, SC, 29927-4425",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Microbiology",
+    "SiteLatitude": 32.31231771,
+    "SiteLongitude": -80.96796504,
+    "USER_Phone_": "8439871438",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 406,
+    "USER_PrmtPrmtNum": "32571001",
+    "USER_SiteName": "EUROFINS COLUMBIA",
+    "USER_SiteAddr": "15 THAMES VALLEY RD, IRMO, SC, 29063",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Microbiology",
+    "SiteLatitude": 34.08949266,
+    "SiteLongitude": -81.18554347,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 407,
+    "USER_PrmtPrmtNum": "32572001",
+    "USER_SiteName": "CARNAGEY BIOLOGICAL SERVICES LLC",
+    "USER_SiteAddr": "636 WESTWOOD DR, LEXINGTON, SC, 29073",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Taxonomy",
+    "SiteLatitude": 33.94043459,
+    "SiteLongitude": -81.2142732,
+    "USER_Phone_": "8034137156",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 408,
+    "USER_PrmtPrmtNum": "32576001",
+    "USER_SiteName": "WATER SYSTEMS INC",
+    "USER_SiteAddr": "3911 EDMUND HWY, WEST COLUMBIA, SC, 29170",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Biological Examinations, Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Residue, Microbiology, Taxonomy, TOXICITY TESTING, AMERICAMYSIS BAHIA, TOXICITY TESTING, CERIODAPHNIA DUBIA, TOXICITY TESTING, MENIDIA BERYLLINA, TOXICITY TESTING, PIMEPHALES PROMELAS",
+    "SiteLatitude": 33.92661874,
+    "SiteLongitude": -81.12139065,
+    "USER_Phone_": "8032188439",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 409,
+    "USER_PrmtPrmtNum": "39569001",
+    "USER_SiteName": "MICROSCOPY LABORATORY",
+    "USER_SiteAddr": "509 Westinghouse Rd, Pendleton, SC, 29670",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Taxonomy",
+    "SiteLatitude": 34.63733289,
+    "SiteLongitude": -82.77393525,
+    "USER_Phone_": "8643241328",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 410,
+    "USER_PrmtPrmtNum": "32579001",
+    "USER_SiteName": "UTILITY LABORATORY SERVICES LLC",
+    "USER_SiteAddr": "127 RIDGE POINTE DR, GASTON, SC, 29053-8101",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Trace Metal",
+    "SiteLatitude": 33.85238568,
+    "SiteLongitude": -81.14248195,
+    "USER_Phone_": "8036084948",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 411,
+    "USER_PrmtPrmtNum": "40572001",
+    "USER_SiteName": "ALLIANCE TECHNICAL GROUP LLC - COLUMBIA",
+    "USER_SiteAddr": "215B STONERIDGE DR, COLUMBIA, SC, 29210-8009",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, Microbiology",
+    "SiteLatitude": 34.01533775,
+    "SiteLongitude": -81.07754324,
+    "USER_Phone_": "8642321556",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 412,
+    "USER_PrmtPrmtNum": "39570001",
+    "USER_SiteName": "ENVIRONMENTAL CONTRACT OPERATIONS INC",
+    "USER_SiteAddr": "619 ROLLING HILLS CIR, EASLEY, SC, 29640",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous",
+    "SiteLatitude": 34.83242114,
+    "SiteLongitude": -82.54520912,
+    "USER_Phone_": "8644423292",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 413,
+    "USER_PrmtPrmtNum": "57001002",
+    "USER_SiteName": "KATAHDIN ANALYTICAL",
+    "USER_SiteAddr": "600 TECHNOLOGY WAY, SCARBOROUGH, ME, 04074",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Trace Metal, PCBS AND PESTICIDES, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 43.59200051,
+    "SiteLongitude": -70.35407042,
+    "USER_Phone_": "6094238200",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 414,
+    "USER_PrmtPrmtNum": "61002001",
+    "USER_SiteName": "ALS ENVIRONMENTAL KELSO",
+    "USER_SiteAddr": "1317 S 13TH AVE, KELSO, WA, 98626",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, SEMI-VOLATILES",
+    "SiteLatitude": 46.13241446,
+    "SiteLongitude": -122.90350285,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 415,
+    "USER_PrmtPrmtNum": "40569001",
+    "USER_SiteName": "DATA RESOURCES INCORPORATED",
+    "USER_SiteAddr": "1410 SAINT ANDREWS RD STE 200, COLUMBIA, SC, 29210-5931",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Residue, Microbiology",
+    "SiteLatitude": 34.05056199,
+    "SiteLongitude": -81.10234847,
+    "USER_Phone_": "8035610331",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 416,
+    "USER_PrmtPrmtNum": "72002001",
+    "USER_SiteName": "EUROFINS DENVER",
+    "USER_SiteAddr": "4955 YARROW ST, ARVADA, CO, 80002",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, PCBS AND PESTICIDES, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 39.78656412,
+    "SiteLongitude": -105.08462193,
+    "USER_Phone_": "3033287908",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 417,
+    "USER_PrmtPrmtNum": "73004001",
+    "USER_SiteName": "SGS NORTH AMERICA INC SCOTT",
+    "USER_SiteAddr": "500 AMBASSADOR CAFFERY PKWY, SCOTT, LA, 70583",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 30.23914956,
+    "SiteLongitude": -92.06590113,
+    "USER_Phone_": "3372374775",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 418,
+    "USER_PrmtPrmtNum": "62002001",
+    "USER_SiteName": "ANALYTICAL SERVICES INC",
+    "USER_SiteAddr": "130 ALLEN BROOK LN, WILLISTON, VT, 05495",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Microbiology",
+    "SiteLatitude": 44.45195754,
+    "SiteLongitude": -73.10307658,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 419,
+    "USER_PrmtPrmtNum": "72011001",
+    "USER_SiteName": "ACZ LABORATORIES INC",
+    "USER_SiteAddr": "2773 DOWNHILL DR, STEAMBOAT SPRINGS, CO, 80487-5051",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral",
+    "SiteLatitude": 40.50845968,
+    "SiteLongitude": -106.85814228,
+    "USER_Phone_": "9708796590",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 420,
+    "USER_PrmtPrmtNum": "77001003",
+    "USER_SiteName": "EUROFINS CHICAGO",
+    "USER_SiteAddr": "18410 CROSSING DR STE E, TINLEY PARK, IL, 60487",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "HERBICIDES, Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, PCBS AND PESTICIDES, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 41.55393685,
+    "SiteLongitude": -87.82835756,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 421,
+    "USER_PrmtPrmtNum": "84002001",
+    "USER_SiteName": "Eurofins Memphis",
+    "USER_SiteAddr": "2790 WHITTEN RD, MEMPHIS, TN, 38133",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "HERBICIDES, Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 35.20179187,
+    "SiteLongitude": -89.83664178,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 422,
+    "USER_PrmtPrmtNum": "84010001",
+    "USER_SiteName": "PENNINGTON & ASSOCIATES INC",
+    "USER_SiteAddr": "161 MCGEE LN, COOKEVILLE, TN, 38501-9577",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Taxonomy",
+    "SiteLatitude": 36.28333407,
+    "SiteLongitude": -85.52399719,
+    "USER_Phone_": "9312686035",
+    "IsActive": 0
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 423,
+    "USER_PrmtPrmtNum": "84013001",
+    "USER_SiteName": "EBERLINE ANALYTICAL CORPORATION",
+    "USER_SiteAddr": "601 SCARBORO RD, OAK RIDGE, TN, 37830",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Radiological",
+    "SiteLatitude": 35.99623213,
+    "SiteLongitude": -84.23755015,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 424,
+    "USER_PrmtPrmtNum": "89014002",
+    "USER_SiteName": "EUROFINS PITTSBURGH",
+    "USER_SiteAddr": "301 ALPHA DR, PITTSBURGH, PA, 15238-2907",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, PCBS AND PESTICIDES, SEMI-VOLATILES",
+    "SiteLatitude": 40.49382848,
+    "SiteLongitude": -79.86815372,
+    "USER_Phone_": "7248822240",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 425,
+    "USER_PrmtPrmtNum": "85002001",
+    "USER_SiteName": "EUROFINS ST LOUIS",
+    "USER_SiteAddr": "13715 RIDER TRL N, EARTH CITY, MO, 63045",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Radiological, Inorganic - Trace Metal",
+    "SiteLatitude": 38.77615272,
+    "SiteLongitude": -90.46101016,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 426,
+    "USER_PrmtPrmtNum": "83006001",
+    "USER_SiteName": "PACE ANALYTICAL SERVICES LLC GREEN BAY",
+    "USER_SiteAddr": "1241 BELLEVUE ST STE 9, GREEN BAY, WI, 54302",
+    "USER_Program": "Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand",
+    "SiteLatitude": 44.487149,
+    "SiteLongitude": -87.99502843,
+    "USER_Phone_": "9203219438",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 427,
+    "USER_PrmtPrmtNum": "92020001",
+    "USER_SiteName": "ENVIROSCIENCE INC AQUATIC BIOLOGY LAB",
+    "USER_SiteAddr": "5070 STOW RD, STOW, OH, 44224",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Taxonomy",
+    "SiteLatitude": 41.19697335,
+    "SiteLongitude": -81.41731734,
+    "USER_Phone_": "8009404025",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 428,
+    "USER_PrmtPrmtNum": "92016001",
+    "USER_SiteName": "ALLIANCE TECHNICAL GROUP LLC - AKRON",
+    "USER_SiteAddr": "3310 WIN ST, CUYAHOGA FALLS, OH, 44223-3790",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "DIOXINS AND FURANS, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Miscellaneous, Inorganic - Trace Metal, Per - and Polyfluoroalkyl Substances (PFAS), Volatiles (VOCs)",
+    "SiteLatitude": 41.16193791,
+    "SiteLongitude": -81.51359574,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 429,
+    "USER_PrmtPrmtNum": "93012001",
+    "USER_SiteName": "ENVIRONMENTAL HAZARDS SERVICES LLC",
+    "USER_SiteAddr": "7469 WHITEPINE RD, RICHMOND, VA, 23237",
+    "USER_Program": "Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Trace Metal",
+    "SiteLatitude": 37.39700854,
+    "SiteLongitude": -77.52034106,
+    "USER_Phone_": "8042754788",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 430,
+    "USER_PrmtPrmtNum": "93013001",
+    "USER_SiteName": "CORNWELL ENGINEERING GROUP LABORATORY",
+    "USER_SiteAddr": "712 GUM ROCK CT, NEWPORT NEWS, VA, 23606-2524",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Disinfection By-Products, Inorganic - Demand, Synthetic Organic Chemicals (SOCs), Trihalomethanes",
+    "SiteLatitude": 37.08797674,
+    "SiteLongitude": -76.47818501,
+    "USER_Phone_": "7578731534",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 431,
+    "USER_PrmtPrmtNum": "93016001",
+    "USER_SiteName": "ONTERRIS LABORATORIES, LLC",
+    "USER_SiteAddr": "1941 REYMET RD, RICHMOND, VA, 23237",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 37.39138345,
+    "SiteLongitude": -77.41671802,
+    "USER_Phone_": "8043588295",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 432,
+    "USER_PrmtPrmtNum": "94009001",
+    "USER_SiteName": "SGS NORTH AMERICA INC DAYTON",
+    "USER_SiteAddr": "2235 RT 130 BLDG B, DAYTON, NJ, 08810",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Residue, Inorganic - Trace Metal, PCBS AND PESTICIDES, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 40.38172769,
+    "SiteLongitude": -74.50234563,
+    "USER_Phone_": "7323290200",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 433,
+    "USER_PrmtPrmtNum": "94017001",
+    "USER_SiteName": "EMSL ANALYTICAL INC",
+    "USER_SiteAddr": "200 RTE 130 N, CINNAMINSON, NJ, 08077",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Miscellaneous, Inorganic - Radiological, Inorganic - Trace Metal, Microbiology",
+    "SiteLatitude": 39.98685804,
+    "SiteLongitude": -75.01182419,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 434,
+    "USER_PrmtPrmtNum": "96026002",
+    "USER_SiteName": "EUROFINS ENVIRONMENT TESTING SOUTHEAST LLC",
+    "USER_SiteAddr": "3355 MCLEMORE DR, PENSACOLA, FL, 32514",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 30.52018044,
+    "SiteLongitude": -87.19394648,
+    "USER_Phone_": "8504741001",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 435,
+    "USER_PrmtPrmtNum": "96045001",
+    "USER_SiteName": "EUROFINS ORLANDO",
+    "USER_SiteAddr": "481 NEWBURYPORT AVE, ALTAMONTE SPRINGS, FL, 32701",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Disinfection By-Products, Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, Synthetic Organic Chemicals (SOCs), Trihalomethanes, Volatiles (VOCs)",
+    "SiteLatitude": 28.6690748,
+    "SiteLongitude": -81.35980047,
+    "USER_Phone_": "4073395984",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 436,
+    "USER_PrmtPrmtNum": "96038001",
+    "USER_SiteName": "SGS NORTH AMERICA INC ORLANDO",
+    "USER_SiteAddr": "4405 VINELAND RD STE C15, ORLANDO, FL, 32811",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, PCBS AND PESTICIDES, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 28.4994198,
+    "SiteLongitude": -81.43204041,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 437,
+    "USER_PrmtPrmtNum": "96042001",
+    "USER_SiteName": "PACE ANALYTICAL SERVICES LLC FLORIDA",
+    "USER_SiteAddr": "8 E TOWER CIR, ORMOND BEACH, FL, 32174-8759",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Trace Metal, Volatiles (VOCs)",
+    "SiteLatitude": 29.29565915,
+    "SiteLongitude": -81.11876368,
+    "USER_Phone_": "3866725668",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 438,
+    "USER_PrmtPrmtNum": "95005001",
+    "USER_SiteName": "EUROFINS SOUTH BEND",
+    "USER_SiteAddr": "110 S HILL ST, SOUTH BEND, IN, 46617-2702",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Disinfection By-Products, Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Radiological, Inorganic - Residue, Inorganic - Trace Metal, Microbiology, Per - and Polyfluoroalkyl Substances (PFAS), Synthetic Organic Chemicals (SOCs), Trihalomethanes, Volatiles (VOCs)",
+    "SiteLatitude": 41.67606759,
+    "SiteLongitude": -86.24282862,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 439,
+    "USER_PrmtPrmtNum": "98016003",
+    "USER_SiteName": "EUROFINS ATLANTA",
+    "USER_SiteAddr": "3785 PRESIDENTIAL PKWY, ATLANTA, GA, 30340",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "HERBICIDES, Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, PCBS AND PESTICIDES, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 33.88720645,
+    "SiteLongitude": -84.26530691,
+    "USER_Phone_": "7705146933",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 440,
+    "USER_PrmtPrmtNum": "98001001",
+    "USER_SiteName": "EUROFINS SAVANNAH",
+    "USER_SiteAddr": "7001 CHATHAM CENTER DRIVE, SAVANNAH, GA, 31405",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Disinfection By-Products, Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal",
+    "SiteLatitude": 32.07280013,
+    "SiteLongitude": -81.1476053,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 441,
+    "USER_PrmtPrmtNum": "99006001",
+    "USER_SiteName": "PACE ANALYTICAL SERVICES LLC HUNTERSVILLE",
+    "USER_SiteAddr": "9800 KINCEY AVE STE 100, HUNTERSVILLE, NC, 28078",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous",
+    "SiteLatitude": 35.40441432,
+    "SiteLongitude": -80.86284364,
+    "USER_Phone_": "9106820080",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 442,
+    "USER_PrmtPrmtNum": "99006003",
+    "USER_SiteName": "PACE ANALYTICAL SERVICES LLC HUNTERSVILLE",
+    "USER_SiteAddr": "9800 KINCEY AVE STE 100, HUNTERSVILLE, NC, 28078",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Synthetic Organic Chemicals (SOCs), Trihalomethanes, Volatiles (VOCs)",
+    "SiteLatitude": 35.40441432,
+    "SiteLongitude": -80.86284364,
+    "USER_Phone_": "9106820080",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 443,
+    "USER_PrmtPrmtNum": "99012001",
+    "USER_SiteName": "EUROFINS CHARLOTTE",
+    "USER_SiteAddr": "449 SPRINGBROOK RD, CHARLOTTE, NC, 28217",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Microbiology, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 35.17368727,
+    "SiteLongitude": -80.88232997,
+    "USER_Phone_": "7045296364",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 444,
+    "USER_PrmtPrmtNum": "99012002",
+    "USER_SiteName": "EUROFINS CHARLOTTE",
+    "USER_SiteAddr": "449 SPRINGBROOK RD, CHARLOTTE, NC, 28217",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Miscellaneous, Microbiology, Synthetic Organic Chemicals (SOCs)",
+    "SiteLatitude": 35.17368727,
+    "SiteLongitude": -80.88232997,
+    "USER_Phone_": "7045296364",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 445,
+    "USER_PrmtPrmtNum": "99029002",
+    "USER_SiteName": "SGS NORTH AMERICA INC",
+    "USER_SiteAddr": "5500 BUSINESS DR, WILMINGTON, NC, 28405",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "DIOXINS AND FURANS",
+    "SiteLatitude": 34.28411555,
+    "SiteLongitude": -77.87318918,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 446,
+    "USER_PrmtPrmtNum": "99051001",
+    "USER_SiteName": "K&W LABORATORIES LLC",
+    "USER_SiteAddr": "1121 HWY 24/27W, MIDLAND, NC, 28107",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Trace Metal, Microbiology",
+    "SiteLatitude": 35.24082602,
+    "SiteLongitude": -80.59305113,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 447,
+    "USER_PrmtPrmtNum": "99051002",
+    "USER_SiteName": "K&W LABORATORIES LLC",
+    "USER_SiteAddr": "1121 HWY 24/27W, MIDLAND, NC, 28107",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Microbiology",
+    "SiteLatitude": 35.24082602,
+    "SiteLongitude": -80.59305113,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 448,
+    "USER_PrmtPrmtNum": "99053001",
+    "USER_SiteName": "ENVIRONMENTAL TESTING SOLUTIONS INCORPORATED",
+    "USER_SiteAddr": "351 DEPOT ST, ASHEVILLE, NC, 28801",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, TOXICITY TESTING, AMERICAMYSIS BAHIA, TOXICITY TESTING, CERIODAPHNIA DUBIA, TOXICITY TESTING, MENIDIA BERYLLINA, TOXICITY TESTING, MYSIDOPSIS BAHIA, TOXICITY TESTING, PIMEPHALES PROMELAS",
+    "SiteLatitude": 35.58153722,
+    "SiteLongitude": -82.56447325,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 449,
+    "USER_PrmtPrmtNum": "99056001",
+    "USER_SiteName": "ENVIRONMENTAL CHEMISTS INC",
+    "USER_SiteAddr": "6602 WINDMILL WAY, WILMINGTON, NC, 28405-3745",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Miscellaneous, Microbiology",
+    "SiteLatitude": 34.25981913,
+    "SiteLongitude": -77.84210766,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 450,
+    "USER_PrmtPrmtNum": "99065001",
+    "USER_SiteName": "EUROFINS BUILT ENVIRONMENT TESTING - CARY",
+    "USER_SiteAddr": "730 SE MAYNARD RD, CARY, NC, 27511",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Miscellaneous",
+    "SiteLatitude": 35.76929902,
+    "SiteLongitude": -78.76404501,
+    "USER_Phone_": "9198009366",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 451,
+    "USER_PrmtPrmtNum": "99067001",
+    "USER_SiteName": "EMSL ANALYTICAL INC - CHARLOTTE",
+    "USER_SiteAddr": "10801 SOUTHERN LOOP BLVD, PINEVILLE, NC, 28134",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Mineral, Inorganic - Nutrient, Inorganic - Trace Metal, Microbiology",
+    "SiteLatitude": 35.11328585,
+    "SiteLongitude": -80.9070824,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 452,
+    "USER_PrmtPrmtNum": "99063001",
+    "USER_SiteName": "CAPE FEAR ANALYTICAL LLC",
+    "USER_SiteAddr": "3306 KITTY HAWK RD STE 120, WILMINGTON, NC, 28405-8784",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "DIOXINS AND FURANS, Synthetic Organic Chemicals (SOCs)",
+    "SiteLatitude": 34.29369862,
+    "SiteLongitude": -77.8989533,
+    "USER_Phone_": "9107950421",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 453,
+    "USER_PrmtPrmtNum": "82016001",
+    "USER_SiteName": "NOVA BIOLOGICALS INC",
+    "USER_SiteAddr": "1775 E LOOP 336 STE 4, CONROE, TX, 77301",
+    "USER_Program": "Safe Drinking Water",
+    "USER_Category": "Inorganic - Miscellaneous, Microbiology",
+    "SiteLatitude": 30.33764748,
+    "SiteLongitude": -95.42077196,
+    "USER_Phone_": "9367565333",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 853,
+    "USER_PrmtPrmtNum": "82013001",
+    "USER_SiteName": "SOUTHWEST RESEARCH INSTITUTE",
+    "USER_SiteAddr": "6220 CULEBRA RD, SAN ANTONIO, TX, 78238-5166",
+    "USER_Program": "Solid and Hazardous Waste",
+    "USER_Category": "INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Trace Metal",
+    "SiteLatitude": 29.44262358,
+    "SiteLongitude": -98.61338297,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1253,
+    "USER_PrmtPrmtNum": "22557001",
+    "USER_SiteName": "CLEMSON UNIVERSITY BARUCH INST COASTAL ECOLOGY",
+    "USER_SiteAddr": "177 HOBCAW RD, GEORGETOWN, SC, 29440-9500",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Inorganic - Miscellaneous, Microbiology",
+    "SiteLatitude": 33.36195398,
+    "SiteLongitude": -79.22656597,
+    "USER_Phone_": "8435461013",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1254,
+    "USER_PrmtPrmtNum": "33555001",
+    "USER_SiteName": "South East Utilities Services, LLC",
+    "USER_SiteAddr": "7133 SC-908, Gresham, SC, 29546",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Mineral, Inorganic - Miscellaneous, Microbiology",
+    "SiteLatitude": 33.91277262,
+    "SiteLongitude": -79.34014926,
+    "USER_Phone_": "8438740482",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1255,
+    "USER_PrmtPrmtNum": "63002001",
+    "USER_SiteName": "ARRANTS OUTDOORS LLC",
+    "USER_SiteAddr": "PO BOX 612, WHITEFISH, MT, 599370612",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Taxonomy",
+    "SiteLatitude": 48.41262698,
+    "SiteLongitude": -114.36838897,
+    "USER_Phone_": "8037297524",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1256,
+    "USER_PrmtPrmtNum": "74003001",
+    "USER_SiteName": "PACE ANALYTICAL SERVICES LLC MINNESOTA",
+    "USER_SiteAddr": "1700 ELM ST STE 200, MINNEAPOLIS, MN, 55414",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "DIOXINS AND FURANS, Synthetic Organic Chemicals (SOCs)",
+    "SiteLatitude": 44.98413312,
+    "SiteLongitude": -93.22759385,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1257,
+    "USER_PrmtPrmtNum": "82015001",
+    "USER_SiteName": "PRECISION PETROLEUM LABS INC",
+    "USER_SiteAddr": "5915 STAR LN, HOUSTON, TX, 77057",
+    "USER_Program": "Solid and Hazardous Waste",
+    "USER_Category": "INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Miscellaneous, Inorganic - Trace Metal",
+    "SiteLatitude": 29.72747326,
+    "SiteLongitude": -95.48276284,
+    "USER_Phone_": "7136809425",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1258,
+    "USER_PrmtPrmtNum": "80003001",
+    "USER_SiteName": "NORMANDEAU ASSOCIATES INC NH",
+    "USER_SiteAddr": "25 NASUHA RD, BEDFORD, NH, 03110",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Taxonomy",
+    "SiteLatitude": 42.93906605,
+    "SiteLongitude": -71.51659621,
+    "USER_Phone_": "6036371119",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1259,
+    "USER_PrmtPrmtNum": "89002002",
+    "USER_SiteName": "EUROFINS LANCASTER LABORATORIES ENVIRONMENT TESTING LLC",
+    "USER_SiteAddr": "2425 NEW HOLLAND PIKE, LANCASTER, PA, 17601-5994",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "DIOXINS AND FURANS, HERBICIDES, Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, PCBS AND PESTICIDES, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 40.0843811,
+    "SiteLongitude": -76.22351999,
+    "USER_Phone_": "7176562300",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1260,
+    "USER_PrmtPrmtNum": "32583001",
+    "USER_SiteName": "EA SERVICES LLC",
+    "USER_SiteAddr": "6365 St. Andrew\u2019s Road, LEXINGTON, SC, 292123125",
+    "USER_Program": "Clean Water Act, Safe Drinking Water",
+    "USER_Category": "Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous",
+    "SiteLatitude": 34.06221279,
+    "SiteLongitude": -81.1652415,
+    "USER_Phone_": "8037969231",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1261,
+    "USER_PrmtPrmtNum": "89022001",
+    "USER_SiteName": "GEOCHEMICAL TESTING",
+    "USER_SiteAddr": "2005 N CENTER AVE, SOMERSET, PA, 15501",
+    "USER_Program": "Clean Water Act, Solid and Hazardous Waste",
+    "USER_Category": "HERBICIDES, Inorganic - Demand, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, PCBS AND PESTICIDES, SEMI-VOLATILES, Volatiles (VOCs)",
+    "SiteLatitude": 40.05075831,
+    "SiteLongitude": -79.07526448,
+    "USER_Phone_": "8144431671",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1262,
+    "USER_PrmtPrmtNum": "93003003",
+    "USER_SiteName": "SCHNEIDER LABORATORIES GLOBAL INC",
+    "USER_SiteAddr": "2512 W CARY ST, RICHMOND, VA, 23220-5117",
+    "USER_Program": "Solid and Hazardous Waste",
+    "USER_Category": "INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Trace Metal",
+    "SiteLatitude": 37.55064807,
+    "SiteLongitude": -77.47354397,
+    "USER_Phone_": null,
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1263,
+    "USER_PrmtPrmtNum": "96041001",
+    "USER_SiteName": "WSP USA",
+    "USER_SiteAddr": "3701 NW 98TH ST, GAINESVILLE, FL, 32606-5004",
+    "USER_Program": "Clean Water Act",
+    "USER_Category": "Taxonomy",
+    "SiteLatitude": 29.68680737,
+    "SiteLongitude": -82.4516131,
+    "USER_Phone_": "3525590490",
+    "IsActive": 1
+   }
+  },
+  {
+   "attributes": {
+    "OBJECTID": 1264,
+    "USER_PrmtPrmtNum": "99030001",
+    "USER_SiteName": "PACE ANALYTICAL SERVICES LLC ASHEVILLE",
+    "USER_SiteAddr": "2225 RIVERSIDE DR, ASHEVILLE, NC, 28804-9623",
+    "USER_Program": "Clean Water Act, Safe Drinking Water, Solid and Hazardous Waste",
+    "USER_Category": "Inorganic - Demand, INORGANIC - HAZARDOUS WASTE CHARACTERISTICS, Inorganic - Mineral, Inorganic - Miscellaneous, Inorganic - Nutrient, Inorganic - Residue, Inorganic - Trace Metal, Microbiology",
+    "SiteLatitude": 35.64589867,
+    "SiteLongitude": -82.59910107,
+    "USER_Phone_": "9106820080",
+    "IsActive": 1
+   }
+  }
+ ]
+}
