@@ -687,3 +687,12 @@ main p, main li, main dd { overflow-wrap: break-word; }
 /* Designer 2026-10-31: state directory links were 24px tall at 390; make each a 44px tap target */
 .state-list li { align-items: center; }
 .state-list li > span > a:first-child { display: inline-flex; align-items: center; min-height: 44px; }
+
+/* Designer iOS-664 fold pack 2026-11-10 */
+@media (max-width: 430px) {
+  h1.page { font-size: 1.35rem; line-height: 1.25; margin: 0 0 0.3rem; }
+  .lede { font-size: 1rem; margin-bottom: 0.7rem; }
+  .fold-cta { margin: 0.2rem 0 0.7rem; }
+  .cta-cards, .cards.two { margin-top: 0.3rem; }
+  .card { padding: 0.75rem 0.85rem; }
+}
