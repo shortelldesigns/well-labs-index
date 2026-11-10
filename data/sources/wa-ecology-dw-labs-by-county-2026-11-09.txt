@@ -1,0 +1,2003 @@
+          Environmental Laboratories Accredited for Drinking Water Analyses
+         Washington State Department of Ecology - Lab Accreditation Program
+
+                                            Sorted by County and City
+
+    The WA State Department of Health recommends testing private water supplies annually for
+    Coliform bacteria and every three years for Nitrate. Please refer to the WA State DOH Office
+                                       of Drinking Water's website
+              (http://www.doh.wa.gov/CommunityAndEnvironment/DrinkingWater.aspx)
+      for information on private water supplies and for detailed information on water sampling
+                  techniques. For general information on private wells,please refer to
+                        http://water.epa.gov/drink/info/well/upload/2003_06_03
+                                _privatewells_pdfs_household_wells.pdf.
+     Some of these labs may be accredited for analytes in addition to drinking water analyses.
+        Refer to the Lab Accreditation Program's internet site for the all of the labs' analyses.
+                      The address is https://fortress.wa.gov/ecy/laboratorysearch/
+                          For questions or additional information, contact the
+                                 Lab Accreditation Unit (360) 871-8840.
+
+
+       To search for laboratories that analyze for Lead and Copper - find your county of
+     interest, see the list of laboratories in that county, look at the information under the
+                                   lab's name to find the category
+                       "Metals" see that the list includes Lead and Copper.
+
+
+
+County:
+Anatek Labs, Inc - Wenatchee
+               3019 GS Center Road                          EPA Lab ID: WA01293
+               Wenatchee, WA 98801                          DOH #:
+               (509) 701-8362                               Scope Expires:05/06/2027
+
+General Chemistry
+               Chlorine (Residual), Free                          SM 4500-Cl G-2011
+               Chlorine (Residual), Total                         SM 4500-Cl G-2011
+               Dissolved Oxygen                                   SM 4500-O H-2016
+               pH                                                 SM 4500-H+ B-2011
+Microbiology
+               E.coli-count                                       SM 9223 B Colilert 18 Qtray
+               Fecal coliform-count                               SM 9221 E1 (EC)
+               Heterotrophic Bacteria                             SM 9215 E SimPlate®
+               Total coli/E.coli - detect                         SM 9223 B Colilert 18® (PA)
+               Total coliforms-count                              SM 9223 B Colilert 18® QTray®
+ County: Adams
+ AV Labs, Inc
+                64 North Broadway Ave        EPA Lab ID: WA01182
+                Othello, WA 99344            DOH #: 146
+                (509) 488-2468               Scope Expires:01/31/2027
+
+ Microbiology
+                E.coli-count                      SM 9223 B Colilert 18 Qtray
+                Total coli/E.coli - detect        SM 9223 B Colilert 18® (PA)
+                Total coliforms-count             SM 9223 B Colilert 18 Qtray
+
+
+ County: Benton
+ Benton-Franklin Health District Lab
+                7102 W Okanogan Place        EPA Lab ID: WA00014
+                Kennewick, WA 99336          DOH #: 062
+                (509) 460-4206 NC            Scope Expires:08/23/2027
+
+ General Chemistry
+                Chlorine (Residual), Total        SM 4500-Cl G-2011
+                Fluoride                          SM 4500-F¯ C-2011
+                Hardness, Total (as CaCO3)        SM 2340 C-2011
+                Nitrate as N                      SM 4500-NO3¯ D-2016
+                pH                                SM 4500-H+ B-2011
+                Solids, Total Dissolved           SM 2540 C-2015
+                Solids, Total Suspended           SM 2540 D-2015
+                Specific Conductance              SM 2510 B-2011
+ Immunoassay
+                Microcystins                      EPA 546
+ Microbiology
+                E.coli-count                      SM 9223 B Colilert 24 Qtray
+                Fecal coliform-count              SM 9221 E1 (EC)
+                Heterotrophic Bacteria            SM 9215 B (PCA)
+                Total coli/E.coli - detect        SM 9223 B Colilert 18® (PA)
+                Total coliforms-count             SM 9223 B Colilert 24 Qtray
+
+
+
+
+Information current as of 11/09/2026                      Page 2 of 46
+ County: Benton
+ Energy Northwest Environmental Services Lab
+               350 Hills Street, Suite 107     EPA Lab ID: WA01210
+               Richland, WA 99354              DOH #: 168
+               (509) 377-8058                  Scope Expires:04/11/2027
+
+ General Chemistry
+               Alkalinity                           SM 2320 B-2011
+               Chloride                             EPA 300.0_2.1_1993
+               Fluoride                             EPA 300.0_2.1_1993
+               Nitrate                              EPA 300.0_2.1_1993
+               Nitrate + Nitrite                    EPA 300.0_2.1_1993
+               Nitrite                              EPA 300.0_2.1_1993
+               Solids, Total Dissolved              SM 2540 C-2015
+               Solids, Total Suspended              SM 2540 D-2015
+               Specific Conductance                 SM 2510 B-2011
+               Sulfate                              EPA 300.0_2.1_1993
+ Metals
+               Aluminum                             EPA 200.8_5.4_1994
+               Antimony                             EPA 200.8_5.4_1994
+               Arsenic                              EPA 200.8_5.4_1994
+               Barium                               EPA 200.8_5.4_1994
+               Beryllium                            EPA 200.8_5.4_1994
+               Cadmium                              EPA 200.8_5.4_1994
+               Chromium                             EPA 200.8_5.4_1994
+               Copper                               EPA 200.8_5.4_1994
+               Lead                                 EPA 200.8_5.4_1994
+               Manganese                            EPA 200.8_5.4_1994
+               Molybdenum                           EPA 200.8_5.4_1994
+               Nickel                               EPA 200.8_5.4_1994
+               Potassium                            EPA 200.8_5.4_1994
+               Selenium                             EPA 200.8_5.4_1994
+               Silver                               EPA 200.8_5.4_1994
+               Thallium                             EPA 200.8_5.4_1994
+               Vanadium                             EPA 200.8_5.4_1994
+               Zinc                                 EPA 200.8_5.4_1994
+
+
+
+
+Information current as of 11/09/2026                       Page 3 of 46
+ County: Benton
+ Energy NW Environmental (PPL) Lab
+                76 N Power Plant Loop         EPA Lab ID: WA01163
+                Richland, WA 99352-0968       DOH #: 027
+                (509) 372-5429 TW             Scope Expires:08/07/2027
+
+ General Chemistry
+                Chlorine (Residual), Total         SM 4500-Cl G-2011
+ Microbiology
+                Total coli/E.coli - detect         SM 9223 B Colilert® 24 (PA)
+
+
+ County: Clallam
+ Clallam County Environmental Laboratory
+                223 East Fourth Street        EPA Lab ID: WA00126
+                Port Angeles, WA 98362-3015   DOH #: 092
+                (360) 417-2334                Scope Expires:04/30/2027
+
+ General Chemistry
+                Nitrate as N                       HACH 10206
+ Microbiology
+                E.coli-count                       SM 9223 B Colilert 24 Qtray
+                Fecal coliform-count               SM 9222 D (mFC)
+                Total coli/E.coli - detect         SM 9223 B Colilert® 24 (PA)
+                Total coliforms-count              SM 9223 B Colilert 24 Qtray
+
+
+
+
+Information current as of 11/09/2026                       Page 4 of 46
+ County: Clark
+ BSK Associates - Vancouver
+                2517 E Evergreen Blvd                EPA Lab ID: WA12806
+                Vancouver, WA 98661                  DOH #: 144
+                (360) 750-0055                       Scope Expires:09/12/2027
+
+ General Chemistry
+                Alkalinity                                SM 2320 B-2011
+                Chloride                                  EPA 300.0_2.1_1993
+                Chlorine (Residual), Free                 SM 4500-Cl G-2011
+                Chlorine (Residual), Total                SM 4500-Cl G-2011
+                Color                                     SM 2120 B-2011
+                Fluoride                                  EPA 300.0_2.1_1993
+                Nitrate + Nitrite as N                    EPA 300.0_2.1_1993
+                Nitrate as N                              EPA 300.0_2.1_1993
+                Nitrite as N                              EPA 300.0_2.1_1993
+                Orthophosphate as P                       EPA 300.0_2.1_1993
+                pH                                        SM 4500-H+ B-2011
+                Solids, Total Dissolved                   SM 2540 C-2015
+                Specific Conductance                      SM 2510 B-2011
+                Sulfate                                   EPA 300.0_2.1_1993
+                Turbidity                                 SM 2130 B-2011
+ Microbiology
+                E.coli-count                              SM 9223 B Colilert 18 Qtray
+                Fecal coliform-count                      SM 9221 E1 (EC)
+                Heterotrophic Bacteria                    SM 9215 B (PCA)
+                Total coli/E.coli - detect                SM 9223 B Colilert 18® (PA)
+                Total coliforms-count                     SM 9223 B Colilert 18® QTray®
+
+
+ County: Cowlitz
+ ALS Environmental - Kelso
+                1317 S 13th Ave                      EPA Lab ID: WA01276
+                Kelso, WA 98626                      DOH #: 017
+                (360) 577-7222                       Scope Expires:07/08/2027
+
+ Chromatography
+                1,2-Dibromo-3-chloropropane (DBCP)        EPA 504.1_1.1_1995
+                1,2-Dibromoethane (EDB, Ethylene          EPA 504.1_1.1_1995
+                dibromide)
+                Bromoacetic acid (MBAA, BAA)              EPA 552.2_1_1995
+                Bromochloroacetic acid (BCAA)             EPA 552.2_1_1995
+                Chloroacetic acid (MCAA, CAA)             EPA 552.2_1_1995
+                Dibromoacetic acid (DBAA)                 EPA 552.2_1_1995
+                Dichloroacetic acid (DCAA)                EPA 552.2_1_1995
+
+
+
+Information current as of 11/09/2026                              Page 5 of 46
+ County: Cowlitz
+ ALS Environmental - Kelso
+               1317 S 13th Ave                            EPA Lab ID: WA01276
+               Kelso, WA 98626                            DOH #: 017
+               (360) 577-7222                             Scope Expires:07/08/2027
+
+               Total haloacetic acids (HAA5)                   EPA 552.2_1_1995
+               Trichloroacetic acid (TCAA)                     EPA 552.2_1_1995
+ General Chemistry
+               Alkalinity                                      SM 2320 B-2011
+               Ammonia as N                                    EPA 350.1_2_1993
+               Chloride                                        EPA 300.0_2.1_1993
+               Color                                           SM 2120 B-2011
+               Cyanide, Total                                  EPA 335.4_1_1993
+               Fluoride                                        EPA 300.0_2.1_1993
+               Nitrate + Nitrite as N                          EPA 353.2_2_1993
+               Nitrate as N                                    EPA 300.0_2.1_1993
+               Nitrite as N                                    EPA 300.0_2.1_1993
+               Orthophosphate as P                             SM 4500-P E-2011
+               pH                                              SM 4500-H+ B-2011
+               Solids, Total Dissolved                         SM 2540 C-2015
+               Specific Conductance                            SM 2510 B-2011
+               Sulfate                                         EPA 300.0_2.1_1993
+               Total Organic Carbon                            SM 5310 B-2014
+               Turbidity                                       EPA 180.1_2_1993
+ Mass Spectrometry
+               1,1,1,2-Tetrachloroethane                       EPA 524.2_4.1_1995
+               1,1,1-Trichloroethane                           EPA 524.2_4.1_1995
+               1,1,2,2-Tetrachloroethane                       EPA 524.2_4.1_1995
+               1,1,2-Trichloroethane                           EPA 524.2_4.1_1995
+               1,1-Dichloroethane                              EPA 524.2_4.1_1995
+               1,1-Dichloroethylene                            EPA 524.2_4.1_1995
+               1,1-Dichloropropene                             EPA 524.2_4.1_1995
+               1,2,3-Trichlorobenzene                          EPA 524.2_4.1_1995
+               1,2,3-Trichloropropane                          EPA 524.2_4.1_1995
+               1,2,4-Trichlorobenzene                          EPA 524.2_4.1_1995
+               1,2,4-Trimethylbenzene                          EPA 524.2_4.1_1995
+               1,2-Dichlorobenzene                             EPA 524.2_4.1_1995
+               1,2-Dichloroethane (Ethylene dichloride)        EPA 524.2_4.1_1995
+               1,2-Dichloropropane                             EPA 524.2_4.1_1995
+               1,3,5-Trimethylbenzene                          EPA 524.2_4.1_1995
+               1,3-Dichlorobenzene                             EPA 524.2_4.1_1995
+               1,3-Dichloropropane                             EPA 524.2_4.1_1995
+               1,4-Dichlorobenzene                             EPA 524.2_4.1_1995
+
+
+
+Information current as of 11/09/2026                                  Page 6 of 46
+ County: Cowlitz
+ ALS Environmental - Kelso
+               1317 S 13th Ave                             EPA Lab ID: WA01276
+               Kelso, WA 98626                             DOH #: 017
+               (360) 577-7222                              Scope Expires:07/08/2027
+
+               11-Chloroeicosafluoro-3-oxaundecane-1-           EPA 537.1 revision 2 (3/20)
+               sulfonic acid (11-Cl-PF3OUdS)
+               1H,1H,2H,2H,-Perfluorodecanesulfonic             EPA 533
+               acid (8:2 FTS)
+               1H,1H,2H,2H,-Perfluorooctanesulfonic acid        EPA 533
+               (6:2 FTS)
+               1H,1H,2H,2H-Perfluorohexanesulfonic acid         EPA 533
+               (4:2 FTS)
+               2,2-Dichloropropane                              EPA 524.2_4.1_1995
+               2-Butanone (Methyl ethyl ketone, MEK)            EPA 524.2_4.1_1995
+               2-Chlorotoluene                                  EPA 524.2_4.1_1995
+               2-Hexanone                                       EPA 524.2_4.1_1995
+               4,8-Dioxa-3H-perfluorononanoic acid              EPA 537.1 revision 2 (3/20)
+               (ADONA)
+               4-Chlorotoluene                                  EPA 524.2_4.1_1995
+               4-Isopropyltoluene (p-Cymene)                    EPA 524.2_4.1_1995
+               9-Chlorohexadecafluoro-3-oxanonane-1-            EPA 537.1 revision 2 (3/20)
+               sulfonic acid (9-Cl-PF3ONS)
+               Acetone                                          EPA 524.2_4.1_1995
+               Benzene                                          EPA 524.2_4.1_1995
+               Bromobenzene                                     EPA 524.2_4.1_1995
+               Bromochloromethane                               EPA 524.2_4.1_1995
+               Bromodichloromethane                             EPA 524.2_4.1_1995
+               Bromoform                                        EPA 524.2_4.1_1995
+               Carbon tetrachloride                             EPA 524.2_4.1_1995
+               Chlorobenzene                                    EPA 524.2_4.1_1995
+               Chlorodibromomethane                             EPA 524.2_4.1_1995
+               Chloroethane (Ethyl chloride)                    EPA 524.2_4.1_1995
+               Chloroform                                       EPA 524.2_4.1_1995
+               cis-1,2-Dichloroethylene                         EPA 524.2_4.1_1995
+               cis-1,3-Dichloropropene                          EPA 524.2_4.1_1995
+               Dibromomethane                                   EPA 524.2_4.1_1995
+               Dichlorodifluoromethane (Freon-12)               EPA 524.2_4.1_1995
+               Dichloromethane (DCM, Methylene                  EPA 524.2_4.1_1995
+               chloride)
+               Ethylbenzene                                     EPA 524.2_4.1_1995
+               Hexachlorobutadiene                              EPA 524.2_4.1_1995
+               Hexafluoropropylene oxide dimer acid             EPA 537.1 revision 2 (3/20)
+               (HFPO-DA)
+               Isopropylbenzene                                 EPA 524.2_4.1_1995
+
+
+
+Information current as of 11/09/2026                                    Page 7 of 46
+ County: Cowlitz
+ ALS Environmental - Kelso
+               1317 S 13th Ave                             EPA Lab ID: WA01276
+               Kelso, WA 98626                             DOH #: 017
+               (360) 577-7222                              Scope Expires:07/08/2027
+
+               m+p-xylene                                       EPA 524.2_4.1_1995
+               Methyl bromide (Bromomethane)                    EPA 524.2_4.1_1995
+               Methyl chloride (Chloromethane)                  EPA 524.2_4.1_1995
+               Methyl tert-butyl ether (MTBE)                   EPA 524.2_4.1_1995
+               Naphthalene                                      EPA 524.2_4.1_1995
+               n-Butylbenzene                                   EPA 524.2_4.1_1995
+               N-Ethylperfluorooctane sulfonamido acetic        EPA 537.1 revision 2 (3/20)
+               acid (NEtFOSAA)
+               N-Methylperfluorooctane sulfonamido              EPA 537.1 revision 2 (3/20)
+               acetic acid (NMeFOSAA)
+               Nonafluoro-3,6-dioxaheptanoic acid               EPA 533
+               (NFDHA)
+               n-Propylbenzene                                  EPA 524.2_4.1_1995
+               o-Xylene                                         EPA 524.2_4.1_1995
+               Perfluoro(2-ethoxyethane)sulfonic acid           EPA 533
+               (PFEESA)
+               Perfluoro-3-methoxypropanoic acid                EPA 533
+               (PFMPA)
+               Perfluoro-4-methoxybutanoic acid                 EPA 533
+               (PFMBA)
+               Perfluorobutane sulfonic acid (PFBS)             EPA 537.1 revision 2 (3/20)
+               Perfluorobutanoic acid (PFBA)                    EPA 533
+               Perfluorodecanoic acid (PFDA)                    EPA 537.1 revision 2 (3/20)
+               Perfluorododecanoic acid (PFDoA)                 EPA 537.1 revision 2 (3/20)
+               Perfluoroheptane sulfonic acid (PFHpS)           EPA 533
+               Perfluoroheptanoic acid (PFHpA)                  EPA 537.1 revision 2 (3/20)
+               Perfluorohexane sulfonic acid (PFHxS)            EPA 537.1 revision 2 (3/20)
+               Perfluorohexanoic acid (PFHxA)                   EPA 537.1 revision 2 (3/20)
+               Perfluorononanoic acid (PFNA)                    EPA 537.1 revision 2 (3/20)
+               Perfluorooctane sulfonic acid (PFOS)             EPA 537.1 revision 2 (3/20)
+               Perfluorooctanoic acid (PFOA)                    EPA 537.1 revision 2 (3/20)
+               Perfluoropentane sulfonic acid (PFPeS)           EPA 533
+               Perfluoropentanoic acid (PFPeA)                  EPA 533
+               Perfluorotetradecanoic acid (PFTeDA)             EPA 537.1 revision 2 (3/20)
+               Perfluorotridecanoic acid (PFTrDA)               EPA 537.1 revision 2 (3/20)
+               Perfluoroundecanoic acid (PFUnA)                 EPA 537.1 revision 2 (3/20)
+               sec-Butylbenzene                                 EPA 524.2_4.1_1995
+               Styrene                                          EPA 524.2_4.1_1995
+               tert-Butylbenzene                                EPA 524.2_4.1_1995
+               Tetrachloroethylene (Perchloroethylene)          EPA 524.2_4.1_1995
+
+
+Information current as of 11/09/2026                                    Page 8 of 46
+ County: Cowlitz
+ ALS Environmental - Kelso
+               1317 S 13th Ave                       EPA Lab ID: WA01276
+               Kelso, WA 98626                       DOH #: 017
+               (360) 577-7222                        Scope Expires:07/08/2027
+
+               Toluene                                    EPA 524.2_4.1_1995
+               Total Trihalomethanes                      EPA 524.2_4.1_1995
+               trans-1,2-Dichloroethylene                 EPA 524.2_4.1_1995
+               trans-1,3-Dichloropropylene                EPA 524.2_4.1_1995
+               Trichloroethene (Trichloroethylene)        EPA 524.2_4.1_1995
+               Trichlorofluoromethane (Freon 11)          EPA 524.2_4.1_1995
+               Vinyl chloride                             EPA 524.2_4.1_1995
+               Xylene (total)                             EPA 524.2_4.1_1995
+ Metals
+               Aluminum                                   EPA 200.7_4.4_1994
+               Antimony                                   EPA 200.8_5.4_1994
+               Arsenic                                    EPA 200.8_5.4_1994
+               Barium                                     EPA 200.7_4.4_1994
+               Beryllium                                  EPA 200.7_4.4_1994
+               Boron                                      EPA 200.7_4.4_1994
+               Cadmium                                    EPA 200.7_4.4_1994
+               Calcium                                    EPA 200.7_4.4_1994
+               Chromium                                   EPA 200.7_4.4_1994
+               Copper                                     EPA 200.8_5.4_1994
+               Hardness, Total (as CaCO3)                 SM 2340 B-2011
+               Iron                                       EPA 200.7_4.4_1994
+               Lead                                       EPA 200.8_5.4_1994
+               Magnesium                                  EPA 200.7_4.4_1994
+               Manganese                                  EPA 200.7_4.4_1994
+               Mercury                                    EPA 245.1_3_1994
+               Molybdenum                                 EPA 200.7_4.4_1994
+               Nickel                                     EPA 200.8_5.4_1994
+               Potassium                                  EPA 200.7_4.4_1994
+               Selenium                                   EPA 200.8_5.4_1994
+               Silica                                     EPA 200.7_4.4_1994
+               Silver                                     EPA 200.7_4.4_1994
+               Sodium                                     EPA 200.7_4.4_1994
+               Strontium                                  EPA 200.8_5.4_1994
+               Thallium                                   EPA 200.8_5.4_1994
+               Uranium                                    EPA 200.8_5.4_1994
+               Vanadium                                   EPA 200.7_4.4_1994
+               Zinc                                       EPA 200.7_4.4_1994
+
+
+
+
+Information current as of 11/09/2026                             Page 9 of 46
+ County: Cowlitz
+ ALS Environmental - Kelso
+                1317 S 13th Ave              EPA Lab ID: WA01276
+                Kelso, WA 98626              DOH #: 017
+                (360) 577-7222               Scope Expires:07/08/2027
+
+ Microbiology
+                E.coli-count                      SM 9223 B Colilert 18 Qtray
+                Fecal coliform-count              SM 9222 D (mFC)
+                Heterotrophic Bacteria            SM 9215 B (PCA)
+                Total coli/E.coli - detect        SM 9223 B Colilert 18® (PA)
+
+
+
+
+Information current as of 11/09/2026                      Page 10 of 46
+ County: Franklin
+ Matrix Sciences International Inc. dba KTL
+               1320 E Spokane Street          EPA Lab ID: WA00060
+               Pasco, WA 99301                DOH #: 109
+               (509) 547-3838                 Scope Expires:09/02/2027
+
+ General Chemistry
+               Alkalinity                          SM 2320 B-2011
+               Chloride                            SM 4500-Cl¯ E-2011
+               Color                               SM 2120 B-2011
+               Fluoride                            SM 4500-F¯ C-2011
+               Nitrate + Nitrite as N              SM 4500-NO3¯ F-2016
+               Nitrate as N                        SM 4500-NO3¯ F-2016
+               Nitrite as N                        SM 4500-NO3¯ F-2016
+               pH                                  SM 4500-H+ B-2011
+               Solids, Total Dissolved             SM 2540 C-2015
+               Specific Conductance                SM 2510 B-2011
+               Sulfate                             SM 4500-SO4¯ E-2011
+               Turbidity                           SM 2130 B-2011
+ Metals
+               Aluminum                            EPA 200.8_5.4_1994
+               Antimony                            EPA 200.8_5.4_1994
+               Arsenic                             EPA 200.8_5.4_1994
+               Barium                              EPA 200.5_4.2_2003
+               Beryllium                           EPA 200.8_5.4_1994
+               Cadmium                             EPA 200.5_4.2_2003
+               Calcium                             EPA 200.7_4.4_1994
+               Chromium                            EPA 200.5_4.2_2003
+               Copper                              EPA 200.5_4.2_2003
+               Hardness (calc.)                    EPA 200.7_4.4_1994
+               Iron                                EPA 200.5_4.2_2003
+               Lead                                EPA 200.8_5.4_1994
+               Magnesium                           EPA 200.7_4.4_1994
+               Manganese                           EPA 200.5_4.2_2003
+               Molybdenum                          EPA 200.8_5.4_1994
+               Nickel                              EPA 200.5_4.2_2003
+               Potassium                           EPA 200.7_4.4_1994
+               Selenium                            EPA 200.8_5.4_1994
+               Silver                              EPA 200.8_5.4_1994
+               Sodium                              EPA 200.7_4.4_1994
+               Thallium                            EPA 200.8_5.4_1994
+               Vanadium                            EPA 200.8_5.4_1994
+               Zinc                                EPA 200.5_4.2_2003
+
+
+
+
+Information current as of 11/09/2026                      Page 11 of 46
+ County: Franklin
+ RJ Lee Group, Inc. Columbia Basin Analytical
+ Laboratories
+               2710 North 20th Avenue           EPA Lab ID: WA01195
+               Pasco, WA 99301                  DOH #: 259
+               (509) 792-1951                   Scope Expires:07/13/2027
+
+ General Chemistry
+               Chloride                              EPA 300.0_2.1_1993
+               Fluoride                              EPA 300.0_2.1_1993
+               Nitrate as N                          EPA 300.0_2.1_1993
+               Nitrite as N                          EPA 300.0_2.1_1993
+               Orthophosphate as P                   EPA 300.0_2.1_1993
+               pH                                    SM 4500-H+ B-2011
+               Specific Conductance                  EPA 120.1_1982
+               Sulfate                               EPA 300.0_2.1_1993
+               Turbidity                             EPA 180.1_2_1993
+ Metals
+               Aluminum                              EPA 200.8_5.4_1994
+               Antimony                              EPA 200.8_5.4_1994
+               Arsenic                               EPA 200.8_5.4_1994
+               Barium                                EPA 200.8_5.4_1994
+               Beryllium                             EPA 200.8_5.4_1994
+               Boron                                 EPA 200.8_5.4_1994
+               Cadmium                               EPA 200.8_5.4_1994
+               Chromium                              EPA 200.8_5.4_1994
+               Copper                                EPA 200.8_5.4_1994
+               Lead                                  EPA 200.8_5.4_1994
+               Manganese                             EPA 200.8_5.4_1994
+               Mercury                               EPA 200.8_5.4_1994
+               Molybdenum                            EPA 200.8_5.4_1994
+               Nickel                                EPA 200.8_5.4_1994
+               Selenium                              EPA 200.8_5.4_1994
+               Silver                                EPA 200.8_5.4_1994
+               Thallium                              EPA 200.8_5.4_1994
+               Vanadium                              EPA 200.8_5.4_1994
+               Zinc                                  EPA 200.8_5.4_1994
+
+
+
+
+Information current as of 11/09/2026                        Page 12 of 46
+ County: Grant
+ Soiltest Farm Consultants, Inc. Laboratory
+                2925 Driggs Drive             EPA Lab ID: WA00064
+                Moses Lake, WA 98837          DOH #: 116
+                (509) 765-1622                Scope Expires:09/07/2027
+
+ General Chemistry
+                Fluoride                           SM 4500-F¯ C-2011
+                Nitrate as N                       SM 4500-NO3¯ F-2016
+                Nitrite as N                       SM 4500-NO3¯ F-2016
+                Turbidity                          SM 2130 B-2011
+
+
+ County: Grays Harbor
+ Grays Harbor County Water Testing Lab
+                310 West Spruce Street        EPA Lab ID: WA00118
+                Montesano, WA 98563-2614      DOH #: 070
+                (360) 249-4413                Scope Expires:02/01/2027
+
+ General Chemistry
+                Nitrate as N                       SM 4500-NO3¯ D-2016
+ Microbiology
+                E.coli-count                       SM 9223 B Colilert 24 Qtray
+                Fecal coliform-count               SM 9222 D (mFC)
+                Heterotrophic Bacteria             SM 9215 E SimPlate®
+                Total coli/E.coli - detect         SM 9223 B Colilert® 24 (PA)
+                Total coliforms-count              SM 9223 B Colilert® 24 QTray®
+
+
+ County: King
+ Alliance Technical Group, LLC-Seattle
+                3600 Fremont Ave N            EPA Lab ID: WA01224
+                Seattle, WA 98103             DOH #: 187
+                (206) 352-3790                Scope Expires:07/08/2027
+
+ Metals
+                Copper                             EPA 200.8_5.4_1994
+                Lead                               EPA 200.8_5.4_1994
+ Microbiology
+                E.coli-count                       SM 9223 B Colilert 24 Qtray
+                Total coliforms-count              SM 9223 B Colilert 24 Qtray
+
+
+
+
+Information current as of 11/09/2026                       Page 13 of 46
+ County: King
+ AmTest Laboratories
+               1131 SW 7th Street              EPA Lab ID: WA00012
+               Renton, WA 98057                DOH #: 066
+               (425) 885-1664                  Scope Expires:07/25/2027
+
+ Chromatography
+               Bromoacetic acid (MBAA, BAA)         EPA 552.2_1_1995
+               Chloroacetic acid (MCAA, CAA)        EPA 552.2_1_1995
+               Dibromoacetic acid (DBAA)            EPA 552.2_1_1995
+               Dichloroacetic acid (DCAA)           EPA 552.2_1_1995
+               Total haloacetic acids (HAA5)        EPA 552.2_1_1995
+               Trichloroacetic acid (TCAA)          EPA 552.2_1_1995
+ General Chemistry
+               Alkalinity                           SM 2320 B-2011
+               Bromide                              EPA 300.0_2.1_1993
+               Chloride                             EPA 300.0_2.1_1993
+               Color                                SM 2120 B-2011
+               Cyanide, Total                       SM 4500-CN¯ E-2016
+               Fluoride                             EPA 300.0_2.1_1993
+               Nitrate + Nitrite as N               EPA 353.2_2_1993
+               Nitrate as N                         EPA 300.0_2.1_1993
+               Nitrite as N                         EPA 300.0_2.1_1993
+               Orthophosphate as P                  SM 4500-P E-2011
+               Solids, Total Dissolved              SM 2540 C-2015
+               Specific Conductance                 SM 2510 B-2011
+               Sulfate                              EPA 300.0_2.1_1993
+               Total Organic Carbon                 SM 5310 B-2014
+               Turbidity                            EPA 180.1_2_1993
+               UV Absorbing Organics                SM 5910 B-2013
+ Mass Spectrometry
+               Bromodichloromethane                 EPA 524.2_4.1_1995
+               Bromoform                            EPA 524.2_4.1_1995
+               Chlorodibromomethane                 EPA 524.2_4.1_1995
+               Chloroform                           EPA 524.2_4.1_1995
+               Total Trihalomethanes                EPA 524.2_4.1_1995
+ Metals
+               Aluminum                             EPA 200.8_5.4_1994
+               Antimony                             EPA 200.8_5.4_1994
+               Arsenic                              EPA 200.8_5.4_1994
+               Barium                               EPA 200.8_5.4_1994
+               Beryllium                            EPA 200.8_5.4_1994
+               Cadmium                              EPA 200.8_5.4_1994
+               Calcium                              EPA 200.7_4.4_1994
+
+
+Information current as of 11/09/2026                       Page 14 of 46
+ County: King
+ AmTest Laboratories
+                1131 SW 7th Street           EPA Lab ID: WA00012
+                Renton, WA 98057             DOH #: 066
+                (425) 885-1664               Scope Expires:07/25/2027
+
+                Chromium                          EPA 200.8_5.4_1994
+                Copper                            EPA 200.8_5.4_1994
+                Hardness, Total (as CaCO3)        EPA 200.7_4.4_1994
+                Iron                              EPA 200.7_4.4_1994
+                Lead                              EPA 200.8_5.4_1994
+                Magnesium                         EPA 200.7_4.4_1994
+                Manganese                         EPA 200.7_4.4_1994
+                Mercury                           EPA 245.1_3_1994
+                Nickel                            EPA 200.8_5.4_1994
+                Selenium                          EPA 200.8_5.4_1994
+                Silver                            EPA 200.8_5.4_1994
+                Sodium                            EPA 200.7_4.4_1994
+                Thallium                          EPA 200.8_5.4_1994
+                Zinc                              EPA 200.7_4.4_1994
+ Microbiology
+                Fecal coliform-count              SM 9222 D (mFC)
+                Heterotrophic Bacteria            SM 9215 B (PCA)
+                Total coli/E.coli - detect        SM 9222 B+9221 F (LES Endo/EC MUG-PA)
+                Total coliforms-count             SM 9222 B (Endo)
+
+
+
+
+Information current as of 11/09/2026                     Page 15 of 46
+ County: King
+ Analytical Resources, LLC
+               4611 S 134th Place         EPA Lab ID: WA00037
+               Tukwila, WA 98168-3240     DOH #: 055
+               (206) 695-6200             Scope Expires:06/30/2027
+
+ General Chemistry
+               Alkalinity                      SM 2320 B-2011
+               Color                           SM 2120 B-2011
+               Cyanide, Total                  SM 4500-CN¯ E-2016
+               Dissolved Organic Carbon        SM 5310 B-2014
+               Fluoride                        EPA 300.0_2.1_1993
+               Hardness (calc.)                SM 2340 B-2011
+               Nitrate as N                    EPA 300.0_2.1_1993
+               Nitrite as N                    EPA 300.0_2.1_1993
+               pH                              SM 4500-H+ B-2011
+               Solids, Total Dissolved         SM 2540 C-2015
+               Specific Conductance            SM 2510 B-2011
+               Total Organic Carbon            SM 5310 B-2014
+               Turbidity                       EPA 180.1_2_1993
+ Metals
+               Aluminum                        EPA 200.8_5.4_1994
+               Antimony                        EPA 200.8_5.4_1994
+               Arsenic                         EPA 200.8_5.4_1994
+               Barium                          EPA 200.8_5.4_1994
+               Beryllium                       EPA 200.8_5.4_1994
+               Cadmium                         EPA 200.8_5.4_1994
+               Chromium                        EPA 200.8_5.4_1994
+               Copper                          EPA 200.8_5.4_1994
+               Lead                            EPA 200.8_5.4_1994
+               Manganese                       EPA 200.8_5.4_1994
+               Mercury                         EPA 245.1_3_1994
+               Nickel                          EPA 200.8_5.4_1994
+               Selenium                        EPA 200.8_5.4_1994
+               Silver                          EPA 200.8_5.4_1994
+               Thallium                        EPA 200.8_5.4_1994
+               Zinc                            EPA 200.8_5.4_1994
+
+
+
+
+Information current as of 11/09/2026                  Page 16 of 46
+ County: King
+ Aqua Test, Incorporated
+                28620 Maple Valley Road SE   EPA Lab ID: WA00149
+                Maple Valley, WA 98038       DOH #: 162
+                (425) 432-9360               Scope Expires:11/05/2027
+
+ General Chemistry
+                Nitrate as N                      SM 4500-NO3¯ D-2016
+ Microbiology
+                Total coli/E.coli - detect        SM 9223 B Colilert 18® (PA)
+
+
+ County: King
+ Brooks Applied Labs, LLC
+                13751 Lake City Way NE       EPA Lab ID: WA01212
+                Seattle, WA 98125            DOH #:
+                (206) 753-6119               Scope Expires:05/15/2027
+
+ Metals
+                Aluminum                          EPA 200.8_5.4_1994
+                Antimony                          EPA 200.8_5.4_1994
+                Arsenic                           EPA 200.8_5.4_1994
+                Barium                            EPA 200.8_5.4_1994
+                Beryllium                         EPA 200.8_5.4_1994
+                Boron                             EPA 200.8_5.4_1994
+                Cadmium                           EPA 200.8_5.4_1994
+                Chromium                          EPA 200.8_5.4_1994
+                Copper                            EPA 200.8_5.4_1994
+                Lead                              EPA 200.8_5.4_1994
+                Manganese                         EPA 200.8_5.4_1994
+                Molybdenum                        EPA 200.8_5.4_1994
+                Nickel                            EPA 200.8_5.4_1994
+                Selenium                          EPA 200.8_5.4_1994
+                Silver                            EPA 200.8_5.4_1994
+                Thallium                          EPA 200.8_5.4_1994
+                Vanadium                          EPA 200.8_5.4_1994
+                Zinc                              EPA 200.8_5.4_1994
+
+
+
+
+Information current as of 11/09/2026                      Page 17 of 46
+ County: King
+ Eurofins EPK Built Environment Testing, LLC
+                7619 6th Avenue NW             EPA Lab ID: WA00255
+                Seattle, WA 98117              DOH #: 119
+                (206) 781-0155                 Scope Expires:04/30/2027
+
+ Microbiology
+                Asbestos                            EPA 100.2
+                E.coli-count                        SM 9223 B Colilert 18® QTray®
+                Heterotrophic Bacteria              SM 9215 B (PCA)
+                Total coli/E.coli - detect          SM 9223 B Colisure® (PA)
+                Total coliforms-count               SM 9223 B Colilert 18® QTray®
+
+
+ County: King
+ Friedman & Bruya, Inc.
+                5500 4th AVE S                 EPA Lab ID: WA00112
+                Seattle, WA 98108              DOH #: 191
+                (800) 487-8231                 Scope Expires:01/09/2027
+
+ Metals
+                Arsenic                             EPA 200.8_5.4_1994
+                Barium                              EPA 200.8_5.4_1994
+                Cadmium                             EPA 200.8_5.4_1994
+                Chromium                            EPA 200.8_5.4_1994
+                Copper                              EPA 200.8_5.4_1994
+                Iron                                EPA 200.8_5.4_1994
+                Lead                                EPA 200.8_5.4_1994
+                Mercury                             EPA 200.8_5.4_1994
+                Nickel                              EPA 200.8_5.4_1994
+                Selenium                            EPA 200.8_5.4_1994
+                Silver                              EPA 200.8_5.4_1994
+                Zinc                                EPA 200.8_5.4_1994
+
+
+ County: King
+ IEH Analytical Laboratories
+                13751 Lake City Way NE         EPA Lab ID: WA00040
+                Seattle, WA 98125              DOH #: 016
+                (206) 632-2715                 Scope Expires:06/17/2027
+
+ General Chemistry
+                Alkalinity                          SM 2320 B-2011
+                Nitrate as N                        EPA 353.2_2_1993
+                Nitrite as N                        EPA 353.2_2_1993
+                Specific Conductance                SM 2510 B-2011
+
+
+Information current as of 11/09/2026                       Page 18 of 46
+ County: King
+ IEH Analytical Laboratories
+               13751 Lake City Way NE                      EPA Lab ID: WA00040
+               Seattle, WA 98125                           DOH #: 016
+               (206) 632-2715                              Scope Expires:06/17/2027
+
+               Total Organic Carbon                             SM 5310 B-2014
+ Mass Spectrometry
+               11-Chloroeicosafluoro-3-oxaundecane-1-           EPA 537.1 revision 2 (3/20)
+               sulfonic acid (11-Cl-PF3OUdS)
+               1H,1H,2H,2H,-Perfluorodecanesulfonic             EPA 533
+               acid (8:2 FTS)
+               1H,1H,2H,2H,-Perfluorooctanesulfonic acid        EPA 533
+               (6:2 FTS)
+               1H,1H,2H,2H-Perfluorohexanesulfonic acid         EPA 533
+               (4:2 FTS)
+               4,8-Dioxa-3H-perfluorononanoic acid              EPA 537.1 revision 2 (3/20)
+               (ADONA)
+               9-Chlorohexadecafluoro-3-oxanonane-1-            EPA 537.1 revision 2 (3/20)
+               sulfonic acid (9-Cl-PF3ONS)
+               Hexafluoropropylene oxide dimer acid             EPA 537.1 revision 2 (3/20)
+               (HFPO-DA)
+               N-Ethylperfluorooctane sulfonamido acetic        EPA 537.1 revision 2 (3/20)
+               acid (NEtFOSAA)
+               N-Methylperfluorooctane sulfonamido              EPA 537.1 revision 2 (3/20)
+               acetic acid (NMeFOSAA)
+               Nonafluoro-3,6-dioxaheptanoic acid               EPA 533
+               (NFDHA)
+               Perfluoro(2-ethoxyethane)sulfonic acid           EPA 533
+               (PFEESA)
+               Perfluoro-3-methoxypropanoic acid                EPA 533
+               (PFMPA)
+               Perfluoro-4-methoxybutanoic acid                 EPA 533
+               (PFMBA)
+               Perfluorobutane sulfonic acid (PFBS)             EPA 537.1 revision 2 (3/20)
+               Perfluorobutanoic acid (PFBA)                    EPA 533
+               Perfluorodecanoic acid (PFDA)                    EPA 537.1 revision 2 (3/20)
+               Perfluorododecanoic acid (PFDoA)                 EPA 537.1 revision 2 (3/20)
+               Perfluoroheptane sulfonic acid (PFHpS)           EPA 533
+               Perfluoroheptanoic acid (PFHpA)                  EPA 537.1 revision 2 (3/20)
+               Perfluorohexane sulfonic acid (PFHxS)            EPA 537.1 revision 2 (3/20)
+               Perfluorohexanoic acid (PFHxA)                   EPA 537.1 revision 2 (3/20)
+               Perfluorononanoic acid (PFNA)                    EPA 537.1 revision 2 (3/20)
+               Perfluorooctane sulfonic acid (PFOS)             EPA 537.1 revision 2 (3/20)
+               Perfluorooctanoic acid (PFOA)                    EPA 537.1 revision 2 (3/20)
+               Perfluoropentane sulfonic acid (PFPeS)           EPA 533
+               Perfluoropentanoic acid (PFPeA)                  EPA 533
+               Perfluorotetradecanoic acid (PFTeDA)             EPA 537.1 revision 2 (3/20)
+
+
+Information current as of 11/09/2026                                    Page 19 of 46
+ County: King
+ IEH Analytical Laboratories
+                13751 Lake City Way NE               EPA Lab ID: WA00040
+                Seattle, WA 98125                    DOH #: 016
+                (206) 632-2715                       Scope Expires:06/17/2027
+
+                Perfluorotridecanoic acid (PFTrDA)        EPA 537.1 revision 2 (3/20)
+                Perfluoroundecanoic acid (PFUnA)          EPA 537.1 revision 2 (3/20)
+ Metals
+                Aluminum                                  EPA 200.7_4.4_1994
+                Antimony                                  EPA 200.8_5.4_1994
+                Arsenic                                   EPA 200.8_5.4_1994
+                Barium                                    EPA 200.7_4.4_1994
+                Beryllium                                 EPA 200.8_5.4_1994
+                Cadmium                                   EPA 200.8_5.4_1994
+                Calcium                                   EPA 200.7_4.4_1994
+                Chromium                                  EPA 200.7_4.4_1994
+                Copper                                    EPA 200.7_4.4_1994
+                Iron                                      EPA 200.7_4.4_1994
+                Lead                                      EPA 200.8_5.4_1994
+                Magnesium                                 EPA 200.7_4.4_1994
+                Manganese                                 EPA 200.8_5.4_1994
+                Mercury                                   EPA 200.8_5.4_1994
+                Nickel                                    EPA 200.8_5.4_1994
+                Selenium                                  EPA 200.8_5.4_1994
+                Silver                                    EPA 200.8_5.4_1994
+                Sodium                                    EPA 200.7_4.4_1994
+                Thallium                                  EPA 200.8_5.4_1994
+                Zinc                                      EPA 200.7_4.4_1994
+
+
+ County: King
+ MCL Food Testing
+                711 6th Ave N                        EPA Lab ID: WA10270
+                Seattle, WA 98109                    DOH #: 237
+                (206) 633-3637                       Scope Expires:04/25/2027
+
+ Microbiology
+                Total coli/E.coli - detect                SM 9221 D+F (PA Broth/BGB/EC Mug-PA)
+
+
+
+
+Information current as of 11/09/2026                              Page 20 of 46
+ County: King
+ NVL Laboratories, Inc
+                4708 Aurora Ave N            EPA Lab ID: WA01173
+                Seattle, WA 98103            DOH #: 155
+                (206) 547-0100               Scope Expires:07/17/2027
+
+ Metals
+                Copper                            EPA 200.9 Rev 2.2 (1994)
+                Lead                              EPA 200.9 Rev 2.2 (1994)
+
+
+ County: King
+ OnSite Environmental, Inc.
+                14648 NE 95th Street         EPA Lab ID: WA00211
+                Redmond, WA 98052            DOH #: 178
+                (425) 883-3881               Scope Expires:07/26/2027
+
+ Metals
+                Aluminum                          EPA 200.8_5.4_1994
+                Antimony                          EPA 200.8_5.4_1994
+                Arsenic                           EPA 200.8_5.4_1994
+                Barium                            EPA 200.7_4.4_1994
+                Beryllium                         EPA 200.8_5.4_1994
+                Cadmium                           EPA 200.8_5.4_1994
+                Chromium                          EPA 200.8_5.4_1994
+                Copper                            EPA 200.8_5.4_1994
+                Iron                              EPA 200.7_4.4_1994
+                Lead                              EPA 200.8_5.4_1994
+                Manganese                         EPA 200.7_4.4_1994
+                Nickel                            EPA 200.8_5.4_1994
+                Selenium                          EPA 200.8_5.4_1994
+                Silica                            EPA 200.7_4.4_1994
+                Silver                            EPA 200.7_4.4_1994
+                Thallium                          EPA 200.8_5.4_1994
+                Zinc                              EPA 200.7_4.4_1994
+
+
+ County: King
+ Seattle-King Co Dept of Public Health Lab
+                325 Ninth Ave                EPA Lab ID: WA00128
+                Seattle, WA 98104            DOH #: 075
+                (206) 744-8950               Scope Expires:07/31/2027
+
+ Microbiology
+                Total coli/E.coli - detect        SM 9223 B Colisure® (PA)
+
+
+
+Information current as of 11/09/2026                     Page 21 of 46
+ County: Kitsap
+ Spectra Laboratories - Kitsap, LLC
+                26276 Twelve Trees Lane      EPA Lab ID: WA00182
+                Poulsbo, WA 98370            DOH #: 010
+                (360) 779-5141               Scope Expires:09/27/2027
+
+ General Chemistry
+                Chloride                          SM 4500-Cl¯ E-2011
+                Chlorine (Residual), Free         SM 4500-Cl G-2011
+                Chlorine (Residual), Total        SM 4500-Cl G-2011
+                Color                             SM 2120 B-2011
+                Fluoride                          SM 4500-F¯ C-2011
+                Nitrate + Nitrite as N            SM 4500-NO3¯ F-2016
+                Nitrate as N                      SM 4500-NO3¯ F-2016
+                Nitrite as N                      SM 4500-NO2¯ B-2011
+                Orthophosphate as P               SM 4500-P E-2011
+                pH                                SM 4500-H+ B-2011
+                Solids, Total Dissolved           SM 2540 C-2015
+                Specific Conductance              SM 2510 B-2011
+                Turbidity                         SM 2130 B-2011
+ Microbiology
+                E.coli-count                      SM 9223 B Colilert 18 Qtray
+                Fecal coliform-count              SM 9222 D (mFC)
+                Heterotrophic Bacteria            SM 9215 B (R2A)
+                Total coli/E.coli - detect        SM 9223 B Colilert 18® (PA)
+                Total coliforms-count             SM 9223 B Colilert 18® QTray®
+
+
+ County: Klickitat
+ Klickitat County Goldendale Lab
+                115 W. Court                 EPA Lab ID: WA01218
+                Goldendale, WA 98620         DOH #: 172
+                (509) 493-6211               Scope Expires:07/09/2027
+
+ Microbiology
+                Total coli/E.coli - detect        SM 9223 B Colilert® 24 (PA)
+
+
+
+
+Information current as of 11/09/2026                      Page 22 of 46
+ County: Klickitat
+ Klickitat County White Salmon Lab
+                501 NE Washington               EPA Lab ID: WA01219
+                White Salmon, WA 98672          DOH #: 173
+                (509) 493-6211                  Scope Expires:07/09/2027
+
+ Microbiology
+                Total coli/E.coli - detect           SM 9223 B Colilert® 24 (PA)
+
+
+ County: Lewis
+ Lewis County Environmental Health Laboratory
+                360 NW North St.                EPA Lab ID: WA00125
+                Chehalis, WA 98532              DOH #: 091
+                (360) 740-1237                  Scope Expires:01/01/2027
+
+ General Chemistry
+                Nitrate as N                         HACH 10206
+ Microbiology
+                Fecal coliform-count                 SM 9221 E1 (EC)
+                Total coli/E.coli - detect           SM 9223 B Colilert® 24 (PA)
+                Total coliforms-count                SM 9221 B
+
+
+ County: Lincoln
+ Lincoln County Environmental Health Lab
+                90 Nicholls                     EPA Lab ID: WA00117
+                Davenport, WA 99122             DOH #: 072
+                509-215-1034 (Ed)               Scope Expires:08/31/2027
+
+ Microbiology
+                Total coli/E.coli - detect           SM 9223 B Colilert® 24 (PA)
+
+
+ County: Okanogan
+ Okanogan County Public Health Laboratory
+                1234 South Second               EPA Lab ID: WA00133
+                Okanogan, WA 98840-0231         DOH #: 093
+                (509) 422-7140                  Scope Expires:06/30/2027
+
+ General Chemistry
+                Nitrate                              SM 4500-NO3¯ D-2011
+ Microbiology
+                Total coli/E.coli - detect           SM 9223 B Colilert® 24 (PA)
+
+
+
+
+Information current as of 11/09/2026                         Page 23 of 46
+ County: Pacific
+ Pacific County DCD WQ Laboratory
+                1216 W. Robert Bush Dr.            EPA Lab ID: WA00131
+                South Bend, WA 98586               DOH #: 137
+                (360) 875-9356                     Scope Expires:07/28/2027
+
+ Microbiology
+                Total coli/E.coli - detect              SM 9223 B Colilert® 24 (PA)
+
+
+ County: Pierce
+ Water Management Laboratories, Inc.
+                1515 80th St E                     EPA Lab ID: WA00005
+                Tacoma, WA 98404-3315              DOH #: 089
+                (253) 531-3121                     Scope Expires:01/31/2027
+
+ Chromatography
+                1,2,3-Trichloropropane                  EPA 504.1_1.1_1995
+                1,2-Dibromoethane (EDB, Ethylene        EPA 504.1_1.1_1995
+                dibromide)
+                1-Naphthol                              EPA 531.2_1_2001
+                2,4,5-T                                 EPA 515.4_1_2000
+                2,4-D                                   EPA 515.4_1_2000
+                2,4-DB                                  EPA 515.4_1_2000
+                3,5-Dichlorobenzoic acid                EPA 515.4_1_2000
+                3-Hydroxycarbofuran                     EPA 531.2_1_2001
+                Acifluorfen                             EPA 515.4_1_2000
+                Aldicarb (Temik)                        EPA 531.2_1_2001
+                Aldicarb sulfone                        EPA 531.2_1_2001
+                Aldicarb sulfoxide                      EPA 531.2_1_2001
+                Aroclor-1016 (PCB-1016)                 EPA 508.1_2_1995
+                Aroclor-1221 (PCB-1221)                 EPA 508.1_2_1995
+                Aroclor-1232 (PCB-1232)                 EPA 508.1_2_1995
+                Aroclor-1242 (PCB-1242)                 EPA 508.1_2_1995
+                Aroclor-1248 (PCB-1248)                 EPA 508.1_2_1995
+                Aroclor-1254 (PCB-1254)                 EPA 508.1_2_1995
+                Aroclor-1260 (PCB-1260)                 EPA 508.1_2_1995
+                Bentazon                                EPA 515.4_1_2000
+                Bromoacetic acid (MBAA, BAA)            EPA 552.3 Rev 1 (2003)
+                Bromochloroacetic acid (BCAA)           EPA 552.3 Rev 1 (2003)
+                Bromodichloroacetic acid (BDCAA)        EPA 552.3 Rev 1 (2003)
+                Carbaryl (Sevin)                        EPA 531.2_1_2001
+                Carbofuran (Furaden)                    EPA 531.2_1_2001
+                Chloramben                              EPA 515.4_1_2000
+                Chlordane (tech.)                       EPA 508.1_2_1995
+
+
+
+Information current as of 11/09/2026                            Page 24 of 46
+ County: Pierce
+ Water Management Laboratories, Inc.
+               1515 80th St E                            EPA Lab ID: WA00005
+               Tacoma, WA 98404-3315                     DOH #: 089
+               (253) 531-3121                            Scope Expires:01/31/2027
+
+               Chloroacetic acid (MCAA, CAA)                  EPA 552.3 Rev 1 (2003)
+               Chlorodibromoacetic acid (CDBAA)               EPA 552.3 Rev 1 (2003)
+               Dacthal (DCPA)                                 EPA 515.4_1_2000
+               Dacthal Acid Metabolites                       EPA 515.4_1_2000
+               Dalapon                                        EPA 515.4_1_2000
+               DCPA di acid degradate                         EPA 515.4_1_2000
+               DCPA mono acid degradate                       EPA 515.4_1_2000
+               Dibromoacetic acid (DBAA)                      EPA 552.3 Rev 1 (2003)
+               Dibromochloropropane                           EPA 504.1_1.1_1995
+               Dicamba                                        EPA 515.4_1_2000
+               Dichloroacetic acid (DCAA)                     EPA 552.3 Rev 1 (2003)
+               Dichloroprop (Dichlorprop)                     EPA 515.4_1_2000
+               Dinoseb (2-sec-butyl-4,6-dinitrophenol,        EPA 515.4_1_2000
+               DNBP)
+               Methiocarb (Mesurol)                           EPA 531.2_1_2001
+               Methomyl (Lannate)                             EPA 531.2_1_2001
+               Oxamyl                                         EPA 531.2_1_2001
+               PCBs                                           EPA 508.1_2_1995
+               Pentachlorophenol                              EPA 515.4_1_2000
+               Picloram                                       EPA 515.4_1_2000
+               Propoxur (Baygon)                              EPA 531.2_1_2001
+               Silvex (2,4,5-TP)                              EPA 515.4_1_2000
+               Toxaphene (Chlorinated camphene)               EPA 508.1_2_1995
+               Tribromoacetic acid (TBAA)                     EPA 552.3 Rev 1 (2003)
+               Trichloroacetic acid (TCAA)                    EPA 552.3 Rev 1 (2003)
+ General Chemistry
+               Alkalinity                                     SM 2320 B-2011
+               Anionic Surfactants (MBAS)                     SM 5540 C-2011
+               Bromate                                        EPA 300.1_1_1997
+               Bromide                                        EPA 300.1_1_1997
+               Calcium                                        SM 3500-Ca B-2011
+               Chlorate                                       EPA 300.1_1_1997
+               Chloride                                       EPA 300.0_2.1_1993
+               Chlorine (Residual), Free                      SM 4500-Cl G-2011
+               Chlorine (Residual), Total                     SM 4500-Cl G-2011
+               Chlorite                                       EPA 300.1_1_1997
+               Chromium, Hexavalent                           SM 3500-Cr B-2011
+               Color                                          SM 2120 B-2011
+
+
+
+Information current as of 11/09/2026                                 Page 25 of 46
+ County: Pierce
+ Water Management Laboratories, Inc.
+               1515 80th St E                                EPA Lab ID: WA00005
+               Tacoma, WA 98404-3315                         DOH #: 089
+               (253) 531-3121                                Scope Expires:01/31/2027
+
+               Corrosivity                                        SM 2330 B-2016
+               Cyanide, Free                                      SM 4500-CN¯ F-2016
+               Cyanide, Total                                     SM 4500-CN¯ F-2016
+               Dissolved Organic Carbon                           SM 5310 C-2014
+               Fluoride                                           EPA 300.0_2.1_1993
+               Hardness, Total (as CaCO3)                         SM 2340 C-2011
+               Nitrate + Nitrite as N                             EPA 300.0_2.1_1993
+               Nitrate as N                                       EPA 300.0_2.1_1993
+               Nitrite as N                                       EPA 300.0_2.1_1993
+               Orthophosphate as P                                EPA 300.0_2.1_1993
+               Perchlorate                                        EPA 314.0-99
+               pH                                                 SM 4500-H+ B-2011
+               Silica                                             SM 4500-SiO2 C-2011
+               Solids, Total Dissolved                            SM 2540 C-2015
+               Specific Conductance                               SM 2510 B-2011
+               Sulfate                                            EPA 300.0_2.1_1993
+               Total Organic Carbon                               SM 5310 C-2014
+               Turbidity                                          SM 2130 B-2011
+               UV Absorbing Organics                              SM 5910 B-2013
+ Mass Spectrometry
+               1,1,1,2-Tetrachloroethane                          EPA 524.2_4.1_1995
+               1,1,1-Trichloroethane                              EPA 524.2_4.1_1995
+               1,1,2,2-Tetrachloroethane                          EPA 524.2_4.1_1995
+               1,1,2-Trichloroethane                              EPA 524.2_4.1_1995
+               1,1-Dichloroethane                                 EPA 524.2_4.1_1995
+               1,1-Dichloroethylene                               EPA 524.2_4.1_1995
+               1,1-Dichloropropene                                EPA 524.2_4.1_1995
+               1,2,3-Trichlorobenzene                             EPA 524.2_4.1_1995
+               1,2,4-Trichlorobenzene                             EPA 524.2_4.1_1995
+               1,2,4-Trimethylbenzene                             EPA 524.2_4.1_1995
+               1,2-Dichlorobenzene                                EPA 524.2_4.1_1995
+               1,2-Dichloroethane (Ethylene dichloride)           EPA 524.2_4.1_1995
+               1,2-Dichloropropane                                EPA 524.2_4.1_1995
+               1,3,5-Trimethylbenzene                             EPA 524.2_4.1_1995
+               1,3-Dichloropropane                                EPA 524.2_4.1_1995
+               1,4-Dichlorobenzene                                EPA 524.2_4.1_1995
+               2,2',3,3',4,4',5,5'-Octachlorobiphenyl (BZ-        EPA 525.2_2_1995
+               194)
+
+
+
+Information current as of 11/09/2026                                     Page 26 of 46
+ County: Pierce
+ Water Management Laboratories, Inc.
+               1515 80th St E                              EPA Lab ID: WA00005
+               Tacoma, WA 98404-3315                       DOH #: 089
+               (253) 531-3121                              Scope Expires:01/31/2027
+
+               2,2',3,3',4,4',5-Heptachlorobiphenyl (BZ-        EPA 525.2_2_1995
+               170)
+               2,2',3,4,4',5',6-Heptachlorobiphenyl (BZ-        EPA 525.2_2_1995
+               183)
+               2,2',3,4,5'-Pentachlorobiphenyl (BZ-87)          EPA 525.2_2_1995
+               2,2',4,5'-Tetrachlorobiphenyl (BZ-49)            EPA 525.2_2_1995
+               2,2-Dichloropropane                              EPA 524.2_4.1_1995
+               2,3-Dichlorobiphenyl (BZ-5)                      EPA 525.2_2_1995
+               2,4',5-Trichlorobiphenyl (BZ-31)                 EPA 525.2_2_1995
+               2,4-Dinitrotoluene (2,4-DNT)                     EPA 525.2_2_1995
+               2,6-Dinitrotoluene (2,6-DNT)                     EPA 525.2_2_1995
+               2-Chlorobiphenyl (BZ-1)                          EPA 525.2_2_1995
+               4,4'-DDD                                         EPA 525.2_2_1995
+               4,4'-DDE                                         EPA 525.2_2_1995
+               4,4'-DDT                                         EPA 525.2_2_1995
+               4-Isopropyltoluene (p-Cymene)                    EPA 524.2_4.1_1995
+               Acenaphthylene                                   EPA 525.2_2_1995
+               Acrolein (Propenal)                              EPA 524.2_4.1_1995
+               Alachlor                                         EPA 525.2_2_1995
+               Aldrin                                           EPA 525.2_2_1995
+               Ametryn                                          EPA 525.2_2_1995
+               Anthracene                                       EPA 525.2_2_1995
+               Atraton                                          EPA 525.2_2_1995
+               Atrazine                                         EPA 525.2_2_1995
+               Benzene                                          EPA 524.2_4.1_1995
+               Benzo(a)anthracene                               EPA 525.2_2_1995
+               Benzo(a)pyrene                                   EPA 525.2_2_1995
+               Benzo(g,h,i)perylene                             EPA 525.2_2_1995
+               Benzo(k)fluoranthene                             EPA 525.2_2_1995
+               Benzo[b]fluoranthene                             EPA 525.2_2_1995
+               Bromacil                                         EPA 525.2_2_1995
+               Bromobenzene                                     EPA 524.2_4.1_1995
+               Bromochloromethane                               EPA 524.2_4.1_1995
+               Bromodichloromethane                             EPA 524.2_4.1_1995
+               Bromoform                                        EPA 524.2_4.1_1995
+               Butachlor                                        EPA 525.2_2_1995
+               Butylate                                         EPA 525.2_2_1995
+               Carbon tetrachloride                             EPA 524.2_4.1_1995
+               Carboxin                                         EPA 525.2_2_1995
+
+
+Information current as of 11/09/2026                                   Page 27 of 46
+ County: Pierce
+ Water Management Laboratories, Inc.
+               1515 80th St E                       EPA Lab ID: WA00005
+               Tacoma, WA 98404-3315                DOH #: 089
+               (253) 531-3121                       Scope Expires:01/31/2027
+
+               Chlorobenzene                             EPA 524.2_4.1_1995
+               Chlorobenzilate                           EPA 525.2_2_1995
+               Chlorodibromomethane                      EPA 524.2_4.1_1995
+               Chloroethane (Ethyl chloride)             EPA 524.2_4.1_1995
+               Chloroform                                EPA 524.2_4.1_1995
+               Chloroneb                                 EPA 525.2_2_1995
+               Chloropropham                             EPA 525.2_2_1995
+               Chlorothalonil                            EPA 525.2_2_1995
+               Chlorpyrifos                              EPA 525.2_2_1995
+               Chrysene                                  EPA 525.2_2_1995
+               cis-1,2-Dichloroethylene                  EPA 524.2_4.1_1995
+               cis-1,3-Dichloropropene                   EPA 524.2_4.1_1995
+               cis-Permethrin                            EPA 525.2_2_1995
+               Cyanazine                                 EPA 525.2_2_1995
+               Cycloate                                  EPA 525.2_2_1995
+               Dacthal (DCPA)                            EPA 525.2_2_1995
+               Decachlorobiphenyl (BZ-209)               EPA 525.2_2_1995
+               Di(2-ethylhexyl)adipate                   EPA 525.2_2_1995
+               Di(2-ethylhexyl)phthalate, [Bis(2-        EPA 525.2_2_1995
+               ethylhexyl) phthalate], [DEHP]
+               Diazinon                                  EPA 525.2_2_1995
+               Dibenz(a,h) anthracene                    EPA 525.2_2_1995
+               Dibromomethane                            EPA 524.2_4.1_1995
+               Dichlorodifluoromethane (Freon-12)        EPA 524.2_4.1_1995
+               Dichloromethane (DCM, Methylene           EPA 524.2_4.1_1995
+               chloride)
+               Dieldrin                                  EPA 525.2_2_1995
+               Diethyl phthalate                         EPA 525.2_2_1995
+               Dimethyl phthalate                        EPA 525.2_2_1995
+               Di-n-butyl phthalate                      EPA 525.2_2_1995
+               Diphenamid                                EPA 525.2_2_1995
+               Disulfoton                                EPA 525.2_2_1995
+               Endosulfan I                              EPA 525.2_2_1995
+               Endosulfan II                             EPA 525.2_2_1995
+               Endosulfan sulfate                        EPA 525.2_2_1995
+               Endrin                                    EPA 525.2_2_1995
+               Endrin aldehyde                           EPA 525.2_2_1995
+               EPTC (Eptam, s-ethyl-dipropyl thio        EPA 525.2_2_1995
+               carbamate)
+
+
+
+Information current as of 11/09/2026                            Page 28 of 46
+ County: Pierce
+ Water Management Laboratories, Inc.
+               1515 80th St E                    EPA Lab ID: WA00005
+               Tacoma, WA 98404-3315             DOH #: 089
+               (253) 531-3121                    Scope Expires:01/31/2027
+
+               Ethoprop                               EPA 525.2_2_1995
+               Ethylbenzene                           EPA 524.2_4.1_1995
+               Etridiazole                            EPA 525.2_2_1995
+               Fenamiphos                             EPA 525.2_2_1995
+               Fenarimol                              EPA 525.2_2_1995
+               Fluoranthene                           EPA 525.2_2_1995
+               Fluorene                               EPA 525.2_2_1995
+               gamma-BHC (Lindane, gamma-             EPA 525.2_2_1995
+               Hexachlorocyclohexane)
+               Heptachlor                             EPA 525.2_2_1995
+               Heptachlor epoxide                     EPA 525.2_2_1995
+               Hexachlorobenzene                      EPA 525.2_2_1995
+               Hexachlorobutadiene                    EPA 524.2_4.1_1995
+               Hexachlorocyclohexane                  EPA 525.2_2_1995
+               Hexachlorocyclopentadiene              EPA 525.2_2_1995
+               Hexachloroethane                       EPA 524.2_4.1_1995
+               Hexazinone                             EPA 525.2_2_1995
+               Indeno(1,2,3-cd) pyrene                EPA 525.2_2_1995
+               Isophorone                             EPA 525.2_2_1995
+               Isopropylbenzene                       EPA 524.2_4.1_1995
+               Merphos                                EPA 525.2_2_1995
+               Methoxychlor                           EPA 525.2_2_1995
+               Methyl bromide (Bromomethane)          EPA 524.2_4.1_1995
+               Methyl chloride (Chloromethane)        EPA 524.2_4.1_1995
+               Methyl paraoxon                        EPA 525.2_2_1995
+               Metolachlor                            EPA 525.2_2_1995
+               Metribuzin                             EPA 525.2_2_1995
+               Mevinphos                              EPA 525.2_2_1995
+               MGK-264                                EPA 525.2_2_1995
+               Molinate                               EPA 525.2_2_1995
+               m-Xylene                               EPA 524.2_4.1_1995
+               Naphthalene                            EPA 524.2_4.1_1995
+               Napropamide                            EPA 525.2_2_1995
+               n-Butylbenzene                         EPA 524.2_4.1_1995
+               Norflurazon                            EPA 525.2_2_1995
+               o-Xylene                               EPA 524.2_4.1_1995
+               PCBs                                   EPA 525.2_2_1995
+               Pebulate                               EPA 525.2_2_1995
+               Pentachlorophenol                      EPA 525.2_2_1995
+
+
+Information current as of 11/09/2026                         Page 29 of 46
+ County: Pierce
+ Water Management Laboratories, Inc.
+               1515 80th St E                            EPA Lab ID: WA00005
+               Tacoma, WA 98404-3315                     DOH #: 089
+               (253) 531-3121                            Scope Expires:01/31/2027
+
+               Phenanthrene                                   EPA 525.2_2_1995
+               Prometon                                       EPA 525.2_2_1995
+               Prometryn                                      EPA 525.2_2_1995
+               Pronamide (Kerb)                               EPA 525.2_2_1995
+               Propachlor (Ramrod)                            EPA 525.2_2_1995
+               Propazine                                      EPA 525.2_2_1995
+               p-Xylene                                       EPA 524.2_4.1_1995
+               Pyrene                                         EPA 525.2_2_1995
+               sec-Butylbenzene                               EPA 524.2_4.1_1995
+               Simazine                                       EPA 525.2_2_1995
+               Simetryn                                       EPA 525.2_2_1995
+               Stirolos                                       EPA 525.2_2_1995
+               Styrene                                        EPA 524.2_4.1_1995
+               Tebuthiuron                                    EPA 525.2_2_1995
+               Terbacil                                       EPA 525.2_2_1995
+               Terbufos                                       EPA 525.2_2_1995
+               Terbutryn                                      EPA 525.2_2_1995
+               tert-Butylbenzene                              EPA 524.2_4.1_1995
+               Tetrachloroethylene (Perchloroethylene)        EPA 524.2_4.1_1995
+               Toluene                                        EPA 524.2_4.1_1995
+               Total Trihalomethanes                          EPA 524.2_4.1_1995
+               trans Permethrin                               EPA 525.2_2_1995
+               trans-1,2-Dichloroethylene                     EPA 524.2_4.1_1995
+               Triademefon                                    EPA 525.2_2_1995
+               Trichloroethene (Trichloroethylene)            EPA 524.2_4.1_1995
+               Trichlorofluoromethane (Freon 11)              EPA 524.2_4.1_1995
+               Tricyclazole                                   EPA 525.2_2_1995
+               Trifluralin (Treflan)                          EPA 525.2_2_1995
+               Vernolate                                      EPA 525.2_2_1995
+               Vinyl chloride                                 EPA 524.2_4.1_1995
+               Xylene (total)                                 EPA 524.2_4.1_1995
+ Metals
+               Aluminum                                       EPA 200.8_5.4_1994
+               Antimony                                       EPA 200.8_5.4_1994
+               Arsenic                                        EPA 200.8_5.4_1994
+               Barium                                         EPA 200.8_5.4_1994
+               Beryllium                                      EPA 200.8_5.4_1994
+               Cadmium                                        EPA 200.8_5.4_1994
+
+
+
+Information current as of 11/09/2026                                 Page 30 of 46
+ County: Pierce
+ Water Management Laboratories, Inc.
+                1515 80th St E               EPA Lab ID: WA00005
+                Tacoma, WA 98404-3315        DOH #: 089
+                (253) 531-3121               Scope Expires:01/31/2027
+
+                Calcium                           SM 3111 B-2011
+                Chromium                          EPA 200.8_5.4_1994
+                Copper                            EPA 200.8_5.4_1994
+                Iron                              SM 3111 B-2011
+                Lead                              EPA 200.8_5.4_1994
+                Magnesium                         EPA 200.8_5.4_1994
+                Manganese                         EPA 200.8_5.4_1994
+                Mercury                           EPA 200.8_5.4_1994
+                Nickel                            EPA 200.8_5.4_1994
+                Selenium                          EPA 200.8_5.4_1994
+                Silver                            EPA 200.8_5.4_1994
+                Sodium                            SM 3111 B-2011
+                Thallium                          EPA 200.8_5.4_1994
+                Total Uranium                     EPA 200.8_5.4_1994
+                Zinc                              EPA 200.8_5.4_1994
+ Microbiology
+                E.coli-count                      SM 9221 B+F (LTB/EC Mug)
+                Fecal coliform-count              SM 9222 D (mFC)
+                Heterotrophic Bacteria            SM 9215 B (PCA)
+                Total coli/E.coli - detect        SM 9223 B Colilert® 24 (PA)
+                Total coliforms-count             SM 9223 B Colilert 18® QTray®
+
+
+
+
+Information current as of 11/09/2026                      Page 31 of 46
+ County: Skagit
+ Eurofins DW and WW West, Washington
+ Laboratory
+                1620 S Walnut Street         EPA Lab ID: WA00097
+                Burlington, WA 98233         DOH #: 046
+                (360) 757-1400               Scope Expires:01/18/2027
+
+ General Chemistry
+                Alkalinity                        SM 2320 B-2011
+                Bromate                           EPA 300.1_1_1997
+                Bromide                           EPA 300.1_1_1997
+                Chlorate                          EPA 300.1_1_1997
+                Chloride                          EPA 300.0_2.1_1993
+                Chlorine (Residual), Free         SM 4500-Cl G-2011
+                Chlorine Dioxide                  SM 4500-ClO2 D-93
+                Chlorite                          EPA 300.1_1_1997
+                Color                             SM 2120 B-2011
+                Cyanide, Available                OIA 1677
+                Dissolved Organic Carbon          SM 5310 B-2014
+                Fluoride                          EPA 300.0_2.1_1993
+                Nitrate + Nitrite as N            EPA 300.0_2.1_1993
+                Nitrate as N                      SM 4500-NO3¯ F-2016
+                Nitrite as N                      SM 4500-NO3¯ F-2016
+                Orthophosphate as P               EPA 300.0_2.1_1993
+                pH                                EPA 150.1_1982
+                Solids, Total Dissolved           SM 2540 C-2015
+                Specific Conductance              SM 2510 B-2011
+                Sulfate                           EPA 300.0_2.1_1993
+                Total Organic Carbon              SM 5310 B-2014
+                Turbidity                         EPA 180.1_2_1993
+ Microbiology
+                E.coli-count                      SM 9221 B+F (LTB/EC Mug)
+                Fecal coliform-count              SM 9221 E1 (EC)
+                Heterotrophic Bacteria            SM 9215 B (R2A)
+                Total coli/E.coli - detect        SM 9223 B Colilert 18® (PA)
+                Total coliforms-count             SM 9221 B
+
+
+
+
+Information current as of 11/09/2026                      Page 32 of 46
+ County: Snohomish
+ Everett Environmental Laboratory
+               4027 4th Street SE        EPA Lab ID: WA00160
+               Everett, WA 98205         DOH #: 110
+               (425) 257-8230            Scope Expires:04/21/2027
+
+ General Chemistry
+               Alkalinity                     SM 2320 B-2011
+               Chloride                       SM 4500-Cl¯ E-2011
+               Color                          SM 2120 B-2011
+               Fluoride                       SM 4500-F¯ C-2011
+               Nitrate + Nitrite as N         EPA 353.2_2_1993
+               Nitrate as N                   EPA 353.2_2_1993
+               Nitrite as N                   EPA 353.2_2_1993
+               Orthophosphate as P            EPA 365.1_2_1993
+               Solids, Total Dissolved        SM 2540 C-2015
+               Specific Conductance           SM 2510 B-2011
+               Total Organic Carbon           SM 5310 B-2014
+               Turbidity                      SM 2130 B-2011
+               UV Absorbing Organics          EPA 415.3_1.2_2009
+ Metals
+               Aluminum                       EPA 200.8_5.4_1994
+               Antimony                       EPA 200.8_5.4_1994
+               Arsenic                        EPA 200.8_5.4_1994
+               Barium                         EPA 200.8_5.4_1994
+               Beryllium                      EPA 200.8_5.4_1994
+               Boron                          EPA 200.8_5.4_1994
+               Cadmium                        EPA 200.8_5.4_1994
+               Chromium                       EPA 200.8_5.4_1994
+               Copper                         EPA 200.8_5.4_1994
+               Lead                           EPA 200.8_5.4_1994
+               Manganese                      EPA 200.8_5.4_1994
+               Mercury                        EPA 245.1_3_1994
+               Molybdenum                     EPA 200.8_5.4_1994
+               Nickel                         EPA 200.8_5.4_1994
+               Potassium                      EPA 200.8_5.4_1994
+               Selenium                       EPA 200.8_5.4_1994
+               Silver                         EPA 200.8_5.4_1994
+               Thallium                       EPA 200.8_5.4_1994
+               Vanadium                       EPA 200.8_5.4_1994
+               Zinc                           EPA 200.8_5.4_1994
+
+
+
+
+Information current as of 11/09/2026                 Page 33 of 46
+ County: Snohomish
+ Everett Environmental Laboratory
+                4027 4th Street SE           EPA Lab ID: WA00160
+                Everett, WA 98205            DOH #: 110
+                (425) 257-8230               Scope Expires:04/21/2027
+
+ Microbiology
+                E.coli-count                      SM 9223 B Colilert 24 Qtray
+                Fecal coliform-count              SM 9222 D (mFC)
+                Heterotrophic Bacteria            SM 9215 B (PCA)
+                Total coli/E.coli - detect        SM 9222 B+9221 F (LES Endo/EC MUG-PA)
+                Total coliforms-count             SM 9222 B (Endo)
+
+
+ County: Snohomish
+ Freshwater Analytical Labs, LLC
+                7301 197th PL NE             EPA Lab ID: WA11116
+                Arlington, WA 98223          DOH #:
+                360-913-7542                 Scope Expires:09/22/2027
+
+ Microbiology
+                Total coli/E.coli - detect        SM 9223 B Colisure® (PA)
+
+
+
+
+Information current as of 11/09/2026                      Page 34 of 46
+ County: Snohomish
+ Precision Analytical Laboratories, LLC
+               3430 16th Street             EPA Lab ID: WA01289
+               Everett, WA 98201            DOH #: 295
+               425.740.4597                 Scope Expires:09/25/2027
+
+ General Chemistry
+               Chlorine (Residual), Free         SM 4500-Cl G-2011
+               Chlorine (Residual), Total        SM 4500-Cl G-2011
+               Cyanide, Total                    SM 4500-CN¯ E-2016
+               pH                                SM 4500-H+ B-2011
+               Specific Conductance              SM 2510 B-2021
+               Turbidity                         EPA 180.1_2_1993
+ Metals
+               Aluminum                          EPA 200.8_5.4_1994
+               Antimony                          EPA 200.8_5.4_1994
+               Arsenic                           EPA 200.8_5.4_1994
+               Barium                            EPA 200.8_5.4_1994
+               Beryllium                         EPA 200.8_5.4_1994
+               Cadmium                           EPA 200.8_5.4_1994
+               Chromium                          EPA 200.8_5.4_1994
+               Copper                            EPA 200.8_5.4_1994
+               Lead                              EPA 200.8_5.4_1994
+               Manganese                         EPA 200.8_5.4_1994
+               Molybdenum                        EPA 200.8_5.4_1994
+               Nickel                            EPA 200.8_5.4_1994
+               Selenium                          EPA 200.8_5.4_1994
+               Silver                            EPA 200.8_5.4_1994
+               Thallium                          EPA 200.8_5.4_1994
+               Vanadium                          EPA 200.8_5.4_1994
+               Zinc                              EPA 200.8_5.4_1994
+
+
+ County: Spokane
+ Anatek Labs, Inc - Spokane
+               504 E. Sprague Ave           EPA Lab ID: WA00169
+               Spokane, WA 99202            DOH #: 112
+               (509) 838-3999               Scope Expires:11/15/2027
+
+ General Chemistry
+               Alkalinity                        SM 2320 B-2011
+               Chloride                          EPA 300.0_2.1_1993
+               Chlorine (Residual), Total        SM 4500-Cl G-2011
+               Color                             SM 2120 B-2011
+               Cyanide, Total                    SM 4500-CN¯ E-2016
+
+
+Information current as of 11/09/2026                    Page 35 of 46
+ County: Spokane
+ Anatek Labs, Inc - Spokane
+               504 E. Sprague Ave                         EPA Lab ID: WA00169
+               Spokane, WA 99202                          DOH #: 112
+               (509) 838-3999                             Scope Expires:11/15/2027
+
+               Fluoride                                        EPA 300.0_2.1_1993
+               Hardness (calc.)                                SM 2340 B-2011
+               Hardness, Total (as CaCO3)                      SM 2340 C-2011
+               Nitrate + Nitrite as N                          EPA 300.0_2.1_1993
+               Nitrate as N                                    EPA 300.0_2.1_1993
+               Nitrite as N                                    EPA 300.0_2.1_1993
+               Orthophosphate as P                             EPA 300.0_2.1_1993
+               pH                                              SM 4500-H+ B-2011
+               Solids, Total Dissolved                         SM 2540 C-2015
+               Specific Conductance                            SM 2510 B-2011
+               Sulfate                                         EPA 300.0_2.1_1993
+               Turbidity                                       EPA 180.1_2_1993
+               UV Absorbing Organics                           SM 5910 B-2011
+ Mass Spectrometry
+               1,1,1,2-Tetrachloroethane                       EPA 524.4_1.0_2013
+               1,1,1-Trichloroethane                           EPA 524.4_1.0_2013
+               1,1,2,2-Tetrachloroethane                       EPA 524.4_1.0_2013
+               1,1,2-Trichloroethane                           EPA 524.4_1.0_2013
+               1,1-Dichloroethane                              EPA 524.4_1.0_2013
+               1,1-Dichloroethylene                            EPA 524.4_1.0_2013
+               1,1-Dichloropropene                             EPA 524.4_1.0_2013
+               1,2,3-Trichlorobenzene                          EPA 524.4_1.0_2013
+               1,2,3-Trichloropropane                          EPA 524.4_1.0_2013
+               1,2,4-Trichlorobenzene                          EPA 524.4_1.0_2013
+               1,2,4-Trimethylbenzene                          EPA 524.4_1.0_2013
+               1,2-Dichlorobenzene                             EPA 524.4_1.0_2013
+               1,2-Dichloroethane (Ethylene dichloride)        EPA 524.4_1.0_2013
+               1,2-Dichloropropane                             EPA 524.4_1.0_2013
+               1,3,5-Trimethylbenzene                          EPA 524.4_1.0_2013
+               1,3-Dichlorobenzene                             EPA 524.4_1.0_2013
+               1,3-Dichloropropane                             EPA 524.4_1.0_2013
+               1,4-Dichlorobenzene                             EPA 524.4_1.0_2013
+               2-Butanone (Methyl ethyl ketone, MEK)           EPA 524.4_1.0_2013
+               2-Chlorotoluene                                 EPA 524.4_1.0_2013
+               2-Hexanone                                      EPA 524.4_1.0_2013
+               4-Chlorotoluene                                 EPA 524.4_1.0_2013
+               4-Isopropyltoluene (p-Cymene)                   EPA 524.4_1.0_2013
+               4-Methyl-2-pentanone (MIBK)                     EPA 524.4_1.0_2013
+
+
+
+Information current as of 11/09/2026                                  Page 36 of 46
+               Spokane, WA 99202                         DOH #: 112
+               (509) 838-3999                            Scope Expires:11/15/2027
+
+               Acetone                                        EPA 524.4_1.0_2013
+               Acrolein (Propenal)                            EPA 524.4_1.0_2013
+               Acrylonitrile                                  EPA 524.4_1.0_2013
+               Benzene                                        EPA 524.4_1.0_2013
+               Bromobenzene                                   EPA 524.4_1.0_2013
+               Bromochloromethane                             EPA 524.4_1.0_2013
+               Bromodichloromethane                           EPA 524.4_1.0_2013
+               Bromoform                                      EPA 524.4_1.0_2013
+               Carbon disulfide                               EPA 524.4_1.0_2013
+               Carbon tetrachloride                           EPA 524.4_1.0_2013
+               Chlorobenzene                                  EPA 524.4_1.0_2013
+               Chloroform                                     EPA 524.4_1.0_2013
+               cis-1,2-Dichloroethylene                       EPA 524.4_1.0_2013
+               cis-1,3-Dichloropropene                        EPA 524.4_1.0_2013
+               Dibromochloromethane                           EPA 524.4_1.0_2013
+               Dibromomethane                                 EPA 524.4_1.0_2013
+               Dichlorodifluoromethane (Freon-12)             EPA 524.4_1.0_2013
+               Dichloromethane (DCM, Methylene                EPA 524.4_1.0_2013
+               chloride)
+               Ethylbenzene                                   EPA 524.4_1.0_2013
+               Hexachlorobutadiene                            EPA 524.4_1.0_2013
+               Isopropylbenzene                               EPA 524.4_1.0_2013
+               m+p-xylene                                     EPA 524.4_1.0_2013
+               Methyl bromide (Bromomethane)                  EPA 524.4_1.0_2013
+               Methyl chloride (Chloromethane)                EPA 524.4_1.0_2013
+               Methyl tert-butyl ether (MTBE)                 EPA 524.4_1.0_2013
+               Naphthalene                                    EPA 524.4_1.0_2013
+               n-Butylbenzene                                 EPA 524.4_1.0_2013
+               n-Propylbenzene                                EPA 524.4_1.0_2013
+               o-Xylene                                       EPA 524.4_1.0_2013
+               sec-Butylbenzene                               EPA 524.4_1.0_2013
+               Styrene                                        EPA 524.4_1.0_2013
+               tert-Butylbenzene                              EPA 524.4_1.0_2013
+               Tetrachloroethylene (Perchloroethylene)        EPA 524.4_1.0_2013
+               Toluene                                        EPA 524.4_1.0_2013
+               Total Trihalomethanes                          EPA 524.4_1.0_2013
+               trans-1,2-Dichloroethylene                     EPA 524.4_1.0_2013
+               trans-1,3-Dichloropropylene                    EPA 524.4_1.0_2013
+               trans-1,4-Dichloro-2-butene                    EPA 524.4_1.0_2013
+               Trichloroethene (Trichloroethylene)            EPA 524.4_1.0_2013
+               Trichlorofluoromethane (Freon 11)              EPA 524.4_1.0_2013
+               Vinyl chloride                                 EPA 524.4_1.0_2013
+               Xylene (total)                                 EPA 524.4_1.0_2013
+
+
+Information current as of 11/09/2026                                 Page 37 of 46
+ County: Spokane
+ Anatek Labs, Inc - Spokane
+                  504 E. Sprague Ave           EPA Lab ID: WA00169
+                  Spokane, WA 99202            DOH #: 112
+                  (509) 838-3999               Scope Expires:11/15/2027
+
+ Metals
+                  Aluminum                          EPA 200.8_5.4_1994
+                  Antimony                          EPA 200.8_5.4_1994
+                  Arsenic                           EPA 200.8_5.4_1994
+                  Barium                            EPA 200.8_5.4_1994
+                  Beryllium                         EPA 200.8_5.4_1994
+                  Cadmium                           EPA 200.8_5.4_1994
+                  Chromium                          EPA 200.8_5.4_1994
+                  Copper                            EPA 200.8_5.4_1994
+                  Lead                              EPA 200.8_5.4_1994
+                  Manganese                         EPA 200.8_5.4_1994
+                  Mercury                           EPA 200.8_5.4_1994
+                  Nickel                            EPA 200.8_5.4_1994
+                  Selenium                          EPA 200.8_5.4_1994
+                  Silver                            EPA 200.8_5.4_1994
+                  Thallium                          EPA 200.8_5.4_1994
+                  Total Uranium                     EPA 200.8_5.4_1994
+                  Zinc                              EPA 200.8_5.4_1994
+ Microbiology
+                  E.coli-count                      SM 9221 B+F (LTB/EC Mug)
+                  Fecal coliform-count              SM 9222 D (mFC)
+                  Heterotrophic Bacteria            SM 9215 B (PCA)
+                  Total coli/E.coli - detect        SM 9223 B Colilert 18® (PA)
+                  Total coliforms-count             SM 9221 B
+ Radiochemistry
+                  Gross Alpha                       EPA 900.0-80
+                  Gross Beta                        EPA 900.0-80
+                  Radium-226                        EPA 903.0-80
+                  Radium-228                        EPA 904.0-80
+
+
+
+
+Information current as of 11/09/2026                        Page 38 of 46
+ County: Spokane
+ Eurofins Spokane
+                11922 E 1st                     EPA Lab ID: WA01220
+                Spokane Valley, WA 99206-5302   DOH #: 111
+                (509) 924-9200                  Scope Expires:01/06/2027
+
+ General Chemistry
+                Chloride                             EPA 300.0_2.1_1993
+                Color                                SM 2120 B-2011
+                Fluoride                             EPA 300.0_2.1_1993
+                Nitrate as N                         EPA 300.0_2.1_1993
+                Nitrite as N                         EPA 300.0_2.1_1993
+                Solids, Total Dissolved              SM 2540 C-2015
+                Specific Conductance                 SM 2510 B-2011
+                Sulfate                              EPA 300.0_2.1_1993
+                Turbidity                            EPA 180.1_2_1993
+ Microbiology
+                Total coli/E.coli - detect           SM 9223 B Colilert® 24 (PA)
+
+
+ County: Spokane
+ Tshimakain Creek Laboratories
+                5503 E Broadway Ave             EPA Lab ID: WA01260
+                Spokane Valley, WA 99212        DOH #: 210
+                (509) 928-3577                  Scope Expires:11/21/2027
+
+ General Chemistry
+                Alkalinity                           SM 2320 B-2011
+                Chloride                             EPA 300.0_2.1_1993
+                Fluoride                             EPA 300.0_2.1_1993
+                Nitrate as N                         EPA 300.0_2.1_1993
+                Nitrite as N                         EPA 300.0_2.1_1993
+                Orthophosphate as P                  EPA 300.0_2.1_1993
+                pH                                   SM 4500-H+ B-2011
+                Solids, Total Dissolved              SM 2540 C-2015
+                Specific Conductance                 SM 2510 B-2011
+                Sulfate                              EPA 300.0_2.1_1993
+                Turbidity                            SM 2130 B-2011
+ Microbiology
+                Fecal coliform-count                 SM 9222 D (mFC)
+                Total coli/E.coli - detect           EPA Modified Colitag V2
+
+
+
+
+Information current as of 11/09/2026                         Page 39 of 46
+ County: Thurston
+ Olympic Analytical LLC dba Vanguard Laboratory
+                2635 Parkmont Lane SW             EPA Lab ID: WA11070
+                Olympia, WA 98502                 DOH #: 285
+                360-967-7010                      Scope Expires:03/28/2027
+
+ General Chemistry
+                Nitrate as N                           HACH 10206
+ Microbiology
+                Fecal coliform-count                   SM 9223 B Colilert 18® QTray®
+                Heterotrophic Bacteria                 SM 9215 E SimPlate®
+                Total coli/E.coli - detect             SM 9223 B Colilert 18® (PA)
+
+
+ County: Thurston
+ Thurston County Health Department Laboratory
+                412 Lilly Rd NE                   EPA Lab ID: WA00120
+                Olympia, WA 98506                 DOH #: 080
+                (360) 867-2631                    Scope Expires:05/11/2027
+
+ General Chemistry
+                Nitrate as N                           SM 4500-NO3¯ D-2016
+ Microbiology
+                E.coli-count                           SM 9223 B Colilert 18 Qtray
+                Total coli/E.coli - detect             SM 9223 B Colisure® (PA)
+                Total coliforms-count                  SM 9223 B Colilert 18 Qtray
+
+
+ County: Walla Walla
+ Walla Walla Regional Water Testing Services
+                714 South College Avenue          EPA Lab ID: WA01255
+                College Place, WA 99324           DOH #: 209
+                (509) 526-9287                    Scope Expires:08/31/2027
+
+ General Chemistry
+                Nitrate                                SM 4500-NO3¯ D-2011
+ Microbiology
+                Total coli/E.coli - detect             SM 9223 B Colilert® 24 (PA)
+
+
+
+
+Information current as of 11/09/2026                           Page 40 of 46
+ County: Whatcom
+ Exact Scientific Services, Inc.
+                1355 Pacific Place                         EPA Lab ID: WA01232
+                Ferndale, WA 98248                         DOH #: 174
+                (360) 733-1205                             Scope Expires:08/20/2027
+
+ Chromatography
+                Bromoacetic acid (MBAA, BAA)                    EPA 552.3 Rev 1 (2003)
+                Bromochloroacetic acid (BCAA)                   EPA 552.3 Rev 1 (2003)
+                Chloroacetic acid (MCAA, CAA)                   EPA 552.3 Rev 1 (2003)
+                Dibromoacetic acid (DBAA)                       EPA 552.3 Rev 1 (2003)
+                Dichloroacetic acid (DCAA)                      EPA 552.3 Rev 1 (2003)
+                Trichloroacetic acid (TCAA)                     EPA 552.3 Rev 1 (2003)
+ General Chemistry
+                Alkalinity                                      SM 2320 B-2011
+                Chloride                                        EPA 300.0_2.1_1993
+                Color                                           SM 2120 B-2011
+                Cyanide, Free                                   SM 4500-CN¯ F-2016
+                Cyanide, Total                                  EPA 335.4_1_1993
+                Fluoride                                        EPA 300.0_2.1_1993
+                Hardness, Total (as CaCO3)                      SM 2340 C-2011
+                Nitrate + Nitrite as N                          EPA 300.0_2.1_1993
+                Nitrate as N                                    EPA 300.0_2.1_1993
+                Nitrite as N                                    EPA 300.0_2.1_1993
+                Orthophosphate as P                             EPA 300.0_2.1_1993
+                Solids, Total Dissolved                         SM 2540 C-2015
+                Specific Conductance                            SM 2510 B-2011
+                Sulfate                                         EPA 300.0_2.1_1993
+                Total Organic Carbon                            SM 5310 C-2014
+                Turbidity                                       SM 2130 B-2011
+ Mass Spectrometry
+                1,1,1,2-Tetrachloroethane                       EPA 524.2_4.1_1995
+                1,1,1-Trichloroethane                           EPA 524.2_4.1_1995
+                1,1,2,2-Tetrachloroethane                       EPA 524.2_4.1_1995
+                1,1,2-Trichloroethane                           EPA 524.2_4.1_1995
+                1,1-Dichloroethane                              EPA 524.2_4.1_1995
+                1,1-Dichloroethylene                            EPA 524.2_4.1_1995
+                1,1-Dichloropropene                             EPA 524.2_4.1_1995
+                1,2,3-Trichlorobenzene                          EPA 524.2_4.1_1995
+                1,2,3-Trichloropropane                          EPA 524.2_4.1_1995
+                1,2,4-Trichlorobenzene                          EPA 524.2_4.1_1995
+                1,2,4-Trimethylbenzene                          EPA 524.2_4.1_1995
+                1,2-Dichlorobenzene                             EPA 524.2_4.1_1995
+                1,2-Dichloroethane (Ethylene dichloride)        EPA 524.2_4.1_1995
+
+
+Information current as of 11/09/2026                                   Page 41 of 46
+               1,2-Dichloropropane                       EPA 524.2_4.1_1995
+               1,3,5-Trimethylbenzene                    EPA 524.2_4.1_1995
+               1,3-Dichlorobenzene                       EPA 524.2_4.1_1995
+               1,3-Dichloropropane                       EPA 524.2_4.1_1995
+               1,4-Dichlorobenzene                       EPA 524.2_4.1_1995
+               2,2-Dichloropropane                       EPA 524.2_4.1_1995
+               2-Chlorotoluene                           EPA 524.2_4.1_1995
+               4-Chlorotoluene                           EPA 524.2_4.1_1995
+               4-Isopropyltoluene (p-Cymene)             EPA 524.2_4.1_1995
+               Benzene                                   EPA 524.2_4.1_1995
+               Bromobenzene                              EPA 524.2_4.1_1995
+               Bromochloromethane                        EPA 524.2_4.1_1995
+               Bromodichloromethane                      EPA 524.2_4.1_1995
+               Bromoform                                 EPA 524.2_4.1_1995
+               Carbon tetrachloride                      EPA 524.2_4.1_1995
+               Chlorobenzene                             EPA 524.2_4.1_1995
+               Chlorodibromomethane                      EPA 524.2_4.1_1995
+               Chloroethane (Ethyl chloride)             EPA 524.2_4.1_1995
+               Chloroform                                EPA 524.2_4.1_1995
+               cis-1,2-Dichloroethylene                  EPA 524.2_4.1_1995
+               cis-1,3-Dichloropropene                   EPA 524.2_4.1_1995
+               Dibromomethane                            EPA 524.2_4.1_1995
+               Dichlorodifluoromethane (Freon-12)        EPA 524.2_4.1_1995
+               Ethylbenzene                              EPA 524.2_4.1_1995
+               Hexachlorobutadiene                       EPA 524.2_4.1_1995
+               Isopropylbenzene                          EPA 524.2_4.1_1995
+               Methyl bromide (Bromomethane)             EPA 524.2_4.1_1995
+               Methyl chloride (Chloromethane)           EPA 524.2_4.1_1995
+               Methylene chloride (Dichloromethane)      EPA 524.2_4.1_1995
+               Naphthalene                               EPA 524.2_4.1_1995
+               n-Butylbenzene                            EPA 524.2_4.1_1995
+               n-Propylbenzene                           EPA 524.2_4.1_1995
+               sec-Butylbenzene                          EPA 524.2_4.1_1995
+               Styrene                                   EPA 524.2_4.1_1995
+               tert-Butylbenzene                         EPA 524.2_4.1_1995
+               Tetrachloroethylene (Perchloroethylene)   EPA 524.2_4.1_1995
+               Toluene                                   EPA 524.2_4.1_1995
+               Total Trihalomethanes                     EPA 524.2_4.1_1995
+               trans-1,2-Dichloroethylene                EPA 524.2_4.1_1995
+               trans-1,3-Dichloropropylene               EPA 524.2_4.1_1995
+               Trichloroethene (Trichloroethylene)       EPA 524.2_4.1_1995
+               Trichlorofluoromethane (Freon 11)         EPA 524.2_4.1_1995
+               Vinyl chloride                            EPA 524.2_4.1_1995
+               Xylene (total)                            EPA 524.2_4.1_1995
+
+
+
+Information current as of 11/09/2026                            Page 42 of 46
+ County: Whatcom
+ Exact Scientific Services, Inc.
+                1355 Pacific Place           EPA Lab ID: WA01232
+                Ferndale, WA 98248           DOH #: 174
+                (360) 733-1205               Scope Expires:08/20/2027
+
+ Metals
+                Aluminum                          EPA 200.8_5.4_1994
+                Antimony                          EPA 200.8_5.4_1994
+                Arsenic                           EPA 200.8_5.4_1994
+                Barium                            EPA 200.8_5.4_1994
+                Beryllium                         EPA 200.8_5.4_1994
+                Boron                             EPA 200.8_5.4_1994
+                Cadmium                           EPA 200.8_5.4_1994
+                Chromium                          EPA 200.8_5.4_1994
+                Copper                            EPA 200.8_5.4_1994
+                Lead                              EPA 200.8_5.4_1994
+                Manganese                         EPA 200.8_5.4_1994
+                Mercury                           EPA 200.8_5.4_1994
+                Molybdenum                        EPA 200.8_5.4_1994
+                Nickel                            EPA 200.8_5.4_1994
+                Selenium                          EPA 200.8_5.4_1994
+                Silver                            EPA 200.8_5.4_1994
+                Thallium                          EPA 200.8_5.4_1994
+                Vanadium                          EPA 200.8_5.4_1994
+                Zinc                              EPA 200.8_5.4_1994
+ Microbiology
+                E.coli-count                      SM 9223 B Colilert 18® QTray®
+                Fecal coliform-count              SM 9222 D (mFC)-06
+                Total coli/E.coli - detect        SM 9223 B Colilert 18® (PA)
+                Total coliforms-count             SM 9223 B Colilert 18® QTray®
+
+
+ County: Whatcom
+ Lynden Water Treatment Plant Laboratory
+                524 Riverview Rd             EPA Lab ID: WA10290
+                Lynden, WA 98229             DOH #: 239
+                360-815-0143 JL              Scope Expires:05/02/2027
+
+ General Chemistry
+                Turbidity                         SM 2130 B-2011
+ Microbiology
+                Total coli/E.coli - detect        SM 9223 B Colilert 24 Qtray
+
+
+
+
+Information current as of 11/09/2026                      Page 43 of 46
+ County: Yakima
+ Ag Health Laboratories, Inc.
+                609 Franklin Ave             EPA Lab ID: WA01192
+                Sunnyside, WA 98944          DOH #: 154
+                (509) 836-2020               Scope Expires:09/29/2027
+
+ General Chemistry
+                Nitrate as N                      HACH 10206
+ Microbiology
+                E.coli-count                      SM 9223 B Colilert 24 Qtray
+                Total coli/E.coli - detect        SM 9223 B Colilert® 24 (PA)
+                Total coliforms-count             SM 9223 B Colilert 24 Qtray
+
+
+ County: Yakima
+ Anatek Labs, Inc. - Yakima
+                4802 Tieton Drive            EPA Lab ID: WA01292
+                Yakima, WA 98908             DOH #:
+                509-225-9404                 Scope Expires:05/19/2027
+
+ General Chemistry
+                Alkalinity                        SM 2320 B-2011
+                Nitrate as N                      HACH 10206
+                Nitrite                           SM 4500-NO2¯ B-2011
+                Orthophosphate                    EPA 365.1_2_1993
+                pH                                SM 4500-H+ B-2011
+                Solids, Total Dissolved           SM 2540 C-2015
+                Specific Conductance              SM 2510 B-2011
+                Turbidity                         EPA 180.1_2_1993
+ Microbiology
+                E.coli-count                      SM 9223 B Colilert 18® QTray®
+                Fecal coliform-count              SM 9221 E1 (EC)
+                Heterotrophic Bacteria            SM 9215 B (PCA)
+                Total coli/E.coli - detect        SM 9223 B Colilert 18® (PA)
+                Total coliforms-count             SM 9222 B (Endo)
+ Physical
+                Color                             SM 2120 B-2011
+
+
+
+
+Information current as of 11/09/2026                      Page 44 of 46
+ County: Yakima
+ LabTest
+               201 East D Street         EPA Lab ID: WA01283
+               Yakima, WA 98908          DOH #: 230
+               (509) 469-8378            Scope Expires:07/13/2027
+
+ General Chemistry
+               Chloride                       SM 4500-Cl¯ E-2011
+               Color                          SM 2120 B-2011
+               Cyanide, Total                 EPA 335.4_1_1993
+               Fluoride                       SM 4500-F¯ C-97
+               Hardness (calc.)               SM 2340 B-2011
+               Nitrate + Nitrite as N         EPA 353.2_2_1993
+               Nitrate as N                   EPA 353.2_2_1993
+               Nitrite as N                   EPA 353.2_2_1993
+               pH                             EPA 150.1_1982
+               Solids, Total Dissolved        SM 2540 C-2015
+               Specific Conductance           SM 2510 B-2011
+               Sulfate                        ASTM D516-16
+               Turbidity                      EPA 180.1_2_1993
+ Metals
+               Aluminum                       EPA 200.8_5.4_1994
+               Antimony                       SM 3113 B-2010
+               Arsenic                        SM 3113 B-2010
+               Barium                         SM 3113 B-2010
+               Beryllium                      SM 3113 B-2010
+               Cadmium                        SM 3113 B-2010
+               Calcium                        SM 3111 B-2011
+               Chromium                       SM 3113 B-2010
+               Copper                         SM 3113 B-2010
+               Iron                           SM 3111 B-2011
+               Lead                           SM 3113 B-2010
+               Magnesium                      SM 3111 B-2011
+               Manganese                      SM 3113 B-2010
+               Mercury                        EPA 200.8_5.4_1994
+               Molybdenum                     EPA 200.8_5.4_1994
+               Nickel                         SM 3113 B-2010
+               Selenium                       SM 3113 B-2010
+               Silver                         SM 3113 B-2010
+               Sodium                         SM 3111 B-2011
+               Thallium                       EPA 200.8_5.4_1994
+               Zinc                           SM 3111 B-2011
+
+
+
+
+Information current as of 11/09/2026                 Page 45 of 46
+ County: Yakima
+ LabTest
+                201 East D Street            EPA Lab ID: WA01283
+                Yakima, WA 98908             DOH #: 230
+                (509) 469-8378               Scope Expires:07/13/2027
+
+ Microbiology
+                E.coli-count                      SM 9223 B Colilert 24 Qtray
+                Fecal coliform-count              SM 9222 D (mFC)
+                Heterotrophic Bacteria            SM 9215 E SimPlate®
+                Total coli/E.coli - detect        SM 9223 B Colilert® 24 (PA)
+                Total coliforms-count             SM 9223 B Colilert 24 Qtray
+
+
+
+
+Information current as of 11/09/2026                      Page 46 of 46
+

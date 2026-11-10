@@ -1,0 +1,29 @@
+Washington Well Labs Index — source fetch note
+Retrieve date: 10 November 2026 (US/Pacific)
+
+Primary lab roster:
+  Ecology Lab Accreditation Program, "Environmental Laboratories Accredited for Drinking Water Analyses — Sorted by County and City"
+  https://apps.ecology.wa.gov/laboratorysearch/appfiles/DWLabs_WAByCounty.pdf — HTTP 200, 46 pages, footer "Information current as of 11/09/2026"
+  (PDF CreationDate 2026-11-10 02:40 UTC = 9 Nov 2026 6:40 PM PT) -> wa-ecology-dw-labs-by-county-2026-11-09.pdf (+ pdftotext -layout .txt)
+  Linked from https://apps.ecology.wa.gov/laboratorysearch/ ("Drinking Water By County") and Ecology "Testing drinking water" page.
+  Cross-check: DWLabsScopesInternet.pdf (125 pages, current as of 11/09/2026): 91 distinct EPA Lab IDs, 47 with ", WA " address = same 47 as county PDF.
+  Parsing: one row per EPA Lab ID (Water Management Laboratories spans 8 pages, merged). Two names wrap to 2 lines and were joined
+    (RJ Lee Group, Inc. Columbia Basin Analytical Laboratories; Eurofins DW and WW West, Washington Laboratory).
+  Coliform column = analyte "Total coli/E.coli - detect" or "Total coliforms-count". Nitrate column = "Nitrate", "Nitrate as N", or "Nitrate + Nitrite (as N)".
+  Counts: 47 labs; 36 coliform; 29 nitrate; 23 both; 5 neither (metals labs).
+  Anatek Labs, Inc - Wenatchee: county blank in PDF -> "not printed"; DOH # blank for 4 labs -> "not printed" (JSON).
+  Phone suffixes printed after number and dropped: WA00014 "NC", WA01163 "TW", WA00117 "(Ed)", WA10290 "JL".
+  Private-well acceptance / per-lab prices: not published -> unknown, call first.
+
+Private-well path (official):
+  DOH Nitrate and Coliform Testing Labs 331-798 (3/27/2026) https://doh.wa.gov/sites/default/files/2026-03/331-798.pdf — HTTP 200;
+    41 rows; 39 matched to Ecology EPA IDs by name/address; Mukang Labs, Inc (Pasco) and Eurofins Edge Analytical – Bellingham are not on the
+    11/09/2026 Ecology DW list -> omitted. Address differs from Ecology for AmTest (DOH Kirkland), IEH (DOH 3927 Aurora Ave N), Thurston County (DOH 2000 Lakeridge Dr SW) -> Ecology address used.
+    DOH price range: $21-$55 per nitrate/coliform test depending on lab.
+  DOH Testing Your Water https://doh.wa.gov/community-and-environment/drinking-water/contaminants/testing-your-water — HTTP 200
+    (annual coliform + nitrate; retest 6 months if nitrate >= 5 mg/L; arsenic twice; Lower Yakima Valley / Western Benton free testing form https://fortress.wa.gov/doh/opinio/s?s=WellSampling — HTTP 200)
+  DOH 331-349 Private Wells: Information for Owners — HTTP 200 (coliform present / nitrate > 10 mg/L -> contact local health dept)
+  Ecology Testing drinking water https://ecology.wa.gov/water-shorelines/water-supply/wells/testing-drinking-water — HTTP 200
+
+Not used: NY ELAP search (requires reCAPTCHA token; POST returned server error) — NY not attempted further.
+Money: SKIP (no affiliate links).

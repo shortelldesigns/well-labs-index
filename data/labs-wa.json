@@ -1,0 +1,1245 @@
+{
+ "source": "Washington State Department of Ecology, Lab Accreditation Program — Environmental Laboratories Accredited for Drinking Water Analyses, Sorted by County and City",
+ "url": "https://apps.ecology.wa.gov/laboratorysearch/appfiles/DWLabs_WAByCounty.pdf",
+ "cross_check": "https://apps.ecology.wa.gov/laboratorysearch/appfiles/DWLabsScopesInternet.pdf (all DW labs incl. out of state; same 47 WA-address labs)",
+ "program_page": "https://apps.ecology.wa.gov/laboratorysearch/",
+ "source_revision": "Information current as of 11/09/2026 (both PDFs; PDF created 2026-11-10 02:40 UTC = 9 Nov 2026 6:40 PM PT)",
+ "retrieved": "2026-11-10",
+ "scope": "All 47 Washington-address laboratories in Ecology's drinking-water accreditation list by county (commercial, local health department, utility and industrial labs as printed). Out-of-state labs omitted. Private-well acceptance and prices per lab unknown — call first.",
+ "counts": {
+  "labs": 47,
+  "coliform": 36,
+  "nitrate": 29,
+  "coliform_and_nitrate": 23,
+  "on_doh_331_798": 39
+ },
+ "omitted": {
+  "out_of_state_count": 44,
+  "note": "Ecology's all-DW scopes PDF lists 91 labs; 44 have non-WA addresses and are not tabulated.",
+  "doh_331_798_not_in_current_ecology_dw_list": [
+   "Mukang Labs, Inc (Pasco, Franklin County)",
+   "Eurofins Edge Analytical – Bellingham (Whatcom County)"
+  ]
+ },
+ "phone_suffixes_dropped": {
+  "WA00014": "NC",
+  "WA01163": "TW",
+  "WA00117": "(Ed)",
+  "WA10290": "JL"
+ },
+ "private_well_path": {
+  "agency": "Washington State Department of Health — Testing Your Water; Nitrate and Coliform Testing Labs 331-798",
+  "url": "https://doh.wa.gov/community-and-environment/drinking-water/contaminants/testing-your-water",
+  "lab_list_url": "https://doh.wa.gov/sites/default/files/2026-03/331-798.pdf",
+  "lab_list_date": "2026-03-27",
+  "doh_price_range": "$21-$55 per nitrate or coliform test depending on the lab (331-798, 3/27/2026)",
+  "free_testing": "Lower Yakima Valley / Western Benton County boundary: may qualify for free nitrate and coliform testing via https://fortress.wa.gov/doh/opinio/s?s=WellSampling",
+  "retrieved": "2026-11-10"
+ },
+ "labs": [
+  {
+   "name": "Anatek Labs, Inc - Wenatchee",
+   "address": "3019 GS Center Road, Wenatchee, WA 98801",
+   "city": "Wenatchee",
+   "county": "not printed",
+   "ecology_epa_lab_id": "WA01293",
+   "doh_lab_number": "not printed",
+   "phone": "(509) 701-8362",
+   "scope_expires": "05/06/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": false,
+   "doh_331_798_tests": null,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "AV Labs, Inc",
+   "address": "64 North Broadway Ave, Othello, WA 99344",
+   "city": "Othello",
+   "county": "Adams",
+   "ecology_epa_lab_id": "WA01182",
+   "doh_lab_number": "146",
+   "phone": "(509) 488-2468",
+   "scope_expires": "01/31/2027",
+   "dw_categories": [
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": false,
+   "doh_331_798_tests": null,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Benton-Franklin Health District Lab",
+   "address": "7102 W Okanogan Place, Kennewick, WA 99336",
+   "city": "Kennewick",
+   "county": "Benton",
+   "ecology_epa_lab_id": "WA00014",
+   "doh_lab_number": "062",
+   "phone": "(509) 460-4206",
+   "scope_expires": "08/23/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Immunoassay",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Energy Northwest Environmental Services Lab",
+   "address": "350 Hills Street, Suite 107, Richland, WA 99354",
+   "city": "Richland",
+   "county": "Benton",
+   "ecology_epa_lab_id": "WA01210",
+   "doh_lab_number": "168",
+   "phone": "(509) 377-8058",
+   "scope_expires": "04/11/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Metals"
+   ],
+   "coliform": false,
+   "coliform_analytes": [],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate",
+    "Nitrate + Nitrite"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Energy NW Environmental (PPL) Lab",
+   "address": "76 N Power Plant Loop, Richland, WA 99352-0968",
+   "city": "Richland",
+   "county": "Benton",
+   "ecology_epa_lab_id": "WA01163",
+   "doh_lab_number": "027",
+   "phone": "(509) 372-5429",
+   "scope_expires": "08/07/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Clallam County Environmental Laboratory",
+   "address": "223 East Fourth Street, Port Angeles, WA 98362-3015",
+   "city": "Port Angeles",
+   "county": "Clallam",
+   "ecology_epa_lab_id": "WA00126",
+   "doh_lab_number": "092",
+   "phone": "(360) 417-2334",
+   "scope_expires": "04/30/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "BSK Associates - Vancouver",
+   "address": "2517 E Evergreen Blvd, Vancouver, WA 98661",
+   "city": "Vancouver",
+   "county": "Clark",
+   "ecology_epa_lab_id": "WA12806",
+   "doh_lab_number": "144",
+   "phone": "(360) 750-0055",
+   "scope_expires": "09/12/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate + Nitrite as N",
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "ALS Environmental - Kelso",
+   "address": "1317 S 13th Ave, Kelso, WA 98626",
+   "city": "Kelso",
+   "county": "Cowlitz",
+   "ecology_epa_lab_id": "WA01276",
+   "doh_lab_number": "017",
+   "phone": "(360) 577-7222",
+   "scope_expires": "07/08/2027",
+   "dw_categories": [
+    "Chromatography",
+    "General Chemistry",
+    "Mass Spectrometry",
+    "Metals",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate + Nitrite as N",
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Matrix Sciences International Inc. dba KTL",
+   "address": "1320 E Spokane Street, Pasco, WA 99301",
+   "city": "Pasco",
+   "county": "Franklin",
+   "ecology_epa_lab_id": "WA00060",
+   "doh_lab_number": "109",
+   "phone": "(509) 547-3838",
+   "scope_expires": "09/02/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Metals"
+   ],
+   "coliform": false,
+   "coliform_analytes": [],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate + Nitrite as N",
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "RJ Lee Group, Inc. Columbia Basin Analytical Laboratories",
+   "address": "2710 North 20th Avenue, Pasco, WA 99301",
+   "city": "Pasco",
+   "county": "Franklin",
+   "ecology_epa_lab_id": "WA01195",
+   "doh_lab_number": "259",
+   "phone": "(509) 792-1951",
+   "scope_expires": "07/13/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Metals"
+   ],
+   "coliform": false,
+   "coliform_analytes": [],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Soiltest Farm Consultants, Inc. Laboratory",
+   "address": "2925 Driggs Drive, Moses Lake, WA 98837",
+   "city": "Moses Lake",
+   "county": "Grant",
+   "ecology_epa_lab_id": "WA00064",
+   "doh_lab_number": "116",
+   "phone": "(509) 765-1622",
+   "scope_expires": "09/07/2027",
+   "dw_categories": [
+    "General Chemistry"
+   ],
+   "coliform": false,
+   "coliform_analytes": [],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Grays Harbor County Water Testing Lab",
+   "address": "310 West Spruce Street, Montesano, WA 98563-2614",
+   "city": "Montesano",
+   "county": "Grays Harbor",
+   "ecology_epa_lab_id": "WA00118",
+   "doh_lab_number": "070",
+   "phone": "(360) 249-4413",
+   "scope_expires": "02/01/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Alliance Technical Group, LLC-Seattle",
+   "address": "3600 Fremont Ave N, Seattle, WA 98103",
+   "city": "Seattle",
+   "county": "King",
+   "ecology_epa_lab_id": "WA01224",
+   "doh_lab_number": "187",
+   "phone": "(206) 352-3790",
+   "scope_expires": "07/08/2027",
+   "dw_categories": [
+    "Metals",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coliforms-count"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "AmTest Laboratories",
+   "address": "1131 SW 7th Street, Renton, WA 98057",
+   "city": "Renton",
+   "county": "King",
+   "ecology_epa_lab_id": "WA00012",
+   "doh_lab_number": "066",
+   "phone": "(425) 885-1664",
+   "scope_expires": "07/25/2027",
+   "dw_categories": [
+    "Chromatography",
+    "General Chemistry",
+    "Mass Spectrometry",
+    "Metals",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate + Nitrite as N",
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown",
+   "doh_331_798_address": "13600 NE 126th Place, Suite C, Kirkland, WA 98034"
+  },
+  {
+   "name": "Analytical Resources, LLC",
+   "address": "4611 S 134th Place, Tukwila, WA 98168-3240",
+   "city": "Tukwila",
+   "county": "King",
+   "ecology_epa_lab_id": "WA00037",
+   "doh_lab_number": "055",
+   "phone": "(206) 695-6200",
+   "scope_expires": "06/30/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Metals"
+   ],
+   "coliform": false,
+   "coliform_analytes": [],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Aqua Test, Incorporated",
+   "address": "28620 Maple Valley Road SE, Maple Valley, WA 98038",
+   "city": "Maple Valley",
+   "county": "King",
+   "ecology_epa_lab_id": "WA00149",
+   "doh_lab_number": "162",
+   "phone": "(425) 432-9360",
+   "scope_expires": "11/05/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Brooks Applied Labs, LLC",
+   "address": "13751 Lake City Way NE, Seattle, WA 98125",
+   "city": "Seattle",
+   "county": "King",
+   "ecology_epa_lab_id": "WA01212",
+   "doh_lab_number": "not printed",
+   "phone": "(206) 753-6119",
+   "scope_expires": "05/15/2027",
+   "dw_categories": [
+    "Metals"
+   ],
+   "coliform": false,
+   "coliform_analytes": [],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": false,
+   "doh_331_798_tests": null,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Eurofins EPK Built Environment Testing, LLC",
+   "address": "7619 6th Avenue NW, Seattle, WA 98117",
+   "city": "Seattle",
+   "county": "King",
+   "ecology_epa_lab_id": "WA00255",
+   "doh_lab_number": "119",
+   "phone": "(206) 781-0155",
+   "scope_expires": "04/30/2027",
+   "dw_categories": [
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Friedman & Bruya, Inc.",
+   "address": "5500 4th AVE S, Seattle, WA 98108",
+   "city": "Seattle",
+   "county": "King",
+   "ecology_epa_lab_id": "WA00112",
+   "doh_lab_number": "191",
+   "phone": "(800) 487-8231",
+   "scope_expires": "01/09/2027",
+   "dw_categories": [
+    "Metals"
+   ],
+   "coliform": false,
+   "coliform_analytes": [],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": false,
+   "doh_331_798_tests": null,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "IEH Analytical Laboratories",
+   "address": "13751 Lake City Way NE, Seattle, WA 98125",
+   "city": "Seattle",
+   "county": "King",
+   "ecology_epa_lab_id": "WA00040",
+   "doh_lab_number": "016",
+   "phone": "(206) 632-2715",
+   "scope_expires": "06/17/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Mass Spectrometry",
+    "Metals"
+   ],
+   "coliform": false,
+   "coliform_analytes": [],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown",
+   "doh_331_798_address": "3927 Aurora Ave N, Seattle, WA 98103"
+  },
+  {
+   "name": "MCL Food Testing",
+   "address": "711 6th Ave N, Seattle, WA 98109",
+   "city": "Seattle",
+   "county": "King",
+   "ecology_epa_lab_id": "WA10270",
+   "doh_lab_number": "237",
+   "phone": "(206) 633-3637",
+   "scope_expires": "04/25/2027",
+   "dw_categories": [
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "NVL Laboratories, Inc",
+   "address": "4708 Aurora Ave N, Seattle, WA 98103",
+   "city": "Seattle",
+   "county": "King",
+   "ecology_epa_lab_id": "WA01173",
+   "doh_lab_number": "155",
+   "phone": "(206) 547-0100",
+   "scope_expires": "07/17/2027",
+   "dw_categories": [
+    "Metals"
+   ],
+   "coliform": false,
+   "coliform_analytes": [],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": false,
+   "doh_331_798_tests": null,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "OnSite Environmental, Inc.",
+   "address": "14648 NE 95th Street, Redmond, WA 98052",
+   "city": "Redmond",
+   "county": "King",
+   "ecology_epa_lab_id": "WA00211",
+   "doh_lab_number": "178",
+   "phone": "(425) 883-3881",
+   "scope_expires": "07/26/2027",
+   "dw_categories": [
+    "Metals"
+   ],
+   "coliform": false,
+   "coliform_analytes": [],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": false,
+   "doh_331_798_tests": null,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Seattle-King Co Dept of Public Health Lab",
+   "address": "325 Ninth Ave, Seattle, WA 98104",
+   "city": "Seattle",
+   "county": "King",
+   "ecology_epa_lab_id": "WA00128",
+   "doh_lab_number": "075",
+   "phone": "(206) 744-8950",
+   "scope_expires": "07/31/2027",
+   "dw_categories": [
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Spectra Laboratories - Kitsap, LLC",
+   "address": "26276 Twelve Trees Lane, Poulsbo, WA 98370",
+   "city": "Poulsbo",
+   "county": "Kitsap",
+   "ecology_epa_lab_id": "WA00182",
+   "doh_lab_number": "010",
+   "phone": "(360) 779-5141",
+   "scope_expires": "09/27/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate + Nitrite as N",
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Klickitat County Goldendale Lab",
+   "address": "115 W. Court, Goldendale, WA 98620",
+   "city": "Goldendale",
+   "county": "Klickitat",
+   "ecology_epa_lab_id": "WA01218",
+   "doh_lab_number": "172",
+   "phone": "(509) 493-6211",
+   "scope_expires": "07/09/2027",
+   "dw_categories": [
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Klickitat County White Salmon Lab",
+   "address": "501 NE Washington, White Salmon, WA 98672",
+   "city": "White Salmon",
+   "county": "Klickitat",
+   "ecology_epa_lab_id": "WA01219",
+   "doh_lab_number": "173",
+   "phone": "(509) 493-6211",
+   "scope_expires": "07/09/2027",
+   "dw_categories": [
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Lewis County Environmental Health Laboratory",
+   "address": "360 NW North St., Chehalis, WA 98532",
+   "city": "Chehalis",
+   "county": "Lewis",
+   "ecology_epa_lab_id": "WA00125",
+   "doh_lab_number": "091",
+   "phone": "(360) 740-1237",
+   "scope_expires": "01/01/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Lincoln County Environmental Health Lab",
+   "address": "90 Nicholls, Davenport, WA 99122",
+   "city": "Davenport",
+   "county": "Lincoln",
+   "ecology_epa_lab_id": "WA00117",
+   "doh_lab_number": "072",
+   "phone": "(509) 215-1034",
+   "scope_expires": "08/31/2027",
+   "dw_categories": [
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Okanogan County Public Health Laboratory",
+   "address": "1234 South Second, Okanogan, WA 98840-0231",
+   "city": "Okanogan",
+   "county": "Okanogan",
+   "ecology_epa_lab_id": "WA00133",
+   "doh_lab_number": "093",
+   "phone": "(509) 422-7140",
+   "scope_expires": "06/30/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Pacific County DCD WQ Laboratory",
+   "address": "1216 W. Robert Bush Dr., South Bend, WA 98586",
+   "city": "South Bend",
+   "county": "Pacific",
+   "ecology_epa_lab_id": "WA00131",
+   "doh_lab_number": "137",
+   "phone": "(360) 875-9356",
+   "scope_expires": "07/28/2027",
+   "dw_categories": [
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Water Management Laboratories, Inc.",
+   "address": "1515 80th St E, Tacoma, WA 98404-3315",
+   "city": "Tacoma",
+   "county": "Pierce",
+   "ecology_epa_lab_id": "WA00005",
+   "doh_lab_number": "089",
+   "phone": "(253) 531-3121",
+   "scope_expires": "01/31/2027",
+   "dw_categories": [
+    "Chromatography",
+    "General Chemistry",
+    "Mass Spectrometry",
+    "Metals",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate + Nitrite as N",
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Eurofins DW and WW West, Washington Laboratory",
+   "address": "1620 S Walnut Street, Burlington, WA 98233",
+   "city": "Burlington",
+   "county": "Skagit",
+   "ecology_epa_lab_id": "WA00097",
+   "doh_lab_number": "046",
+   "phone": "(360) 757-1400",
+   "scope_expires": "01/18/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate + Nitrite as N",
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Everett Environmental Laboratory",
+   "address": "4027 4th Street SE, Everett, WA 98205",
+   "city": "Everett",
+   "county": "Snohomish",
+   "ecology_epa_lab_id": "WA00160",
+   "doh_lab_number": "110",
+   "phone": "(425) 257-8230",
+   "scope_expires": "04/21/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Metals",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate + Nitrite as N",
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Freshwater Analytical Labs, LLC",
+   "address": "7301 197th PL NE, Arlington, WA 98223",
+   "city": "Arlington",
+   "county": "Snohomish",
+   "ecology_epa_lab_id": "WA11116",
+   "doh_lab_number": "not printed",
+   "phone": "(360) 913-7542",
+   "scope_expires": "09/22/2027",
+   "dw_categories": [
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": false,
+   "doh_331_798_tests": null,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Precision Analytical Laboratories, LLC",
+   "address": "3430 16th Street, Everett, WA 98201",
+   "city": "Everett",
+   "county": "Snohomish",
+   "ecology_epa_lab_id": "WA01289",
+   "doh_lab_number": "295",
+   "phone": "(425) 740-4597",
+   "scope_expires": "09/25/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Metals"
+   ],
+   "coliform": false,
+   "coliform_analytes": [],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": false,
+   "doh_331_798_tests": null,
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Anatek Labs, Inc - Spokane",
+   "address": "504 E. Sprague Ave, Spokane, WA 99202",
+   "city": "Spokane",
+   "county": "Spokane",
+   "ecology_epa_lab_id": "WA00169",
+   "doh_lab_number": "112",
+   "phone": "(509) 838-3999",
+   "scope_expires": "11/15/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Mass Spectrometry",
+    "Metals",
+    "Microbiology",
+    "Radiochemistry"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate + Nitrite as N",
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Eurofins Spokane",
+   "address": "11922 E 1st, Spokane Valley, WA 99206-5302",
+   "city": "Spokane Valley",
+   "county": "Spokane",
+   "ecology_epa_lab_id": "WA01220",
+   "doh_lab_number": "111",
+   "phone": "(509) 924-9200",
+   "scope_expires": "01/06/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Tshimakain Creek Laboratories",
+   "address": "5503 E Broadway Ave, Spokane Valley, WA 99212",
+   "city": "Spokane Valley",
+   "county": "Spokane",
+   "ecology_epa_lab_id": "WA01260",
+   "doh_lab_number": "210",
+   "phone": "(509) 928-3577",
+   "scope_expires": "11/21/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Olympic Analytical LLC dba Vanguard Laboratory",
+   "address": "2635 Parkmont Lane SW, Olympia, WA 98502",
+   "city": "Olympia",
+   "county": "Thurston",
+   "ecology_epa_lab_id": "WA11070",
+   "doh_lab_number": "285",
+   "phone": "(360) 967-7010",
+   "scope_expires": "03/28/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Thurston County Health Department Laboratory",
+   "address": "412 Lilly Rd NE, Olympia, WA 98506",
+   "city": "Olympia",
+   "county": "Thurston",
+   "ecology_epa_lab_id": "WA00120",
+   "doh_lab_number": "080",
+   "phone": "(360) 867-2631",
+   "scope_expires": "05/11/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown",
+   "doh_331_798_address": "2000 Lakeridge Drive SW, Olympia, WA 98502"
+  },
+  {
+   "name": "Walla Walla Regional Water Testing Services",
+   "address": "714 South College Avenue, College Place, WA 99324",
+   "city": "College Place",
+   "county": "Walla Walla",
+   "ecology_epa_lab_id": "WA01255",
+   "doh_lab_number": "209",
+   "phone": "(509) 526-9287",
+   "scope_expires": "08/31/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Exact Scientific Services, Inc.",
+   "address": "1355 Pacific Place, Ferndale, WA 98248",
+   "city": "Ferndale",
+   "county": "Whatcom",
+   "ecology_epa_lab_id": "WA01232",
+   "doh_lab_number": "174",
+   "phone": "(360) 733-1205",
+   "scope_expires": "08/20/2027",
+   "dw_categories": [
+    "Chromatography",
+    "General Chemistry",
+    "Mass Spectrometry",
+    "Metals",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate + Nitrite as N",
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Lynden Water Treatment Plant Laboratory",
+   "address": "524 Riverview Rd, Lynden, WA 98229",
+   "city": "Lynden",
+   "county": "Whatcom",
+   "ecology_epa_lab_id": "WA10290",
+   "doh_lab_number": "239",
+   "phone": "(360) 815-0143",
+   "scope_expires": "05/02/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect"
+   ],
+   "nitrate": false,
+   "nitrate_analytes": [],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Ag Health Laboratories, Inc.",
+   "address": "609 Franklin Ave, Sunnyside, WA 98944",
+   "city": "Sunnyside",
+   "county": "Yakima",
+   "ecology_epa_lab_id": "WA01192",
+   "doh_lab_number": "154",
+   "phone": "(509) 836-2020",
+   "scope_expires": "09/29/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "Anatek Labs, Inc. - Yakima",
+   "address": "4802 Tieton Drive, Yakima, WA 98908",
+   "city": "Yakima",
+   "county": "Yakima",
+   "ecology_epa_lab_id": "WA01292",
+   "doh_lab_number": "not printed",
+   "phone": "(509) 225-9404",
+   "scope_expires": "05/19/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Microbiology",
+    "Physical"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  },
+  {
+   "name": "LabTest",
+   "address": "201 East D Street, Yakima, WA 98908",
+   "city": "Yakima",
+   "county": "Yakima",
+   "ecology_epa_lab_id": "WA01283",
+   "doh_lab_number": "230",
+   "phone": "(509) 469-8378",
+   "scope_expires": "07/13/2027",
+   "dw_categories": [
+    "General Chemistry",
+    "Metals",
+    "Microbiology"
+   ],
+   "coliform": true,
+   "coliform_analytes": [
+    "Total coli/E.coli - detect",
+    "Total coliforms-count"
+   ],
+   "nitrate": true,
+   "nitrate_analytes": [
+    "Nitrate + Nitrite as N",
+    "Nitrate as N"
+   ],
+   "on_doh_331_798": true,
+   "doh_331_798_tests": "Nitrate and Coliform",
+   "private_well_acceptance": "unknown",
+   "prices": "unknown"
+  }
+ ]
+}
